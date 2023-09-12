@@ -1,0 +1,770 @@
+17:57:25.891: Using EGL/X11
+17:57:25.891: CPU Name: Intel(R) Xeon(R) CPU E5-2687W 0 @ 3.10GHz
+17:57:25.892: CPU Speed: 1824.015MHz
+17:57:25.892: Physical Cores: 8, Logical Cores: 16
+17:57:25.892: Physical Memory: 15922MB Total, 11606MB Free
+17:57:25.892: Kernel Version: Linux 6.5.2-arch1-1
+17:57:25.892: Distribution: "Arch Linux" Unknown
+17:57:25.892: Desktop Environment: XFCE
+17:57:25.892: Session Type: tty
+17:57:25.892: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:57:25.896: Qt Version: 6.5.2 (runtime), 6.5.1 (compiled)
+17:57:25.896: Portable mode: false
+17:57:25.981: OBS 29.1.3-1 (linux)
+17:57:25.981: ---------------------------------
+17:57:25.982: ---------------------------------
+17:57:25.982: audio settings reset:
+17:57:25.982: 	samples per sec: 48000
+17:57:25.982: 	speakers:        2
+17:57:25.982: 	max buffering:   960 milliseconds
+17:57:25.982: 	buffering type:  dynamically increasing
+17:57:25.987: ---------------------------------
+17:57:25.987: Initializing OpenGL...
+17:57:26.033: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1070/PCIe/SSE2
+17:57:26.033: OpenGL loaded successfully, version 3.3.0 NVIDIA 535.104.05, shading language 3.30 NVIDIA via Cg compiler
+17:57:26.243: ---------------------------------
+17:57:26.243: video settings reset:
+17:57:26.243: 	base resolution:   1920x1080
+17:57:26.243: 	output resolution: 1920x1080
+17:57:26.243: 	downscale filter:  Bicubic
+17:57:26.243: 	fps:               60/1
+17:57:26.243: 	format:            NV12
+17:57:26.243: 	YUV mode:          Rec. 709/Partial
+17:57:26.243: NV12 texture support not available
+17:57:26.243: P010 texture support not available
+17:57:26.257: Audio monitoring device:
+17:57:26.257: 	name: Default
+17:57:26.257: 	id: default
+17:57:26.257: ---------------------------------
+17:57:26.268: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:57:26.278: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:57:26.288: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:57:26.288: Failed to initialize module 'decklink.so'
+17:57:26.504: [pipewire] No captures available
+17:57:26.532: v4l2loopback not installed, virtual camera disabled
+17:57:26.588: NVENC supported
+17:57:26.588: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+17:57:26.729: VAAPI: API version 1.19
+17:57:26.757: FFmpeg VAAPI H264 encoding supported
+17:57:26.885: FFmpeg VAAPI HEVC encoding supported
+17:57:26.981: ---------------------------------
+17:57:26.981:   Loaded Modules:
+17:57:26.981:     text-freetype2.so
+17:57:26.981:     rtmp-services.so
+17:57:26.981:     obs-x264.so
+17:57:26.981:     obs-vst.so
+17:57:26.981:     obs-transitions.so
+17:57:26.981:     obs-outputs.so
+17:57:26.981:     obs-libfdk.so
+17:57:26.981:     obs-filters.so
+17:57:26.981:     obs-ffmpeg.so
+17:57:26.981:     linux-v4l2.so
+17:57:26.981:     linux-pulseaudio.so
+17:57:26.981:     linux-pipewire.so
+17:57:26.981:     linux-jack.so
+17:57:26.981:     linux-capture.so
+17:57:26.981:     linux-alsa.so
+17:57:26.981:     image-source.so
+17:57:26.981:     frontend-tools.so
+17:57:26.981:     decklink-output-ui.so
+17:57:26.981:     decklink-captions.so
+17:57:26.981: ---------------------------------
+17:57:26.982: ==== Startup complete ===============================================
+17:57:27.028: All scene data cleared
+17:57:27.028: ------------------------------------------------
+17:57:27.035: pulse-input: Server name: 'pulseaudio 16.1'
+17:57:27.035: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+17:57:27.035: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor' (default)
+17:57:27.035: [Loaded global audio device]: 'Desktop Audio'
+17:57:27.036: xshm-input: Geometry 1920x1080 @ 0,0
+17:57:27.038: Switched to scene 'Scene'
+17:57:27.038: ------------------------------------------------
+17:57:27.038: Loaded scenes:
+17:57:27.038: - scene 'Scene':
+17:57:27.038:     - source: 'Screen Capture (XSHM)' (xshm_input)
+17:57:27.038: ------------------------------------------------
+17:57:27.604: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+17:57:27.604: 
+18:05:01.137: ---------------------------------
+18:05:01.138: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+18:05:01.138: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+18:05:01.138: 	rate_control: CQP
+18:05:01.138: 	bitrate:      0
+18:05:01.138: 	cqp:          23
+18:05:01.138: 	keyint:       250
+18:05:01.138: 	preset:       p5
+18:05:01.138: 	tuning:       hq
+18:05:01.138: 	multipass:    qres
+18:05:01.138: 	profile:      high
+18:05:01.138: 	width:        1920
+18:05:01.138: 	height:       1080
+18:05:01.138: 	b-frames:     2
+18:05:01.138: 	psycho-aq:    1
+18:05:01.138: 	GPU:          0
+18:05:01.138: 
+18:05:01.314: libfdk_aac encoder created
+18:05:01.314: libfdk_aac bitrate: 192, channels: 2
+18:05:01.316: ==== Recording Start ===============================================
+18:05:01.316: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 18-05-01.mp4'...
+18:06:01.490: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 18-05-01.mp4' stopped
+18:06:01.490: Output 'simple_file_output': stopping
+18:06:01.490: Output 'simple_file_output': Total frames output: 3598
+18:06:01.490: Output 'simple_file_output': Total drawn frames: 3610
+18:06:01.491: ==== Recording Stop ================================================
+18:06:01.567: libfdk_aac encoder destroyed
+18:24:53.185: ---------------------------------
+18:24:53.185: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+18:24:53.185: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+18:24:53.185: 	rate_control: CQP
+18:24:53.185: 	bitrate:      0
+18:24:53.185: 	cqp:          23
+18:24:53.185: 	keyint:       250
+18:24:53.185: 	preset:       p5
+18:24:53.185: 	tuning:       hq
+18:24:53.185: 	multipass:    qres
+18:24:53.185: 	profile:      high
+18:24:53.185: 	width:        1920
+18:24:53.185: 	height:       1080
+18:24:53.185: 	b-frames:     2
+18:24:53.185: 	psycho-aq:    1
+18:24:53.185: 	GPU:          0
+18:24:53.185: 
+18:24:53.357: libfdk_aac encoder created
+18:24:53.357: libfdk_aac bitrate: 192, channels: 2
+18:24:53.359: ==== Recording Start ===============================================
+18:24:53.359: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 18-24-53.mp4'...
+18:24:54.191: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 18-24-53.mp4' stopped
+18:24:54.191: Output 'simple_file_output': stopping
+18:24:54.191: Output 'simple_file_output': Total frames output: 38
+18:24:54.192: Output 'simple_file_output': Total drawn frames: 50
+18:24:54.192: ==== Recording Stop ================================================
+18:24:54.266: libfdk_aac encoder destroyed
+18:25:17.343: pulse-input: Server name: 'pulseaudio 16.1'
+18:25:17.343: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+18:25:17.343: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo' (default)
+18:25:17.350: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+18:25:24.371: ---------------------------------
+18:25:24.371: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+18:25:24.371: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+18:25:24.371: 	rate_control: CQP
+18:25:24.371: 	bitrate:      0
+18:25:24.371: 	cqp:          23
+18:25:24.371: 	keyint:       250
+18:25:24.371: 	preset:       p5
+18:25:24.371: 	tuning:       hq
+18:25:24.371: 	multipass:    qres
+18:25:24.371: 	profile:      high
+18:25:24.371: 	width:        1920
+18:25:24.371: 	height:       1080
+18:25:24.371: 	b-frames:     2
+18:25:24.371: 	psycho-aq:    1
+18:25:24.371: 	GPU:          0
+18:25:24.371: 
+18:25:24.590: libfdk_aac encoder created
+18:25:24.590: libfdk_aac bitrate: 192, channels: 2
+18:25:24.592: ==== Recording Start ===============================================
+18:25:24.592: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 18-25-24.mp4'...
+18:25:28.691: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 18-25-24.mp4' stopped
+18:25:28.692: Output 'simple_file_output': stopping
+18:25:28.692: Output 'simple_file_output': Total frames output: 234
+18:25:28.692: Output 'simple_file_output': Total drawn frames: 246
+18:25:28.692: ==== Recording Stop ================================================
+18:25:28.762: libfdk_aac encoder destroyed
+20:32:47.645: ---------------------------------
+20:32:47.646: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:32:47.646: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:32:47.646: 	rate_control: CQP
+20:32:47.646: 	bitrate:      0
+20:32:47.646: 	cqp:          23
+20:32:47.646: 	keyint:       250
+20:32:47.646: 	preset:       p5
+20:32:47.646: 	tuning:       hq
+20:32:47.646: 	multipass:    qres
+20:32:47.646: 	profile:      high
+20:32:47.646: 	width:        1920
+20:32:47.646: 	height:       1080
+20:32:47.646: 	b-frames:     2
+20:32:47.646: 	psycho-aq:    1
+20:32:47.646: 	GPU:          0
+20:32:47.646: 
+20:32:47.864: libfdk_aac encoder created
+20:32:47.864: libfdk_aac bitrate: 192, channels: 2
+20:32:47.865: ==== Recording Start ===============================================
+20:32:47.865: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 20-32-47.mp4'...
+20:32:59.660: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 20-32-47.mp4' stopped
+20:32:59.660: Output 'simple_file_output': stopping
+20:32:59.660: Output 'simple_file_output': Total frames output: 695
+20:32:59.660: Output 'simple_file_output': Total drawn frames: 706 (708 attempted)
+20:32:59.661: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.3%)
+20:32:59.661: ==== Recording Stop ================================================
+20:32:59.728: libfdk_aac encoder destroyed
+20:50:43.200: ---------------------------------
+20:50:43.200: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:50:43.200: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:50:43.200: 	rate_control: CQP
+20:50:43.200: 	bitrate:      0
+20:50:43.200: 	cqp:          23
+20:50:43.200: 	keyint:       250
+20:50:43.200: 	preset:       p5
+20:50:43.200: 	tuning:       hq
+20:50:43.200: 	multipass:    qres
+20:50:43.200: 	profile:      high
+20:50:43.200: 	width:        1920
+20:50:43.200: 	height:       1080
+20:50:43.200: 	b-frames:     2
+20:50:43.200: 	psycho-aq:    1
+20:50:43.200: 	GPU:          0
+20:50:43.200: 
+20:50:43.424: libfdk_aac encoder created
+20:50:43.424: libfdk_aac bitrate: 192, channels: 2
+20:50:43.425: ==== Recording Start ===============================================
+20:50:43.425: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 20-50-43.mp4'...
+20:50:58.771: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 20-50-43.mp4' stopped
+20:50:58.771: Output 'simple_file_output': stopping
+20:50:58.771: Output 'simple_file_output': Total frames output: 908
+20:50:58.771: Output 'simple_file_output': Total drawn frames: 918 (921 attempted)
+20:50:58.771: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 3 (0.3%)
+20:50:58.771: ==== Recording Stop ================================================
+20:50:58.839: libfdk_aac encoder destroyed
+20:52:37.055: ---------------------------------
+20:52:37.055: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+20:52:37.055: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+20:52:37.055: 	rate_control: CQP
+20:52:37.055: 	bitrate:      0
+20:52:37.055: 	cqp:          23
+20:52:37.055: 	keyint:       250
+20:52:37.055: 	preset:       p5
+20:52:37.055: 	tuning:       hq
+20:52:37.055: 	multipass:    qres
+20:52:37.055: 	profile:      high
+20:52:37.055: 	width:        1920
+20:52:37.055: 	height:       1080
+20:52:37.055: 	b-frames:     2
+20:52:37.055: 	psycho-aq:    1
+20:52:37.055: 	GPU:          0
+20:52:37.055: 
+20:52:37.280: libfdk_aac encoder created
+20:52:37.280: libfdk_aac bitrate: 192, channels: 2
+20:52:37.282: ==== Recording Start ===============================================
+20:52:37.282: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 20-52-37.mp4'...
+20:56:30.338: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 20-52-37.mp4' stopped
+20:56:30.338: Output 'simple_file_output': stopping
+20:56:30.338: Output 'simple_file_output': Total frames output: 13971
+20:56:30.338: Output 'simple_file_output': Total drawn frames: 13983
+20:56:30.338: ==== Recording Stop ================================================
+20:56:30.405: libfdk_aac encoder destroyed
+21:00:56.044: ---------------------------------
+21:00:56.044: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:00:56.044: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:00:56.044: 	rate_control: CQP
+21:00:56.044: 	bitrate:      0
+21:00:56.044: 	cqp:          23
+21:00:56.044: 	keyint:       250
+21:00:56.044: 	preset:       p5
+21:00:56.044: 	tuning:       hq
+21:00:56.044: 	multipass:    qres
+21:00:56.044: 	profile:      high
+21:00:56.044: 	width:        1920
+21:00:56.044: 	height:       1080
+21:00:56.044: 	b-frames:     2
+21:00:56.044: 	psycho-aq:    1
+21:00:56.044: 	GPU:          0
+21:00:56.044: 
+21:00:56.217: libfdk_aac encoder created
+21:00:56.217: libfdk_aac bitrate: 192, channels: 2
+21:00:56.219: ==== Recording Start ===============================================
+21:00:56.219: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-00-56.mp4'...
+21:01:22.469: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-00-56.mp4' stopped
+21:01:22.469: Output 'simple_file_output': stopping
+21:01:22.469: Output 'simple_file_output': Total frames output: 1562
+21:01:22.469: Output 'simple_file_output': Total drawn frames: 1570 (1575 attempted)
+21:01:22.469: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 5 (0.3%)
+21:01:22.470: ==== Recording Stop ================================================
+21:01:22.537: libfdk_aac encoder destroyed
+21:01:57.983: ---------------------------------
+21:01:57.983: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:01:57.983: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:01:57.983: 	rate_control: CQP
+21:01:57.983: 	bitrate:      0
+21:01:57.983: 	cqp:          23
+21:01:57.983: 	keyint:       250
+21:01:57.983: 	preset:       p5
+21:01:57.983: 	tuning:       hq
+21:01:57.983: 	multipass:    qres
+21:01:57.983: 	profile:      high
+21:01:57.983: 	width:        1920
+21:01:57.983: 	height:       1080
+21:01:57.983: 	b-frames:     2
+21:01:57.983: 	psycho-aq:    1
+21:01:57.983: 	GPU:          0
+21:01:57.983: 
+21:01:58.194: libfdk_aac encoder created
+21:01:58.194: libfdk_aac bitrate: 192, channels: 2
+21:01:58.196: ==== Recording Start ===============================================
+21:01:58.196: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-01-57.mp4'...
+21:02:35.663: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-01-57.mp4' stopped
+21:02:35.663: Output 'simple_file_output': stopping
+21:02:35.663: Output 'simple_file_output': Total frames output: 2235
+21:02:35.663: Output 'simple_file_output': Total drawn frames: 2247 (2248 attempted)
+21:02:35.663: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+21:02:35.664: ==== Recording Stop ================================================
+21:02:35.737: libfdk_aac encoder destroyed
+21:03:05.639: ---------------------------------
+21:03:05.639: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:03:05.639: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:03:05.639: 	rate_control: CQP
+21:03:05.639: 	bitrate:      0
+21:03:05.639: 	cqp:          23
+21:03:05.639: 	keyint:       250
+21:03:05.639: 	preset:       p5
+21:03:05.639: 	tuning:       hq
+21:03:05.639: 	multipass:    qres
+21:03:05.639: 	profile:      high
+21:03:05.639: 	width:        1920
+21:03:05.639: 	height:       1080
+21:03:05.639: 	b-frames:     2
+21:03:05.639: 	psycho-aq:    1
+21:03:05.639: 	GPU:          0
+21:03:05.639: 
+21:03:05.861: libfdk_aac encoder created
+21:03:05.861: libfdk_aac bitrate: 192, channels: 2
+21:03:05.862: ==== Recording Start ===============================================
+21:03:05.862: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-03-05.mp4'...
+21:03:34.618: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-03-05.mp4' stopped
+21:03:34.618: Output 'simple_file_output': stopping
+21:03:34.618: Output 'simple_file_output': Total frames output: 1713
+21:03:34.618: Output 'simple_file_output': Total drawn frames: 1724 (1725 attempted)
+21:03:34.618: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.1%)
+21:03:34.619: ==== Recording Stop ================================================
+21:03:34.687: libfdk_aac encoder destroyed
+21:45:09.670: ---------------------------------
+21:45:09.670: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:45:09.670: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:45:09.670: 	rate_control: CQP
+21:45:09.670: 	bitrate:      0
+21:45:09.670: 	cqp:          23
+21:45:09.670: 	keyint:       250
+21:45:09.670: 	preset:       p5
+21:45:09.670: 	tuning:       hq
+21:45:09.670: 	multipass:    qres
+21:45:09.670: 	profile:      high
+21:45:09.670: 	width:        1920
+21:45:09.670: 	height:       1080
+21:45:09.670: 	b-frames:     2
+21:45:09.670: 	psycho-aq:    1
+21:45:09.670: 	GPU:          0
+21:45:09.670: 
+21:45:09.843: libfdk_aac encoder created
+21:45:09.843: libfdk_aac bitrate: 192, channels: 2
+21:45:09.845: ==== Recording Start ===============================================
+21:45:09.845: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-45-09.mp4'...
+21:45:32.965: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-45-09.mp4' stopped
+21:45:32.965: Output 'simple_file_output': stopping
+21:45:32.965: Output 'simple_file_output': Total frames output: 1375
+21:45:32.965: Output 'simple_file_output': Total drawn frames: 1387
+21:45:32.966: ==== Recording Stop ================================================
+21:45:33.053: libfdk_aac encoder destroyed
+21:45:35.415: ---------------------------------
+21:45:35.415: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:45:35.415: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:45:35.415: 	rate_control: CQP
+21:45:35.415: 	bitrate:      0
+21:45:35.415: 	cqp:          23
+21:45:35.415: 	keyint:       250
+21:45:35.415: 	preset:       p5
+21:45:35.415: 	tuning:       hq
+21:45:35.415: 	multipass:    qres
+21:45:35.415: 	profile:      high
+21:45:35.415: 	width:        1920
+21:45:35.415: 	height:       1080
+21:45:35.415: 	b-frames:     2
+21:45:35.415: 	psycho-aq:    1
+21:45:35.415: 	GPU:          0
+21:45:35.415: 
+21:45:35.590: libfdk_aac encoder created
+21:45:35.590: libfdk_aac bitrate: 192, channels: 2
+21:45:35.592: ==== Recording Start ===============================================
+21:45:35.592: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-45-35.mp4'...
+21:47:41.199: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-45-35.mp4' stopped
+21:47:41.199: Output 'simple_file_output': stopping
+21:47:41.199: Output 'simple_file_output': Total frames output: 7525
+21:47:41.199: Output 'simple_file_output': Total drawn frames: 7537
+21:47:41.200: ==== Recording Stop ================================================
+21:47:41.272: libfdk_aac encoder destroyed
+21:47:47.633: ---------------------------------
+21:47:47.634: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:47:47.634: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:47:47.634: 	rate_control: CQP
+21:47:47.634: 	bitrate:      0
+21:47:47.634: 	cqp:          23
+21:47:47.634: 	keyint:       250
+21:47:47.634: 	preset:       p5
+21:47:47.634: 	tuning:       hq
+21:47:47.634: 	multipass:    qres
+21:47:47.634: 	profile:      high
+21:47:47.634: 	width:        1920
+21:47:47.634: 	height:       1080
+21:47:47.634: 	b-frames:     2
+21:47:47.634: 	psycho-aq:    1
+21:47:47.634: 	GPU:          0
+21:47:47.634: 
+21:47:47.851: libfdk_aac encoder created
+21:47:47.851: libfdk_aac bitrate: 192, channels: 2
+21:47:47.853: ==== Recording Start ===============================================
+21:47:47.853: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-47-47.mp4'...
+21:48:24.151: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-47-47.mp4' stopped
+21:48:24.151: Output 'simple_file_output': stopping
+21:48:24.151: Output 'simple_file_output': Total frames output: 2166
+21:48:24.151: Output 'simple_file_output': Total drawn frames: 2177 (2178 attempted)
+21:48:24.151: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+21:48:24.151: ==== Recording Stop ================================================
+21:48:24.220: libfdk_aac encoder destroyed
+21:48:52.129: ---------------------------------
+21:48:52.129: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+21:48:52.129: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+21:48:52.129: 	rate_control: CQP
+21:48:52.129: 	bitrate:      0
+21:48:52.129: 	cqp:          23
+21:48:52.129: 	keyint:       250
+21:48:52.129: 	preset:       p5
+21:48:52.129: 	tuning:       hq
+21:48:52.129: 	multipass:    qres
+21:48:52.129: 	profile:      high
+21:48:52.129: 	width:        1920
+21:48:52.129: 	height:       1080
+21:48:52.129: 	b-frames:     2
+21:48:52.129: 	psycho-aq:    1
+21:48:52.129: 	GPU:          0
+21:48:52.129: 
+21:48:52.357: libfdk_aac encoder created
+21:48:52.357: libfdk_aac bitrate: 192, channels: 2
+21:48:52.359: ==== Recording Start ===============================================
+21:48:52.359: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 21-48-52.mp4'...
+21:49:55.387: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 21-48-52.mp4' stopped
+21:49:55.388: Output 'simple_file_output': stopping
+21:49:55.388: Output 'simple_file_output': Total frames output: 3769
+21:49:55.388: Output 'simple_file_output': Total drawn frames: 3781 (3782 attempted)
+21:49:55.388: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+21:49:55.388: ==== Recording Stop ================================================
+21:49:55.459: libfdk_aac encoder destroyed
+22:07:36.267: ---------------------------------
+22:07:36.269: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:07:36.269: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:07:36.269: 	rate_control: CQP
+22:07:36.269: 	bitrate:      0
+22:07:36.269: 	cqp:          23
+22:07:36.269: 	keyint:       250
+22:07:36.269: 	preset:       p5
+22:07:36.269: 	tuning:       hq
+22:07:36.269: 	multipass:    qres
+22:07:36.269: 	profile:      high
+22:07:36.269: 	width:        1920
+22:07:36.269: 	height:       1080
+22:07:36.269: 	b-frames:     2
+22:07:36.269: 	psycho-aq:    1
+22:07:36.269: 	GPU:          0
+22:07:36.269: 
+22:07:36.476: libfdk_aac encoder created
+22:07:36.476: libfdk_aac bitrate: 192, channels: 2
+22:07:36.480: ==== Recording Start ===============================================
+22:07:36.480: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-07-36.mp4'...
+22:07:42.868: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-07-36.mp4' stopped
+22:07:42.869: Output 'simple_file_output': stopping
+22:07:42.869: Output 'simple_file_output': Total frames output: 371
+22:07:42.869: Output 'simple_file_output': Total drawn frames: 383
+22:07:42.869: ==== Recording Stop ================================================
+22:07:42.959: libfdk_aac encoder destroyed
+22:08:02.481: ---------------------------------
+22:08:02.481: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:08:02.481: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:08:02.481: 	rate_control: CQP
+22:08:02.481: 	bitrate:      0
+22:08:02.481: 	cqp:          23
+22:08:02.481: 	keyint:       250
+22:08:02.481: 	preset:       p5
+22:08:02.481: 	tuning:       hq
+22:08:02.481: 	multipass:    qres
+22:08:02.481: 	profile:      high
+22:08:02.481: 	width:        1920
+22:08:02.481: 	height:       1080
+22:08:02.481: 	b-frames:     2
+22:08:02.481: 	psycho-aq:    1
+22:08:02.481: 	GPU:          0
+22:08:02.481: 
+22:08:02.695: libfdk_aac encoder created
+22:08:02.695: libfdk_aac bitrate: 192, channels: 2
+22:08:02.697: ==== Recording Start ===============================================
+22:08:02.697: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-08-02.mp4'...
+22:08:48.488: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-08-02.mp4' stopped
+22:08:48.488: Output 'simple_file_output': stopping
+22:08:48.488: Output 'simple_file_output': Total frames output: 2735
+22:08:48.488: Output 'simple_file_output': Total drawn frames: 2746 (2747 attempted)
+22:08:48.488: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+22:08:48.488: ==== Recording Stop ================================================
+22:08:48.583: libfdk_aac encoder destroyed
+22:11:54.372: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+22:11:54.387: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+22:11:54.387: pulse-input: Got 1305739 packets with 599629232 frames
+22:12:06.790: ---------------------------------
+22:12:06.790: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:12:06.790: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:12:06.790: 	rate_control: CQP
+22:12:06.790: 	bitrate:      0
+22:12:06.790: 	cqp:          23
+22:12:06.790: 	keyint:       250
+22:12:06.790: 	preset:       p5
+22:12:06.790: 	tuning:       hq
+22:12:06.790: 	multipass:    qres
+22:12:06.790: 	profile:      high
+22:12:06.790: 	width:        1920
+22:12:06.790: 	height:       1080
+22:12:06.790: 	b-frames:     2
+22:12:06.790: 	psycho-aq:    1
+22:12:06.790: 	GPU:          0
+22:12:06.790: 
+22:12:06.983: libfdk_aac encoder created
+22:12:06.983: libfdk_aac bitrate: 192, channels: 2
+22:12:06.985: ==== Recording Start ===============================================
+22:12:06.985: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-12-06.mp4'...
+22:12:09.503: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-12-06.mp4' stopped
+22:12:09.504: Output 'simple_file_output': stopping
+22:12:09.504: Output 'simple_file_output': Total frames output: 139
+22:12:09.504: Output 'simple_file_output': Total drawn frames: 151
+22:12:09.504: ==== Recording Stop ================================================
+22:12:09.586: libfdk_aac encoder destroyed
+22:12:41.226: User Removed source 'Screen Capture (XSHM)' (xshm_input) from scene 'Scene'
+22:12:46.933: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+22:12:46.933: 	title: xfce4-panel
+22:12:46.933: 	class: xfce4-panel
+22:12:46.933: 
+22:12:46.941: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+22:12:46.977: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+22:12:46.977: 	title: #📕-𝑮𝑬𝑵𝑬𝑹𝑨𝑳-📕 | Hacerlo con respeto - Discord
+22:12:46.977: 	class: discord
+22:12:46.977: 
+22:12:46.977: xcb_composite_name_window_pixmap failed
+22:12:51.760: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+22:12:51.760: 	title: Pensamiento Computacional - Presentation — Mozilla Firefox
+22:12:51.760: 	class: Navigator
+22:12:51.760: 
+22:12:54.110: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+22:12:54.110: 	title: Pensamiento Computacional - Presentation — Mozilla Firefox
+22:12:54.110: 	class: Navigator
+22:12:54.110: 
+22:13:09.950: ---------------------------------
+22:13:09.950: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:13:09.950: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:13:09.950: 	rate_control: CQP
+22:13:09.950: 	bitrate:      0
+22:13:09.950: 	cqp:          23
+22:13:09.950: 	keyint:       250
+22:13:09.950: 	preset:       p5
+22:13:09.950: 	tuning:       hq
+22:13:09.950: 	multipass:    qres
+22:13:09.950: 	profile:      high
+22:13:09.950: 	width:        1920
+22:13:09.950: 	height:       1080
+22:13:09.950: 	b-frames:     2
+22:13:09.950: 	psycho-aq:    1
+22:13:09.950: 	GPU:          0
+22:13:09.950: 
+22:13:10.131: libfdk_aac encoder created
+22:13:10.131: libfdk_aac bitrate: 192, channels: 2
+22:13:10.134: ==== Recording Start ===============================================
+22:13:10.134: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-13-09.mp4'...
+22:13:21.499: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-13-09.mp4' stopped
+22:13:21.499: Output 'simple_file_output': stopping
+22:13:21.499: Output 'simple_file_output': Total frames output: 670
+22:13:21.499: Output 'simple_file_output': Total drawn frames: 682
+22:13:21.499: ==== Recording Stop ================================================
+22:13:21.582: libfdk_aac encoder destroyed
+22:13:48.769: ---------------------------------
+22:13:48.769: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:13:48.769: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:13:48.769: 	rate_control: CQP
+22:13:48.769: 	bitrate:      0
+22:13:48.769: 	cqp:          23
+22:13:48.769: 	keyint:       250
+22:13:48.769: 	preset:       p5
+22:13:48.769: 	tuning:       hq
+22:13:48.769: 	multipass:    qres
+22:13:48.769: 	profile:      high
+22:13:48.769: 	width:        1920
+22:13:48.769: 	height:       1080
+22:13:48.769: 	b-frames:     2
+22:13:48.769: 	psycho-aq:    1
+22:13:48.769: 	GPU:          0
+22:13:48.769: 
+22:13:48.988: libfdk_aac encoder created
+22:13:48.989: libfdk_aac bitrate: 192, channels: 2
+22:13:48.990: ==== Recording Start ===============================================
+22:13:48.990: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-13-48.mp4'...
+22:14:47.993: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-13-48.mp4' stopped
+22:14:47.993: Output 'simple_file_output': stopping
+22:14:47.993: Output 'simple_file_output': Total frames output: 3529
+22:14:47.994: Output 'simple_file_output': Total drawn frames: 3541
+22:14:47.994: ==== Recording Stop ================================================
+22:14:48.069: libfdk_aac encoder destroyed
+22:14:53.092: ---------------------------------
+22:14:53.093: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:14:53.093: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:14:53.093: 	rate_control: CQP
+22:14:53.093: 	bitrate:      0
+22:14:53.093: 	cqp:          23
+22:14:53.093: 	keyint:       250
+22:14:53.093: 	preset:       p5
+22:14:53.093: 	tuning:       hq
+22:14:53.093: 	multipass:    qres
+22:14:53.093: 	profile:      high
+22:14:53.093: 	width:        1920
+22:14:53.093: 	height:       1080
+22:14:53.093: 	b-frames:     2
+22:14:53.093: 	psycho-aq:    1
+22:14:53.093: 	GPU:          0
+22:14:53.093: 
+22:14:53.271: libfdk_aac encoder created
+22:14:53.271: libfdk_aac bitrate: 192, channels: 2
+22:14:53.273: ==== Recording Start ===============================================
+22:14:53.273: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-14-53.mp4'...
+22:15:39.366: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-14-53.mp4' stopped
+22:15:39.366: Output 'simple_file_output': stopping
+22:15:39.366: Output 'simple_file_output': Total frames output: 2754
+22:15:39.366: Output 'simple_file_output': Total drawn frames: 2766
+22:15:39.366: ==== Recording Stop ================================================
+22:15:39.451: libfdk_aac encoder destroyed
+22:15:51.207: ---------------------------------
+22:15:51.207: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:15:51.207: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:15:51.207: 	rate_control: CQP
+22:15:51.207: 	bitrate:      0
+22:15:51.207: 	cqp:          23
+22:15:51.207: 	keyint:       250
+22:15:51.207: 	preset:       p5
+22:15:51.207: 	tuning:       hq
+22:15:51.207: 	multipass:    qres
+22:15:51.207: 	profile:      high
+22:15:51.207: 	width:        1920
+22:15:51.207: 	height:       1080
+22:15:51.207: 	b-frames:     2
+22:15:51.207: 	psycho-aq:    1
+22:15:51.207: 	GPU:          0
+22:15:51.207: 
+22:15:51.438: libfdk_aac encoder created
+22:15:51.438: libfdk_aac bitrate: 192, channels: 2
+22:15:51.440: ==== Recording Start ===============================================
+22:15:51.440: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-15-51.mp4'...
+22:17:32.261: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-15-51.mp4' stopped
+22:17:32.261: Output 'simple_file_output': stopping
+22:17:32.261: Output 'simple_file_output': Total frames output: 6038
+22:17:32.261: Output 'simple_file_output': Total drawn frames: 6050
+22:17:32.261: ==== Recording Stop ================================================
+22:17:32.341: libfdk_aac encoder destroyed
+22:34:33.630: pulse-input: Server name: 'pulseaudio 16.1'
+22:34:33.630: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+22:34:33.630: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo' (default)
+22:34:33.636: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+22:34:37.378: ---------------------------------
+22:34:37.378: [FFmpeg NVENC encoder: 'simple_video_recording'] settings:
+22:34:37.378: 	encoder:      NVIDIA NVENC H.264 (FFmpeg)
+22:34:37.378: 	rate_control: CQP
+22:34:37.378: 	bitrate:      0
+22:34:37.378: 	cqp:          23
+22:34:37.378: 	keyint:       250
+22:34:37.378: 	preset:       p5
+22:34:37.378: 	tuning:       hq
+22:34:37.378: 	multipass:    qres
+22:34:37.378: 	profile:      high
+22:34:37.378: 	width:        1920
+22:34:37.378: 	height:       1080
+22:34:37.378: 	b-frames:     2
+22:34:37.378: 	psycho-aq:    1
+22:34:37.378: 	GPU:          0
+22:34:37.378: 
+22:34:37.594: libfdk_aac encoder created
+22:34:37.594: libfdk_aac bitrate: 192, channels: 2
+22:34:37.596: ==== Recording Start ===============================================
+22:34:37.597: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/elmaikina/vids/2023-09-11 22-34-37.mp4'...
+22:35:11.227: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/elmaikina/vids/2023-09-11 22-34-37.mp4' stopped
+22:35:11.227: Output 'simple_file_output': stopping
+22:35:11.227: Output 'simple_file_output': Total frames output: 2005
+22:35:11.227: Output 'simple_file_output': Total drawn frames: 2018
+22:35:11.228: ==== Recording Stop ================================================
+22:35:11.294: libfdk_aac encoder destroyed
+23:10:10.430: ==== Shutting down ==================================================
+23:10:10.441: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+23:10:10.441: pulse-input: Got 13717302 packets with 900640933 frames
+23:10:10.441: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+23:10:10.441: pulse-input: Got 229011 packets with 94233070 frames
+23:10:10.464: All scene data cleared
+23:10:10.464: ------------------------------------------------
+23:10:10.542: [Scripting] Total detached callbacks: 0
+23:10:10.542: Freeing OBS context data
+23:10:10.601: == Profiler Results =============================
+23:10:10.601: run_program_init: 1472.01 ms
+23:10:10.601:  ┣OBSApp::AppInit: 11.668 ms
+23:10:10.601:  ┃ ┗OBSApp::InitLocale: 4.535 ms
+23:10:10.601:  ┗OBSApp::OBSInit: 1217.97 ms
+23:10:10.601:    ┣obs_startup: 4.067 ms
+23:10:10.601:    ┗OBSBasic::OBSInit: 1127.36 ms
+23:10:10.601:      ┣OBSBasic::InitBasicConfig: 0.137 ms
+23:10:10.601:      ┣OBSBasic::ResetAudio: 0.314 ms
+23:10:10.601:      ┣OBSBasic::ResetVideo: 274.677 ms
+23:10:10.601:      ┣OBSBasic::InitOBSCallbacks: 0.005 ms
+23:10:10.601:      ┣OBSBasic::InitHotkeys: 0.028 ms
+23:10:10.601:      ┣obs_load_all_modules2: 723.457 ms
+23:10:10.601:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+23:10:10.601:      ┃ ┣obs_init_module(decklink-output-ui.so): 0.006 ms
+23:10:10.601:      ┃ ┣obs_init_module(decklink.so): 0.156 ms
+23:10:10.601:      ┃ ┣obs_init_module(frontend-tools.so): 127.037 ms
+23:10:10.601:      ┃ ┣obs_init_module(image-source.so): 0.011 ms
+23:10:10.601:      ┃ ┣obs_init_module(linux-alsa.so): 0.003 ms
+23:10:10.601:      ┃ ┣obs_init_module(linux-capture.so): 0.652 ms
+23:10:10.601:      ┃ ┣obs_init_module(linux-jack.so): 0.004 ms
+23:10:10.601:      ┃ ┣obs_init_module(linux-pipewire.so): 7.578 ms
+23:10:10.601:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.034 ms
+23:10:10.601:      ┃ ┣obs_init_module(linux-v4l2.so): 6.671 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-ffmpeg.so): 302.938 ms
+23:10:10.601:      ┃ ┃ ┗nvenc_check: 5.89 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-filters.so): 0.039 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-libfdk.so): 0.003 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-outputs.so): 0.007 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-transitions.so): 0.014 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-vst.so): 0.004 ms
+23:10:10.601:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+23:10:10.601:      ┃ ┣obs_init_module(rtmp-services.so): 2.727 ms
+23:10:10.601:      ┃ ┗obs_init_module(text-freetype2.so): 0.022 ms
+23:10:10.601:      ┣OBSBasic::InitService: 2.068 ms
+23:10:10.601:      ┣OBSBasic::ResetOutputs: 0.284 ms
+23:10:10.601:      ┣OBSBasic::CreateHotkeys: 0.028 ms
+23:10:10.601:      ┣OBSBasic::InitPrimitives: 0.166 ms
+23:10:10.601:      ┗OBSBasic::Load: 52.119 ms
+23:10:10.601: obs_hotkey_thread(25 ms): min=0.07 ms, median=0.184 ms, max=84.459 ms, 99th percentile=2.362 ms, 99.9757% below 25 ms
+23:10:10.601: audio_thread(Audio): min=0.011 ms, median=0.126 ms, max=35.804 ms, 99th percentile=1.167 ms
+23:10:10.601:  ┗receive_audio: min=0.002 ms, median=0.467 ms, max=7.745 ms, 99th percentile=1.298 ms, 0.0518572 calls per parent call
+23:10:10.601:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=0.101 ms, 99th percentile=0.002 ms
+23:10:10.601:    ┗do_encode: min=0.094 ms, median=0.464 ms, max=7.74 ms, 99th percentile=1.293 ms
+23:10:10.601:      ┣encode(simple_aac_recording0): min=0.091 ms, median=0.455 ms, max=1.762 ms, 99th percentile=1.268 ms
+23:10:10.601:      ┗send_packet: min=0.001 ms, median=0.006 ms, max=6.997 ms, 99th percentile=0.028 ms
+23:10:10.602: obs_graphics_thread(16.6667 ms): min=0.13 ms, median=5.895 ms, max=1005.09 ms, 99th percentile=8.515 ms, 99.7561% below 16.667 ms
+23:10:10.602:  ┣tick_sources: min=0 ms, median=4.819 ms, max=129.191 ms, 99th percentile=6.614 ms
+23:10:10.602:  ┣output_frame: min=0.063 ms, median=0.336 ms, max=39.743 ms, 99th percentile=1.691 ms
+23:10:10.602:  ┃ ┣gs_context(video->graphics): min=0.063 ms, median=0.334 ms, max=39.742 ms, 99th percentile=0.743 ms
+23:10:10.602:  ┃ ┃ ┣render_video: min=0.037 ms, median=0.265 ms, max=39.66 ms, 99th percentile=0.641 ms
+23:10:10.602:  ┃ ┃ ┃ ┣render_main_texture: min=0.028 ms, median=0.235 ms, max=39.64 ms, 99th percentile=0.394 ms
+23:10:10.602:  ┃ ┃ ┃ ┣render_convert_texture: min=0.076 ms, median=0.13 ms, max=12.491 ms, 99th percentile=0.276 ms, 0.054913 calls per parent call
+23:10:10.602:  ┃ ┃ ┃ ┗stage_output_texture: min=0.029 ms, median=0.051 ms, max=22.784 ms, 99th percentile=0.142 ms, 0.054913 calls per parent call
+23:10:10.602:  ┃ ┃ ┣gs_flush: min=0.005 ms, median=0.016 ms, max=26.01 ms, 99th percentile=0.092 ms
+23:10:10.602:  ┃ ┃ ┗download_frame: min=0 ms, median=0.005 ms, max=0.163 ms, 99th percentile=0.012 ms, 0.054913 calls per parent call
+23:10:10.602:  ┃ ┗output_video_data: min=0.463 ms, median=0.724 ms, max=2.174 ms, 99th percentile=1.051 ms, 0.0548932 calls per parent call
+23:10:10.602:  ┗render_displays: min=0.017 ms, median=0.565 ms, max=1000.84 ms, 99th percentile=1.506 ms
+23:10:10.602: video_thread(video): min=0 ms, median=1.431 ms, max=7.737 ms, 99th percentile=2.427 ms
+23:10:10.602:  ┗receive_video: min=0.779 ms, median=1.429 ms, max=7.736 ms, 99th percentile=2.422 ms
+23:10:10.602:    ┗do_encode: min=0.779 ms, median=1.428 ms, max=7.735 ms, 99th percentile=2.42 ms
+23:10:10.602:      ┣encode(simple_video_recording): min=0.776 ms, median=1.416 ms, max=3.401 ms, 99th percentile=2.403 ms
+23:10:10.602:      ┗send_packet: min=0.002 ms, median=0.006 ms, max=6.365 ms, 99th percentile=0.034 ms
+23:10:10.602: =================================================
+23:10:10.602: == Profiler Time Between Calls ==================
+23:10:10.602: obs_hotkey_thread(25 ms): min=25.09 ms, median=25.26 ms, max=109.556 ms, 96.1071% within ±2% of 25 ms (0% lower, 3.89287% higher)
+23:10:10.602: obs_graphics_thread(16.6667 ms): min=2.208 ms, median=16.667 ms, max=1005.2 ms, 99.6114% within ±2% of 16.667 ms (0.143047% lower, 0.245574% higher)
+23:10:10.602: =================================================
+23:10:10.701: Number of memory leaks: 0

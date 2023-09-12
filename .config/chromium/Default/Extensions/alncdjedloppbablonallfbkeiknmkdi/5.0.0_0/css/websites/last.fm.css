@@ -1,0 +1,37 @@
+.stationlinks button::before,
+.media-item button::before,
+.media-item a::before {
+    background-color: #565555 !important;
+}
+
+.chartlist-play-button::before {
+    background-color: #565555 !important;
+    filter: none !important;
+}
+
+table a::before,
+.no-data-message::before,
+.header-new-actions button::before {
+    filter: invert(80%);
+}
+
+.focus-control button::before {
+    filter: invert(80%);
+}
+
+a.chartlist-love-button:before,
+button.chartlist-love-button:before {
+    background-color: transparent !important;
+}
+
+.chartlist-image img {
+    border: 1px solid #4b4b4b;
+}
+
+.adaptive-skin-container {
+    background-color: rgb(28, 28, 33)
+}
+
+.container {
+    background-image: none !important;
+}

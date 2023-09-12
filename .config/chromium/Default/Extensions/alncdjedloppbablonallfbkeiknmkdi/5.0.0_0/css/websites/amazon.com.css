@@ -1,0 +1,5 @@
+.a-button-primary .a-button-text,
+.a-button-oneclick .a-button-inner .a-button-text,
+.discountPillWrapper .pill.discountPillLeft.pillLightUp {
+    color: #000 !important
+}

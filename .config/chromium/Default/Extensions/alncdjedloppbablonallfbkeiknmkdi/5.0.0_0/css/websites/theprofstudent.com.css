@@ -1,0 +1,7 @@
+#site {
+    background-image: none;
+}
+
+.sqs-announcement-bar-dropzone {
+    filter: invert(80%);
+}

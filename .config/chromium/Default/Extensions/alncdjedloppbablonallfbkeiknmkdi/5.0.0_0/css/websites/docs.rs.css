@@ -1,0 +1,4 @@
+button img,
+nav img {
+    filter: invert(80%);
+}

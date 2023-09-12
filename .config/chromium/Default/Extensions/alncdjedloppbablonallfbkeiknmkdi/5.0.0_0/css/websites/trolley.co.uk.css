@@ -1,0 +1,7 @@
+.icon {
+    filter: invert(0.7);
+}
+
+header a> img {
+    filter: invert(80%) hue-rotate(180deg) contrast(90%);
+}

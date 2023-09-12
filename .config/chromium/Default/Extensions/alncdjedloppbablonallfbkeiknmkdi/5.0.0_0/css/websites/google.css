@@ -1,0 +1,20 @@
+a[data-pid] span {
+    filter: inherit;
+}
+
+a[role='button']:empty,
+div.jfk-button-img {
+    filter: invert(1);
+}
+
+svg text {
+    stroke: none !important;
+}
+
+ul[role="listbox"] {
+    background-color: #242424;
+}
+
+li a[draggable="false"] span {
+    filter: none !important;
+}

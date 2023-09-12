@@ -1,0 +1,33 @@
+.mwe-math-fallback-image-inline,
+.mwe-math-fallback-image-display,
+.mw-logo-wordmark,
+.mw-logo-tagline,
+.mw-ui-icon-wikimedia-menu:before,
+.mw-ui-icon-ellipsis:before,
+#searchButton,
+img[src*="LaTeX.svg.png"] {
+    filter: invert(90%);
+}
+
+.mw-wiki-logo {
+    filter: invert(90%);
+}
+
+.vectorTabs {
+    background-image: none !important;
+    border-left: 1px solid rgb(29, 79, 114);
+}
+
+.vectorTabs li {
+    background-image: none !important;
+    border-top: 1px solid rgb(29, 79, 114);
+}
+
+.vectorTabs span {
+    background-image: none !important;
+    border-right: 1px solid rgb(29, 79, 114);
+}
+
+ul {
+    list-style-image: none !important;
+}

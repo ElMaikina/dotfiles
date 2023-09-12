@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Sureguliuokite ryškumą vilkdami žemiau esantį slankiklį."
+   },
+   "brightnessViewTitle": {
+      "message": "Ryškumas"
+   },
+   "colorViewDescription": {
+      "message": "Pasirinkite spalvą iš svetainės ir pakeiskite ją į bet kurią pageidaujamą."
+   },
+   "colorViewOriginalColor": {
+      "message": "Originalus"
+   },
+   "colorViewReplacedColor": {
+      "message": "Pakeistas"
+   },
+   "colorViewTitle": {
+      "message": "Spalvų rinkiklis"
+   },
+   "contrastViewDescription": {
+      "message": "Sureguliuokite kontrastą vilkdami žemiau esantį slankiklį."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrastas"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "visos svetainės"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Taikyti"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Rašyti paraišką į"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Atšaukti"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Nustatyti iš naujo"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Atkurti numatytuosius nustatymus"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "dabartinė svetainė"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "visoms svetainėms"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "dabartinei svetainei"
+   },
+   "dimViewDescription": {
+      "message": "Sureguliuokite svetainių pritemdymo lygį."
+   },
+   "dimViewTitle": {
+      "message": "Pritemdyti"
+   },
+   "extDescription": {
+      "message": "Perjunkite kiekvieną svetainę į tamsųjį / šviesųjį režimą, kaip norite. Pasirūpinkite savo akimis su Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Naktinė akis sustabdoma"
+   },
+   "extName": {
+      "message": "Tamsusis režimas – nakties akis"
+   },
+   "extToggleButton": {
+      "message": "Perjungti tamsųjį ir įprastą skirtuko režimą"
+   },
+   "extTurnOnButton": {
+      "message": "Įjungti"
+   },
+   "filterModeNameDark": {
+      "message": "Tamsus"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtruojama"
+   },
+   "filterModeNameNormal": {
+      "message": "Normalus"
+   },
+   "firstRunViewFeature1": {
+      "message": "Tai gali turėti įtakos puslapio įkėlimo greičiui"
+   },
+   "firstRunViewFeature2": {
+      "message": "Nemokamas 3 mėnesių „Night Eye Pro“ (be kredito kortelės)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Naršymo informacija nerenkama"
+   },
+   "firstRunViewFeature4": {
+      "message": "Susisiekite su mumis per integruotą pokalbį"
+   },
+   "firstRunViewTitle": {
+      "message": "Greita pradžia"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Daugiau informacijos"
+   },
+   "helpViewActivateNow": {
+      "message": "Suaktyvinti dabar"
+   },
+   "helpViewActivated": {
+      "message": "Tvarkykite plėtinį"
+   },
+   "helpViewByExpires": {
+      "message": "iki 1 USD \u003C/br>galiojimo laikas baigiasi: 2 USD"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Klientų zona"
+   },
+   "helpViewDarkScroll": {
+      "message": "Tamsūs ritinėliai"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Tegul „Nakties akis“ bet kurį slinktį paverčia tamsu."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Pasirinkite numatytąjį režimą, kuris bus vykdomas atidarant naujas svetaines"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Numatytasis režimas"
+   },
+   "helpViewDisabled": {
+      "message": "Išjungta"
+   },
+   "helpViewEnabled": {
+      "message": "Įjungtas"
+   },
+   "helpViewExpiredNever": {
+      "message": "niekada"
+   },
+   "helpViewExpires": {
+      "message": "Baigiasi 1 USD galiojimo laikas"
+   },
+   "helpViewExportData": {
+      "message": "Eksportuoti duomenis"
+   },
+   "helpViewGoProTitle": {
+      "message": "Go Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Pagalba"
+   },
+   "helpViewImportData": {
+      "message": "Importuoti duomenis"
+   },
+   "helpViewLanguage": {
+      "message": "Kalba"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Tvarkykite tamsaus režimo sąrašą"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS spalvų schemos integravimas"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sinchronizuokite „Night Eye“ su aktyvia OS spalvų schema."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Sužinokite, kaip priskirti savo nuorodą"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Įjungimo / išjungimo spartusis klavišas"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Prisijunkite / prisiregistruokite"
+   },
+   "helpViewSignOut": {
+      "message": "Atsijungti"
+   },
+   "helpViewTimerDescr": {
+      "message": "Kaip tai veikia"
+   },
+   "helpViewTimerOff": {
+      "message": "Išjungta"
+   },
+   "helpViewTimerOn": {
+      "message": "Įjungta"
+   },
+   "helpViewTimerTitle": {
+      "message": "Tvarkaraštis"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Plėtinių sąraše raskite Night Eye ir spustelėkite pašalinti"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Pašalinkite"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Baltasis sąrašas"
+   },
+   "imageViewDescription": {
+      "message": "„Night Eye“ apdoroja vaizdus ir daro juos tamsesnius. Ši funkcija reikalauja daugiau skaičiavimo išteklių ir gali sulėtinti jūsų kompiuterį."
+   },
+   "imageViewTitle": {
+      "message": "Vaizdai"
+   },
+   "labelBlueLight": {
+      "message": "mėlyna šviesa"
+   },
+   "labelBrightness": {
+      "message": "ryškumą"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "įtaisyta tamsioji tema"
+   },
+   "labelColors": {
+      "message": "spalvos"
+   },
+   "labelContinue": {
+      "message": "Tęsti"
+   },
+   "labelContrast": {
+      "message": "kontrastas"
+   },
+   "labelCurrent": {
+      "message": "Dabartinė"
+   },
+   "labelCustomCode": {
+      "message": "pasirinktinis kodas"
+   },
+   "labelCustomUrlPath": {
+      "message": "tinkinti \u003Cbr> puslapius"
+   },
+   "labelDim": {
+      "message": "pritemdyta"
+   },
+   "labelDisabled": {
+      "message": "Išjungta"
+   },
+   "labelEnabled": {
+      "message": "Įjungtas"
+   },
+   "labelExperimentalFeature": {
+      "message": "Eksperimentinė funkcija"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Fono konvertavimas"
+   },
+   "labelImageHighCPU": {
+      "message": "Didelis procesoriaus suvartojimas"
+   },
+   "labelImageIconConversion": {
+      "message": "Piktogramų konvertavimas"
+   },
+   "labelImages": {
+      "message": "vaizdai"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Tvarkyti sąrašą"
+   },
+   "labelPleaseWait": {
+      "message": "Prašau palauk"
+   },
+   "labelSaturation": {
+      "message": "prisotinimas"
+   },
+   "labelSubdomains": {
+      "message": "subdomenai"
+   },
+   "labelTurboCache": {
+      "message": "vietinė talpykla"
+   },
+   "labelWebsite": {
+      "message": "Interneto svetainė"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Ši svetainė nėra įtraukta į tamsiojo režimo sąrašą."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Tamsi versija"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtruota versija"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Įprasta versija"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Nepalaikomas"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Ši svetainė nepalaikoma"
+   },
+   "okButton": {
+      "message": "Gerai"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Uždaryti"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Jau 30 dienų naudojate „Night Eye“."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Atsidėkodami turime specialią 10% nuolaidą. Naudokite nuolaidos kodą \u003Cdiv class=\"DiscountCode\">-\u003C/div> Šis pasiūlymas galioja 48 valandas."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Gaukite savo PRO versiją dabar"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Jei jūsų nedomina,\u003Cbr> jums liko dar 2 mėnesiai \u003Cbr> iki nemokamos bandomosios versijos. Mėgautis!"
+   },
+   "refreshButton": {
+      "message": "Atnaujinti"
+   },
+   "refreshViewDescription": {
+      "message": "Turite atnaujinti dabartinį puslapį, kad pritaikytumėte naujausius nustatymus"
+   },
+   "refreshViewTitle": {
+      "message": "Įkelkite puslapį iš naujo"
+   },
+   "saturationViewDescription": {
+      "message": "Sureguliuokite sodrumą vilkdami žemiau esantį slankiklį."
+   },
+   "saturationViewTitle": {
+      "message": "Sodrumas"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Gilus integravimas leidžia valdyti integruotas tamsias temas svetainėse, kuriose jau įdiegta tamsi vartotojo sąsaja."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Pažiūrėkite, kaip veikia gilus integravimas"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ČIA"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Gili integracija"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Išjungta"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Naktis Akis tamsi"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "„Night Eye“ konvertuoja tokius vaizdus kaip piktogramos ir fonai, kad būtų užtikrintas sklandus ir nuoseklus tamsus režimas."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Piktogramų ir fonų konvertavimas gaunamas naudojant daug procesoriaus."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Įjunkite, kad tamsaus režimo patirtis būtų geriausia."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Išjunkite, kad sumažintumėte procesoriaus suvartojimą."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "„Night Eye“ konvertuos visus šio domeno padomenius"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Daugiau teksto"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Įjunkite, kad tamsaus režimo patirtis būtų geriausia."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Išjunkite, kad sumažintumėte procesoriaus suvartojimą."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Talpykla pagreitina svetainės konvertavimą iš įprasto į tamsųjį režimą (puslapio įkėlimo greitis neturi įtakos). Tai gali sumažinti pradinius ryškius blyksnius, priklausomai nuo svetainės."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Talpyklos funkcija veikia maždaug 80% svetainių, todėl jei svetainė neveikia tinkamai, išjunkite ją!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Gali būti pritaikyta konkrečiai svetainei arba visiems, kuriuose lankotės."
+   },
+   "subdomainViewDescription": {
+      "message": "„Night Eye“ konvertuos visus šio domeno padomenius"
+   },
+   "subdomainViewTitle": {
+      "message": "Subdomenai"
+   },
+   "supportViewContinueBtn": {
+      "message": "Tęsti"
+   },
+   "supportViewInfo1": {
+      "message": "Esame pasiruošę padėti, jei turite klausimų ar problemų dėl „Night Eye“."
+   },
+   "supportViewInfo2": {
+      "message": "Norėdami naudotis mūsų palaikymo sistema, pateikite teisingą kontaktinę informaciją."
+   },
+   "supportViewInfo3": {
+      "message": "Rašykite mums tik anglų kalba."
+   },
+   "supportViewInputEmail": {
+      "message": "El. paštas"
+   },
+   "supportViewInputName": {
+      "message": "vardas"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Prašau palauk..."
+   },
+   "switchLabelOff": {
+      "message": "Išjungta"
+   },
+   "switchLabelOn": {
+      "message": "Įjungta"
+   },
+   "temperatureViewDescription": {
+      "message": "Sureguliuokite mėlyną šviesą vilkdami toliau esantį slankiklį."
+   },
+   "temperatureViewOption1": {
+      "message": "Su mėlyna"
+   },
+   "temperatureViewOption2": {
+      "message": "Be mėlynos spalvos"
+   },
+   "temperatureViewTitle": {
+      "message": "Mėlyna šviesa"
+   },
+   "tooltipDark": {
+      "message": "Naudodamiesi šiuo režimu, Night Eye pakeis spalvas pagal pasirinktus nustatymus"
+   },
+   "tooltipFiltered": {
+      "message": "Naudojant šį režimą, svetainė pagal numatytuosius nustatymus bus plius kelių filtrų efektas – ryškumas, kontrastas, sodrumas, šiltas/šaltas, tamsus"
+   },
+   "tooltipNormal": {
+      "message": "Naudojant šį režimą, svetainė bus pagal nutylėjimą, Night Eye nepakeis jokios spalvos"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Suaktyvinti"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Atšaukti"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Kliento sritis"
+   },
+   "trailActivationViewDescr": {
+      "message": "Norėdami suaktyvinti \u003Cbr>Night Eye Pro, naudokite el. pašto adresą, kurį naudojote pirkdami."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktyvinimas"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Atšaukti"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Kontrolės skydelis"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Išjungti"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Naktinė akis susieta su jūsų el. paštu \u003Cb class=\"ActivatedEmail\">1 USD\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Norėdami gauti daugiau informacijos, apsilankykite"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Šioje naršyklėje galite visam laikui išjungti \u003Cbr> Night Eye."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktyvuota"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Tęsti"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "„Night Eye“ galite mėgautis iki 3 naršyklių vienu metu, kol jūsų \u003Cbr> nemokama bandomoji versija baigsis už 1 USD"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "„Night Eye“ galite mėgautis iki 1 USD naršyklėse vienu metu."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Sėkmingai suaktyvinote plėtinį."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "„Night Eye“ galite mėgautis iki 3 naršyklių vienu metu."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Aktyvias naršykles galite tvarkyti Klientų srityje."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Norėdami jį pasiekti, eikite į"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Sėkmingas aktyvinimas"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Atšaukti"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Tikimės, kad „Night Eye“ per pastaruosius mėnesius įrodė savo naudingumą!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Jei norite ir toliau juo naudotis, peržiūrėkite mūsų kainas ir visus gaunamus privalumus."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "„Night Eye“ susieta su jūsų el. paštu. \u003Cb class=\"AccountEmail\">1 USD\u003C/b>\u003Cbr> naudokite jį, jei nuspręsite mokėti."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Kainodara"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro versija"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Tikimės, kad „Night Eye“ per pastaruosius mėnesius įrodė savo naudingumą."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Galite amžinai naudoti nemokamą „Lite“ versiją arba naudoti „Pro“. Peržiūrėkite mūsų kainas ir visus gaunamus privalumus."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite versija"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Tamsusis režimas iki 5 svetainių"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro versija"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Be limitų"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Jūsų nemokamas bandomasis laikotarpis baigėsi."
+   },
+   "trialLiteViewCancel": {
+      "message": "Atšaukti"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (pašalinkite apribojimus)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Tamsųjį režimą galima įjungti iki \u003Cbr> 5 svetainėse. Galite tvarkyti sąrašą ir bet kada jį keisti."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite versija"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Skaitykite apie Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Sutaupyti"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Suaktyvinti"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Jei jau turite paskyrą,\u003C/br> suaktyvinkite ją!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Atšaukti"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Tikimės, kad „Night Eye“ per pastaruosius mėnesius įrodė savo naudingumą!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Jei norite ir toliau juo naudotis, peržiūrėkite mūsų kainas ir visus gaunamus privalumus."
+   },
+   "trialProViewPricing": {
+      "message": "Kainodara"
+   },
+   "trialProViewTitle": {
+      "message": "Pro versija"
+   }
+}

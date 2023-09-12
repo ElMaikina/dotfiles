@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Reglați luminozitatea trăgând cursorul de mai jos."
+   },
+   "brightnessViewTitle": {
+      "message": "Luminozitate"
+   },
+   "colorViewDescription": {
+      "message": "Alegeți o culoare de pe site și schimbați-o în ceea ce doriți."
+   },
+   "colorViewOriginalColor": {
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "message": "Înlocuit"
+   },
+   "colorViewTitle": {
+      "message": "Selector de culoare"
+   },
+   "contrastViewDescription": {
+      "message": "Reglați contrastul trăgând glisorul de mai jos."
+   },
+   "contrastViewTitle": {
+      "message": "Contrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "toate site-urile web"
+   },
+   "controlsPanelButtonApply": {
+      "message": "aplica"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Aplica pentru"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Anulare"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Resetați"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Restabiliti setarile de baza"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "site-ul actual"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "pentru toate site-urile web"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "pentru site-ul actual"
+   },
+   "dimViewDescription": {
+      "message": "Reglați nivelul de estompare al site-urilor web."
+   },
+   "dimViewTitle": {
+      "message": "Dim"
+   },
+   "extDescription": {
+      "message": "Comutați fiecare site web în modul întunecat/mod luminos, după cum doriți. Ai grijă de ochii tăi cu Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye este oprit"
+   },
+   "extName": {
+      "message": "Modul întunecat - Ochi de noapte"
+   },
+   "extToggleButton": {
+      "message": "Comutați între modul întunecat și normal pentru filă"
+   },
+   "extTurnOnButton": {
+      "message": "Porniți"
+   },
+   "filterModeNameDark": {
+      "message": "Întuneric"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrată"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Viteza de încărcare a paginii ar putea fi afectată"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 luni gratuit de Night Eye Pro (fără card de credit)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Nu se colectează informații de navigare"
+   },
+   "firstRunViewFeature4": {
+      "message": "Contactați-ne prin chat-ul încorporat"
+   },
+   "firstRunViewTitle": {
+      "message": "Pornire rapidă"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Mai multe detalii"
+   },
+   "helpViewActivateNow": {
+      "message": "Activeaza acum"
+   },
+   "helpViewActivated": {
+      "message": "Gestionați-vă extensia"
+   },
+   "helpViewByExpires": {
+      "message": "cu 1 USD \u003C/br>expiră: 2 USD"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Zona client"
+   },
+   "helpViewDarkScroll": {
+      "message": "Pergamente întunecate"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Lasă Night Eye să întunece orice pergament."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Alegeți modul implicit de executat la deschiderea site-urilor web noi"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Mod automat"
+   },
+   "helpViewDisabled": {
+      "message": "Dezactivat"
+   },
+   "helpViewEnabled": {
+      "message": "Activat"
+   },
+   "helpViewExpiredNever": {
+      "message": "nu"
+   },
+   "helpViewExpires": {
+      "message": "Expiră 1 USD"
+   },
+   "helpViewExportData": {
+      "message": "Export de date"
+   },
+   "helpViewGoProTitle": {
+      "message": "Du-te pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Ajutor"
+   },
+   "helpViewImportData": {
+      "message": "Importă date"
+   },
+   "helpViewLanguage": {
+      "message": "Limba"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Gestionați lista modului întunecat"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integrarea OS Color Scheme"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sincronizați Night Eye cu schema de culori activă a sistemului de operare."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Aflați cum să vă atribuiți propria comandă rapidă"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Comandă rapidă activată/dezactivată"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Conecteaza-ta inscrie-te"
+   },
+   "helpViewSignOut": {
+      "message": "Sign out"
+   },
+   "helpViewTimerDescr": {
+      "message": "Cum functioneaza"
+   },
+   "helpViewTimerOff": {
+      "message": "Oprit"
+   },
+   "helpViewTimerOn": {
+      "message": "Pe"
+   },
+   "helpViewTimerTitle": {
+      "message": "Programa"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Găsiți Night Eye în lista de extensii și faceți clic pe Eliminare"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Dezinstalează"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Lista albă"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye procesează imaginile făcându-le mai întunecate. Această caracteristică necesită mai multe resurse de calcul și poate încetini computerul."
+   },
+   "imageViewTitle": {
+      "message": "Imagini"
+   },
+   "labelBlueLight": {
+      "message": "lumină albastră"
+   },
+   "labelBrightness": {
+      "message": "luminozitatea"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "încorporat \u003Cbr>temă întunecată"
+   },
+   "labelColors": {
+      "message": "culorile"
+   },
+   "labelContinue": {
+      "message": "Continua"
+   },
+   "labelContrast": {
+      "message": "contrast"
+   },
+   "labelCurrent": {
+      "message": "Actual"
+   },
+   "labelCustomCode": {
+      "message": "cod personalizat"
+   },
+   "labelCustomUrlPath": {
+      "message": "personalizaţi paginile \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "dim"
+   },
+   "labelDisabled": {
+      "message": "Dezactivat"
+   },
+   "labelEnabled": {
+      "message": "Activat"
+   },
+   "labelExperimentalFeature": {
+      "message": "Caracteristica experimentală"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Conversie de fundal"
+   },
+   "labelImageHighCPU": {
+      "message": "Consum ridicat de procesor"
+   },
+   "labelImageIconConversion": {
+      "message": "Conversia pictogramelor"
+   },
+   "labelImages": {
+      "message": "imagini"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Gestionați lista"
+   },
+   "labelPleaseWait": {
+      "message": "Va rugam asteptati"
+   },
+   "labelSaturation": {
+      "message": "saturare"
+   },
+   "labelSubdomains": {
+      "message": "subdomenii"
+   },
+   "labelTurboCache": {
+      "message": "cache-ul local"
+   },
+   "labelWebsite": {
+      "message": "site-ul web"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Acest site web nu este adăugat în lista modului întunecat."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Versiune întunecată"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Versiune filtrată"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Versiune normală"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Nu sunt acceptate"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Acest site web nu este acceptat"
+   },
+   "okButton": {
+      "message": "O.K"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Închide"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Folosești Night Eye de 30 de zile acum."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Drept mulțumire, avem o reducere specială de 10%. Vă rugăm să utilizați codul de reducere \u003Cdiv class=\"DiscountCode\">-\u003C/div> Această ofertă este valabilă 48 de ore."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Obțineți versiunea PRO acum"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Dacă nu sunteți interesat,\u003Cbr> mai aveți 2 luni \u003Cbr> din perioada de încercare gratuită. Bucurați-vă!"
+   },
+   "refreshButton": {
+      "message": "Reîmprospăta"
+   },
+   "refreshViewDescription": {
+      "message": "Trebuie să reîmprospătați pagina curentă pentru a aplica cele mai recente setări"
+   },
+   "refreshViewTitle": {
+      "message": "Vă rugăm să reîncărcați pagina"
+   },
+   "saturationViewDescription": {
+      "message": "Reglați saturația trăgând cursorul de mai jos."
+   },
+   "saturationViewTitle": {
+      "message": "Saturare"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Integrarea profundă vă permite să controlați temele întunecate încorporate ale site-urilor web care au implementat deja o interfață de utilizare întunecată."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Vedeți cum funcționează integrarea profundă"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "AICI"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Integrare profundă"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Dezactivat"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Ochi de noapte întunecat"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye convertește imagini precum pictograme și fundaluri pentru a vă oferi un mod întunecat uniform și consistent."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Conversia pictogramelor și fundalurilor vine cu un consum ridicat de CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Activați pentru cea mai bună experiență în modul întunecat."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Opriți pentru a reduce consumul CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye va converti toate subdomeniile acestui domeniu"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Mai mult text"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Activați pentru cea mai bună experiență în modul întunecat."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Opriți pentru a reduce consumul CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Cache-ul accelerează conversia site-ului web de la modul normal la modul întunecat (viteza de încărcare a paginii nu este afectată). Poate reduce blițurile luminoase inițiale, în funcție de site."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Funcția de cache funcționează pe aproximativ 80% dintre site-uri web, prin urmare, dacă un site web nu se comportă corect, dezactivați-l pentru el!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Poate fi aplicat unui anumit site web sau tuturor pe care le vizitați."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye va converti toate subdomeniile acestui domeniu"
+   },
+   "subdomainViewTitle": {
+      "message": "Subdomenii"
+   },
+   "supportViewContinueBtn": {
+      "message": "Continua"
+   },
+   "supportViewInfo1": {
+      "message": "Suntem aici pentru a vă ajuta dacă aveți întrebări sau probleme cu Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Pentru a utiliza sistemul nostru de asistență, vă rugăm să furnizați informațiile de contact corecte."
+   },
+   "supportViewInfo3": {
+      "message": "Trimite-ne un mesaj numai în engleză."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Nume"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Va rugam asteptati..."
+   },
+   "switchLabelOff": {
+      "message": "Oprit"
+   },
+   "switchLabelOn": {
+      "message": "Pe"
+   },
+   "temperatureViewDescription": {
+      "message": "Reglați lumina albastră trăgând glisorul de mai jos."
+   },
+   "temperatureViewOption1": {
+      "message": "Cu albastru"
+   },
+   "temperatureViewOption2": {
+      "message": "Fara albastru"
+   },
+   "temperatureViewTitle": {
+      "message": "Lumină albastră"
+   },
+   "tooltipDark": {
+      "message": "Folosind acest mod, Night Eye va schimba culorile în funcție de setările selectate"
+   },
+   "tooltipFiltered": {
+      "message": "Folosind acest mod, site-ul web va fi implicit plus efectul mai multor filtre - luminozitate, contrast, saturație, cald/rece, slab"
+   },
+   "tooltipNormal": {
+      "message": "Folosind acest mod, site-ul web va fi implicit, Night Eye nu va schimba nicio culoare"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Activati"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Anulare"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Zona Clientului"
+   },
+   "trailActivationViewDescr": {
+      "message": "Vă rugăm să utilizați e-mailul pe care l-ați folosit când ați făcut achiziția pentru a activa \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Activare"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Anulare"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Panou de control"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Dezactivați"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night Eye este asociat cu e-mailul dvs. \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Pentru mai multe detalii, vizitați"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Puteți dezactiva permanent \u003Cbr> Night Eye pentru acest browser."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Activat"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Continua"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Vă puteți bucura de Night Eye în până la 3 browsere simultan până când perioada de încercare gratuită \u003Cbr> expiră la 1 USD"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Vă puteți bucura de Night Eye în browsere de până la 1 USD simultan."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Ați activat cu succes extensia."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Vă puteți bucura de Night Eye pe până la 3 browsere simultan."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Puteți gestiona browserele active în Zona de clienți."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Pentru a-l accesa, accesați"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Activare reușită"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Anulare"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Sperăm că Night Eye și-a dovedit utilitatea în ultimele luni!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Dacă doriți să-l utilizați în continuare, consultați prețurile noastre și toate beneficiile care apar."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye este asociat cu e-mailul dvs. \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> folosiți-l dacă decideți să plătiți."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Prețuri"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Versiunea Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Sperăm că Night Eye și-a dovedit utilitatea în ultimele luni."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Puteți folosi versiunea Lite gratuită pentru totdeauna sau puteți deveni Pro. Consultați prețurile noastre și toate beneficiile care apar."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Versiune Lite"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Modul întunecat pe până la 5 site-uri web"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Versiune Pro"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Fără limite"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Perioada de încercare gratuită a expirat."
+   },
+   "trialLiteViewCancel": {
+      "message": "Anulare"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (elimină limitele)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Modul întunecat poate fi activat pe până la \u003Cbr> 5 site-uri web. Puteți gestiona lista și o puteți modifica oricând."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Versiune Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Citiți despre Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Salvați"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Activati"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Dacă aveți deja un cont,\u003C/br> vă rugăm să-l activați!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Anulare"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Sperăm că Night Eye și-a dovedit utilitatea în ultimele luni!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Dacă doriți să-l utilizați în continuare, consultați prețurile noastre și toate beneficiile care apar."
+   },
+   "trialProViewPricing": {
+      "message": "Prețuri"
+   },
+   "trialProViewTitle": {
+      "message": "Versiunea Pro"
+   }
+}

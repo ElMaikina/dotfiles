@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "దిగువ స్లయిడర్‌ను లాగడం ద్వారా ప్రకాశాన్ని సర్దుబాటు చేయండి."
+   },
+   "brightnessViewTitle": {
+      "message": "ప్రకాశం"
+   },
+   "colorViewDescription": {
+      "message": "వెబ్‌సైట్ నుండి రంగును ఎంచుకుని, మీరు కోరుకున్న దానికి మార్చండి."
+   },
+   "colorViewOriginalColor": {
+      "message": "అసలైనది"
+   },
+   "colorViewReplacedColor": {
+      "message": "భర్తీ చేయబడింది"
+   },
+   "colorViewTitle": {
+      "message": "రంగు ఎంపిక"
+   },
+   "contrastViewDescription": {
+      "message": "దిగువ స్లయిడర్‌ను లాగడం ద్వారా కాంట్రాస్ట్‌ని సర్దుబాటు చేయండి."
+   },
+   "contrastViewTitle": {
+      "message": "విరుద్ధంగా"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "అన్ని వెబ్‌సైట్‌లు"
+   },
+   "controlsPanelButtonApply": {
+      "message": "దరఖాస్తు చేసుకోండి"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "వర్తిస్తాయి"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "రద్దు చేయండి"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "రీసెట్ చేయండి"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "నిర్ణీత విలువలకు మార్చు"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "ప్రస్తుత వెబ్‌సైట్"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "అన్ని వెబ్‌సైట్‌ల కోసం"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "ప్రస్తుత వెబ్‌సైట్ కోసం"
+   },
+   "dimViewDescription": {
+      "message": "వెబ్‌సైట్‌ల అస్పష్టత స్థాయిని సర్దుబాటు చేయండి."
+   },
+   "dimViewTitle": {
+      "message": "మసకబారిన"
+   },
+   "extDescription": {
+      "message": "కావలసిన విధంగా ప్రతి వెబ్‌సైట్‌ను డార్క్ మోడ్ / లైట్ మోడ్‌కి మార్చండి. నైట్ ఐతో మీ కళ్లను జాగ్రత్తగా చూసుకోండి."
+   },
+   "extDisabledStatus": {
+      "message": "రాత్రి కన్ను నిలిపివేయబడింది"
+   },
+   "extName": {
+      "message": "డార్క్ మోడ్ - నైట్ ఐ"
+   },
+   "extToggleButton": {
+      "message": "ట్యాబ్ కోసం డార్క్ మరియు నార్మల్ మోడ్‌ను టోగుల్ చేయండి"
+   },
+   "extTurnOnButton": {
+      "message": "ఆరంభించండి"
+   },
+   "filterModeNameDark": {
+      "message": "చీకటి"
+   },
+   "filterModeNameFiltered": {
+      "message": "ఫిల్టర్ చేయబడింది"
+   },
+   "filterModeNameNormal": {
+      "message": "సాధారణ"
+   },
+   "firstRunViewFeature1": {
+      "message": "పేజీ లోడింగ్ వేగం ప్రభావితం కావచ్చు"
+   },
+   "firstRunViewFeature2": {
+      "message": "ఉచిత 3 నెలల నైట్ ఐ ప్రో (క్రెడిట్ కార్డ్ లేదు)"
+   },
+   "firstRunViewFeature3": {
+      "message": "బ్రౌజింగ్ సమాచారం సేకరించబడలేదు"
+   },
+   "firstRunViewFeature4": {
+      "message": "అంతర్నిర్మిత చాట్ ద్వారా మమ్మల్ని సంప్రదించండి"
+   },
+   "firstRunViewTitle": {
+      "message": "త్వరగా ప్రారంభించు"
+   },
+   "helpOSIntegrationLink": {
+      "message": "మరిన్ని వివరాలు"
+   },
+   "helpViewActivateNow": {
+      "message": "ఇప్పుడే యాక్టివేట్ చేయండి"
+   },
+   "helpViewActivated": {
+      "message": "మీ పొడిగింపును నిర్వహించండి"
+   },
+   "helpViewByExpires": {
+      "message": "$1 ద్వారా \u003C/br>గడువు ముగుస్తుంది: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "క్లయింట్ ప్రాంతం"
+   },
+   "helpViewDarkScroll": {
+      "message": "ముదురు స్క్రోల్స్"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "రాత్రి కన్ను ఏదైనా స్క్రోల్‌ను చీకటిగా మార్చనివ్వండి."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "కొత్త వెబ్‌సైట్‌లను తెరిచేటప్పుడు అమలు చేయాల్సిన డిఫాల్ట్ మోడ్‌ను ఎంచుకోండి"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "డిఫాల్ట్ మోడ్"
+   },
+   "helpViewDisabled": {
+      "message": "వికలాంగుడు"
+   },
+   "helpViewEnabled": {
+      "message": "ప్రారంభించబడింది"
+   },
+   "helpViewExpiredNever": {
+      "message": "ఎప్పుడూ"
+   },
+   "helpViewExpires": {
+      "message": "$1 గడువు ముగుస్తుంది"
+   },
+   "helpViewExportData": {
+      "message": "డేటాను ఎగుమతి చేయండి"
+   },
+   "helpViewGoProTitle": {
+      "message": "ప్రో వెళ్ళండి"
+   },
+   "helpViewHelpButton": {
+      "message": "సహాయం"
+   },
+   "helpViewImportData": {
+      "message": "డేటాను దిగుమతి చేయండి"
+   },
+   "helpViewLanguage": {
+      "message": "భాష"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "డార్క్ మోడ్ జాబితాను నిర్వహించండి"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS కలర్ స్కీమ్ ఇంటిగ్రేషన్"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "మీ యాక్టివ్ OS కలర్ స్కీమ్‌తో నైట్ ఐని సింక్ చేయండి."
+   },
+   "helpViewShortcutDescription": {
+      "message": "మీ స్వంత సత్వరమార్గాన్ని ఎలా కేటాయించాలో కనుగొనండి"
+   },
+   "helpViewShortcutTitle": {
+      "message": "సత్వరమార్గాన్ని ఆన్/ఆఫ్ చేయండి"
+   },
+   "helpViewSignInSignUp": {
+      "message": "సైన్ ఇన్ / సైన్ అప్ చేయండి"
+   },
+   "helpViewSignOut": {
+      "message": "సైన్ అవుట్ చేయండి"
+   },
+   "helpViewTimerDescr": {
+      "message": "అది ఎలా పని చేస్తుంది"
+   },
+   "helpViewTimerOff": {
+      "message": "ఆఫ్"
+   },
+   "helpViewTimerOn": {
+      "message": "పై"
+   },
+   "helpViewTimerTitle": {
+      "message": "షెడ్యూల్"
+   },
+   "helpViewUninstallDescription": {
+      "message": "పొడిగింపుల జాబితాలో నైట్ ఐని కనుగొని, తీసివేయి క్లిక్ చేయండి"
+   },
+   "helpViewUninstallTitle": {
+      "message": "అన్‌ఇన్‌స్టాల్ చేయండి"
+   },
+   "helpViewWhiteListButton": {
+      "message": "వైట్‌లిస్ట్"
+   },
+   "imageViewDescription": {
+      "message": "నైట్ ఐ చిత్రాలను ముదురు రంగులోకి మార్చేలా ప్రాసెస్ చేస్తుంది. ఈ లక్షణానికి మరింత గణన వనరులు అవసరం మరియు మీ కంప్యూటర్‌ను నెమ్మదించవచ్చు."
+   },
+   "imageViewTitle": {
+      "message": "చిత్రాలు"
+   },
+   "labelBlueLight": {
+      "message": "నీలి కాంతి"
+   },
+   "labelBrightness": {
+      "message": "ప్రకాశం"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "అంతర్నిర్మిత \u003Cbr>డార్క్ థీమ్"
+   },
+   "labelColors": {
+      "message": "రంగులు"
+   },
+   "labelContinue": {
+      "message": "కొనసాగించు"
+   },
+   "labelContrast": {
+      "message": "విరుద్ధంగా"
+   },
+   "labelCurrent": {
+      "message": "ప్రస్తుత"
+   },
+   "labelCustomCode": {
+      "message": "అనుకూల కోడ్"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> పేజీలను అనుకూలీకరించండి"
+   },
+   "labelDim": {
+      "message": "మసకగా"
+   },
+   "labelDisabled": {
+      "message": "వికలాంగుడు"
+   },
+   "labelEnabled": {
+      "message": "ప్రారంభించబడింది"
+   },
+   "labelExperimentalFeature": {
+      "message": "ప్రయోగాత్మక లక్షణం"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "నేపథ్యాల మార్పిడి"
+   },
+   "labelImageHighCPU": {
+      "message": "అధిక CPU వినియోగం"
+   },
+   "labelImageIconConversion": {
+      "message": "చిహ్నాల మార్పిడి"
+   },
+   "labelImages": {
+      "message": "చిత్రాలు"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "జాబితాను నిర్వహించండి"
+   },
+   "labelPleaseWait": {
+      "message": "దయచేసి వేచి ఉండండి"
+   },
+   "labelSaturation": {
+      "message": "సంతృప్తత"
+   },
+   "labelSubdomains": {
+      "message": "సబ్డొమైన్లు"
+   },
+   "labelTurboCache": {
+      "message": "స్థానిక కాష్"
+   },
+   "labelWebsite": {
+      "message": "వెబ్సైట్"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "ఈ వెబ్‌సైట్ డార్క్ మోడ్ జాబితాలో జోడించబడలేదు."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "డార్క్ వెర్షన్"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "ఫిల్టర్ చేసిన వెర్షన్"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "సాధారణ వెర్షన్"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "మద్దతు ఇవ్వ లేదు"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "ఈ వెబ్‌సైట్‌కు మద్దతు లేదు"
+   },
+   "okButton": {
+      "message": "అలాగే"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "దగ్గరగా"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "మీరు ఇప్పుడు 30 రోజులుగా Night Eyeని ఉపయోగిస్తున్నారు."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "ధన్యవాదాలు తెలుపుతూ, మాకు ప్రత్యేక 10% తగ్గింపు ఉంది. దయచేసి డిస్కౌంట్ కోడ్‌ని ఉపయోగించండి \u003Cdiv class=\"DiscountCode\">-\u003C/div> ఈ ఆఫర్ 48 గంటలపాటు చెల్లుబాటు అవుతుంది."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "మీ PRO వెర్షన్‌ని ఇప్పుడే పొందండి"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "మీకు ఆసక్తి లేకుంటే, \u003Cbr> మీకు ఉచిత ట్రయల్ నుండి \u003Cbr> మరో 2 నెలలు మిగిలి ఉన్నాయి. ఆనందించండి!"
+   },
+   "refreshButton": {
+      "message": "రిఫ్రెష్ చేయండి"
+   },
+   "refreshViewDescription": {
+      "message": "తాజా సెట్టింగ్‌లను వర్తింపజేయడానికి మీరు ప్రస్తుత పేజీని రిఫ్రెష్ చేయాలి"
+   },
+   "refreshViewTitle": {
+      "message": "దయచేసి పేజీని మళ్లీ లోడ్ చేయండి"
+   },
+   "saturationViewDescription": {
+      "message": "దిగువ స్లయిడర్‌ను లాగడం ద్వారా సంతృప్తతను సర్దుబాటు చేయండి."
+   },
+   "saturationViewTitle": {
+      "message": "సంతృప్తత"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "ఇప్పటికే డార్క్ UIని అమలు చేసిన వెబ్‌సైట్‌ల అంతర్నిర్మిత చీకటి థీమ్‌లను నియంత్రించడానికి డీప్ ఇంటిగ్రేషన్ మిమ్మల్ని అనుమతిస్తుంది."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "డీప్ ఇంటిగ్రేషన్ ఎలా పనిచేస్తుందో చూడండి"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ఇక్కడ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "లోతైన ఏకీకరణ"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "వికలాంగుడు"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "రాత్రి కన్ను చీకటి"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "నైట్ ఐ మీకు మృదువైన మరియు స్థిరమైన డార్క్ మోడ్‌ను అందించడానికి చిహ్నాలు మరియు నేపథ్యాల వంటి చిత్రాలను మారుస్తుంది."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "చిహ్నాలు మరియు నేపథ్యాల మార్పిడి అధిక CPU వినియోగంతో వస్తుంది."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "ఉత్తమ డార్క్ మోడ్ అనుభవం కోసం ఆన్ చేయండి."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU వినియోగాన్ని తగ్గించడానికి ఆఫ్ చేయండి."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "నైట్ ఐ ఈ డొమైన్‌లోని అన్ని సబ్‌డొమైన్‌లను మారుస్తుంది"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "మరింత ఎక్కువ వచనం"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "ఉత్తమ డార్క్ మోడ్ అనుభవం కోసం ఆన్ చేయండి."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU వినియోగాన్ని తగ్గించడానికి ఆఫ్ చేయండి."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "కాష్ వెబ్‌సైట్ సాధారణం నుండి డార్క్ మోడ్‌కి మార్పిడిని వేగవంతం చేస్తుంది (పేజీ లోడింగ్ వేగం ప్రభావితం కాదు). ఇది వెబ్‌సైట్‌ను బట్టి ప్రారంభ ప్రకాశవంతమైన ఫ్లాష్‌లను తగ్గించగలదు."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "కాష్ ఫీచర్ దాదాపు 80% వెబ్‌సైట్‌లలో పనిచేస్తుంది, కాబట్టి వెబ్‌సైట్ సరిగ్గా ప్రవర్తించకపోతే, దయచేసి దాని కోసం దాన్ని ఆఫ్ చేయండి!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "నిర్దిష్ట వెబ్‌సైట్‌కి లేదా మీరు సందర్శించే వారందరికీ వర్తించవచ్చు."
+   },
+   "subdomainViewDescription": {
+      "message": "నైట్ ఐ ఈ డొమైన్‌లోని అన్ని సబ్‌డొమైన్‌లను మారుస్తుంది"
+   },
+   "subdomainViewTitle": {
+      "message": "ఉపడొమైన్‌లు"
+   },
+   "supportViewContinueBtn": {
+      "message": "కొనసాగించు"
+   },
+   "supportViewInfo1": {
+      "message": "నైట్ ఐతో మీకు ఏవైనా ప్రశ్నలు లేదా సమస్యలు ఉంటే సహాయం చేయడానికి మేము ఇక్కడ ఉన్నాము."
+   },
+   "supportViewInfo2": {
+      "message": "మా మద్దతు వ్యవస్థను ఉపయోగించడానికి, దయచేసి సరైన సంప్రదింపు సమాచారాన్ని అందించండి."
+   },
+   "supportViewInfo3": {
+      "message": "మాకు ఆంగ్లంలో మాత్రమే సందేశం పంపండి."
+   },
+   "supportViewInputEmail": {
+      "message": "ఇమెయిల్"
+   },
+   "supportViewInputName": {
+      "message": "పేరు"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "దయచేసి వేచి ఉండండి..."
+   },
+   "switchLabelOff": {
+      "message": "ఆఫ్"
+   },
+   "switchLabelOn": {
+      "message": "పై"
+   },
+   "temperatureViewDescription": {
+      "message": "దిగువ స్లయిడర్‌ను లాగడం ద్వారా బ్లూ లైట్‌ని సర్దుబాటు చేయండి."
+   },
+   "temperatureViewOption1": {
+      "message": "నీలం రంగుతో"
+   },
+   "temperatureViewOption2": {
+      "message": "నీలం లేకుండా"
+   },
+   "temperatureViewTitle": {
+      "message": "నీలి కాంతి"
+   },
+   "tooltipDark": {
+      "message": "ఈ మోడ్‌ని ఉపయోగించి, ఎంచుకున్న సెట్టింగ్‌ల ఆధారంగా నైట్ ఐ రంగులను మారుస్తుంది"
+   },
+   "tooltipFiltered": {
+      "message": "ఈ మోడ్‌ని ఉపయోగించి, వెబ్‌సైట్ డిఫాల్ట్‌గా అనేక ఫిల్టర్‌ల ప్రభావంతో ఉంటుంది - ప్రకాశం, కాంట్రాస్ట్, సంతృప్తత, వెచ్చదనం/చల్లదనం, మసక"
+   },
+   "tooltipNormal": {
+      "message": "ఈ మోడ్‌ని ఉపయోగించి, వెబ్‌సైట్ డిఫాల్ట్‌గా ఉంటుంది, నైట్ ఐ ఏ రంగును మార్చదు"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "యాక్టివేట్ చేయండి"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "రద్దు చేయండి"
+   },
+   "trailActivationViewClientArea": {
+      "message": "క్లయింట్ యొక్క ప్రాంతం"
+   },
+   "trailActivationViewDescr": {
+      "message": "\u003Cbr>నైట్ ఐ ప్రోని యాక్టివేట్ చేయడానికి దయచేసి కొనుగోలు చేసేటప్పుడు మీరు ఉపయోగించిన ఇమెయిల్‌ని ఉపయోగించండి."
+   },
+   "trailActivationViewTitle": {
+      "message": "యాక్టివేషన్"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "రద్దు చేయండి"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "నియంత్రణ ప్యానెల్"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "నిష్క్రియం చేయండి"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "రాత్రి కన్ను మీ ఇ-మెయిల్ \u003Cb class=\"ActivatedEmail\">$1\u003C/b>తో అనుబంధించబడింది"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "మరిన్ని వివరాల కోసం, సందర్శించండి"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "మీరు ఈ బ్రౌజర్ కోసం \u003Cbr> నైట్ ఐని శాశ్వతంగా డియాక్టివేట్ చేయవచ్చు."
+   },
+   "trailLogoutViewTitle": {
+      "message": "యాక్టివేట్ చేయబడింది"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "కొనసాగించు"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "మీ \u003Cbr> ఉచిత ట్రయల్ గడువు $1తో ముగిసే వరకు మీరు ఒకేసారి 3 బ్రౌజర్‌లలో నైట్ ఐని ఆస్వాదించవచ్చు"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "మీరు ఒకేసారి గరిష్టంగా $1 బ్రౌజర్‌లలో నైట్ ఐని ఆస్వాదించవచ్చు."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "మీరు పొడిగింపును విజయవంతంగా సక్రియం చేసారు."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "మీరు ఒకేసారి గరిష్టంగా 3 బ్రౌజర్‌లలో నైట్ ఐని ఆస్వాదించవచ్చు."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "మీరు క్లయింట్ ఏరియాలో క్రియాశీల బ్రౌజర్‌లను నిర్వహించవచ్చు."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "దీన్ని యాక్సెస్ చేయడానికి, దయచేసి దీనికి వెళ్లండి"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "విజయవంతమైన యాక్టివేషన్"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "రద్దు చేయండి"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "గత నెలలుగా నైట్ ఐ దాని ఉపయోగాన్ని నిరూపించిందని మేము ఆశిస్తున్నాము!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "మీరు దీన్ని ఉపయోగించడం కొనసాగించాలనుకుంటే, మా ధర మరియు దానితో పాటు వచ్చే అన్ని ప్రయోజనాలను చూడండి."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "రాత్రి కన్ను మీ ఇ-మెయిల్‌తో అనుబంధించబడింది \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> మీరు చెల్లించాలని నిర్ణయించుకుంటే దాన్ని ఉపయోగించండి."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "ధర నిర్ణయించడం"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "ప్రో వెర్షన్"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "గత నెలలుగా నైట్ ఐ దాని ఉపయోగాన్ని నిరూపించిందని మేము ఆశిస్తున్నాము."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "మీరు ఎప్పటికీ ఉచిత లైట్ వెర్షన్‌ను ఉపయోగించవచ్చు లేదా ప్రోకి వెళ్లండి. మా ధర మరియు దానితో పాటు వచ్చే అన్ని ప్రయోజనాలను తనిఖీ చేయండి."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "లైట్ వెర్షన్"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "గరిష్టంగా 5 వెబ్‌సైట్‌లలో డార్క్ మోడ్"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "ప్రో వెర్షన్"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "అవధులు లేవు"
+   },
+   "trialExpiredViewTitle": {
+      "message": "మీ ఉచిత ట్రయల్ గడువు ముగిసింది."
+   },
+   "trialLiteViewCancel": {
+      "message": "రద్దు చేయండి"
+   },
+   "trialLiteViewGoPro": {
+      "message": "గో ప్రో (పరిమితులను తీసివేయి)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "డార్క్ మోడ్‌ను \u003Cbr> 5 వెబ్‌సైట్‌ల వరకు ప్రారంభించవచ్చు. మీరు జాబితాను నిర్వహించవచ్చు మరియు ఎప్పుడైనా మార్చవచ్చు."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "లైట్ వెర్షన్"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "లైట్ గురించి చదవండి"
+   },
+   "trialLiteViewSave": {
+      "message": "సేవ్ చేయండి"
+   },
+   "trialProViewActivateBtn": {
+      "message": "యాక్టివేట్ చేయండి"
+   },
+   "trialProViewActivateDescr": {
+      "message": "మీకు ఇప్పటికే ఖాతా ఉంటే,\u003C/br> దయచేసి దాన్ని సక్రియం చేయండి!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "రద్దు చేయండి"
+   },
+   "trialProViewDescrPart1": {
+      "message": "గత నెలలుగా నైట్ ఐ దాని ఉపయోగాన్ని నిరూపించిందని మేము ఆశిస్తున్నాము!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "మీరు దీన్ని ఉపయోగించడం కొనసాగించాలనుకుంటే, మా ధర మరియు దానితో పాటు వచ్చే అన్ని ప్రయోజనాలను చూడండి."
+   },
+   "trialProViewPricing": {
+      "message": "ధర నిర్ణయించడం"
+   },
+   "trialProViewTitle": {
+      "message": "ప్రో వెర్షన్"
+   }
+}

@@ -1,0 +1,4 @@
+.product-tile__image,
+img {
+    mix-blend-mode: unset !important;
+}

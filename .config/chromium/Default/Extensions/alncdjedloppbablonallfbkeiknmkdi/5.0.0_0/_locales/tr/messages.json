@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Aşağıdaki kaydırıcıyı sürükleyerek parlaklığı ayarlayın."
+   },
+   "brightnessViewTitle": {
+      "message": "Parlaklık"
+   },
+   "colorViewDescription": {
+      "message": "Web sitesinden bir renk seçin ve istediğiniz şekilde değiştirin."
+   },
+   "colorViewOriginalColor": {
+      "message": "orijinal"
+   },
+   "colorViewReplacedColor": {
+      "message": "Değiştirildi"
+   },
+   "colorViewTitle": {
+      "message": "Renk seçici"
+   },
+   "contrastViewDescription": {
+      "message": "Aşağıdaki kaydırıcıyı sürükleyerek kontrastı ayarlayın."
+   },
+   "contrastViewTitle": {
+      "message": "Zıtlık"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "tüm web siteleri"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Uygulamak"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Başvurmak"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "İptal"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Sıfırla"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Varsayılanları geri yükle"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "mevcut web sitesi"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "tüm web siteleri için"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "mevcut web sitesi için"
+   },
+   "dimViewDescription": {
+      "message": "Web sitelerinin karartma seviyesini ayarlayın."
+   },
+   "dimViewTitle": {
+      "message": "loş"
+   },
+   "extDescription": {
+      "message": "Her web sitesini istediğiniz gibi karanlık moda / ışık moduna geçirin. Gece Gözü ile gözlerinize iyi bakın."
+   },
+   "extDisabledStatus": {
+      "message": "Gece Gözü durduruldu"
+   },
+   "extName": {
+      "message": "Karanlık Mod - Gece Gözü"
+   },
+   "extToggleButton": {
+      "message": "Sekme için karanlık ve normal modu değiştirin"
+   },
+   "extTurnOnButton": {
+      "message": "Aç"
+   },
+   "filterModeNameDark": {
+      "message": "Karanlık"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrelenmiş"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Sayfa yükleme hızı etkilenebilir"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 aylık ücretsiz Night Eye Pro (kredi kartı yok)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Hiçbir tarama bilgisi toplanmaz"
+   },
+   "firstRunViewFeature4": {
+      "message": "Yerleşik sohbet yoluyla bize ulaşın"
+   },
+   "firstRunViewTitle": {
+      "message": "Hızlı başlangıç"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Daha fazla detay"
+   },
+   "helpViewActivateNow": {
+      "message": "Şimdi aktifleştir"
+   },
+   "helpViewActivated": {
+      "message": "Uzantınızı yönetin"
+   },
+   "helpViewByExpires": {
+      "message": "1$'a kadar \u003C/br>sona eriyor: 2$"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Müşteri Alanı"
+   },
+   "helpViewDarkScroll": {
+      "message": "Karanlık parşömenler"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Night Eye'ın herhangi bir kaydırmayı karartmasına izin verin."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Yeni web siteleri açarken yürütülecek varsayılan modu seçin"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Varsayılan mod"
+   },
+   "helpViewDisabled": {
+      "message": "Engelli"
+   },
+   "helpViewEnabled": {
+      "message": "Etkinleştirilmiş"
+   },
+   "helpViewExpiredNever": {
+      "message": "asla"
+   },
+   "helpViewExpires": {
+      "message": "1$'da sona eriyor"
+   },
+   "helpViewExportData": {
+      "message": "Verileri dışa aktar"
+   },
+   "helpViewGoProTitle": {
+      "message": "Profesyonel Olun"
+   },
+   "helpViewHelpButton": {
+      "message": "Yardım"
+   },
+   "helpViewImportData": {
+      "message": "Verileri içe aktar"
+   },
+   "helpViewLanguage": {
+      "message": "Dil"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Karanlık mod listesini yönet"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS Renk Şeması entegrasyonu"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Night Eye'ı aktif OS Renk düzeninizle senkronize edin."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Kendi kısayolunuzu nasıl atayacağınızı öğrenin"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Açık/Kapalı Kısayol"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Giriş yap Kayıt Ol"
+   },
+   "helpViewSignOut": {
+      "message": "Oturumu Kapat"
+   },
+   "helpViewTimerDescr": {
+      "message": "Nasıl çalışır"
+   },
+   "helpViewTimerOff": {
+      "message": "Kapalı"
+   },
+   "helpViewTimerOn": {
+      "message": "Açık"
+   },
+   "helpViewTimerTitle": {
+      "message": "Takvim"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Uzantılar listesinde Night Eye'ı bulun ve kaldır'ı tıklayın."
+   },
+   "helpViewUninstallTitle": {
+      "message": "Kaldır"
+   },
+   "helpViewWhiteListButton": {
+      "message": "beyaz liste"
+   },
+   "imageViewDescription": {
+      "message": "Gece Gözü, görüntüleri daha koyu hale getirerek işler. Bu özellik, daha fazla hesaplama kaynağı gerektirir ve bilgisayarınızı yavaşlatabilir."
+   },
+   "imageViewTitle": {
+      "message": "Görüntüler"
+   },
+   "labelBlueLight": {
+      "message": "Mavi ışık"
+   },
+   "labelBrightness": {
+      "message": "parlaklık"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "yerleşik \u003Cbr>karanlık tema"
+   },
+   "labelColors": {
+      "message": "renkler"
+   },
+   "labelContinue": {
+      "message": "Devam et"
+   },
+   "labelContrast": {
+      "message": "zıtlık"
+   },
+   "labelCurrent": {
+      "message": "Akım"
+   },
+   "labelCustomCode": {
+      "message": "özel kod"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> sayfalarını özelleştir"
+   },
+   "labelDim": {
+      "message": "loş"
+   },
+   "labelDisabled": {
+      "message": "Engelli"
+   },
+   "labelEnabled": {
+      "message": "Etkinleştirilmiş"
+   },
+   "labelExperimentalFeature": {
+      "message": "deneysel özellik"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Arka plan dönüştürme"
+   },
+   "labelImageHighCPU": {
+      "message": "Yüksek CPU tüketimi"
+   },
+   "labelImageIconConversion": {
+      "message": "Simge dönüştürme"
+   },
+   "labelImages": {
+      "message": "Görüntüler"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Listeyi yönet"
+   },
+   "labelPleaseWait": {
+      "message": "Lütfen bekle"
+   },
+   "labelSaturation": {
+      "message": "doyma"
+   },
+   "labelSubdomains": {
+      "message": "alt alanlar"
+   },
+   "labelTurboCache": {
+      "message": "yerel önbellek"
+   },
+   "labelWebsite": {
+      "message": "İnternet sitesi"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Bu web sitesi karanlık mod listesine eklenmedi."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Karanlık sürüm"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtrelenmiş sürüm"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normal sürüm"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Desteklenmiyor"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Bu web sitesi desteklenmiyor"
+   },
+   "okButton": {
+      "message": "TAMAM"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Kapat"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "30 gündür Gece Gözünü kullanıyorsunuz."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Teşekkür olarak %10 özel indirimimiz var. Lütfen indirim kodunu kullanın \u003Cdiv class=\"DiscountCode\">-\u003C/div> Bu teklif 48 saat geçerlidir."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "PRO sürümünüzü şimdi alın"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "İlgilenmiyorsanız,\u003Cbr> ücretsiz denemeden 2 ayınız kaldı \u003Cbr>. Zevk almak!"
+   },
+   "refreshButton": {
+      "message": "Yenile"
+   },
+   "refreshViewDescription": {
+      "message": "En son ayarları uygulamak için mevcut sayfayı yenilemeniz gerekir."
+   },
+   "refreshViewTitle": {
+      "message": "Lütfen sayfayı yenileyin"
+   },
+   "saturationViewDescription": {
+      "message": "Aşağıdaki kaydırıcıyı sürükleyerek doygunluğu ayarlayın."
+   },
+   "saturationViewTitle": {
+      "message": "Doyma"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Derin entegrasyon, zaten karanlık bir kullanıcı arayüzü uygulayan web sitelerinin yerleşik karanlık temalarını kontrol etmenizi sağlar."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Derin entegrasyonun nasıl çalıştığını görün"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "BURADA"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Derin entegrasyon"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Engelli"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Gece Göz karanlık"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Gece Gözü, size sorunsuz ve tutarlı karanlık mod sağlamak için simgeler ve arka planlar gibi görüntüleri dönüştürür."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Simgeler ve arka planlar dönüştürme, Yüksek CPU tüketimi ile birlikte gelir."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "En iyi karanlık mod deneyimi için AÇIK konuma getirin."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU tüketimini azaltmak için KAPATIN."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Gece Gözü bu alanın tüm alt alanlarını dönüştürecek"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Daha fazla metin"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "En iyi karanlık mod deneyimi için AÇIK konuma getirin."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU tüketimini azaltmak için KAPATIN."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Önbellek, web sitesi dönüşümünü Normal'den Karanlık Mod'a hızlandırır (sayfa yükleme hızı etkilenmez). Web sitesine bağlı olarak ilk parlak flaşları azaltabilir."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Önbellek özelliği, web sitelerinin yaklaşık %80'inde çalışır, bu nedenle bir web sitesi düzgün çalışmıyorsa lütfen kapatın!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Belirli bir web sitesine veya ziyaret ettiğiniz herkese uygulanabilir."
+   },
+   "subdomainViewDescription": {
+      "message": "Gece Gözü bu alanın tüm alt alanlarını dönüştürecek"
+   },
+   "subdomainViewTitle": {
+      "message": "alt alanlar"
+   },
+   "supportViewContinueBtn": {
+      "message": "Devam et"
+   },
+   "supportViewInfo1": {
+      "message": "Gece Gözü ile ilgili herhangi bir sorunuz veya sorununuz varsa size yardımcı olmak için buradayız."
+   },
+   "supportViewInfo2": {
+      "message": "Destek sistemimizi kullanmak için lütfen doğru iletişim bilgilerini sağlayın."
+   },
+   "supportViewInfo3": {
+      "message": "Bize sadece İngilizce mesaj atın."
+   },
+   "supportViewInputEmail": {
+      "message": "E-posta"
+   },
+   "supportViewInputName": {
+      "message": "İsim"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Lütfen bekle..."
+   },
+   "switchLabelOff": {
+      "message": "Kapalı"
+   },
+   "switchLabelOn": {
+      "message": "Açık"
+   },
+   "temperatureViewDescription": {
+      "message": "Aşağıdaki kaydırıcıyı sürükleyerek mavi ışığı ayarlayın."
+   },
+   "temperatureViewOption1": {
+      "message": "mavi ile"
+   },
+   "temperatureViewOption2": {
+      "message": "mavi olmadan"
+   },
+   "temperatureViewTitle": {
+      "message": "Mavi ışık"
+   },
+   "tooltipDark": {
+      "message": "Bu modu kullanarak, Gece Gözü seçilen ayarlara göre renkleri değiştirir"
+   },
+   "tooltipFiltered": {
+      "message": "Bu modu kullanarak, web sitesi varsayılan olarak artı birkaç filtrenin etkisi olacaktır - parlaklık, kontrast, doygunluk, sıcak/soğuk, loş"
+   },
+   "tooltipNormal": {
+      "message": "Bu modu kullanarak, web sitesi varsayılan olarak olacaktır, Gece Gözü herhangi bir rengi değiştirmeyecektir."
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "etkinleştir"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "İptal"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Müşteri Alanı"
+   },
+   "trailActivationViewDescr": {
+      "message": "Lütfen satın alırken kullandığınız e-postayı \u003Cbr>Night Eye Pro'yu etkinleştirmek için kullanın."
+   },
+   "trailActivationViewTitle": {
+      "message": "aktivasyon"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "İptal"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Kontrol Paneli"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Devre dışı bırakmak"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Gece gözü e-postanızla ilişkilendirildi \u003Cb class=\"ActivatedEmail\">1$\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Daha fazla ayrıntı için ziyaret edin"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Bu tarayıcı için \u003Cbr> Night Eye'ı kalıcı olarak devre dışı bırakabilirsiniz."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktif"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Devam et"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "\u003Cbr> Ücretsiz Deneme süreniz 1$'a kadar bitene kadar Night Eye'ın keyfini aynı anda en fazla 3 tarayıcıda çıkarabilirsiniz."
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Tek seferde 1$'a kadar tarayıcıda Night Eye'ın keyfini çıkarabilirsiniz."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Uzantıyı başarıyla etkinleştirdiniz."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Night Eye'ın keyfini aynı anda 3 tarayıcıya kadar çıkarabilirsiniz."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Aktif tarayıcıları İstemci Alanında yönetebilirsiniz."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Erişmek için lütfen şu adrese gidin:"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Başarılı Aktivasyon"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "İptal"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Night Eye'ın son aylarda faydasını kanıtladığını umuyoruz!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Kullanmaya devam etmek istiyorsanız, fiyatlandırmamıza ve beraberinde gelen tüm avantajlara göz atın."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye e-posta adresinizle ilişkilendirilir \u003Cb class=\"AccountEmail\">1$\u003C/b>\u003Cbr> ödemeye karar verirseniz bunu kullanın."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "fiyatlandırma"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Profesyonel sürüm"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Night Eye'ın son aylarda faydasını kanıtladığını umuyoruz."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Ücretsiz Lite sürümünü sonsuza kadar kullanabilir veya Pro'ya geçebilirsiniz. Fiyatlarımıza ve beraberinde gelen tüm avantajlara göz atın."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Basit sürüm"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5 web sitesine kadar karanlık mod"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Profesyonel sürüm"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Limit yok"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Ücretsiz deneme süreniz sona erdi."
+   },
+   "trialLiteViewCancel": {
+      "message": "İptal"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (sınırları kaldırın)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Karanlık Mod en fazla 5 web sitesinde etkinleştirilebilir. Listeyi yönetebilir ve istediğiniz zaman değiştirebilirsiniz."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Basit Sürüm"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lite hakkında bilgi edinin"
+   },
+   "trialLiteViewSave": {
+      "message": "Kaydetmek"
+   },
+   "trialProViewActivateBtn": {
+      "message": "etkinleştir"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Zaten bir hesabınız varsa,\u003C/br> lütfen etkinleştirin!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "İptal"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Night Eye'ın son aylarda faydasını kanıtladığını umuyoruz!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Kullanmaya devam etmek istiyorsanız, fiyatlandırmamıza ve beraberinde gelen tüm avantajlara göz atın."
+   },
+   "trialProViewPricing": {
+      "message": "fiyatlandırma"
+   },
+   "trialProViewTitle": {
+      "message": "Profesyonel sürüm"
+   }
+}

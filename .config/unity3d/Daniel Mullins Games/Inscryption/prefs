@@ -1,0 +1,17 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="OptionsData" type="string">ewogICAgIiRpZCI6IDAsCiAgICAiJHR5cGUiOiAiMHxPcHRpb25zU2F2ZURhdGEsIEFzc2VtYmx5LUNTaGFycCIsCiAgICAiZGlhbG9ndWVTcGVlZCI6IDMsCiAgICAibW91c2VTZW5zaXRpdml0eSI6IDEsCiAgICAiZ2FtbWEiOiAwLAogICAgIm5vaXNlRW5hYmxlZCI6IHRydWUsCiAgICAiZmxpY2tlcmluZ0Rpc2FibGVkIjogZmFsc2UsCiAgICAic2NyZWVuc2hha2VEaXNhYmxlZCI6IGZhbHNlLAogICAgIm1hc3RlclZvbHVtZSI6IDYsCiAgICAibXVzaWNWb2x1bWUiOiA2LAogICAgInNvdW5kVm9sdW1lIjogNiwKICAgICJydW5JbkJhY2tncm91bmQiOiBmYWxzZSwKICAgICJ1bmxvY2tDdXJzb3JGcm9tV2luZG93IjogZmFsc2UsCiAgICAidmlkZW9TdWJ0aXRsZXMiOiB0cnVlLAogICAgImxhbmd1YWdlIjogMCwKICAgICJmaXJzdFBsYXlTZXRTeXN0ZW1MYW5ndWFnZSI6IHRydWUKfQ==</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">720</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">768</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1280</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1024</pref>
+	<pref name="Screenmanager Window Position X" type="int">0</pref>
+	<pref name="Screenmanager Window Position Y" type="int">0</pref>
+	<pref name="UnityGraphicsQuality" type="int">2</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.player_session_count" type="string">NQ==</pref>
+	<pref name="unity.player_sessionid" type="string">NTk1NjUyNTExNTM3NjkwNzQ4MQ==</pref>
+</unity_prefs>

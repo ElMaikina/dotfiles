@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Προσαρμόστε τη φωτεινότητα σύροντας το ρυθμιστικό παρακάτω."
+   },
+   "brightnessViewTitle": {
+      "message": "Λάμψη"
+   },
+   "colorViewDescription": {
+      "message": "Διαλέξτε ένα χρώμα από τον ιστότοπο και αλλάξτε το σε ότι θέλετε."
+   },
+   "colorViewOriginalColor": {
+      "message": "Πρωτότυπο"
+   },
+   "colorViewReplacedColor": {
+      "message": "Αντικαταστάθηκε"
+   },
+   "colorViewTitle": {
+      "message": "Επιλογέας χρώματος"
+   },
+   "contrastViewDescription": {
+      "message": "Προσαρμόστε την αντίθεση σύροντας το ρυθμιστικό παρακάτω."
+   },
+   "contrastViewTitle": {
+      "message": "Αντίθεση"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "όλους τους ιστότοπους"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Ισχύουν"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Εφαρμόζω σε"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Ματαίωση"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Επαναφορά"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Επαναφέρετε τις προεπιλογές"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "τρέχουσα ιστοσελίδα"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "για όλους τους ιστότοπους"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "για τον τρέχοντα ιστότοπο"
+   },
+   "dimViewDescription": {
+      "message": "Προσαρμόστε το επίπεδο θαμπώματος των ιστότοπων."
+   },
+   "dimViewTitle": {
+      "message": "Αμυδρός"
+   },
+   "extDescription": {
+      "message": "Αλλάξτε κάθε ιστότοπο σε σκοτεινή / φωτεινή λειτουργία όπως επιθυμείτε. Φροντίστε τα μάτια σας με το Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Το Night Eye έχει σταματήσει"
+   },
+   "extName": {
+      "message": "Dark Mode - Night Eye"
+   },
+   "extToggleButton": {
+      "message": "Εναλλαγή σκοτεινής και κανονικής λειτουργίας για την καρτέλα"
+   },
+   "extTurnOnButton": {
+      "message": "Ανάβω"
+   },
+   "filterModeNameDark": {
+      "message": "Σκοτάδι"
+   },
+   "filterModeNameFiltered": {
+      "message": "Φιλτραρισμένο"
+   },
+   "filterModeNameNormal": {
+      "message": "Κανονικός"
+   },
+   "firstRunViewFeature1": {
+      "message": "Η ταχύτητα φόρτωσης της σελίδας μπορεί να επηρεαστεί"
+   },
+   "firstRunViewFeature2": {
+      "message": "Δωρεάν 3 μήνες Night Eye Pro (χωρίς πιστωτική κάρτα)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Δεν συλλέγονται πληροφορίες περιήγησης"
+   },
+   "firstRunViewFeature4": {
+      "message": "Επικοινωνήστε μαζί μας μέσω της ενσωματωμένης συνομιλίας"
+   },
+   "firstRunViewTitle": {
+      "message": "Γρήγορη εκίνηση"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Περισσότερες λεπτομέρειες"
+   },
+   "helpViewActivateNow": {
+      "message": "Ενεργοποίηση τώρα"
+   },
+   "helpViewActivated": {
+      "message": "Διαχειριστείτε την επέκτασή σας"
+   },
+   "helpViewByExpires": {
+      "message": "από $1 \u003C/br>λήγει: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Περιοχή πελατών"
+   },
+   "helpViewDarkScroll": {
+      "message": "Σκοτεινοί κύλινδροι"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Αφήστε το Night Eye να σκουρύνει οποιαδήποτε κύλιση."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Επιλέξτε την προεπιλεγμένη λειτουργία που θα εκτελεστεί όταν ανοίγετε νέους ιστότοπους"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Προεπιλεγμένη λειτουργία"
+   },
+   "helpViewDisabled": {
+      "message": "άτομα με ειδικές ανάγκες"
+   },
+   "helpViewEnabled": {
+      "message": "Ενεργοποιημένο"
+   },
+   "helpViewExpiredNever": {
+      "message": "ποτέ"
+   },
+   "helpViewExpires": {
+      "message": "Λήγει $1"
+   },
+   "helpViewExportData": {
+      "message": "Εξαγωγή δεδομένων"
+   },
+   "helpViewGoProTitle": {
+      "message": "Γίνε επαγγελματίας"
+   },
+   "helpViewHelpButton": {
+      "message": "Βοήθεια"
+   },
+   "helpViewImportData": {
+      "message": "Εισαγωγή δεδομένων"
+   },
+   "helpViewLanguage": {
+      "message": "Γλώσσα"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Διαχείριση λίστας σκοτεινών λειτουργιών"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Ενσωμάτωση συνδυασμού χρωμάτων λειτουργικού συστήματος"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Συγχρονίστε το Night Eye με τον ενεργό συνδυασμό χρωμάτων του λειτουργικού σας συστήματος."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Μάθετε πώς να εκχωρήσετε τη δική σας συντόμευση"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Συντόμευση ενεργοποίησης/απενεργοποίησης"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Είσοδος εγγραφή"
+   },
+   "helpViewSignOut": {
+      "message": "Αποσύνδεση"
+   },
+   "helpViewTimerDescr": {
+      "message": "Πως δουλεύει"
+   },
+   "helpViewTimerOff": {
+      "message": "Μακριά από"
+   },
+   "helpViewTimerOn": {
+      "message": "Επί"
+   },
+   "helpViewTimerTitle": {
+      "message": "Πρόγραμμα"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Βρείτε το Night Eye στη λίστα επεκτάσεων και κάντε κλικ στην κατάργηση"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Απεγκατάσταση"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Λευκή λίστα"
+   },
+   "imageViewDescription": {
+      "message": "Το Night Eye επεξεργάζεται τις εικόνες κάνοντας τις πιο σκοτεινές. Αυτή η δυνατότητα απαιτεί περισσότερους υπολογιστικούς πόρους και μπορεί να επιβραδύνει τον υπολογιστή σας."
+   },
+   "imageViewTitle": {
+      "message": "εικόνες"
+   },
+   "labelBlueLight": {
+      "message": "μπλε φως"
+   },
+   "labelBrightness": {
+      "message": "λάμψη"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "ενσωματωμένο \u003Cbr>σκούρο θέμα"
+   },
+   "labelColors": {
+      "message": "χρωματιστά"
+   },
+   "labelContinue": {
+      "message": "Να συνεχίσει"
+   },
+   "labelContrast": {
+      "message": "αντίθεση"
+   },
+   "labelCurrent": {
+      "message": "Ρεύμα"
+   },
+   "labelCustomCode": {
+      "message": "προσαρμοσμένος κωδικός"
+   },
+   "labelCustomUrlPath": {
+      "message": "προσαρμόστε τις σελίδες \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "αμυδρός"
+   },
+   "labelDisabled": {
+      "message": "άτομα με ειδικές ανάγκες"
+   },
+   "labelEnabled": {
+      "message": "Ενεργοποιημένο"
+   },
+   "labelExperimentalFeature": {
+      "message": "Πειραματικό χαρακτηριστικό"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Μετατροπή φόντου"
+   },
+   "labelImageHighCPU": {
+      "message": "Υψηλή κατανάλωση CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Μετατροπή εικονιδίων"
+   },
+   "labelImages": {
+      "message": "εικόνες"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Διαχειριστείτε τη λίστα"
+   },
+   "labelPleaseWait": {
+      "message": "Παρακαλώ περιμένετε"
+   },
+   "labelSaturation": {
+      "message": "κορεσμός"
+   },
+   "labelSubdomains": {
+      "message": "υποτομείς"
+   },
+   "labelTurboCache": {
+      "message": "τοπική κρυφή μνήμη"
+   },
+   "labelWebsite": {
+      "message": "δικτυακός τόπος"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Αυτός ο ιστότοπος δεν προστίθεται στη λίστα σκοτεινής λειτουργίας."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Σκοτεινή έκδοση"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Φιλτραρισμένη έκδοση"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Κανονική έκδοση"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Δεν υποστηρίζεται"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Αυτός ο ιστότοπος δεν υποστηρίζεται"
+   },
+   "okButton": {
+      "message": "Εντάξει"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Κλείσε"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Χρησιμοποιείτε το Night Eye εδώ και 30 ημέρες."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Ως ευχαριστώ, έχουμε μια ειδική έκπτωση 10%. Χρησιμοποιήστε τον εκπτωτικό κωδικό \u003Cdiv class=\"DiscountCode\">-\u003C/div> Αυτή η προσφορά ισχύει για 48 ώρες."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Αποκτήστε την έκδοση PRO τώρα"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Εάν δεν σας ενδιαφέρει,\u003Cbr> έχετε ακόμη 2 μήνες \u003Cbr> από τη δωρεάν δοκιμή. Απολαμβάνω!"
+   },
+   "refreshButton": {
+      "message": "Φρεσκάρω"
+   },
+   "refreshViewDescription": {
+      "message": "Πρέπει να ανανεώσετε την τρέχουσα σελίδα για να εφαρμόσετε τις πιο πρόσφατες ρυθμίσεις"
+   },
+   "refreshViewTitle": {
+      "message": "Επαναλάβετε τη φόρτωση της σελίδας"
+   },
+   "saturationViewDescription": {
+      "message": "Προσαρμόστε τον κορεσμό σύροντας το ρυθμιστικό παρακάτω."
+   },
+   "saturationViewTitle": {
+      "message": "Κορεσμός"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Η βαθιά ενοποίηση σάς επιτρέπει να ελέγχετε τα ενσωματωμένα σκοτεινά θέματα των ιστότοπων που έχουν ήδη εφαρμόσει μια σκοτεινή διεπαφή χρήστη."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Δείτε πώς λειτουργεί η Deep integration"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ΕΔΩ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Βαθιά ολοκλήρωση"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "άτομα με ειδικές ανάγκες"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Night Eye σκοτεινό"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Το Night Eye μετατρέπει εικόνες όπως εικονίδια και φόντο για να σας παρέχει ομαλή και συνεπή σκοτεινή λειτουργία."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Η μετατροπή εικονιδίων και φόντου συνοδεύεται από υψηλή κατανάλωση CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Ενεργοποιήστε για καλύτερη εμπειρία σκοτεινής λειτουργίας."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Απενεργοποιήστε για να μειώσετε την κατανάλωση της CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Το Night Eye θα μετατρέψει όλους τους υποτομείς αυτού του τομέα"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Περισσότερα κείμενο"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Ενεργοποιήστε για καλύτερη εμπειρία σκοτεινής λειτουργίας."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Απενεργοποιήστε για να μειώσετε την κατανάλωση της CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Η κρυφή μνήμη επιταχύνει τη μετατροπή του ιστότοπου από κανονική σε σκοτεινή λειτουργία (η ταχύτητα φόρτωσης της σελίδας δεν επηρεάζεται). Μπορεί να μειώσει τα αρχικά φωτεινά φλας, ανάλογα με τον ιστότοπο."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Η δυνατότητα προσωρινής αποθήκευσης λειτουργεί στο 80% περίπου των ιστότοπων, επομένως εάν ένας ιστότοπος δεν συμπεριφέρεται σωστά, απενεργοποιήστε τον!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Μπορεί να εφαρμοστεί σε συγκεκριμένο ιστότοπο ή σε όλους όσους επισκέπτεστε."
+   },
+   "subdomainViewDescription": {
+      "message": "Το Night Eye θα μετατρέψει όλους τους υποτομείς αυτού του τομέα"
+   },
+   "subdomainViewTitle": {
+      "message": "Υποτομείς"
+   },
+   "supportViewContinueBtn": {
+      "message": "Να συνεχίσει"
+   },
+   "supportViewInfo1": {
+      "message": "Είμαστε εδώ για να σας βοηθήσουμε εάν έχετε οποιεσδήποτε ερωτήσεις ή προβλήματα με το Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Για να χρησιμοποιήσετε το σύστημα υποστήριξής μας, δώστε τα σωστά στοιχεία επικοινωνίας."
+   },
+   "supportViewInfo3": {
+      "message": "Στείλτε μας μήνυμα μόνο στα Αγγλικά."
+   },
+   "supportViewInputEmail": {
+      "message": "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+   },
+   "supportViewInputName": {
+      "message": "Ονομα"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Παρακαλώ περιμένετε..."
+   },
+   "switchLabelOff": {
+      "message": "Μακριά από"
+   },
+   "switchLabelOn": {
+      "message": "Επί"
+   },
+   "temperatureViewDescription": {
+      "message": "Ρυθμίστε το μπλε φως σύροντας το ρυθμιστικό παρακάτω."
+   },
+   "temperatureViewOption1": {
+      "message": "Με μπλε"
+   },
+   "temperatureViewOption2": {
+      "message": "Χωρίς μπλε"
+   },
+   "temperatureViewTitle": {
+      "message": "Μπλε φως"
+   },
+   "tooltipDark": {
+      "message": "Χρησιμοποιώντας αυτήν τη λειτουργία, το Night Eye θα αλλάξει τα χρώματα με βάση τις επιλεγμένες ρυθμίσεις"
+   },
+   "tooltipFiltered": {
+      "message": "Χρησιμοποιώντας αυτήν τη λειτουργία, ο ιστότοπος θα έχει από προεπιλογή συν την επίδραση πολλών φίλτρων - φωτεινότητα, αντίθεση, κορεσμός, ζεστό/κρύο, αμυδρό"
+   },
+   "tooltipNormal": {
+      "message": "Χρησιμοποιώντας αυτήν τη λειτουργία, ο ιστότοπος θα είναι από προεπιλογή, το Night Eye δεν θα αλλάξει κανένα χρώμα"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Θέτω εις ενέργειαν"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Ματαίωση"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Περιοχή Πελάτη"
+   },
+   "trailActivationViewDescr": {
+      "message": "Χρησιμοποιήστε το email που χρησιμοποιήσατε κατά την αγορά για να ενεργοποιήσετε το \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Δραστηριοποίηση"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Ματαίωση"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Πίνακας Ελέγχου"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Απενεργοποίηση"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Το νυχτερινό μάτι σχετίζεται με το email σας \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Για περισσότερες λεπτομέρειες, επισκεφθείτε"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Μπορείτε να απενεργοποιήσετε οριστικά το \u003Cbr> Night Eye για αυτό το πρόγραμμα περιήγησης."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Ενεργοποιήθηκε"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Να συνεχίσει"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Μπορείτε να απολαύσετε το Night Eye σε έως και 3 προγράμματα περιήγησης ταυτόχρονα έως ότου λήξει η δωρεάν δοκιμή \u003Cbr> σε $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Μπορείτε να απολαύσετε το Night Eye σε προγράμματα περιήγησης έως και $1 ταυτόχρονα."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Έχετε ενεργοποιήσει με επιτυχία την επέκταση."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Μπορείτε να απολαύσετε το Night Eye σε έως και 3 προγράμματα περιήγησης ταυτόχρονα."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Μπορείτε να διαχειριστείτε τα ενεργά προγράμματα περιήγησης στην περιοχή πελατών."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Για πρόσβαση σε αυτό, μεταβείτε στο"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Επιτυχής ενεργοποίηση"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Ματαίωση"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Ελπίζουμε το Night Eye να απέδειξε τη χρησιμότητά του τους τελευταίους μήνες!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Εάν θέλετε να συνεχίσετε να το χρησιμοποιείτε, ρίξτε μια ματιά στις τιμές μας και όλα τα πλεονεκτήματα που έρχονται."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Το Night Eye σχετίζεται με το email σας \u003Cb class=\"AccountEmail\">1$\u003C/b>\u003Cbr> χρησιμοποιήστε το εάν αποφασίσετε να πληρώσετε."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Τιμολόγηση"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Έκδοση Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Ελπίζουμε ότι το Night Eye απέδειξε τη χρησιμότητά του τους τελευταίους μήνες."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Μπορείτε να χρησιμοποιήσετε τη δωρεάν έκδοση Lite για πάντα ή να πάτε Pro. Δείτε τις τιμές μας και όλα τα πλεονεκτήματα που συνοδεύουν."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite έκδοση"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Σκοτεινή λειτουργία σε έως και 5 ιστότοπους"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro έκδοση"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Χωρίς όρια"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Η δωρεάν δοκιμή σας έχει λήξει."
+   },
+   "trialLiteViewCancel": {
+      "message": "Ματαίωση"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (καταργήστε τα όρια)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Η Dark Mode μπορεί να ενεργοποιηθεί σε έως και \u003Cbr> 5 ιστότοπους. Μπορείτε να διαχειριστείτε τη λίστα και να την αλλάξετε ανά πάσα στιγμή."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite έκδοση"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Διαβάστε για το Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Αποθηκεύσετε"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Θέτω εις ενέργειαν"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Εάν έχετε ήδη λογαριασμό,\u003C/br> ενεργοποιήστε τον!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Ματαίωση"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Ελπίζουμε το Night Eye να απέδειξε τη χρησιμότητά του τους τελευταίους μήνες!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Εάν θέλετε να συνεχίσετε να το χρησιμοποιείτε, ρίξτε μια ματιά στις τιμές μας και όλα τα πλεονεκτήματα που έρχονται."
+   },
+   "trialProViewPricing": {
+      "message": "Τιμολόγηση"
+   },
+   "trialProViewTitle": {
+      "message": "Έκδοση Pro"
+   }
+}

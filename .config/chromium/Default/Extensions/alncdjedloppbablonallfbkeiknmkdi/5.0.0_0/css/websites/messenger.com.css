@@ -1,0 +1,45 @@
+:root {
+    --messenger-card-background: #28282F;
+}
+
+div[role="region"] li {
+    filter: invert(100%);
+}
+
+div[role="banner"] svg,
+div[role="button"] svg,
+a[role="button"] svg {
+    filter: invert(80%);
+}
+
+
+
+form div[role="button"] svg {
+    filter: none;
+}
+
+.uiScrollableAreaContent span svg {
+    filter: invert(80%);
+
+}
+
+div[data-testid="sticker"] svg {
+    filter: brightness(0%) contrast(80%);
+}
+
+div[data-testid="sticker"] svg mask rect,
+div[data-testid="sticker"] svg rect {
+    fill: white !important;
+}
+
+div[data-testid="sticker"] svg mask path {
+    fill: black !important;
+}
+
+div[data-testid="sticker"] svg~div {
+    background-color: rgb(0, 153, 255) !important;
+}
+
+mask circle {
+    fill: white !important;
+}

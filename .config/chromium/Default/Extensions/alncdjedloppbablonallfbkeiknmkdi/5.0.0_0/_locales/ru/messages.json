@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Отрегулируйте яркость, перетащив ползунок ниже."
+   },
+   "brightnessViewTitle": {
+      "message": "Яркость"
+   },
+   "colorViewDescription": {
+      "message": "Выберите цвет на веб-сайте и измените его на любой, какой пожелаете."
+   },
+   "colorViewOriginalColor": {
+      "message": "Оригинал"
+   },
+   "colorViewReplacedColor": {
+      "message": "Заменены"
+   },
+   "colorViewTitle": {
+      "message": "Выбор цвета"
+   },
+   "contrastViewDescription": {
+      "message": "Отрегулируйте контрастность, перетащив ползунок ниже."
+   },
+   "contrastViewTitle": {
+      "message": "Контраст"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "все сайты"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Подать заявление"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Применить к"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Отмена"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Перезагрузить"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Восстановить настройки по-умолчанию"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "текущий сайт"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "для всех сайтов"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "для текущего веб-сайта"
+   },
+   "dimViewDescription": {
+      "message": "Отрегулируйте уровень затемнения веб-сайтов."
+   },
+   "dimViewTitle": {
+      "message": "Тусклый"
+   },
+   "extDescription": {
+      "message": "Переключите каждый веб-сайт в темный/светлый режим по желанию. Позаботьтесь о своих глазах с Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Ночной глаз остановлен"
+   },
+   "extName": {
+      "message": "Темный режим — ночной глаз"
+   },
+   "extToggleButton": {
+      "message": "Переключить темный и нормальный режим для вкладки"
+   },
+   "extTurnOnButton": {
+      "message": "Включить"
+   },
+   "filterModeNameDark": {
+      "message": "Темный"
+   },
+   "filterModeNameFiltered": {
+      "message": "Отфильтровано"
+   },
+   "filterModeNameNormal": {
+      "message": "Обычный"
+   },
+   "firstRunViewFeature1": {
+      "message": "Скорость загрузки страницы может быть затронута"
+   },
+   "firstRunViewFeature2": {
+      "message": "Бесплатные 3 месяца Night Eye Pro (без кредитной карты)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Информация о просмотре не собирается"
+   },
+   "firstRunViewFeature4": {
+      "message": "Свяжитесь с нами через встроенный чат"
+   },
+   "firstRunViewTitle": {
+      "message": "Быстрый старт"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Подробнее"
+   },
+   "helpViewActivateNow": {
+      "message": "Активировать сейчас"
+   },
+   "helpViewActivated": {
+      "message": "Управляйте своим расширением"
+   },
+   "helpViewByExpires": {
+      "message": "на $1 \u003C/br>срок действия: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Клиентская зона"
+   },
+   "helpViewDarkScroll": {
+      "message": "Темные свитки"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Пусть Night Eye сделает любой свиток темным."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Выберите режим по умолчанию, который будет выполняться при открытии новых веб-сайтов."
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Режим по умолчанию"
+   },
+   "helpViewDisabled": {
+      "message": "Неполноценный"
+   },
+   "helpViewEnabled": {
+      "message": "Включено"
+   },
+   "helpViewExpiredNever": {
+      "message": "никогда"
+   },
+   "helpViewExpires": {
+      "message": "Истекает $1"
+   },
+   "helpViewExportData": {
+      "message": "Экспорт данных"
+   },
+   "helpViewGoProTitle": {
+      "message": "Стать профессионалом"
+   },
+   "helpViewHelpButton": {
+      "message": "Помощь"
+   },
+   "helpViewImportData": {
+      "message": "Импорт данных"
+   },
+   "helpViewLanguage": {
+      "message": "Язык"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Управление списком темного режима"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Интеграция цветовой схемы ОС"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Синхронизируйте Night Eye с цветовой схемой вашей активной ОС."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Узнайте, как назначить собственный ярлык"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Вкл/выкл ярлык"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Войти Зарегистрироваться"
+   },
+   "helpViewSignOut": {
+      "message": "Выход"
+   },
+   "helpViewTimerDescr": {
+      "message": "Как это работает"
+   },
+   "helpViewTimerOff": {
+      "message": "Выключенный"
+   },
+   "helpViewTimerOn": {
+      "message": "На"
+   },
+   "helpViewTimerTitle": {
+      "message": "Расписание"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Найдите Night Eye в списке расширений и нажмите «Удалить»."
+   },
+   "helpViewUninstallTitle": {
+      "message": "Удалить"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Белый список"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye обрабатывает изображения, делая их темнее. Эта функция требует больше вычислительных ресурсов и может замедлить работу компьютера."
+   },
+   "imageViewTitle": {
+      "message": "Картинки"
+   },
+   "labelBlueLight": {
+      "message": "синий свет"
+   },
+   "labelBrightness": {
+      "message": "яркость"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "встроенная темная тема"
+   },
+   "labelColors": {
+      "message": "цвета"
+   },
+   "labelContinue": {
+      "message": "Продолжать"
+   },
+   "labelContrast": {
+      "message": "контраст"
+   },
+   "labelCurrent": {
+      "message": "Текущий"
+   },
+   "labelCustomCode": {
+      "message": "пользовательский код"
+   },
+   "labelCustomUrlPath": {
+      "message": "настроить \u003Cbr> страницы"
+   },
+   "labelDim": {
+      "message": "тусклый"
+   },
+   "labelDisabled": {
+      "message": "Неполноценный"
+   },
+   "labelEnabled": {
+      "message": "Включено"
+   },
+   "labelExperimentalFeature": {
+      "message": "Экспериментальная функция"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Преобразование фонов"
+   },
+   "labelImageHighCPU": {
+      "message": "Высокое потребление процессора"
+   },
+   "labelImageIconConversion": {
+      "message": "Преобразование иконок"
+   },
+   "labelImages": {
+      "message": "картинки"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Управление списком"
+   },
+   "labelPleaseWait": {
+      "message": "Пожалуйста подождите"
+   },
+   "labelSaturation": {
+      "message": "насыщенность"
+   },
+   "labelSubdomains": {
+      "message": "поддомены"
+   },
+   "labelTurboCache": {
+      "message": "локальный кеш"
+   },
+   "labelWebsite": {
+      "message": "Веб-сайт"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Этот веб-сайт не добавлен в список темного режима."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Темная версия"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Отфильтрованная версия"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Обычная версия"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Не поддерживается"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Этот сайт не поддерживается"
+   },
+   "okButton": {
+      "message": "ХОРОШО"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Закрывать"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Вы используете Night Eye уже 30 дней."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "В качестве благодарности у нас действует специальная скидка 10%. Пожалуйста, используйте код скидки \u003Cdiv class=\"DiscountCode\">-\u003C/div> Это предложение действительно в течение 48 часов."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Получите PRO-версию прямо сейчас"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Если вы не заинтересованы,\u003Cbr> у вас осталось еще 2 месяца \u003Cbr> до окончания бесплатной пробной версии. Наслаждаться!"
+   },
+   "refreshButton": {
+      "message": "Обновить"
+   },
+   "refreshViewDescription": {
+      "message": "Вы должны обновить текущую страницу, чтобы применить последние настройки"
+   },
+   "refreshViewTitle": {
+      "message": "Пожалуйста, перезагрузите страницу"
+   },
+   "saturationViewDescription": {
+      "message": "Отрегулируйте насыщенность, перетащив ползунок ниже."
+   },
+   "saturationViewTitle": {
+      "message": "Насыщенность"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Глубокая интеграция позволяет вам управлять встроенными темными темами веб-сайтов, на которых уже реализован темный пользовательский интерфейс."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Посмотрите, как работает глубокая интеграция"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ЗДЕСЬ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Глубокая интеграция"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Неполноценный"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Ночной глаз темный"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye преобразует изображения, такие как значки и фоны, чтобы предоставить вам плавный и согласованный темный режим."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Преобразование значков и фонов связано с высокой загрузкой процессора."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Включите для лучшего темного режима."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Выключите, чтобы уменьшить потребление процессора."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye преобразует все поддомены этого домена"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Еще больше текста"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Включите для лучшего темного режима."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Выключите, чтобы уменьшить потребление процессора."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Кэш ускоряет конвертацию сайта из нормального в темный режим (на скорость загрузки страницы не влияет). Это может уменьшить начальные яркие вспышки, в зависимости от веб-сайта."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Функция кеша работает примерно на 80% веб-сайтов, поэтому, если веб-сайт не работает должным образом, отключите ее!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Может применяться к конкретному веб-сайту или ко всем, которые вы посещаете."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye преобразует все поддомены этого домена"
+   },
+   "subdomainViewTitle": {
+      "message": "Субдомены"
+   },
+   "supportViewContinueBtn": {
+      "message": "Продолжать"
+   },
+   "supportViewInfo1": {
+      "message": "Мы здесь, чтобы помочь, если у вас есть какие-либо вопросы или проблемы с Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Чтобы использовать нашу систему поддержки, пожалуйста, предоставьте правильную контактную информацию."
+   },
+   "supportViewInfo3": {
+      "message": "Пишите нам только на английском."
+   },
+   "supportViewInputEmail": {
+      "message": "Эл. адрес"
+   },
+   "supportViewInputName": {
+      "message": "Имя"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Пожалуйста подождите..."
+   },
+   "switchLabelOff": {
+      "message": "Выключенный"
+   },
+   "switchLabelOn": {
+      "message": "На"
+   },
+   "temperatureViewDescription": {
+      "message": "Отрегулируйте синий свет, перетащив ползунок ниже."
+   },
+   "temperatureViewOption1": {
+      "message": "С синим"
+   },
+   "temperatureViewOption2": {
+      "message": "Без синего"
+   },
+   "temperatureViewTitle": {
+      "message": "Синий свет"
+   },
+   "tooltipDark": {
+      "message": "В этом режиме Night Eye будет менять цвета в зависимости от выбранных настроек."
+   },
+   "tooltipFiltered": {
+      "message": "При использовании этого режима сайт будет по умолчанию плюс эффект нескольких фильтров - яркость, контрастность, насыщенность, теплый/холодный, тусклый"
+   },
+   "tooltipNormal": {
+      "message": "При использовании этого режима веб-сайт будет отображаться по умолчанию, Night Eye не изменит цвет."
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Активировать"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Отмена"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Зона клиента"
+   },
+   "trailActivationViewDescr": {
+      "message": "Пожалуйста, используйте адрес электронной почты, который вы использовали при совершении покупки, чтобы активировать Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Активация"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Отмена"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Панель управления"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Деактивировать"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Ночной глаз связан с вашим адресом электронной почты \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Для получения более подробной информации посетите"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Вы можете навсегда деактивировать \u003Cbr> Night Eye для этого браузера."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Активировано"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Продолжать"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Вы можете пользоваться Night Eye в трех браузерах одновременно, пока не истечет срок действия бесплатной пробной версии \u003Cbr> за 1 доллар США."
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Вы можете наслаждаться Night Eye одновременно в браузерах стоимостью до 1 доллара."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Вы успешно активировали расширение."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Вы можете наслаждаться Night Eye в трех браузерах одновременно."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Вы можете управлять активными браузерами в Личном кабинете."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Чтобы получить к нему доступ, перейдите на"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Успешная активация"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Отмена"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Мы надеемся, что Night Eye доказал свою полезность за последние месяцы!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Если вы хотите продолжить использовать его, ознакомьтесь с нашими ценами и всеми сопутствующими преимуществами."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye связан с вашим адресом электронной почты \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr>, используйте его, если решите заплатить."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Цены"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Про версия"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Мы надеемся, что Night Eye доказал свою полезность за последние месяцы."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Вы можете использовать бесплатную версию Lite навсегда или перейти на Pro. Ознакомьтесь с нашими ценами и всеми сопутствующими преимуществами."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "облегченная версия"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Темный режим на 5 веб-сайтах"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Про версия"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Без ограничений"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Срок действия вашей бесплатной пробной версии истек."
+   },
+   "trialLiteViewCancel": {
+      "message": "Отмена"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (снять ограничения)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Темный режим можно включить на \u003Cbr> 5 веб-сайтах. Вы можете управлять списком и изменять его в любое время."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Облегченная версия"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Читать о Лайт"
+   },
+   "trialLiteViewSave": {
+      "message": "Сохранять"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Активировать"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Если у вас уже есть аккаунт,\u003C/br> активируйте его!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Отмена"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Мы надеемся, что Night Eye доказал свою полезность за последние месяцы!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Если вы хотите продолжить использовать его, ознакомьтесь с нашими ценами и всеми сопутствующими преимуществами."
+   },
+   "trialProViewPricing": {
+      "message": "Цены"
+   },
+   "trialProViewTitle": {
+      "message": "Про версия"
+   }
+}

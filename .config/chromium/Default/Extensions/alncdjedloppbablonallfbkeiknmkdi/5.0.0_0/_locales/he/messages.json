@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "התאם את הבהירות על ידי גרירת המחוון למטה."
+   },
+   "brightnessViewTitle": {
+      "message": "בְּהִירוּת"
+   },
+   "colorViewDescription": {
+      "message": "בחרו צבע מהאתר ושנו אותו למה שתרצו."
+   },
+   "colorViewOriginalColor": {
+      "message": "מְקוֹרִי"
+   },
+   "colorViewReplacedColor": {
+      "message": "הוחלף"
+   },
+   "colorViewTitle": {
+      "message": "בוחר הצבעים"
+   },
+   "contrastViewDescription": {
+      "message": "התאם את הניגודיות על ידי גרירת המחוון למטה."
+   },
+   "contrastViewTitle": {
+      "message": "בניגוד"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "כל אתרי האינטרנט"
+   },
+   "controlsPanelButtonApply": {
+      "message": "להגיש מועמדות"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "הגשת בקשה ל"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "לְבַטֵל"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "אִתחוּל"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "לשחזר את ברירות מחדל"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "האתר הנוכחי"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "עבור כל אתרי האינטרנט"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "לאתר הנוכחי"
+   },
+   "dimViewDescription": {
+      "message": "התאם את רמת העמעום של אתרי האינטרנט."
+   },
+   "dimViewTitle": {
+      "message": "עָמוּם"
+   },
+   "extDescription": {
+      "message": "העבר כל אתר למצב כהה / מצב בהיר לפי הצורך. שמור על העיניים שלך עם Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "עין הלילה נעצרת"
+   },
+   "extName": {
+      "message": "מצב כהה - עין לילה"
+   },
+   "extToggleButton": {
+      "message": "החלף מצב כהה ורגיל עבור הכרטיסייה"
+   },
+   "extTurnOnButton": {
+      "message": "להדליק"
+   },
+   "filterModeNameDark": {
+      "message": "אפל"
+   },
+   "filterModeNameFiltered": {
+      "message": "מְסוּנָן"
+   },
+   "filterModeNameNormal": {
+      "message": "נוֹרמָלִי"
+   },
+   "firstRunViewFeature1": {
+      "message": "מהירות טעינת העמוד עשויה להיות מושפעת"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 חודשים חינם של Night Eye Pro (ללא כרטיס אשראי)"
+   },
+   "firstRunViewFeature3": {
+      "message": "לא נאסף מידע גלישה"
+   },
+   "firstRunViewFeature4": {
+      "message": "צרו קשר דרך הצ'אט המובנה"
+   },
+   "firstRunViewTitle": {
+      "message": "התחלה מהירה"
+   },
+   "helpOSIntegrationLink": {
+      "message": "פרטים נוספים"
+   },
+   "helpViewActivateNow": {
+      "message": "הפעל עכשיו"
+   },
+   "helpViewActivated": {
+      "message": "נהל את ההרחבה שלך"
+   },
+   "helpViewByExpires": {
+      "message": "עד $1 \u003C/br>יפוג: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "אזור לקוחות"
+   },
+   "helpViewDarkScroll": {
+      "message": "מגילות כהות"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "תן ל-Night Eye להפוך כל מגילה לכהה."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "בחר את מצב ברירת המחדל שיבוצע בעת פתיחת אתרים חדשים"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "מצב ברירת מחדל"
+   },
+   "helpViewDisabled": {
+      "message": "נָכֶה"
+   },
+   "helpViewEnabled": {
+      "message": "מופעל"
+   },
+   "helpViewExpiredNever": {
+      "message": "לעולם לא"
+   },
+   "helpViewExpires": {
+      "message": "פג תוקף של $1"
+   },
+   "helpViewExportData": {
+      "message": "ייצוא נתונים"
+   },
+   "helpViewGoProTitle": {
+      "message": "להתמקצע"
+   },
+   "helpViewHelpButton": {
+      "message": "עֶזרָה"
+   },
+   "helpViewImportData": {
+      "message": "ייבוא נתונים"
+   },
+   "helpViewLanguage": {
+      "message": "שפה"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "נהל רשימת מצבים כהים"
+   },
+   "helpViewOSColorScheme": {
+      "message": "אינטגרציה של מערכת הצבעים של מערכת ההפעלה"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "סנכרן את Night Eye עם ערכת הצבעים הפעילה של מערכת ההפעלה שלך."
+   },
+   "helpViewShortcutDescription": {
+      "message": "גלה כיצד להקצות קיצור דרך משלך"
+   },
+   "helpViewShortcutTitle": {
+      "message": "קיצור להפעלה/כיבוי"
+   },
+   "helpViewSignInSignUp": {
+      "message": "התחבר הרשם"
+   },
+   "helpViewSignOut": {
+      "message": "התנתק"
+   },
+   "helpViewTimerDescr": {
+      "message": "איך זה עובד"
+   },
+   "helpViewTimerOff": {
+      "message": "כבוי"
+   },
+   "helpViewTimerOn": {
+      "message": "עַל"
+   },
+   "helpViewTimerTitle": {
+      "message": "לוח זמנים"
+   },
+   "helpViewUninstallDescription": {
+      "message": "מצא את Night Eye ברשימת התוספים ולחץ על הסר"
+   },
+   "helpViewUninstallTitle": {
+      "message": "הסר את ההתקנה"
+   },
+   "helpViewWhiteListButton": {
+      "message": "רשימת הלבנים"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye מעבד תמונות מה שהופך אותן לכהות יותר. תכונה זו דורשת משאבי חישוב רבים יותר ויכולה להאט את המחשב שלך."
+   },
+   "imageViewTitle": {
+      "message": "תמונות"
+   },
+   "labelBlueLight": {
+      "message": "אור כחול"
+   },
+   "labelBrightness": {
+      "message": "בְּהִירוּת"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "ערכת נושא כהה מובנית"
+   },
+   "labelColors": {
+      "message": "צבעים"
+   },
+   "labelContinue": {
+      "message": "לְהַמשִׁיך"
+   },
+   "labelContrast": {
+      "message": "בניגוד"
+   },
+   "labelCurrent": {
+      "message": "נוֹכְחִי"
+   },
+   "labelCustomCode": {
+      "message": "קוד מותאם אישית"
+   },
+   "labelCustomUrlPath": {
+      "message": "התאמה אישית של דפי \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "עָמוּם"
+   },
+   "labelDisabled": {
+      "message": "נָכֶה"
+   },
+   "labelEnabled": {
+      "message": "מופעל"
+   },
+   "labelExperimentalFeature": {
+      "message": "תכונה נסיונית"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "המרת רקעים"
+   },
+   "labelImageHighCPU": {
+      "message": "צריכת CPU גבוהה"
+   },
+   "labelImageIconConversion": {
+      "message": "המרת סמלים"
+   },
+   "labelImages": {
+      "message": "תמונות"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "נהל את הרשימה"
+   },
+   "labelPleaseWait": {
+      "message": "המתן בבקשה"
+   },
+   "labelSaturation": {
+      "message": "רִוּוּי"
+   },
+   "labelSubdomains": {
+      "message": "תת-דומיינים"
+   },
+   "labelTurboCache": {
+      "message": "מטמון מקומי"
+   },
+   "labelWebsite": {
+      "message": "אתר אינטרנט"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "אתר זה אינו נוסף ברשימת המצבים האפלים."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "גרסה אפלה"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "גרסה מסוננת"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "גרסה רגילה"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "אינו נתמך"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "אתר זה אינו נתמך"
+   },
+   "okButton": {
+      "message": "בסדר"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "סגור"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "אתה משתמש ב-Night Eye כבר 30 יום."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "בתור תודה, יש לנו הנחה מיוחדת של 10%. אנא השתמש בקוד ההנחה \u003Cdiv class=\"DiscountCode\">-\u003C/div> מבצע זה תקף ל-48 שעות."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "קבל את גרסת ה-PRO שלך עכשיו"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "אם אינך מעוניין,\u003Cbr> נותרו לך עוד חודשיים \u003Cbr> מתקופת הניסיון החינמית. תהנה!"
+   },
+   "refreshButton": {
+      "message": "לְרַעֲנֵן"
+   },
+   "refreshViewDescription": {
+      "message": "עליך לרענן את הדף הנוכחי כדי להחיל את ההגדרות העדכניות ביותר"
+   },
+   "refreshViewTitle": {
+      "message": "טען מחדש את העמוד בבקשה"
+   },
+   "saturationViewDescription": {
+      "message": "התאם את הרוויה על ידי גרירת המחוון למטה."
+   },
+   "saturationViewTitle": {
+      "message": "רִוּוּי"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "אינטגרציה עמוקה מאפשרת לך לשלוט בנושאים האפלים המובנים של אתרי האינטרנט שכבר הטמיעו ממשק משתמש אפל."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ראה כיצד אינטגרציה עמוקה עובדת"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "כאן"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "אינטגרציה עמוקה"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "נָכֶה"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "עין לילה כהה"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye ממירה תמונות כגון סמלים ורקעים כדי לספק לך מצב כהה חלק ועקבי."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "המרת סמלים ורקע מגיעה עם צריכת מעבד גבוהה."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "הפעל עבור חוויית מצב כהה הטובה ביותר."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "כבה כדי להפחית את צריכת המעבד."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye תמיר את כל תת-הדומיינים של התחום הזה"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "עוד טקסט נוסף"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "הפעל עבור חוויית מצב כהה הטובה ביותר."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "כבה כדי להפחית את צריכת המעבד."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "המטמון מאיץ את המרת האתר ממצב רגיל למצב כהה (מהירות טעינת העמוד אינה מושפעת). זה יכול להפחית את ההבזקים הבהירים הראשוניים, בהתאם לאתר."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "תכונת המטמון פועלת בכ-80% מהאתרים, לכן אם אתר אינטרנט אינו מתנהג כראוי, אנא כבה אותו עבורו!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "ניתן להחיל על אתר ספציפי או על כל מה שאתה מבקר."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye תמיר את כל תת-הדומיינים של התחום הזה"
+   },
+   "subdomainViewTitle": {
+      "message": "תת-דומיינים"
+   },
+   "supportViewContinueBtn": {
+      "message": "לְהַמשִׁיך"
+   },
+   "supportViewInfo1": {
+      "message": "אנחנו כאן כדי לעזור אם יש לך שאלות או בעיות עם Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "כדי להשתמש במערכת התמיכה שלנו, אנא ספק פרטי קשר נכונים."
+   },
+   "supportViewInfo3": {
+      "message": "שלח לנו הודעה רק באנגלית."
+   },
+   "supportViewInputEmail": {
+      "message": "אימייל"
+   },
+   "supportViewInputName": {
+      "message": "שֵׁם"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "המתן בבקשה..."
+   },
+   "switchLabelOff": {
+      "message": "כבוי"
+   },
+   "switchLabelOn": {
+      "message": "עַל"
+   },
+   "temperatureViewDescription": {
+      "message": "התאם את האור הכחול על ידי גרירת המחוון למטה."
+   },
+   "temperatureViewOption1": {
+      "message": "עם כחול"
+   },
+   "temperatureViewOption2": {
+      "message": "בלי כחול"
+   },
+   "temperatureViewTitle": {
+      "message": "אור כחול"
+   },
+   "tooltipDark": {
+      "message": "באמצעות מצב זה, Night Eye תשנה צבעים על סמך הגדרות נבחרות"
+   },
+   "tooltipFiltered": {
+      "message": "בשימוש במצב זה, האתר יהיה כברירת מחדל פלוס אפקט של מספר מסננים - בהירות, ניגודיות, רוויה, חם/קר, עמום"
+   },
+   "tooltipNormal": {
+      "message": "בשימוש במצב זה, האתר יהיה כברירת מחדל, Night Eye לא ישנה שום צבע"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "לְהַפְעִיל"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "לְבַטֵל"
+   },
+   "trailActivationViewClientArea": {
+      "message": "אזור הלקוח"
+   },
+   "trailActivationViewDescr": {
+      "message": "אנא השתמש באימייל שבו השתמשת בעת ביצוע הרכישה כדי להפעיל את \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "הַפעָלָה"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "לְבַטֵל"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "לוח בקרה"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "השבת"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "עין לילה משויכת לאימייל שלך \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "לפרטים נוספים, בקר"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "אתה יכול לבטל לצמיתות את \u003Cbr> Night Eye עבור דפדפן זה."
+   },
+   "trailLogoutViewTitle": {
+      "message": "מוּפעָל"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "לְהַמשִׁיך"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "אתה יכול ליהנות מ-Night Eye בעד 3 דפדפנים בו-זמנית עד שתפוג תקופת הניסיון בחינם של \u003Cbr> ב-$1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "אתה יכול ליהנות מ-Night Eye בדפדפנים של עד $1 בבת אחת."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "הפעלת בהצלחה את התוסף."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "אתה יכול ליהנות מ-Night Eye בעד 3 דפדפנים בו-זמנית."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "אתה יכול לנהל את הדפדפנים הפעילים באזור הלקוח."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "כדי לגשת אליו, נא עבור אל"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "הפעלה מוצלחת"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "לְבַטֵל"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "אנו מקווים ש-Night Eye הוכיח את השימושיות שלו בחודשים האחרונים!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "אם אתה רוצה להמשיך להשתמש בו, בדוק את התמחור שלנו ואת כל היתרונות הנלווים."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye משויך לאימייל שלך \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> השתמש בו אם תחליט לשלם."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "תמחור"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "גרסת פרו"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "אנו מקווים ש-Night Eye הוכיח את השימושיות שלו בחודשים האחרונים."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "אתה יכול להשתמש בגרסת Lite החינמית לנצח או ללכת ל-Pro. בדוק את התמחור שלנו ואת כל היתרונות הנלווים."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "גרסת לייט"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "מצב כהה בעד 5 אתרים"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "גרסת פרו"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "ללא גבולות"
+   },
+   "trialExpiredViewTitle": {
+      "message": "פג תוקף תקופת הניסיון בחינם שלך."
+   },
+   "trialLiteViewCancel": {
+      "message": "לְבַטֵל"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (הסר את המגבלות)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "ניתן להפעיל מצב כהה בעד \u003Cbr> 5 אתרים. אתה יכול לנהל את הרשימה ולשנות אותה בכל עת."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "גרסת לייט"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "קרא על Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "להציל"
+   },
+   "trialProViewActivateBtn": {
+      "message": "לְהַפְעִיל"
+   },
+   "trialProViewActivateDescr": {
+      "message": "אם כבר יש לך חשבון,\u003C/br> אנא הפעל אותו!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "לְבַטֵל"
+   },
+   "trialProViewDescrPart1": {
+      "message": "אנו מקווים ש-Night Eye הוכיח את השימושיות שלו בחודשים האחרונים!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "אם אתה רוצה להמשיך להשתמש בו, בדוק את התמחור שלנו ואת כל היתרונות הנלווים."
+   },
+   "trialProViewPricing": {
+      "message": "תמחור"
+   },
+   "trialProViewTitle": {
+      "message": "גרסת פרו"
+   }
+}

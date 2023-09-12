@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Reguleerige heledust, lohistades allolevat liugurit."
+   },
+   "brightnessViewTitle": {
+      "message": "Heledus"
+   },
+   "colorViewDescription": {
+      "message": "Valige veebisaidilt värv ja muutke see sobivaks."
+   },
+   "colorViewOriginalColor": {
+      "message": "Originaal"
+   },
+   "colorViewReplacedColor": {
+      "message": "Vahetatud"
+   },
+   "colorViewTitle": {
+      "message": "Värvivalija"
+   },
+   "contrastViewDescription": {
+      "message": "Reguleerige kontrasti, lohistades allolevat liugurit."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "kõik veebisaidid"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Rakenda"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Rakendama"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Tühista"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Lähtesta"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Taasta algsed sätted"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "praegune veebisait"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "kõigi veebisaitide jaoks"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "praeguse veebisaidi jaoks"
+   },
+   "dimViewDescription": {
+      "message": "Reguleerige veebisaitide hämardamise taset."
+   },
+   "dimViewTitle": {
+      "message": "Hämar"
+   },
+   "extDescription": {
+      "message": "Lülitage iga veebisait vastavalt soovile tumedale / heledale režiimile. Hoolitse oma silmade eest Night Eye'iga."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye on peatatud"
+   },
+   "extName": {
+      "message": "Tume režiim – öösilm"
+   },
+   "extToggleButton": {
+      "message": "Vahelehe tume- ja tavarežiimi vahetamine"
+   },
+   "extTurnOnButton": {
+      "message": "Lülitage sisse"
+   },
+   "filterModeNameDark": {
+      "message": "Tume"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtreeritud"
+   },
+   "filterModeNameNormal": {
+      "message": "Tavaline"
+   },
+   "firstRunViewFeature1": {
+      "message": "See võib mõjutada lehe laadimise kiirust"
+   },
+   "firstRunViewFeature2": {
+      "message": "Night Eye Pro 3 kuud tasuta (krediitkaardita)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Sirvimisteavet ei koguta"
+   },
+   "firstRunViewFeature4": {
+      "message": "Võtke meiega ühendust sisseehitatud vestluse kaudu"
+   },
+   "firstRunViewTitle": {
+      "message": "Kiire algus"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Rohkem detaile"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktiveeri kohe"
+   },
+   "helpViewActivated": {
+      "message": "Hallake oma laiendust"
+   },
+   "helpViewByExpires": {
+      "message": "1 $ võrra \u003C/br>aegub: 2 $"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Kliendiala"
+   },
+   "helpViewDarkScroll": {
+      "message": "Tumedad rullid"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Laske Night Eye'il kõik rullid tumedaks muuta."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Valige uute veebisaitide avamisel käivitatav vaikerežiim"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Vaikerežiim"
+   },
+   "helpViewDisabled": {
+      "message": "Keelatud"
+   },
+   "helpViewEnabled": {
+      "message": "Lubatud"
+   },
+   "helpViewExpiredNever": {
+      "message": "mitte kunagi"
+   },
+   "helpViewExpires": {
+      "message": "Aegub 1 $"
+   },
+   "helpViewExportData": {
+      "message": "Ekspordi andmed"
+   },
+   "helpViewGoProTitle": {
+      "message": "Mine Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Abi"
+   },
+   "helpViewImportData": {
+      "message": "Andmete importimine"
+   },
+   "helpViewLanguage": {
+      "message": "Keel"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Tumeda režiimi loendi haldamine"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS-i värviskeemi integreerimine"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sünkroonige Night Eye oma aktiivse OS-i värviskeemiga."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Siit saate teada, kuidas määrata oma otsetee"
+   },
+   "helpViewShortcutTitle": {
+      "message": "On/Off otsetee"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Logi sisse / Registreeru"
+   },
+   "helpViewSignOut": {
+      "message": "Logi välja"
+   },
+   "helpViewTimerDescr": {
+      "message": "Kuidas see töötab"
+   },
+   "helpViewTimerOff": {
+      "message": "Väljas"
+   },
+   "helpViewTimerOn": {
+      "message": "Peal"
+   },
+   "helpViewTimerTitle": {
+      "message": "Ajakava"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Otsige laienduste loendist üles Night Eye ja klõpsake nuppu Eemalda"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Desinstallige"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Valge nimekiri"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye töötleb pilte, muutes need tumedamaks. See funktsioon nõuab rohkem arvutusressursse ja võib teie arvutit aeglustada."
+   },
+   "imageViewTitle": {
+      "message": "Pildid"
+   },
+   "labelBlueLight": {
+      "message": "sinine valgus"
+   },
+   "labelBrightness": {
+      "message": "heledus"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "sisseehitatud \u003Cbr>tume teema"
+   },
+   "labelColors": {
+      "message": "värvid"
+   },
+   "labelContinue": {
+      "message": "Jätka"
+   },
+   "labelContrast": {
+      "message": "kontrast"
+   },
+   "labelCurrent": {
+      "message": "Praegune"
+   },
+   "labelCustomCode": {
+      "message": "kohandatud kood"
+   },
+   "labelCustomUrlPath": {
+      "message": "kohandada \u003Cbr> lehti"
+   },
+   "labelDim": {
+      "message": "hämar"
+   },
+   "labelDisabled": {
+      "message": "Keelatud"
+   },
+   "labelEnabled": {
+      "message": "Lubatud"
+   },
+   "labelExperimentalFeature": {
+      "message": "Eksperimentaalne funktsioon"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Taustade teisendamine"
+   },
+   "labelImageHighCPU": {
+      "message": "Suur protsessori tarbimine"
+   },
+   "labelImageIconConversion": {
+      "message": "Ikoonide teisendamine"
+   },
+   "labelImages": {
+      "message": "pilte"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Hallake loendit"
+   },
+   "labelPleaseWait": {
+      "message": "Palun oota"
+   },
+   "labelSaturation": {
+      "message": "küllastus"
+   },
+   "labelSubdomains": {
+      "message": "alamdomeene"
+   },
+   "labelTurboCache": {
+      "message": "kohalik vahemälu"
+   },
+   "labelWebsite": {
+      "message": "veebisait"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Seda veebisaiti ei ole pimeda režiimi loendisse lisatud."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Tume versioon"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtreeritud versioon"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Tavaline versioon"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Ei toetata"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Seda veebisaiti ei toetata"
+   },
+   "okButton": {
+      "message": "Okei"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Sulge"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Olete Night Eye'i kasutanud nüüdseks 30 päeva."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Tänutäheks on meil eriline 10% allahindlus. Palun kasutage sooduskoodi \u003Cdiv class=\"DiscountCode\">-\u003C/div> Pakkumine kehtib 48 tundi."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Hankige oma PRO versioon kohe"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Kui te ei ole huvitatud,\u003Cbr> teil on tasuta prooviperioodist jäänud veel 2 kuud \u003Cbr>. Nautige!"
+   },
+   "refreshButton": {
+      "message": "Värskenda"
+   },
+   "refreshViewDescription": {
+      "message": "Uusimate seadete rakendamiseks peate praegust lehte värskendama"
+   },
+   "refreshViewTitle": {
+      "message": "Palun laadige leht uuesti"
+   },
+   "saturationViewDescription": {
+      "message": "Reguleerige küllastust, lohistades allolevat liugurit."
+   },
+   "saturationViewTitle": {
+      "message": "Küllastus"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Sügav integreerimine võimaldab teil juhtida tumeda kasutajaliidese juba juurutanud veebisaitide sisseehitatud tumedaid teemasid."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Vaadake, kuidas sügav integreerimine töötab"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "SIIN"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Sügav integratsioon"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Keelatud"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Öö Silm tume"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye teisendab pilte, nagu ikoonid ja taustad, et pakkuda teile sujuvat ja ühtlast tumedat režiimi."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Ikoonide ja taustade teisendamisega kaasneb suur protsessorikulu."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Parima tumeda režiimi kogemuse saamiseks lülitage see SISSE."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Protsessori tarbimise vähendamiseks lülitage see VÄLJA."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye teisendab kõik selle domeeni alamdomeenid"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Veel rohkem teksti"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Parima tumeda režiimi kogemuse saamiseks lülitage see SISSE."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Protsessori tarbimise vähendamiseks lülitage see VÄLJA."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Vahemälu kiirendab veebisaidi teisendamist tavarežiimist tumedaks (lehe laadimiskiirust see ei mõjuta). See võib olenevalt veebisaidist vähendada esialgseid eredaid sähvatusi."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Vahemälu funktsioon töötab umbes 80% veebisaitidel, seega kui veebisait ei käitu korralikult, lülitage see selle jaoks välja!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Saab rakendada konkreetsele veebisaidile või kõigile, mida külastate."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye teisendab kõik selle domeeni alamdomeenid"
+   },
+   "subdomainViewTitle": {
+      "message": "Alamdomeenid"
+   },
+   "supportViewContinueBtn": {
+      "message": "Jätka"
+   },
+   "supportViewInfo1": {
+      "message": "Oleme valmis aitama, kui teil on Night Eye'iga seotud küsimusi või probleeme."
+   },
+   "supportViewInfo2": {
+      "message": "Meie tugisüsteemi kasutamiseks esitage õiged kontaktandmed."
+   },
+   "supportViewInfo3": {
+      "message": "Kirjuta meile ainult inglise keeles."
+   },
+   "supportViewInputEmail": {
+      "message": "Meil"
+   },
+   "supportViewInputName": {
+      "message": "Nimi"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Palun oota..."
+   },
+   "switchLabelOff": {
+      "message": "Väljas"
+   },
+   "switchLabelOn": {
+      "message": "Peal"
+   },
+   "temperatureViewDescription": {
+      "message": "Reguleerige sinist valgust, lohistades allolevat liugurit."
+   },
+   "temperatureViewOption1": {
+      "message": "Sinise värviga"
+   },
+   "temperatureViewOption2": {
+      "message": "Ilma siniseta"
+   },
+   "temperatureViewTitle": {
+      "message": "Sinine valgus"
+   },
+   "tooltipDark": {
+      "message": "Seda režiimi kasutades muudab Night Eye värve valitud sätete alusel"
+   },
+   "tooltipFiltered": {
+      "message": "Seda režiimi kasutades on veebisaidil vaikimisi mitme filtri efekt – heledus, kontrast, küllastus, soe/külm, hämar"
+   },
+   "tooltipNormal": {
+      "message": "Seda režiimi kasutades on veebisait vaikimisi, Night Eye ei muuda ühtegi värvi"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktiveerige"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Tühista"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Kliendi piirkond"
+   },
+   "trailActivationViewDescr": {
+      "message": "Kasutage rakenduse Night Eye Pro aktiveerimiseks ostu sooritamisel kasutatud e-posti aadressi."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktiveerimine"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Tühista"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Kontrollpaneel"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deaktiveeri"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Öösilm on seotud teie e-postiga \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Lisateabe saamiseks külastage"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Saate selle brauseri jaoks rakenduse Night Eye jäädavalt deaktiveerida."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktiveeritud"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Jätka"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Saate nautida Night Eye'i korraga kuni kolmes brauseris, kuni teie \u003Cbr> tasuta prooviperiood aegub 1 dollariga"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Saate nautida Night Eye'i korraga kuni $1 brauserites."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Olete laienduse edukalt aktiveerinud."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Saate nautida Night Eye'i korraga kuni kolmes brauseris."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Aktiivseid brausereid saate hallata kliendialal."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Sellele juurdepääsuks minge aadressile"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Edukas aktiveerimine"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Tühista"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Loodame, et Night Eye on viimastel kuudel oma kasulikkust tõestanud!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Kui soovite selle kasutamist jätkata, vaadake meie hindu ja kõiki kaasnevaid eeliseid."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye on seotud teie e-postiga. \u003Cb class=\"AccountEmail\">1 $\u003C/b>\u003Cbr> kasutage seda, kui otsustate maksta."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Hinnakujundus"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro versioon"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Loodame, et Night Eye on viimastel kuudel oma kasulikkust tõestanud."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Saate kasutada tasuta Lite versiooni igavesti või minna Pro-le. Vaadake meie hindu ja kõiki kaasnevaid eeliseid."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite versioon"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Tume režiim kuni 5 veebisaidil"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro versioon"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Piiranguid pole"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Teie tasuta prooviperiood on aegunud."
+   },
+   "trialLiteViewCancel": {
+      "message": "Tühista"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (eemaldage piirangud)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Tume režiimi saab lubada kuni \u003Cbr> 5 veebisaidil. Saate loendit hallata ja seda igal ajal muuta."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite versioon"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lugege Lite kohta"
+   },
+   "trialLiteViewSave": {
+      "message": "Salvesta"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktiveerige"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Kui teil juba on konto,\u003C/br> aktiveerige see!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Tühista"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Loodame, et Night Eye on viimastel kuudel oma kasulikkust tõestanud!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Kui soovite selle kasutamist jätkata, vaadake meie hindu ja kõiki kaasnevaid eeliseid."
+   },
+   "trialProViewPricing": {
+      "message": "Hinnakujundus"
+   },
+   "trialProViewTitle": {
+      "message": "Pro versioon"
+   }
+}

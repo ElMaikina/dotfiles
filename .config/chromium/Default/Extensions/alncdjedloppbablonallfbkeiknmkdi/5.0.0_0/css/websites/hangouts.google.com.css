@@ -1,0 +1,9 @@
+div[style*='background-image'],
+a[href*='products'] {
+    filter: none !important;
+}
+
+button[title],
+button svg {
+    filter: invert(80%);
+}

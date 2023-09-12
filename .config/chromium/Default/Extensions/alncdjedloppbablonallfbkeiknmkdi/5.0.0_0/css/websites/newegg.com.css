@@ -1,0 +1,4 @@
+.show-img-bg .goods-img>img,
+.show-img-bg .goods-img:not(.bg-lightgray) {
+    mix-blend-mode: normal !important;
+}

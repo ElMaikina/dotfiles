@@ -1,0 +1,13 @@
+td {
+    background: none !important;
+}
+
+img[name="center_tablebg_top_r1_c1"],
+img[name="center_tablebg_top_r2_c1"],
+img[src*='left_table_top.jpg'] {
+    opacity: 0;
+}
+
+img[src*='current_conditions.jpg'] {
+    filter: invert(95%);
+}

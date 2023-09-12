@@ -1,0 +1,15 @@
+img[src*='gstatic.com'][role] {
+    filter: invert(85%);
+}
+
+header img[src*='gstatic.com'][role] {
+    filter: none;
+}
+
+.NE_Hidden:after {
+    display: none;
+}
+
+div[role="row"] div[role="slider"] {
+    background-color: red !important;
+}

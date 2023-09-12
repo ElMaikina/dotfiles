@@ -1,0 +1,11 @@
+/* Google Maps */
+[class*="maps-sprite"],
+.widget-settings-button-icon-default,
+button:before {
+    filter: invert(85%);
+}
+
+.ripple-container .widget-expand-button-label,
+div[style*="maps.gstatic"] {
+    filter: none !important;
+}

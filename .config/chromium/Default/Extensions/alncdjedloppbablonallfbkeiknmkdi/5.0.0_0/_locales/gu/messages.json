@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "નીચે સ્લાઇડરને ખેંચીને તેજને સમાયોજિત કરો."
+   },
+   "brightnessViewTitle": {
+      "message": "તેજ"
+   },
+   "colorViewDescription": {
+      "message": "વેબસાઇટમાંથી એક રંગ ચૂંટો અને તેને તમે જે ઈચ્છો તેમાં બદલો."
+   },
+   "colorViewOriginalColor": {
+      "message": "મૂળ"
+   },
+   "colorViewReplacedColor": {
+      "message": "બદલી"
+   },
+   "colorViewTitle": {
+      "message": "રંગ પીકર"
+   },
+   "contrastViewDescription": {
+      "message": "નીચેના સ્લાઇડરને ખેંચીને કોન્ટ્રાસ્ટને સમાયોજિત કરો."
+   },
+   "contrastViewTitle": {
+      "message": "કોન્ટ્રાસ્ટ"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "બધી વેબસાઇટ્સ"
+   },
+   "controlsPanelButtonApply": {
+      "message": "અરજી કરો"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "અરજી કરવી"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "રદ કરો"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "રીસેટ કરો"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "મૂળભૂત પુન: સ્થાપના"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "વર્તમાન વેબસાઇટ"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "બધી વેબસાઇટ્સ માટે"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "વર્તમાન વેબસાઇટ માટે"
+   },
+   "dimViewDescription": {
+      "message": "વેબસાઇટ્સના ઝાંખા સ્તરને સમાયોજિત કરો."
+   },
+   "dimViewTitle": {
+      "message": "મંદ"
+   },
+   "extDescription": {
+      "message": "દરેક વેબસાઈટને ઈચ્છા મુજબ ડાર્ક મોડ/લાઈટ મોડ પર સ્વિચ કરો. નાઇટ આઇ વડે તમારી આંખોની સંભાળ રાખો."
+   },
+   "extDisabledStatus": {
+      "message": "નાઇટ આઇ બંધ છે"
+   },
+   "extName": {
+      "message": "ડાર્ક મોડ - નાઇટ આઇ"
+   },
+   "extToggleButton": {
+      "message": "ટેબ માટે ડાર્ક અને નોર્મલ મોડને ટૉગલ કરો"
+   },
+   "extTurnOnButton": {
+      "message": "ચાલુ કરો"
+   },
+   "filterModeNameDark": {
+      "message": "શ્યામ"
+   },
+   "filterModeNameFiltered": {
+      "message": "ફિલ્ટર કરેલ"
+   },
+   "filterModeNameNormal": {
+      "message": "સામાન્ય"
+   },
+   "firstRunViewFeature1": {
+      "message": "પૃષ્ઠ લોડ કરવાની ગતિ પ્રભાવિત થઈ શકે છે"
+   },
+   "firstRunViewFeature2": {
+      "message": "નાઇટ આઇ પ્રો 3 મહિના મફત (કોઈ ક્રેડિટ કાર્ડ નહીં)"
+   },
+   "firstRunViewFeature3": {
+      "message": "કોઈ બ્રાઉઝિંગ માહિતી એકત્રિત કરવામાં આવતી નથી"
+   },
+   "firstRunViewFeature4": {
+      "message": "બિલ્ટ-ઇન ચેટ દ્વારા અમારો સંપર્ક કરો"
+   },
+   "firstRunViewTitle": {
+      "message": "ઝડપી શરૂઆત"
+   },
+   "helpOSIntegrationLink": {
+      "message": "વધુ વિગતો"
+   },
+   "helpViewActivateNow": {
+      "message": "હવે સક્રિય કરો"
+   },
+   "helpViewActivated": {
+      "message": "તમારું એક્સ્ટેંશન મેનેજ કરો"
+   },
+   "helpViewByExpires": {
+      "message": "$1 દ્વારા \u003C/br>સમાપ્ત થાય છે: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "ગ્રાહક વિસ્તાર"
+   },
+   "helpViewDarkScroll": {
+      "message": "ડાર્ક સ્ક્રોલ"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "નાઇટ આઇને કોઈપણ સ્ક્રોલને અંધારામાં ફેરવવા દો."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "નવી વેબસાઇટ્સ ખોલતી વખતે એક્ઝિક્યુટ કરવા માટેનો ડિફોલ્ટ મોડ પસંદ કરો"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "ડિફૉલ્ટ મોડ"
+   },
+   "helpViewDisabled": {
+      "message": "અક્ષમ"
+   },
+   "helpViewEnabled": {
+      "message": "સક્ષમ"
+   },
+   "helpViewExpiredNever": {
+      "message": "ક્યારેય"
+   },
+   "helpViewExpires": {
+      "message": "$1 સમાપ્ત થાય છે"
+   },
+   "helpViewExportData": {
+      "message": "ડેટા નિકાસ કરો"
+   },
+   "helpViewGoProTitle": {
+      "message": "પ્રો જાઓ"
+   },
+   "helpViewHelpButton": {
+      "message": "મદદ"
+   },
+   "helpViewImportData": {
+      "message": "ડેટા આયાત કરો"
+   },
+   "helpViewLanguage": {
+      "message": "ભાષા"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "ડાર્ક મોડ લિસ્ટ મેનેજ કરો"
+   },
+   "helpViewOSColorScheme": {
+      "message": "ઓએસ કલર સ્કીમ એકીકરણ"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "તમારી સક્રિય OS કલર સ્કીમ સાથે નાઇટ આઇને સિંક કરો."
+   },
+   "helpViewShortcutDescription": {
+      "message": "તમારો પોતાનો શોર્ટકટ કેવી રીતે સોંપવો તે શોધો"
+   },
+   "helpViewShortcutTitle": {
+      "message": "શૉર્ટકટ ચાલુ/બંધ"
+   },
+   "helpViewSignInSignUp": {
+      "message": "સાઇન ઇન / સાઇન અપ કરો"
+   },
+   "helpViewSignOut": {
+      "message": "સાઇન આઉટ કરો"
+   },
+   "helpViewTimerDescr": {
+      "message": "તે કેવી રીતે કામ કરે છે"
+   },
+   "helpViewTimerOff": {
+      "message": "બંધ"
+   },
+   "helpViewTimerOn": {
+      "message": "ચાલુ"
+   },
+   "helpViewTimerTitle": {
+      "message": "અનુસૂચિ"
+   },
+   "helpViewUninstallDescription": {
+      "message": "એક્સ્ટેંશન સૂચિમાં નાઇટ આઇ શોધો અને દૂર કરો ક્લિક કરો"
+   },
+   "helpViewUninstallTitle": {
+      "message": "અનઇન્સ્ટોલ કરો"
+   },
+   "helpViewWhiteListButton": {
+      "message": "વ્હાઇટલિસ્ટ"
+   },
+   "imageViewDescription": {
+      "message": "નાઇટ આઇ છબીઓ પર પ્રક્રિયા કરે છે જે તેમને ઘાટા બનાવે છે. આ સુવિધા માટે વધુ કોમ્પ્યુટેશનલ સંસાધનોની જરૂર છે અને તે તમારા કમ્પ્યુટરને ધીમું કરી શકે છે."
+   },
+   "imageViewTitle": {
+      "message": "છબીઓ"
+   },
+   "labelBlueLight": {
+      "message": "વાદળી પ્રકાશ"
+   },
+   "labelBrightness": {
+      "message": "તેજ"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "બિલ્ટ-ઇન \u003Cbr>ડાર્ક થીમ"
+   },
+   "labelColors": {
+      "message": "રંગો"
+   },
+   "labelContinue": {
+      "message": "ચાલુ રાખો"
+   },
+   "labelContrast": {
+      "message": "વિપરીત"
+   },
+   "labelCurrent": {
+      "message": "વર્તમાન"
+   },
+   "labelCustomCode": {
+      "message": "કસ્ટમ કોડ"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> પૃષ્ઠોને કસ્ટમાઇઝ કરો"
+   },
+   "labelDim": {
+      "message": "મંદ"
+   },
+   "labelDisabled": {
+      "message": "અક્ષમ"
+   },
+   "labelEnabled": {
+      "message": "સક્ષમ"
+   },
+   "labelExperimentalFeature": {
+      "message": "પ્રાયોગિક લક્ષણ"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "પૃષ્ઠભૂમિ રૂપાંતર"
+   },
+   "labelImageHighCPU": {
+      "message": "ઉચ્ચ CPU વપરાશ"
+   },
+   "labelImageIconConversion": {
+      "message": "ચિહ્નો રૂપાંતર"
+   },
+   "labelImages": {
+      "message": "છબીઓ"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "સૂચિનું સંચાલન કરો"
+   },
+   "labelPleaseWait": {
+      "message": "મહેરબાની કરી રાહ જુવો"
+   },
+   "labelSaturation": {
+      "message": "સંતૃપ્તિ"
+   },
+   "labelSubdomains": {
+      "message": "સબડોમેન્સ"
+   },
+   "labelTurboCache": {
+      "message": "સ્થાનિક કેશ"
+   },
+   "labelWebsite": {
+      "message": "વેબસાઇટ"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "આ વેબસાઇટ ડાર્ક મોડ લિસ્ટમાં ઉમેરવામાં આવી નથી."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "ડાર્ક વર્ઝન"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "ફિલ્ટર કરેલ સંસ્કરણ"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "સામાન્ય સંસ્કરણ"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "સપોર્ટેડ નથી"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "આ વેબસાઇટ સપોર્ટેડ નથી"
+   },
+   "okButton": {
+      "message": "બરાબર"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "બંધ"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "તમે હવે 30 દિવસથી નાઇટ આઇનો ઉપયોગ કરી રહ્યાં છો."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "આભાર તરીકે, અમારી પાસે વિશેષ 10% ડિસ્કાઉન્ટ છે. કૃપા કરીને ડિસ્કાઉન્ટ કોડનો ઉપયોગ કરો \u003Cdiv class=\"DiscountCode\">-\u003C/div> આ ઑફર 48 કલાક માટે માન્ય છે."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "હવે તમારું PRO સંસ્કરણ મેળવો"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "જો તમને રસ ન હોય, તો તમારી પાસે મફત અજમાયશમાંથી \u003Cbr> વધુ 2 મહિના બાકી છે. આનંદ માણો!"
+   },
+   "refreshButton": {
+      "message": "તાજું કરો"
+   },
+   "refreshViewDescription": {
+      "message": "નવીનતમ સેટિંગ્સ લાગુ કરવા માટે તમારે વર્તમાન પૃષ્ઠને તાજું કરવું પડશે"
+   },
+   "refreshViewTitle": {
+      "message": "કૃપા કરીને પૃષ્ઠને ફરીથી લોડ કરો"
+   },
+   "saturationViewDescription": {
+      "message": "નીચેના સ્લાઇડરને ખેંચીને સંતૃપ્તિને સમાયોજિત કરો."
+   },
+   "saturationViewTitle": {
+      "message": "સંતૃપ્તિ"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "ડીપ ઇન્ટિગ્રેશન તમને વેબસાઇટ્સની બિલ્ટ-ઇન ડાર્ક થીમ્સને નિયંત્રિત કરવાની મંજૂરી આપે છે જેણે પહેલેથી જ ડાર્ક UI લાગુ કર્યું છે."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ડીપ ઇન્ટિગ્રેશન કેવી રીતે કામ કરે છે તે જુઓ"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "અહીં"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "ઊંડા એકીકરણ"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "અક્ષમ"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "રાત્રે આંખ અંધારું"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "નાઇટ આઇ તમને સરળ અને સુસંગત ડાર્ક મોડ પ્રદાન કરવા માટે આઇકોન અને બેકગ્રાઉન્ડ જેવી છબીઓને કન્વર્ટ કરે છે."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "ચિહ્નો અને પૃષ્ઠભૂમિ રૂપાંતરણ ઉચ્ચ CPU વપરાશ સાથે આવે છે."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "શ્રેષ્ઠ ડાર્ક મોડ અનુભવ માટે ચાલુ કરો."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU વપરાશ ઘટાડવા માટે બંધ કરો."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "નાઇટ આઇ આ ડોમેનના તમામ સબડોમેન્સ કન્વર્ટ કરશે"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "વધુ વધુ ટેક્સ્ટ"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "શ્રેષ્ઠ ડાર્ક મોડ અનુભવ માટે ચાલુ કરો."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU વપરાશ ઘટાડવા માટે બંધ કરો."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "કેશ સામાન્યથી ડાર્ક મોડમાં વેબસાઈટના રૂપાંતરણને ઝડપી બનાવે છે (પૃષ્ઠ લોડ કરવાની ઝડપને અસર થતી નથી). તે વેબસાઈટ પર આધાર રાખીને, પ્રારંભિક તેજસ્વી સામાચારો ઘટાડી શકે છે."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "કેશ સુવિધા લગભગ 80% વેબસાઇટ્સ પર કામ કરે છે, આમ જો વેબસાઇટ યોગ્ય રીતે વર્તે નહીં, તો કૃપા કરીને તેના માટે તેને બંધ કરો!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "ચોક્કસ વેબસાઇટ પર અથવા તમે મુલાકાત લો છો તે બધા પર લાગુ કરી શકાય છે."
+   },
+   "subdomainViewDescription": {
+      "message": "નાઇટ આઇ આ ડોમેનના તમામ સબડોમેન્સ કન્વર્ટ કરશે"
+   },
+   "subdomainViewTitle": {
+      "message": "સબડોમેન્સ"
+   },
+   "supportViewContinueBtn": {
+      "message": "ચાલુ રાખો"
+   },
+   "supportViewInfo1": {
+      "message": "જો તમને નાઈટ આઈ સાથે કોઈ પ્રશ્નો અથવા સમસ્યા હોય તો અમે મદદ કરવા માટે અહીં છીએ."
+   },
+   "supportViewInfo2": {
+      "message": "અમારી સપોર્ટ સિસ્ટમનો ઉપયોગ કરવા માટે, કૃપા કરીને સાચી સંપર્ક માહિતી પ્રદાન કરો."
+   },
+   "supportViewInfo3": {
+      "message": "અમને ફક્ત અંગ્રેજીમાં જ મેસેજ કરો."
+   },
+   "supportViewInputEmail": {
+      "message": "ઈમેલ"
+   },
+   "supportViewInputName": {
+      "message": "નામ"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "મહેરબાની કરી રાહ જુવો..."
+   },
+   "switchLabelOff": {
+      "message": "બંધ"
+   },
+   "switchLabelOn": {
+      "message": "ચાલુ"
+   },
+   "temperatureViewDescription": {
+      "message": "નીચે સ્લાઇડરને ખેંચીને વાદળી પ્રકાશને સમાયોજિત કરો."
+   },
+   "temperatureViewOption1": {
+      "message": "વાદળી સાથે"
+   },
+   "temperatureViewOption2": {
+      "message": "વાદળી વગર"
+   },
+   "temperatureViewTitle": {
+      "message": "વાદળી પ્રકાશ"
+   },
+   "tooltipDark": {
+      "message": "આ મોડનો ઉપયોગ કરીને, નાઇટ આઇ પસંદ કરેલ સેટિંગ્સના આધારે રંગો બદલશે"
+   },
+   "tooltipFiltered": {
+      "message": "આ મોડનો ઉપયોગ કરીને, વેબસાઈટ મૂળભૂત રીતે અનેક ફિલ્ટર્સની વત્તા અસર હશે - બ્રાઈટનેસ, કોન્ટ્રાસ્ટ, સેચ્યુરેશન, વોર્મ/કોલ્ડ, ડિમ"
+   },
+   "tooltipNormal": {
+      "message": "આ મોડનો ઉપયોગ કરીને, વેબસાઈટ મૂળભૂત રીતે હશે, નાઈટ આઈ કોઈ રંગ બદલશે નહીં"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "સક્રિય કરો"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "રદ કરો"
+   },
+   "trailActivationViewClientArea": {
+      "message": "ગ્રાહક વિસ્તાર"
+   },
+   "trailActivationViewDescr": {
+      "message": "કૃપા કરીને \u003Cbr>નાઇટ આઇ પ્રોને સક્રિય કરવા માટે તમે ખરીદી કરતી વખતે ઉપયોગ કરેલ ઇમેઇલનો ઉપયોગ કરો."
+   },
+   "trailActivationViewTitle": {
+      "message": "સક્રિયકરણ"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "રદ કરો"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "કંટ્રોલ પેનલ"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "નિષ્ક્રિય કરો"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "નાઈટ આઈ તમારા ઈ-મેલ \u003Cb class=\"ActivatedEmail\">$1\u003C/b> સાથે સંકળાયેલ છે"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "વધુ વિગતો માટે, મુલાકાત લો"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "તમે આ બ્રાઉઝર માટે \u003Cbr> નાઇટ આઇને કાયમી ધોરણે નિષ્ક્રિય કરી શકો છો."
+   },
+   "trailLogoutViewTitle": {
+      "message": "સક્રિય"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "ચાલુ રાખો"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "જ્યાં સુધી તમારી \u003Cbr> મફત અજમાયશ $1 પર સમાપ્ત ન થાય ત્યાં સુધી તમે એક સાથે 3 જેટલા બ્રાઉઝર પર નાઇટ આઇનો આનંદ માણી શકો છો"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "તમે એકવારમાં $1 સુધીના બ્રાઉઝર પર નાઇટ આઇનો આનંદ માણી શકો છો."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "તમે સફળતાપૂર્વક એક્સ્ટેંશન સક્રિય કર્યું છે."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "તમે એકસાથે 3 જેટલા બ્રાઉઝર પર નાઇટ આઇનો આનંદ માણી શકો છો."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "તમે ક્લાઈન્ટ એરિયામાં સક્રિય બ્રાઉઝર્સને મેનેજ કરી શકો છો."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "તેને ઍક્સેસ કરવા માટે, કૃપા કરીને પર જાઓ"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "સફળ સક્રિયકરણ"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "રદ કરો"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "અમે આશા રાખીએ છીએ કે નાઇટ આઇ છેલ્લા મહિનાઓથી તેની ઉપયોગીતા સાબિત કરી છે!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "જો તમે તેનો ઉપયોગ ચાલુ રાખવા માંગતા હો, તો અમારી કિંમતો અને તેની સાથે આવતા તમામ લાભો તપાસો."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "નાઈટ આઈ તમારા ઈ-મેલ સાથે સંકળાયેલ છે \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> જો તમે ચૂકવણી કરવાનું નક્કી કરો તો તેનો ઉપયોગ કરો."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "કિંમત નિર્ધારણ"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "પ્રો સંસ્કરણ"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "અમે આશા રાખીએ છીએ કે નાઇટ આઇ છેલ્લા મહિનાઓથી તેની ઉપયોગીતા સાબિત કરી છે."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "તમે કાયમ માટે મફત લાઇટ સંસ્કરણનો ઉપયોગ કરી શકો છો અથવા પ્રો પર જાઓ. અમારી કિંમતો અને તેની સાથે આવતા તમામ લાભો તપાસો."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "લાઇટ સંસ્કરણ"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5 જેટલી વેબસાઇટ્સ પર ડાર્ક મોડ"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "પ્રો સંસ્કરણ"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "સીમા વગરનું"
+   },
+   "trialExpiredViewTitle": {
+      "message": "તમારી મફત અજમાયશની સમયસીમા સમાપ્ત થઈ ગઈ છે."
+   },
+   "trialLiteViewCancel": {
+      "message": "રદ કરો"
+   },
+   "trialLiteViewGoPro": {
+      "message": "ગો પ્રો (મર્યાદા દૂર કરો)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "\u003Cbr> 5 વેબસાઇટ્સ પર ડાર્ક મોડ ચાલુ કરી શકાય છે. તમે સૂચિને મેનેજ કરી શકો છો અને તેને કોઈપણ સમયે બદલી શકો છો."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "લાઇટ સંસ્કરણ"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "લાઇટ વિશે વાંચો"
+   },
+   "trialLiteViewSave": {
+      "message": "સાચવો"
+   },
+   "trialProViewActivateBtn": {
+      "message": "સક્રિય કરો"
+   },
+   "trialProViewActivateDescr": {
+      "message": "જો તમારી પાસે પહેલેથી જ એકાઉન્ટ છે,\u003C/br> તો કૃપા કરીને તેને સક્રિય કરો!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "રદ કરો"
+   },
+   "trialProViewDescrPart1": {
+      "message": "અમે આશા રાખીએ છીએ કે નાઇટ આઇ છેલ્લા મહિનાઓથી તેની ઉપયોગીતા સાબિત કરી છે!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "જો તમે તેનો ઉપયોગ ચાલુ રાખવા માંગતા હો, તો અમારી કિંમતો અને તેની સાથે આવતા તમામ લાભો તપાસો."
+   },
+   "trialProViewPricing": {
+      "message": "કિંમત નિર્ધારણ"
+   },
+   "trialProViewTitle": {
+      "message": "પ્રો સંસ્કરણ"
+   }
+}

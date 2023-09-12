@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "下のスライダーをドラッグして明るさを調整します。"
+   },
+   "brightnessViewTitle": {
+      "message": "輝度"
+   },
+   "colorViewDescription": {
+      "message": "ウェブサイトから色を選んで、好きな色に変更します。"
+   },
+   "colorViewOriginalColor": {
+      "message": "オリジナル"
+   },
+   "colorViewReplacedColor": {
+      "message": "交換済み"
+   },
+   "colorViewTitle": {
+      "message": "カラーピッカー"
+   },
+   "contrastViewDescription": {
+      "message": "下のスライダーをドラッグしてコントラストを調整します。"
+   },
+   "contrastViewTitle": {
+      "message": "対比"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "すべてのウェブサイト"
+   },
+   "controlsPanelButtonApply": {
+      "message": "申し込み"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "に適用する"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "キャンセル"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "リセット"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "デフォルトに戻す"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "現在のウェブサイト"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "すべてのウェブサイト"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "現在のウェブサイト用"
+   },
+   "dimViewDescription": {
+      "message": "Web サイトの調光レベルを調整します。"
+   },
+   "dimViewTitle": {
+      "message": "暗い"
+   },
+   "extDescription": {
+      "message": "必要に応じて、各 Web サイトをダーク モード/ライト モードに切り替えます。ナイトアイで目もとをケア。"
+   },
+   "extDisabledStatus": {
+      "message": "ナイトアイは停止中"
+   },
+   "extName": {
+      "message": "ダークモード - ナイトアイ"
+   },
+   "extToggleButton": {
+      "message": "タブのダークモードと通常モードを切り替えます"
+   },
+   "extTurnOnButton": {
+      "message": "オンにする"
+   },
+   "filterModeNameDark": {
+      "message": "暗い"
+   },
+   "filterModeNameFiltered": {
+      "message": "フィルタリングされた"
+   },
+   "filterModeNameNormal": {
+      "message": "普通"
+   },
+   "firstRunViewFeature1": {
+      "message": "ページの読み込み速度が影響を受ける可能性があります"
+   },
+   "firstRunViewFeature2": {
+      "message": "Night Eye Pro を 3 か月間無料 (クレジット カードなし)"
+   },
+   "firstRunViewFeature3": {
+      "message": "閲覧情報は収集されません"
+   },
+   "firstRunViewFeature4": {
+      "message": "組み込みのチャットでお問い合わせください"
+   },
+   "firstRunViewTitle": {
+      "message": "クイックスタート"
+   },
+   "helpOSIntegrationLink": {
+      "message": "詳細"
+   },
+   "helpViewActivateNow": {
+      "message": "今すぐ有効化"
+   },
+   "helpViewActivated": {
+      "message": "拡張機能を管理する"
+   },
+   "helpViewByExpires": {
+      "message": "$1 までに \u003C/br>有効期限: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "クライアントエリア"
+   },
+   "helpViewDarkScroll": {
+      "message": "ダークスクロール"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "ナイトアイで巻物を暗くしましょう。"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "新しい Web サイトを開くときに実行するデフォルトのモードを選択します"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "デフォルトモード"
+   },
+   "helpViewDisabled": {
+      "message": "無効"
+   },
+   "helpViewEnabled": {
+      "message": "有効"
+   },
+   "helpViewExpiredNever": {
+      "message": "一度もない"
+   },
+   "helpViewExpires": {
+      "message": "有効期限 $1"
+   },
+   "helpViewExportData": {
+      "message": "データのエクスポート"
+   },
+   "helpViewGoProTitle": {
+      "message": "プロに行く"
+   },
+   "helpViewHelpButton": {
+      "message": "ヘルプ"
+   },
+   "helpViewImportData": {
+      "message": "データのインポート"
+   },
+   "helpViewLanguage": {
+      "message": "言語"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "ダークモード リストの管理"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS カラースキームの統合"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Night Eye をアクティブな OS の配色と同期します。"
+   },
+   "helpViewShortcutDescription": {
+      "message": "独自のショートカットを割り当てる方法を確認する"
+   },
+   "helpViewShortcutTitle": {
+      "message": "オン/オフのショートカット"
+   },
+   "helpViewSignInSignUp": {
+      "message": "サインイン/サインアップ"
+   },
+   "helpViewSignOut": {
+      "message": "サインアウト"
+   },
+   "helpViewTimerDescr": {
+      "message": "使い方"
+   },
+   "helpViewTimerOff": {
+      "message": "オフ"
+   },
+   "helpViewTimerOn": {
+      "message": "の上"
+   },
+   "helpViewTimerTitle": {
+      "message": "スケジュール"
+   },
+   "helpViewUninstallDescription": {
+      "message": "拡張機能リストで Night Eye を見つけて、[削除] をクリックします。"
+   },
+   "helpViewUninstallTitle": {
+      "message": "アンインストール"
+   },
+   "helpViewWhiteListButton": {
+      "message": "ホワイトリスト"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye は、画像を処理して暗くします。これは、より多くの計算リソースを必要とする機能であり、コンピューターの速度が低下する可能性があります。"
+   },
+   "imageViewTitle": {
+      "message": "画像"
+   },
+   "labelBlueLight": {
+      "message": "青色光"
+   },
+   "labelBrightness": {
+      "message": "輝度"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "ビルトイン \u003Cbr>ダークテーマ"
+   },
+   "labelColors": {
+      "message": "色"
+   },
+   "labelContinue": {
+      "message": "継続する"
+   },
+   "labelContrast": {
+      "message": "対比"
+   },
+   "labelCurrent": {
+      "message": "現時点の"
+   },
+   "labelCustomCode": {
+      "message": "カスタムコード"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> ページをカスタマイズする"
+   },
+   "labelDim": {
+      "message": "薄暗い"
+   },
+   "labelDisabled": {
+      "message": "無効"
+   },
+   "labelEnabled": {
+      "message": "有効"
+   },
+   "labelExperimentalFeature": {
+      "message": "実験的機能"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "背景変換"
+   },
+   "labelImageHighCPU": {
+      "message": "高い CPU 消費"
+   },
+   "labelImageIconConversion": {
+      "message": "アイコン変換"
+   },
+   "labelImages": {
+      "message": "画像"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "リストを管理する"
+   },
+   "labelPleaseWait": {
+      "message": "お待ちください"
+   },
+   "labelSaturation": {
+      "message": "飽和"
+   },
+   "labelSubdomains": {
+      "message": "サブドメイン"
+   },
+   "labelTurboCache": {
+      "message": "ローカル キャッシュ"
+   },
+   "labelWebsite": {
+      "message": "Webサイト"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "この Web サイトは、ダーク モード リストに追加されません。"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "ダークバージョン"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "フィルタリングされたバージョン"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "通常版"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "サポートされていません"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "このウェブサイトはサポートされていません"
+   },
+   "okButton": {
+      "message": "わかった"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "近い"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Night Eye を 30 日間使用しています。"
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "感謝の気持ちを込めて、特別に10%割引いたします。割引コード \u003Cdiv class=\"DiscountCode\">-\u003C/div> を使用してください。このオファーは 48 時間有効です。"
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "PROバージョンを今すぐ入手"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "興味がない場合は、\u003Cbr>無料試用期間が \u003Cbr>あと 2 か月残っています。楽しみ！"
+   },
+   "refreshButton": {
+      "message": "リフレッシュ"
+   },
+   "refreshViewDescription": {
+      "message": "最新の設定を適用するには、現在のページを更新する必要があります"
+   },
+   "refreshViewTitle": {
+      "message": "ページをリロードしてください"
+   },
+   "saturationViewDescription": {
+      "message": "下のスライダーをドラッグして彩度を調整します。"
+   },
+   "saturationViewTitle": {
+      "message": "飽和"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "深い統合により、既にダーク UI を実装している Web サイトの組み込みのダーク テーマを制御できます。"
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ディープ インテグレーションの仕組みを見る"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ここ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "深い統合"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "無効"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "ナイトアイダーク"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye は、アイコンや背景などの画像を変換して、滑らかで一貫したダーク モードを提供します。"
+   },
+   "settingsImageViewDescrP2": {
+      "message": "アイコンと背景の変換には、高い CPU 消費が伴います。"
+   },
+   "settingsImageViewDescrP3": {
+      "message": "最適なダーク モード エクスペリエンスを実現するには、オンにします。"
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU の消費を抑えるには OFF にします。"
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye はこのドメインのすべてのサブドメインを変換します"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "さらに多くのテキスト"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "最適なダーク モード エクスペリエンスを実現するには、オンにします。"
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU の消費を抑えるには OFF にします。"
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "キャッシュは、通常モードからダーク モードへの Web サイトの変換を高速化します (ページの読み込み速度には影響しません)。ウェブサイトによっては、最初の明るいフラッシュを減らすことができます。"
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "キャッシュ機能は Web サイトの約 80% で動作するため、Web サイトが適切に動作しない場合はオフにしてください。"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "特定の Web サイトまたはアクセスするすべての Web サイトに適用できます。"
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye はこのドメインのすべてのサブドメインを変換します"
+   },
+   "subdomainViewTitle": {
+      "message": "サブドメイン"
+   },
+   "supportViewContinueBtn": {
+      "message": "継続する"
+   },
+   "supportViewInfo1": {
+      "message": "Night Eye に関するご質問や問題がございましたら、お気軽にお問い合わせください。"
+   },
+   "supportViewInfo2": {
+      "message": "当社のサポート システムを使用するには、正しい連絡先情報を入力してください。"
+   },
+   "supportViewInfo3": {
+      "message": "英語でのみメッセージを送ってください。"
+   },
+   "supportViewInputEmail": {
+      "message": "Eメール"
+   },
+   "supportViewInputName": {
+      "message": "名前"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "お待ちください..."
+   },
+   "switchLabelOff": {
+      "message": "オフ"
+   },
+   "switchLabelOn": {
+      "message": "の上"
+   },
+   "temperatureViewDescription": {
+      "message": "下のスライダーをドラッグして、ブルーライトを調整します。"
+   },
+   "temperatureViewOption1": {
+      "message": "青と"
+   },
+   "temperatureViewOption2": {
+      "message": "青なし"
+   },
+   "temperatureViewTitle": {
+      "message": "青色光"
+   },
+   "tooltipDark": {
+      "message": "このモードを使用すると、ナイトアイは選択した設定に基づいて色を変更します"
+   },
+   "tooltipFiltered": {
+      "message": "このモードを使用すると、ウェブサイトはデフォルトで、明るさ、コントラスト、彩度、暖色/寒色、薄暗いなど、いくつかのフィルターの効果が追加されます。"
+   },
+   "tooltipNormal": {
+      "message": "このモードを使用すると、ウェブサイトはデフォルトで、Night Eye は色を変更しません。"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "活性化"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "キャンセル"
+   },
+   "trailActivationViewClientArea": {
+      "message": "クライアントエリア"
+   },
+   "trailActivationViewDescr": {
+      "message": "購入時に使用した電子メールを使用して、\u003Cbr>Night Eye Pro を有効にしてください。"
+   },
+   "trailActivationViewTitle": {
+      "message": "アクティベーション"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "キャンセル"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "コントロールパネル"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "無効にする"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "ナイト アイはあなたの電子メール \u003Cb class=\"ActivatedEmail\">$1\u003C/b> に関連付けられています"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "詳細については、次を参照してください。"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "このブラウザの \u003Cbr> Night Eye を永久に無効にすることができます。"
+   },
+   "trailLogoutViewTitle": {
+      "message": "アクティブ化"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "継続する"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "\u003Cbr> 無料試用期間が $1 で期限切れになるまで、一度に最大 3 つのブラウザで Night Eye をお楽しみいただけます"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "一度に $1 までのブラウザーで Night Eye を楽しむことができます。"
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "拡張機能が正常にアクティブ化されました。"
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "一度に最大 3 つのブラウザで Night Eye を楽しむことができます。"
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "クライアント エリアでアクティブなブラウザを管理できます。"
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "アクセスするには、次の URL にアクセスしてください。"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "アクティベーション成功"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "キャンセル"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Night Eye が過去数か月間、その有用性を証明したことを願っています!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "引き続き使用したい場合は、価格とそれに付随するすべてのメリットを確認してください。"
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye はあなたの電子メールに関連付けられています \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> 支払うことにした場合は、それを使用してください。"
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "価格"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "プロ版"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Night Eye が過去数か月でその有用性を証明したことを願っています。"
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "無料の Lite バージョンを永久に使用することも、Pro に移行することもできます。価格とすべての利点を確認してください。"
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "ライト版"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "最大 5 つの Web サイトでのダークモード"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "プロ版"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "無制限"
+   },
+   "trialExpiredViewTitle": {
+      "message": "無料試用期間が終了しました。"
+   },
+   "trialLiteViewCancel": {
+      "message": "キャンセル"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (制限を取り除く)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "ダーク モードは、最大 \u003Cbr> 5 つの Web サイトで有効にできます。リストを管理し、いつでも変更できます。"
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "ライト版"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "ライトについて読む"
+   },
+   "trialLiteViewSave": {
+      "message": "保存"
+   },
+   "trialProViewActivateBtn": {
+      "message": "活性化"
+   },
+   "trialProViewActivateDescr": {
+      "message": "すでにアカウントをお持ちの場合は、\u003C/br>有効にしてください。"
+   },
+   "trialProViewCancelBtn": {
+      "message": "キャンセル"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Night Eye が過去数か月間、その有用性を証明したことを願っています!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "引き続き使用したい場合は、価格とそれに付随するすべてのメリットを確認してください。"
+   },
+   "trialProViewPricing": {
+      "message": "価格"
+   },
+   "trialProViewTitle": {
+      "message": "プロ版"
+   }
+}

@@ -1,0 +1,65 @@
+html {
+    background-color: #000 !important;
+}
+
+body {
+    filter: invert(86%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+
+* {
+    font-weight: 500;
+    color: #5b6772;
+}
+
+img,
+iframe,
+video,
+.emoji-common-emoji-sprite {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+    border-color: transparent;
+}
+
+button[role="button"],
+a[role="button"] {
+    background-color: hsl(217deg 100% 51% / 40%) !important;
+}
+
+button[role="button"] span,
+a[role="button"] span {
+    color: #444444 !important;
+    font-weight: 300 !important;
+}
+
+a[data-test-id="header-donate-link"],
+a[id="login-or-signup"],
+a[id="login-or-signup"]~a,
+a[data-test-id="header-donate-link"],
+ul[role="tablist"] button span,
+*[data-test-id="header-profile-button"] * {
+    color: #343434 !important;
+}
+
+a[data-hack-search-button-label] {
+    background-color: rgb(219 216 216) !important;
+}
+
+#footer footer,
+#footer footer footer * {
+    background-color: #e3e3e3 !important;
+}
+
+#footer footer li a {
+    color: #564949 !important;
+}
+
+div[style="background-color: rgb(11, 33, 73);"] {
+    background-color: #e3e3e3 !important;
+}
+
+h1[data-test-id="unit-block-title"] {
+    color: #424242 !important;
+}
+
+#output iframe {
+    filter: invert(86%) hue-rotate(180deg) brightness(105%) contrast(105%) !important;
+}

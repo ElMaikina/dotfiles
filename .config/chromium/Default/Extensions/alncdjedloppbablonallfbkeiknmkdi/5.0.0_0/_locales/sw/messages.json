@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Rekebisha mwangaza kwa kuburuta kitelezi hapa chini."
+   },
+   "brightnessViewTitle": {
+      "message": "Mwangaza"
+   },
+   "colorViewDescription": {
+      "message": "Chagua rangi kutoka kwa tovuti na uibadilishe iwe chochote unachotaka."
+   },
+   "colorViewOriginalColor": {
+      "message": "Asili"
+   },
+   "colorViewReplacedColor": {
+      "message": "Kubadilishwa"
+   },
+   "colorViewTitle": {
+      "message": "Kiteua rangi"
+   },
+   "contrastViewDescription": {
+      "message": "Rekebisha utofautishaji kwa kuburuta kitelezi hapa chini."
+   },
+   "contrastViewTitle": {
+      "message": "Tofautisha"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "tovuti zote"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Omba"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Omba kwa"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Ghairi"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Weka upya"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Rejesha chaguomsingi"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "tovuti ya sasa"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "kwa tovuti zote"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "kwa tovuti ya sasa"
+   },
+   "dimViewDescription": {
+      "message": "Rekebisha kiwango cha kufifia cha tovuti."
+   },
+   "dimViewTitle": {
+      "message": "Dim"
+   },
+   "extDescription": {
+      "message": "Badilisha kila tovuti hadi hali ya giza / hali nyepesi kama unavyotaka. Tunza macho yako kwa Jicho la Usiku."
+   },
+   "extDisabledStatus": {
+      "message": "Jicho la Usiku limesimamishwa"
+   },
+   "extName": {
+      "message": "Hali ya Giza - Jicho la Usiku"
+   },
+   "extToggleButton": {
+      "message": "Geuza hali ya giza na ya kawaida kwa kichupo"
+   },
+   "extTurnOnButton": {
+      "message": "Washa"
+   },
+   "filterModeNameDark": {
+      "message": "Giza"
+   },
+   "filterModeNameFiltered": {
+      "message": "Imechujwa"
+   },
+   "filterModeNameNormal": {
+      "message": "Kawaida"
+   },
+   "firstRunViewFeature1": {
+      "message": "Kasi ya upakiaji wa ukurasa inaweza kuathiriwa"
+   },
+   "firstRunViewFeature2": {
+      "message": "Miezi 3 bila malipo ya Night Eye Pro (hakuna kadi ya mkopo)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Hakuna maelezo ya kuvinjari yanayokusanywa"
+   },
+   "firstRunViewFeature4": {
+      "message": "Wasiliana nasi kupitia soga iliyojengewa ndani"
+   },
+   "firstRunViewTitle": {
+      "message": "Anza Haraka"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Maelezo zaidi"
+   },
+   "helpViewActivateNow": {
+      "message": "Washa sasa"
+   },
+   "helpViewActivated": {
+      "message": "Dhibiti kiendelezi chako"
+   },
+   "helpViewByExpires": {
+      "message": "kwa $1 \u003C/br>inaisha muda wake: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Eneo la mteja"
+   },
+   "helpViewDarkScroll": {
+      "message": "Vitabu vya giza"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Acha Jicho la Usiku ligeuze kitabu chochote chenye giza."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Chagua hali chaguo-msingi ya kutekelezwa wakati wa kufungua tovuti mpya"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Hali chaguo-msingi"
+   },
+   "helpViewDisabled": {
+      "message": "Imezimwa"
+   },
+   "helpViewEnabled": {
+      "message": "Imewashwa"
+   },
+   "helpViewExpiredNever": {
+      "message": "kamwe"
+   },
+   "helpViewExpires": {
+      "message": "Muda wake unaisha $1"
+   },
+   "helpViewExportData": {
+      "message": "Hamisha data"
+   },
+   "helpViewGoProTitle": {
+      "message": "Nenda kwa Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Msaada"
+   },
+   "helpViewImportData": {
+      "message": "Ingiza data"
+   },
+   "helpViewLanguage": {
+      "message": "Lugha"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Dhibiti orodha ya hali nyeusi"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Ujumuishaji wa Mfumo wa Rangi wa OS"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sawazisha Jicho la Usiku na mpango wako unaotumika wa Rangi ya OS."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Jua jinsi ya kugawa njia yako ya mkato"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Washa/Zima Njia ya mkato"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Ingia / Jisajili"
+   },
+   "helpViewSignOut": {
+      "message": "Toka"
+   },
+   "helpViewTimerDescr": {
+      "message": "Inavyofanya kazi"
+   },
+   "helpViewTimerOff": {
+      "message": "Imezimwa"
+   },
+   "helpViewTimerOn": {
+      "message": "Washa"
+   },
+   "helpViewTimerTitle": {
+      "message": "Ratiba"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Pata Jicho la Usiku kwenye orodha ya viendelezi na ubofye ondoa"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Sanidua"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Orodha iliyoidhinishwa"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye huchakata picha kuzifanya ziwe nyeusi. Kipengele hiki kinahitaji rasilimali zaidi za kukokotoa na kinaweza kupunguza kasi ya kompyuta yako."
+   },
+   "imageViewTitle": {
+      "message": "Picha"
+   },
+   "labelBlueLight": {
+      "message": "mwanga wa bluu"
+   },
+   "labelBrightness": {
+      "message": "mwangaza"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "kujengwa ndani \u003Cbr>mandhari meusi"
+   },
+   "labelColors": {
+      "message": "rangi"
+   },
+   "labelContinue": {
+      "message": "Endelea"
+   },
+   "labelContrast": {
+      "message": "tofauti"
+   },
+   "labelCurrent": {
+      "message": "Sasa"
+   },
+   "labelCustomCode": {
+      "message": "kanuni maalum"
+   },
+   "labelCustomUrlPath": {
+      "message": "geuza kurasa za \u003Cbr> kukufaa"
+   },
+   "labelDim": {
+      "message": "dim"
+   },
+   "labelDisabled": {
+      "message": "Imezimwa"
+   },
+   "labelEnabled": {
+      "message": "Imewashwa"
+   },
+   "labelExperimentalFeature": {
+      "message": "Kipengele cha majaribio"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Ubadilishaji wa mandhari"
+   },
+   "labelImageHighCPU": {
+      "message": "Matumizi ya juu ya CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Ubadilishaji wa ikoni"
+   },
+   "labelImages": {
+      "message": "Picha"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Dhibiti orodha"
+   },
+   "labelPleaseWait": {
+      "message": "Tafadhali subiri"
+   },
+   "labelSaturation": {
+      "message": "kueneza"
+   },
+   "labelSubdomains": {
+      "message": "vikoa vidogo"
+   },
+   "labelTurboCache": {
+      "message": "kache ya ndani"
+   },
+   "labelWebsite": {
+      "message": "tovuti"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Tovuti hii haijaongezwa kwenye orodha ya hali ya giza."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Toleo la giza"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Toleo lililochujwa"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Toleo la kawaida"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Haitumiki"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Tovuti hii haitumiki"
+   },
+   "okButton": {
+      "message": "sawa"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Funga"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Umekuwa ukitumia Night Eye kwa siku 30 sasa."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Kama shukrani, tuna punguzo maalum la 10%. Tafadhali tumia msimbo wa punguzo \u003Cdiv class=\"DiscountCode\">-\u003C/div> Ofa hii ni halali kwa saa 48."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Pata toleo lako la PRO sasa"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Ikiwa hupendi,\u003Cbr> una miezi 2 zaidi iliyosalia \u003Cbr> kutoka kwa jaribio lisilolipishwa. Furahia!"
+   },
+   "refreshButton": {
+      "message": "Onyesha upya"
+   },
+   "refreshViewDescription": {
+      "message": "Inabidi uonyeshe upya ukurasa wa sasa ili utumie mipangilio ya hivi punde"
+   },
+   "refreshViewTitle": {
+      "message": "Tafadhali pakia upya ukurasa"
+   },
+   "saturationViewDescription": {
+      "message": "Rekebisha kueneza kwa kuburuta kitelezi hapa chini."
+   },
+   "saturationViewTitle": {
+      "message": "Kueneza"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Ujumuishaji wa kina hukuruhusu kudhibiti mandhari meusi yaliyojengewa ndani ya tovuti ambazo tayari zimetekeleza UI nyeusi."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Tazama jinsi ujumuishaji wa kina unavyofanya kazi"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "HAPA"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Ushirikiano wa kina"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Imezimwa"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Jicho la Usiku giza"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye hubadilisha picha kama vile aikoni na mandharinyuma ili kukupa hali laini na thabiti ya giza."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Ubadilishaji wa ikoni na mandharinyuma huja na matumizi ya Juu ya CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "WASHA ili upate matumizi bora ya hali ya giza."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "ZIMA ili kupunguza matumizi ya CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye itabadilisha vikoa vidogo vyote vya kikoa hiki"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Maandishi zaidi"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "WASHA ili upate matumizi bora ya hali ya giza."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "ZIMA ili kupunguza matumizi ya CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Akiba huharakisha ubadilishaji wa tovuti kutoka kwa Hali ya Kawaida hadi ya Giza (kasi ya upakiaji wa ukurasa haiathiriwi). Inaweza kupunguza mwangaza mkali wa awali, kulingana na tovuti."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Kipengele cha kache hufanya kazi kwa takriban 80% ya tovuti, kwa hivyo ikiwa tovuti haifanyi kazi ipasavyo, tafadhali ikizime ili kuiona!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Inaweza kutumika kwa tovuti maalum au kwa wote unaotembelea."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye itabadilisha vikoa vidogo vyote vya kikoa hiki"
+   },
+   "subdomainViewTitle": {
+      "message": "Vikoa vidogo"
+   },
+   "supportViewContinueBtn": {
+      "message": "Endelea"
+   },
+   "supportViewInfo1": {
+      "message": "Tuko hapa kukusaidia ikiwa una maswali au matatizo yoyote na Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Ili kutumia mfumo wetu wa usaidizi, tafadhali toa maelezo sahihi ya mawasiliano."
+   },
+   "supportViewInfo3": {
+      "message": "Tutumie ujumbe kwa Kiingereza pekee."
+   },
+   "supportViewInputEmail": {
+      "message": "Barua pepe"
+   },
+   "supportViewInputName": {
+      "message": "Jina"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Tafadhali subiri..."
+   },
+   "switchLabelOff": {
+      "message": "Imezimwa"
+   },
+   "switchLabelOn": {
+      "message": "Washa"
+   },
+   "temperatureViewDescription": {
+      "message": "Rekebisha mwanga wa samawati kwa kuburuta kitelezi hapa chini."
+   },
+   "temperatureViewOption1": {
+      "message": "Pamoja na bluu"
+   },
+   "temperatureViewOption2": {
+      "message": "Bila bluu"
+   },
+   "temperatureViewTitle": {
+      "message": "Nuru ya bluu"
+   },
+   "tooltipDark": {
+      "message": "Kwa kutumia hali hii, Jicho la Usiku litabadilisha rangi kulingana na mipangilio iliyochaguliwa"
+   },
+   "tooltipFiltered": {
+      "message": "Kwa kutumia hali hii, tovuti itakuwa kwa chaguo-msingi pamoja na athari za vichujio kadhaa - mwangaza, utofautishaji, kueneza, joto/baridi, hafifu."
+   },
+   "tooltipNormal": {
+      "message": "Kwa kutumia hali hii, tovuti itakuwa kwa chaguo-msingi, Jicho la Usiku halitabadilisha rangi yoyote"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Washa"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Ghairi"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Eneo la Mteja"
+   },
+   "trailActivationViewDescr": {
+      "message": "Tafadhali tumia barua pepe uliyotumia unapofanya ununuzi ili kuwezesha \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Uwezeshaji"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Ghairi"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Jopo kudhibiti"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Zima"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Jicho la usiku linahusishwa na barua pepe yako \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Kwa maelezo zaidi, tembelea"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Unaweza kuzima kabisa \u003Cbr> Night Eye kwa kivinjari hiki."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Imewashwa"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Endelea"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Unaweza kufurahia Night Eye kwenye hadi vivinjari 3 kwa wakati mmoja hadi \u003Cbr> Muda wa Jaribio lako Bila malipo uishe kwa $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Unaweza kufurahia Jicho la Usiku kwenye hadi vivinjari $1 kwa wakati mmoja."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Umewezesha kiendelezi."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Unaweza kufurahia Night Eye kwenye hadi vivinjari 3 kwa wakati mmoja."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Unaweza kudhibiti vivinjari vinavyotumika katika Eneo la Mteja."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Ili kuipata, tafadhali nenda kwa"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Uamilisho Umefaulu"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Ghairi"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Tunatumahi kuwa Jicho la Usiku limethibitisha manufaa yake kwa miezi iliyopita!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Ikiwa ungependa kuendelea kuitumia, angalia bei zetu na manufaa yote yanayokuja."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye inahusishwa na barua pepe yako \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> itumie ukiamua kulipa."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Bei"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Toleo la Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Tunatumai kuwa Night Eye imethibitisha manufaa yake kwa miezi iliyopita."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Unaweza kutumia toleo lisilolipishwa la Lite milele au nenda Pro. Angalia bei zetu na faida zote zinazokuja."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Toleo la Lite"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Hali nyeusi kwenye hadi tovuti 5"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Toleo la Pro"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Hakuna mipaka"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Muda wako wa kujaribu bila malipo umekwisha."
+   },
+   "trialLiteViewCancel": {
+      "message": "Ghairi"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (ondoa mipaka)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Hali ya Giza inaweza kuwashwa kwenye hadi tovuti \u003Cbr> 5. Unaweza kudhibiti orodha na kuibadilisha wakati wowote."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Toleo la Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Soma kuhusu Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Hifadhi"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Washa"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Ikiwa tayari una akaunti,\u003C/br> tafadhali iwashe!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Ghairi"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Tunatumahi kuwa Jicho la Usiku limethibitisha manufaa yake kwa miezi iliyopita!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Ikiwa ungependa kuendelea kuitumia, angalia bei zetu na manufaa yote yanayokuja."
+   },
+   "trialProViewPricing": {
+      "message": "Bei"
+   },
+   "trialProViewTitle": {
+      "message": "Toleo la Pro"
+   }
+}

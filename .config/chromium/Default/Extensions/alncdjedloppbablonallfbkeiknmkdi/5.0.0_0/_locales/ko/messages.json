@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "아래 슬라이더를 끌어 밝기를 조정합니다."
+   },
+   "brightnessViewTitle": {
+      "message": "명도"
+   },
+   "colorViewDescription": {
+      "message": "웹사이트에서 색상을 선택하고 원하는 색상으로 변경합니다."
+   },
+   "colorViewOriginalColor": {
+      "message": "원래의"
+   },
+   "colorViewReplacedColor": {
+      "message": "교체됨"
+   },
+   "colorViewTitle": {
+      "message": "색상 선택기"
+   },
+   "contrastViewDescription": {
+      "message": "아래 슬라이더를 끌어 대비를 조정합니다."
+   },
+   "contrastViewTitle": {
+      "message": "차이"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "모든 웹사이트"
+   },
+   "controlsPanelButtonApply": {
+      "message": "적용하다"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "적용하다"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "취소"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "초기화"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "기본값으로 복원"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "현재 웹사이트"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "모든 웹사이트"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "현재 웹사이트의 경우"
+   },
+   "dimViewDescription": {
+      "message": "웹사이트의 디밍 레벨을 조정합니다."
+   },
+   "dimViewTitle": {
+      "message": "어둑한"
+   },
+   "extDescription": {
+      "message": "원하는 대로 각 웹사이트를 다크 모드/라이트 모드로 전환합니다. 나이트아이로 눈을 관리하세요."
+   },
+   "extDisabledStatus": {
+      "message": "나이트 아이가 멈췄다"
+   },
+   "extName": {
+      "message": "다크 모드 - 나이트 아이"
+   },
+   "extToggleButton": {
+      "message": "탭의 어둡고 일반 모드 전환"
+   },
+   "extTurnOnButton": {
+      "message": "켜다"
+   },
+   "filterModeNameDark": {
+      "message": "어두운"
+   },
+   "filterModeNameFiltered": {
+      "message": "거르는"
+   },
+   "filterModeNameNormal": {
+      "message": "정상"
+   },
+   "firstRunViewFeature1": {
+      "message": "페이지 로딩 속도가 영향을 받을 수 있음"
+   },
+   "firstRunViewFeature2": {
+      "message": "Night Eye Pro 3개월 무료(신용카드 없음)"
+   },
+   "firstRunViewFeature3": {
+      "message": "검색 정보가 수집되지 않습니다."
+   },
+   "firstRunViewFeature4": {
+      "message": "내장된 채팅을 통해 문의"
+   },
+   "firstRunViewTitle": {
+      "message": "빠른 시작"
+   },
+   "helpOSIntegrationLink": {
+      "message": "자세한 내용은"
+   },
+   "helpViewActivateNow": {
+      "message": "지금 작동시켜"
+   },
+   "helpViewActivated": {
+      "message": "확장 프로그램 관리"
+   },
+   "helpViewByExpires": {
+      "message": "$1까지 \u003C/br>만료: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "클라이언트 영역"
+   },
+   "helpViewDarkScroll": {
+      "message": "어두운 두루마리"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Night Eye로 모든 스크롤을 어둡게 만드십시오."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "새 웹 사이트를 열 때 실행할 기본 모드 선택"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "기본 모드"
+   },
+   "helpViewDisabled": {
+      "message": "장애가 있는"
+   },
+   "helpViewEnabled": {
+      "message": "활성화됨"
+   },
+   "helpViewExpiredNever": {
+      "message": "절대"
+   },
+   "helpViewExpires": {
+      "message": "$1 만료"
+   },
+   "helpViewExportData": {
+      "message": "데이터 내보내기"
+   },
+   "helpViewGoProTitle": {
+      "message": "프로로 이동"
+   },
+   "helpViewHelpButton": {
+      "message": "돕다"
+   },
+   "helpViewImportData": {
+      "message": "데이터 가져오기"
+   },
+   "helpViewLanguage": {
+      "message": "언어"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "다크 모드 목록 관리"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS 색 구성표 통합"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Night Eye를 활성 OS 색 구성표와 동기화합니다."
+   },
+   "helpViewShortcutDescription": {
+      "message": "나만의 단축키 지정 방법 알아보기"
+   },
+   "helpViewShortcutTitle": {
+      "message": "켜기/끄기 단축키"
+   },
+   "helpViewSignInSignUp": {
+      "message": "로그인 가입"
+   },
+   "helpViewSignOut": {
+      "message": "로그아웃"
+   },
+   "helpViewTimerDescr": {
+      "message": "작동 방식"
+   },
+   "helpViewTimerOff": {
+      "message": "끄다"
+   },
+   "helpViewTimerOn": {
+      "message": "에"
+   },
+   "helpViewTimerTitle": {
+      "message": "일정"
+   },
+   "helpViewUninstallDescription": {
+      "message": "확장 목록에서 Night Eye를 찾아 제거를 클릭합니다."
+   },
+   "helpViewUninstallTitle": {
+      "message": "제거"
+   },
+   "helpViewWhiteListButton": {
+      "message": "화이트리스트"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye는 이미지를 더 어둡게 처리합니다. 이 기능을 사용하려면 더 많은 계산 리소스가 필요하며 컴퓨터 속도가 느려질 수 있습니다."
+   },
+   "imageViewTitle": {
+      "message": "이미지"
+   },
+   "labelBlueLight": {
+      "message": "푸른 빛"
+   },
+   "labelBrightness": {
+      "message": "명도"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "내장된 \u003Cbr>어두운 테마"
+   },
+   "labelColors": {
+      "message": "그림 물감"
+   },
+   "labelContinue": {
+      "message": "계속하다"
+   },
+   "labelContrast": {
+      "message": "차이"
+   },
+   "labelCurrent": {
+      "message": "현재의"
+   },
+   "labelCustomCode": {
+      "message": "사용자 정의 코드"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> 페이지 사용자 정의"
+   },
+   "labelDim": {
+      "message": "어둑한"
+   },
+   "labelDisabled": {
+      "message": "장애가 있는"
+   },
+   "labelEnabled": {
+      "message": "활성화됨"
+   },
+   "labelExperimentalFeature": {
+      "message": "실험적 기능"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "배경 변환"
+   },
+   "labelImageHighCPU": {
+      "message": "높은 CPU 소비"
+   },
+   "labelImageIconConversion": {
+      "message": "아이콘 변환"
+   },
+   "labelImages": {
+      "message": "이미지"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "목록 관리"
+   },
+   "labelPleaseWait": {
+      "message": "기다리세요"
+   },
+   "labelSaturation": {
+      "message": "포화"
+   },
+   "labelSubdomains": {
+      "message": "하위 도메인"
+   },
+   "labelTurboCache": {
+      "message": "로컬 캐시"
+   },
+   "labelWebsite": {
+      "message": "웹사이트"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "이 웹사이트는 다크 모드 목록에 추가되지 않습니다."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "다크 버전"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "필터링된 버전"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "일반 버전"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "지원되지 않음"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "이 웹사이트는 지원되지 않습니다"
+   },
+   "okButton": {
+      "message": "확인"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "닫다"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "이제 30일 동안 Night Eye를 사용하고 있습니다."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "감사의 마음으로 10% 특별할인을 진행합니다. 할인 코드를 사용하십시오. \u003Cdiv class=\"DiscountCode\">-\u003C/div> 이 제안은 48시간 동안 유효합니다."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "지금 PRO 버전 받기"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "관심이 없으시다면 무료 체험 기간이 2개월 더 남아 있습니다.\u003Cbr> 즐기다!"
+   },
+   "refreshButton": {
+      "message": "새로 고치다"
+   },
+   "refreshViewDescription": {
+      "message": "최신 설정을 적용하려면 현재 페이지를 새로 고쳐야 합니다."
+   },
+   "refreshViewTitle": {
+      "message": "페이지를 새로고침하세요"
+   },
+   "saturationViewDescription": {
+      "message": "아래 슬라이더를 드래그하여 채도를 조정합니다."
+   },
+   "saturationViewTitle": {
+      "message": "포화"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "긴밀한 통합을 통해 이미 어두운 UI를 구현한 웹사이트의 기본 제공 어두운 테마를 제어할 수 있습니다."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "심층 통합 작동 방식 보기"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "여기"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "깊은 통합"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "장애가 있는"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "나이트 아이 다크"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye는 아이콘 및 배경과 같은 이미지를 변환하여 부드럽고 일관된 다크 모드를 제공합니다."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "아이콘 및 배경 변환은 높은 CPU 소비와 함께 제공됩니다."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "최상의 다크 모드 경험을 위해 켜십시오."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU 소비를 줄이려면 OFF로 설정하십시오."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye는 이 도메인의 모든 하위 도메인을 변환합니다."
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "더 많은 텍스트"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "최상의 다크 모드 경험을 위해 켜십시오."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU 소비를 줄이려면 OFF로 설정하십시오."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "캐시는 웹사이트를 일반 모드에서 다크 모드로 변환하는 속도를 높입니다(페이지 로딩 속도는 영향을 받지 않음). 웹 사이트에 따라 초기 밝은 플래시를 줄일 수 있습니다."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "캐시 기능은 약 80%의 웹사이트에서 작동하므로 웹사이트가 제대로 작동하지 않을 경우 해당 웹사이트를 꺼주세요!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "특정 웹사이트 또는 방문하는 모든 웹사이트에 적용할 수 있습니다."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye는 이 도메인의 모든 하위 도메인을 변환합니다."
+   },
+   "subdomainViewTitle": {
+      "message": "하위 도메인"
+   },
+   "supportViewContinueBtn": {
+      "message": "계속하다"
+   },
+   "supportViewInfo1": {
+      "message": "Night Eye에 대한 질문이나 문제가 있는 경우 도움을 드리겠습니다."
+   },
+   "supportViewInfo2": {
+      "message": "지원 시스템을 사용하려면 정확한 연락처 정보를 제공하십시오."
+   },
+   "supportViewInfo3": {
+      "message": "영어로만 메시지를 보내주십시오."
+   },
+   "supportViewInputEmail": {
+      "message": "이메일"
+   },
+   "supportViewInputName": {
+      "message": "이름"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "기다리세요..."
+   },
+   "switchLabelOff": {
+      "message": "끄다"
+   },
+   "switchLabelOn": {
+      "message": "에"
+   },
+   "temperatureViewDescription": {
+      "message": "아래 슬라이더를 드래그하여 파란색 조명을 조정합니다."
+   },
+   "temperatureViewOption1": {
+      "message": "블루와 함께"
+   },
+   "temperatureViewOption2": {
+      "message": "파란색 없이"
+   },
+   "temperatureViewTitle": {
+      "message": "푸른 빛"
+   },
+   "tooltipDark": {
+      "message": "이 모드를 사용하면 Night Eye가 선택한 설정에 따라 색상을 변경합니다."
+   },
+   "tooltipFiltered": {
+      "message": "이 모드를 사용하면 웹사이트는 기본적으로 밝기, 대비, 채도, 따뜻함/차가움, 흐릿함과 같은 여러 필터의 효과를 더합니다."
+   },
+   "tooltipNormal": {
+      "message": "이 모드를 사용하면 웹사이트가 기본적으로 설정되며 Night Eye는 색상을 변경하지 않습니다."
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "활성화"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "취소"
+   },
+   "trailActivationViewClientArea": {
+      "message": "클라이언트 영역"
+   },
+   "trailActivationViewDescr": {
+      "message": "\u003Cbr>Night Eye Pro를 활성화하려면 구매 시 사용한 이메일을 사용하십시오."
+   },
+   "trailActivationViewTitle": {
+      "message": "활성화"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "취소"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "제어판"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "비활성화"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night Eye는 귀하의 이메일 \u003Cb class=\"ActivatedEmail\">$1\u003C/b>과 연결되어 있습니다."
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "자세한 내용은"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "이 브라우저에서 \u003Cbr> Night Eye를 영구적으로 비활성화할 수 있습니다."
+   },
+   "trailLogoutViewTitle": {
+      "message": "활성화됨"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "계속하다"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "무료 평가판이 $1에 만료될 때까지 한 번에 최대 3개의 브라우저에서 Night Eye를 즐길 수 있습니다."
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "한 번에 최대 $1의 브라우저에서 Night Eye를 즐길 수 있습니다."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "확장 프로그램을 성공적으로 활성화했습니다."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "한 번에 최대 3개의 브라우저에서 Night Eye를 즐길 수 있습니다."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "클라이언트 영역에서 활성 브라우저를 관리할 수 있습니다."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "액세스하려면 다음으로 이동하십시오."
+   },
+   "trailSuccessActViewTitle": {
+      "message": "성공적인 활성화"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "취소"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Night Eye가 지난 몇 달 동안 그 유용성을 입증했기를 바랍니다!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "계속 사용하려면 가격과 함께 제공되는 모든 혜택을 확인하십시오."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye는 귀하의 이메일과 연결되어 있습니다. \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> 지불하기로 결정한 경우 이를 사용하십시오."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "가격"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "프로 버전"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Night Eye가 지난 몇 달 동안 그 유용성을 입증했기를 바랍니다."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "무료 Lite 버전을 영원히 사용하거나 Pro로 전환할 수 있습니다. 가격과 함께 제공되는 모든 혜택을 확인하십시오."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "라이트 버전"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "최대 5개 웹사이트의 다크 모드"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "프로 버전"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "제한 없음"
+   },
+   "trialExpiredViewTitle": {
+      "message": "무료 평가판이 만료되었습니다."
+   },
+   "trialLiteViewCancel": {
+      "message": "취소"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro(한계 제거)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "다크 모드는 최대 \u003Cbr> 5개의 웹사이트에서 활성화할 수 있습니다. 목록을 관리하고 언제든지 변경할 수 있습니다."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "라이트 버전"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "라이트에 대해 읽기"
+   },
+   "trialLiteViewSave": {
+      "message": "구하다"
+   },
+   "trialProViewActivateBtn": {
+      "message": "활성화"
+   },
+   "trialProViewActivateDescr": {
+      "message": "이미 계정이 있는 경우\u003C/br> 활성화하십시오!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "취소"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Night Eye가 지난 몇 달 동안 그 유용성을 입증했기를 바랍니다!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "계속 사용하려면 가격과 함께 제공되는 모든 혜택을 확인하십시오."
+   },
+   "trialProViewPricing": {
+      "message": "가격"
+   },
+   "trialProViewTitle": {
+      "message": "프로 버전"
+   }
+}

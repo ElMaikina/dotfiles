@@ -1,0 +1,8 @@
+#container-wrap,
+#side-bar,
+.panel-body,
+.content-panel,
+.yui-nav a {
+    background: none !important;
+    background-color: transparent !important;
+}

@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Laraskan kecerahan dengan menyeret peluncur ke bawah."
+   },
+   "brightnessViewTitle": {
+      "message": "Kecerahan"
+   },
+   "colorViewDescription": {
+      "message": "Pilih warna dari tapak web dan tukar kepada apa sahaja yang anda mahukan."
+   },
+   "colorViewOriginalColor": {
+      "message": "Asal"
+   },
+   "colorViewReplacedColor": {
+      "message": "diganti"
+   },
+   "colorViewTitle": {
+      "message": "Pemilih warna"
+   },
+   "contrastViewDescription": {
+      "message": "Laraskan kontras dengan menyeret peluncur di bawah."
+   },
+   "contrastViewTitle": {
+      "message": "Berbeza"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "semua laman web"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Mohon"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Mohon kepada"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Batal"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Tetapkan semula"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Kembali kepada asal"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "laman web semasa"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "untuk semua laman web"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "untuk laman web semasa"
+   },
+   "dimViewDescription": {
+      "message": "Laraskan tahap pemalapan tapak web."
+   },
+   "dimViewTitle": {
+      "message": "Malap"
+   },
+   "extDescription": {
+      "message": "Tukar setiap tapak web kepada mod gelap / mod terang seperti yang dikehendaki. Jaga mata anda dengan Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye dihentikan"
+   },
+   "extName": {
+      "message": "Mod Gelap - Mata Malam"
+   },
+   "extToggleButton": {
+      "message": "Togol mod gelap dan biasa untuk tab"
+   },
+   "extTurnOnButton": {
+      "message": "Hidupkan"
+   },
+   "filterModeNameDark": {
+      "message": "Gelap"
+   },
+   "filterModeNameFiltered": {
+      "message": "Ditapis"
+   },
+   "filterModeNameNormal": {
+      "message": "Biasalah"
+   },
+   "firstRunViewFeature1": {
+      "message": "Kelajuan memuatkan halaman mungkin terjejas"
+   },
+   "firstRunViewFeature2": {
+      "message": "Percuma 3 bulan Night Eye Pro (tiada kad kredit)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Tiada maklumat penyemakan imbas dikumpulkan"
+   },
+   "firstRunViewFeature4": {
+      "message": "Hubungi kami melalui sembang terbina dalam"
+   },
+   "firstRunViewTitle": {
+      "message": "Permulaan pantas"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Maklumat lanjut"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktifkan sekarang"
+   },
+   "helpViewActivated": {
+      "message": "Urus sambungan anda"
+   },
+   "helpViewByExpires": {
+      "message": "oleh $1 \u003C/br>tamat: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Kawasan pelanggan"
+   },
+   "helpViewDarkScroll": {
+      "message": "Skrol gelap"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Biarkan Night Eye menjadikan mana-mana skrol menjadi gelap."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Pilih mod lalai untuk dilaksanakan semasa membuka tapak web baharu"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Mod lalai"
+   },
+   "helpViewDisabled": {
+      "message": "Dilumpuhkan"
+   },
+   "helpViewEnabled": {
+      "message": "Didayakan"
+   },
+   "helpViewExpiredNever": {
+      "message": "tidak pernah"
+   },
+   "helpViewExpires": {
+      "message": "Tamat tempoh $1"
+   },
+   "helpViewExportData": {
+      "message": "Eksport data"
+   },
+   "helpViewGoProTitle": {
+      "message": "Pergi Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Tolong"
+   },
+   "helpViewImportData": {
+      "message": "Import data"
+   },
+   "helpViewLanguage": {
+      "message": "Bahasa"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Urus senarai mod gelap"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Penyepaduan Skim Warna OS"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Segerakkan Night Eye dengan skema Warna OS aktif anda."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Ketahui cara menetapkan pintasan anda sendiri"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Pintasan Hidup/Mati"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Daftar Masuk / Daftar"
+   },
+   "helpViewSignOut": {
+      "message": "Log Keluar"
+   },
+   "helpViewTimerDescr": {
+      "message": "Bagaimana ia berfungsi"
+   },
+   "helpViewTimerOff": {
+      "message": "Mati"
+   },
+   "helpViewTimerOn": {
+      "message": "hidup"
+   },
+   "helpViewTimerTitle": {
+      "message": "Jadual"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Cari Night Eye dalam senarai sambungan dan klik alih keluar"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Nyahpasang"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Senarai putih"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye memproses imej menjadikannya lebih gelap. Ciri ini memerlukan lebih banyak sumber pengiraan dan boleh memperlahankan komputer anda."
+   },
+   "imageViewTitle": {
+      "message": "Imej"
+   },
+   "labelBlueLight": {
+      "message": "cahaya biru"
+   },
+   "labelBrightness": {
+      "message": "kecerahan"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "\u003Cbr>tema gelap terbina dalam"
+   },
+   "labelColors": {
+      "message": "warna"
+   },
+   "labelContinue": {
+      "message": "teruskan"
+   },
+   "labelContrast": {
+      "message": "kontras"
+   },
+   "labelCurrent": {
+      "message": "semasa"
+   },
+   "labelCustomCode": {
+      "message": "kod tersuai"
+   },
+   "labelCustomUrlPath": {
+      "message": "menyesuaikan halaman \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "malap"
+   },
+   "labelDisabled": {
+      "message": "Dilumpuhkan"
+   },
+   "labelEnabled": {
+      "message": "Didayakan"
+   },
+   "labelExperimentalFeature": {
+      "message": "Ciri eksperimen"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Penukaran latar belakang"
+   },
+   "labelImageHighCPU": {
+      "message": "Penggunaan CPU yang tinggi"
+   },
+   "labelImageIconConversion": {
+      "message": "Penukaran ikon"
+   },
+   "labelImages": {
+      "message": "imej"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Urus senarai"
+   },
+   "labelPleaseWait": {
+      "message": "Sila tunggu"
+   },
+   "labelSaturation": {
+      "message": "ketepuan"
+   },
+   "labelSubdomains": {
+      "message": "subdomain"
+   },
+   "labelTurboCache": {
+      "message": "cache tempatan"
+   },
+   "labelWebsite": {
+      "message": "laman web"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Laman web ini tidak ditambahkan dalam senarai mod gelap."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Versi gelap"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Versi ditapis"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Versi biasa"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Tidak disokong"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Laman web ini tidak disokong"
+   },
+   "okButton": {
+      "message": "okey"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "tutup"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Anda telah menggunakan Night Eye selama 30 hari sekarang."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Sebagai tanda terima kasih, kami ada diskaun 10% istimewa. Sila gunakan kod diskaun \u003Cdiv class=\"DiscountCode\">-\u003C/div> Tawaran ini sah selama 48 jam."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Dapatkan versi PRO anda sekarang"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Jika anda tidak berminat,\u003Cbr> anda mempunyai baki 2 bulan lagi \u003Cbr> daripada percubaan percuma. Nikmati!"
+   },
+   "refreshButton": {
+      "message": "Segarkan semula"
+   },
+   "refreshViewDescription": {
+      "message": "Anda perlu memuat semula halaman semasa untuk menggunakan tetapan terkini"
+   },
+   "refreshViewTitle": {
+      "message": "Sila muat semula halaman"
+   },
+   "saturationViewDescription": {
+      "message": "Laraskan ketepuan dengan menyeret peluncur di bawah."
+   },
+   "saturationViewTitle": {
+      "message": "Ketepuan"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Penyepaduan mendalam membolehkan anda mengawal tema gelap terbina dalam tapak web yang telah melaksanakan UI gelap."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Lihat cara integrasi dalam berfungsi"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "DI SINI"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Integrasi yang mendalam"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Dilumpuhkan"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Malam Mata gelap"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye menukar imej seperti ikon dan latar belakang untuk memberikan anda mod gelap yang lancar dan konsisten."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Penukaran ikon dan latar belakang disertakan dengan penggunaan CPU yang Tinggi."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "HIDUPKAN untuk pengalaman mod gelap terbaik."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "MATI untuk mengurangkan penggunaan CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye akan menukar semua subdomain domain ini"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Lebih banyak teks"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "HIDUPKAN untuk pengalaman mod gelap terbaik."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "MATI untuk mengurangkan penggunaan CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Cache mempercepatkan penukaran tapak web daripada Normal ke Mod Gelap (kelajuan pemuatan halaman tidak terjejas). Ia boleh mengurangkan kilat terang awal, bergantung pada tapak web."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Ciri cache berfungsi pada sekitar 80% tapak web, oleh itu jika tapak web tidak berfungsi dengan betul, sila matikan untuk itu!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Boleh digunakan pada tapak web tertentu atau semua yang anda lawati."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye akan menukar semua subdomain domain ini"
+   },
+   "subdomainViewTitle": {
+      "message": "Subdomain"
+   },
+   "supportViewContinueBtn": {
+      "message": "teruskan"
+   },
+   "supportViewInfo1": {
+      "message": "Kami di sini untuk membantu jika anda mempunyai sebarang soalan atau masalah dengan Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Untuk menggunakan sistem sokongan kami, sila berikan maklumat hubungan yang betul."
+   },
+   "supportViewInfo3": {
+      "message": "Mesej kami hanya dalam bahasa Inggeris."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mel"
+   },
+   "supportViewInputName": {
+      "message": "Nama"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Sila tunggu..."
+   },
+   "switchLabelOff": {
+      "message": "Mati"
+   },
+   "switchLabelOn": {
+      "message": "hidup"
+   },
+   "temperatureViewDescription": {
+      "message": "Laraskan cahaya biru dengan menyeret peluncur ke bawah."
+   },
+   "temperatureViewOption1": {
+      "message": "Dengan biru"
+   },
+   "temperatureViewOption2": {
+      "message": "Tanpa biru"
+   },
+   "temperatureViewTitle": {
+      "message": "Cahaya biru"
+   },
+   "tooltipDark": {
+      "message": "Menggunakan mod ini, Night Eye akan menukar warna berdasarkan tetapan yang dipilih"
+   },
+   "tooltipFiltered": {
+      "message": "Menggunakan mod ini, tapak web akan secara lalai ditambah kesan beberapa penapis - kecerahan, kontras, ketepuan, hangat/sejuk, malap"
+   },
+   "tooltipNormal": {
+      "message": "Menggunakan mod ini, tapak web akan menjadi secara lalai, Night Eye tidak akan menukar sebarang warna"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktifkan"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Batal"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Kawasan Pelanggan"
+   },
+   "trailActivationViewDescr": {
+      "message": "Sila gunakan e-mel yang anda gunakan semasa membuat pembelian untuk mengaktifkan \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Pengaktifan"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Batal"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Panel kawalan"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Nyahaktifkan"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye dikaitkan dengan e-mel anda \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Untuk butiran lanjut, lawati"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Anda boleh menyahaktifkan \u003Cbr> Night Eye secara kekal untuk penyemak imbas ini."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Diaktifkan"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "teruskan"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Anda boleh menikmati Night Eye pada sehingga 3 penyemak imbas sekaligus sehingga \u003Cbr> Percubaan Percuma anda tamat pada $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Anda boleh menikmati Night Eye pada sehingga $1 pelayar sekali gus."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Anda telah berjaya mengaktifkan sambungan."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Anda boleh menikmati Night Eye pada sehingga 3 penyemak imbas sekaligus."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Anda boleh menguruskan penyemak imbas aktif dalam Kawasan Pelanggan."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Untuk mengaksesnya, sila pergi ke"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Pengaktifan Berjaya"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Batal"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Kami berharap Night Eye membuktikan kegunaannya untuk beberapa bulan yang lalu!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Jika anda ingin terus menggunakannya, lihat harga kami dan semua faedah yang datang."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye dikaitkan dengan e-mel anda \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> gunakannya jika anda memutuskan untuk membayar."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "penetapan harga"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Versi Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Kami berharap Night Eye membuktikan kegunaannya sejak beberapa bulan lalu."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Anda boleh menggunakan versi Lite percuma selama-lamanya atau pergi ke Pro. Semak harga kami dan semua faedah yang datang bersama."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Versi ringkas"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Mod gelap pada sehingga 5 tapak web"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Versi pro"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Tiada had"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Percubaan percuma anda telah tamat tempoh."
+   },
+   "trialLiteViewCancel": {
+      "message": "Batal"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (buang had)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Mod Gelap boleh didayakan pada sehingga \u003Cbr> 5 tapak web. Anda boleh mengurus senarai dan menukarnya pada bila-bila masa."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Versi Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Baca tentang Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Jimat"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktifkan"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Jika anda sudah mempunyai akaun,\u003C/br> sila aktifkan!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Batal"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Kami berharap Night Eye membuktikan kegunaannya untuk beberapa bulan yang lalu!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Jika anda ingin terus menggunakannya, lihat harga kami dan semua faedah yang datang."
+   },
+   "trialProViewPricing": {
+      "message": "penetapan harga"
+   },
+   "trialProViewTitle": {
+      "message": "Versi Pro"
+   }
+}

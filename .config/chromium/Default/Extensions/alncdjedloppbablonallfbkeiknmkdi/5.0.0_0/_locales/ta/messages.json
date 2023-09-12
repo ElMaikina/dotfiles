@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "கீழே உள்ள ஸ்லைடரை இழுத்து பிரகாசத்தை சரிசெய்யவும்."
+   },
+   "brightnessViewTitle": {
+      "message": "பிரகாசம்"
+   },
+   "colorViewDescription": {
+      "message": "இணையதளத்தில் இருந்து ஒரு வண்ணத்தைத் தேர்ந்தெடுத்து, அதை நீங்கள் விரும்பியபடி மாற்றவும்."
+   },
+   "colorViewOriginalColor": {
+      "message": "அசல்"
+   },
+   "colorViewReplacedColor": {
+      "message": "மாற்றப்பட்டது"
+   },
+   "colorViewTitle": {
+      "message": "வண்ண தெரிவு"
+   },
+   "contrastViewDescription": {
+      "message": "கீழே உள்ள ஸ்லைடரை இழுப்பதன் மூலம் மாறுபாட்டை சரிசெய்யவும்."
+   },
+   "contrastViewTitle": {
+      "message": "மாறுபாடு"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "அனைத்து வலைத்தளங்களும்"
+   },
+   "controlsPanelButtonApply": {
+      "message": "விண்ணப்பிக்கவும்"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "விண்ணப்பிக்க"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "ரத்து செய்"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "மீட்டமை"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "இயல்புநிலைகளை மீட்டமை"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "தற்போதைய இணையதளம்"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "அனைத்து வலைத்தளங்களுக்கும்"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "தற்போதைய வலைத்தளத்திற்கு"
+   },
+   "dimViewDescription": {
+      "message": "வலைத்தளங்களின் மங்கலான அளவை சரிசெய்யவும்."
+   },
+   "dimViewTitle": {
+      "message": "மங்கலான"
+   },
+   "extDescription": {
+      "message": "விரும்பியபடி ஒவ்வொரு இணையதளத்தையும் இருண்ட பயன்முறை / ஒளி பயன்முறைக்கு மாற்றவும். இரவு கண் மூலம் உங்கள் கண்களை கவனித்துக் கொள்ளுங்கள்."
+   },
+   "extDisabledStatus": {
+      "message": "இரவு கண் நிறுத்தப்பட்டது"
+   },
+   "extName": {
+      "message": "டார்க் மோட் - இரவு கண்"
+   },
+   "extToggleButton": {
+      "message": "தாவலுக்கு இருண்ட மற்றும் இயல்பான பயன்முறையை மாற்றவும்"
+   },
+   "extTurnOnButton": {
+      "message": "இயக்கவும்"
+   },
+   "filterModeNameDark": {
+      "message": "இருள்"
+   },
+   "filterModeNameFiltered": {
+      "message": "வடிகட்டப்பட்டது"
+   },
+   "filterModeNameNormal": {
+      "message": "இயல்பானது"
+   },
+   "firstRunViewFeature1": {
+      "message": "பக்க ஏற்றுதல் வேகம் பாதிக்கப்படலாம்"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 மாதங்களுக்கு நைட் ஐ ப்ரோ இலவசம் (கிரெடிட் கார்டு இல்லை)"
+   },
+   "firstRunViewFeature3": {
+      "message": "உலாவல் தகவல்கள் எதுவும் சேகரிக்கப்படவில்லை"
+   },
+   "firstRunViewFeature4": {
+      "message": "உள்ளமைக்கப்பட்ட அரட்டை மூலம் எங்களைத் தொடர்பு கொள்ளவும்"
+   },
+   "firstRunViewTitle": {
+      "message": "விரைவு தொடக்கம்"
+   },
+   "helpOSIntegrationLink": {
+      "message": "கூடுதல் தகவல்கள்"
+   },
+   "helpViewActivateNow": {
+      "message": "இப்போது செயல்படுத்தவும்"
+   },
+   "helpViewActivated": {
+      "message": "உங்கள் நீட்டிப்பை நிர்வகிக்கவும்"
+   },
+   "helpViewByExpires": {
+      "message": "$1 \u003C/br>ஆல் காலாவதியாகும்: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "வாடிக்கையாளர் பகுதி"
+   },
+   "helpViewDarkScroll": {
+      "message": "இருண்ட சுருள்கள்"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "இரவுக் கண் எந்தச் சுருளையும் இருட்டாக மாற்றட்டும்."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "புதிய இணையதளங்களைத் திறக்கும்போது செயல்படுத்த வேண்டிய இயல்புநிலை பயன்முறையைத் தேர்வுசெய்யவும்"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "இயல்புநிலை பயன்முறை"
+   },
+   "helpViewDisabled": {
+      "message": "முடக்கப்பட்டது"
+   },
+   "helpViewEnabled": {
+      "message": "இயக்கப்பட்டது"
+   },
+   "helpViewExpiredNever": {
+      "message": "ஒருபோதும்"
+   },
+   "helpViewExpires": {
+      "message": "$1 காலாவதியாகிறது"
+   },
+   "helpViewExportData": {
+      "message": "தரவு ஏற்றுமதி"
+   },
+   "helpViewGoProTitle": {
+      "message": "ஆதரவாக போ"
+   },
+   "helpViewHelpButton": {
+      "message": "உதவி"
+   },
+   "helpViewImportData": {
+      "message": "தரவு இறக்குமதி"
+   },
+   "helpViewLanguage": {
+      "message": "மொழி"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "இருண்ட பயன்முறை பட்டியலை நிர்வகிக்கவும்"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS வண்ணத் திட்ட ஒருங்கிணைப்பு"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "உங்கள் செயலில் உள்ள OS வண்ணத் திட்டத்துடன் இரவுக் கண்ணை ஒத்திசைக்கவும்."
+   },
+   "helpViewShortcutDescription": {
+      "message": "உங்கள் சொந்த குறுக்குவழியை எவ்வாறு ஒதுக்குவது என்பதைக் கண்டறியவும்"
+   },
+   "helpViewShortcutTitle": {
+      "message": "ஆன்/ஆஃப் ஷார்ட்கட்"
+   },
+   "helpViewSignInSignUp": {
+      "message": "உள்நுழையவும் / பதிவு செய்யவும்"
+   },
+   "helpViewSignOut": {
+      "message": "வெளியேறு"
+   },
+   "helpViewTimerDescr": {
+      "message": "எப்படி இது செயல்படுகிறது"
+   },
+   "helpViewTimerOff": {
+      "message": "ஆஃப்"
+   },
+   "helpViewTimerOn": {
+      "message": "அன்று"
+   },
+   "helpViewTimerTitle": {
+      "message": "அட்டவணை"
+   },
+   "helpViewUninstallDescription": {
+      "message": "நீட்டிப்புகள் பட்டியலில் நைட் ஐ கண்டுபிடித்து அகற்று என்பதைக் கிளிக் செய்யவும்"
+   },
+   "helpViewUninstallTitle": {
+      "message": "நிறுவல் நீக்கவும்"
+   },
+   "helpViewWhiteListButton": {
+      "message": "ஏற்புப்பட்டியல்"
+   },
+   "imageViewDescription": {
+      "message": "இரவுக் கண் படங்களைச் செயலாக்குகிறது, அவற்றை கருமையாக்குகிறது. இந்த அம்சத்திற்கு அதிக கணக்கீட்டு ஆதாரங்கள் தேவை மற்றும் உங்கள் கணினியை மெதுவாக்கலாம்."
+   },
+   "imageViewTitle": {
+      "message": "படங்கள்"
+   },
+   "labelBlueLight": {
+      "message": "நீல விளக்கு"
+   },
+   "labelBrightness": {
+      "message": "பிரகாசம்"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "உள்ளமைக்கப்பட்ட \u003Cbr>டார்க் தீம்"
+   },
+   "labelColors": {
+      "message": "வண்ணங்கள்"
+   },
+   "labelContinue": {
+      "message": "தொடரவும்"
+   },
+   "labelContrast": {
+      "message": "மாறுபாடு"
+   },
+   "labelCurrent": {
+      "message": "தற்போதைய"
+   },
+   "labelCustomCode": {
+      "message": "விருப்ப குறியீடு"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> பக்கங்களைத் தனிப்பயனாக்கவும்"
+   },
+   "labelDim": {
+      "message": "மங்கலான"
+   },
+   "labelDisabled": {
+      "message": "முடக்கப்பட்டது"
+   },
+   "labelEnabled": {
+      "message": "இயக்கப்பட்டது"
+   },
+   "labelExperimentalFeature": {
+      "message": "பரிசோதனை அம்சம்"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "பின்னணி மாற்றம்"
+   },
+   "labelImageHighCPU": {
+      "message": "உயர் CPU நுகர்வு"
+   },
+   "labelImageIconConversion": {
+      "message": "சின்னங்கள் மாற்றம்"
+   },
+   "labelImages": {
+      "message": "படங்கள்"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "பட்டியலை நிர்வகிக்கவும்"
+   },
+   "labelPleaseWait": {
+      "message": "தயவுசெய்து காத்திருக்கவும்"
+   },
+   "labelSaturation": {
+      "message": "செறிவூட்டல்"
+   },
+   "labelSubdomains": {
+      "message": "துணை டொமைன்கள்"
+   },
+   "labelTurboCache": {
+      "message": "உள்ளூர் கேச்"
+   },
+   "labelWebsite": {
+      "message": "இணையதளம்"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "இந்த இணையதளம் இருண்ட பயன்முறை பட்டியலில் சேர்க்கப்படவில்லை."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "இருண்ட பதிப்பு"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "வடிகட்டப்பட்ட பதிப்பு"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "இயல்பான பதிப்பு"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "ஒத்துழைக்கவில்லை"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "இந்த இணையதளம் ஆதரிக்கப்படவில்லை"
+   },
+   "okButton": {
+      "message": "சரி"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "நெருக்கமான"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "நீங்கள் இப்போது 30 நாட்களாக Night Eye ஐப் பயன்படுத்துகிறீர்கள்."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "நன்றி தெரிவிக்கும் வகையில், எங்களிடம் சிறப்பு 10% தள்ளுபடி உள்ளது. தள்ளுபடிக் குறியீட்டைப் பயன்படுத்தவும் \u003Cdiv class=\"DiscountCode\">-\u003C/div> இந்தச் சலுகை 48 மணிநேரம் செல்லுபடியாகும்."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "உங்கள் PRO பதிப்பை இப்போதே பெறுங்கள்"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "உங்களுக்கு விருப்பமில்லை என்றால், \u003Cbr> இலவச சோதனைக்கு இன்னும் 2 மாதங்கள் உள்ளன. மகிழுங்கள்!"
+   },
+   "refreshButton": {
+      "message": "புதுப்பிப்பு"
+   },
+   "refreshViewDescription": {
+      "message": "சமீபத்திய அமைப்புகளைப் பயன்படுத்த, தற்போதைய பக்கத்தைப் புதுப்பிக்க வேண்டும்"
+   },
+   "refreshViewTitle": {
+      "message": "பக்கத்தை மீண்டும் ஏற்றவும்"
+   },
+   "saturationViewDescription": {
+      "message": "கீழே உள்ள ஸ்லைடரை இழுத்து செறிவூட்டலைச் சரிசெய்யவும்."
+   },
+   "saturationViewTitle": {
+      "message": "செறிவூட்டல்"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "ஏற்கனவே இருண்ட UI செயல்படுத்தப்பட்ட இணையதளங்களின் உள்ளமைக்கப்பட்ட இருண்ட கருப்பொருள்களைக் கட்டுப்படுத்த ஆழமான ஒருங்கிணைப்பு உங்களை அனுமதிக்கிறது."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ஆழமான ஒருங்கிணைப்பு எவ்வாறு செயல்படுகிறது என்பதைப் பார்க்கவும்"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "இங்கே"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "ஆழமான ஒருங்கிணைப்பு"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "முடக்கப்பட்டது"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "இரவு கண் இருள்"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "நைட் ஐ உங்களுக்கு மென்மையான மற்றும் நிலையான இருண்ட பயன்முறையை வழங்க ஐகான்கள் மற்றும் பின்னணிகள் போன்ற படங்களை மாற்றுகிறது."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "ஐகான்கள் மற்றும் பின்னணிகள் மாற்றம் உயர் CPU நுகர்வுடன் வருகிறது."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "சிறந்த டார்க் மோட் அனுபவத்திற்கு ஆன் செய்யவும்."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU நுகர்வு குறைக்க அணைக்கவும்."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "இந்த டொமைனின் அனைத்து துணை டொமைன்களையும் நைட் ஐ மாற்றும்"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "மேலும் உரை"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "சிறந்த டார்க் மோட் அனுபவத்திற்கு ஆன் செய்யவும்."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU நுகர்வு குறைக்க அணைக்கவும்."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "கேச் இணையதளத்தை இயல்பான நிலையில் இருந்து டார்க் பயன்முறைக்கு மாற்றுவதை வேகப்படுத்துகிறது (பக்கம் ஏற்றும் வேகம் பாதிக்கப்படாது). இது வலைத்தளத்தைப் பொறுத்து ஆரம்ப பிரகாசமான ஃப்ளாஷ்களைக் குறைக்கலாம்."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "கேச் அம்சம் சுமார் 80% இணையதளங்களில் வேலை செய்கிறது, எனவே ஒரு இணையதளம் சரியாக செயல்படவில்லை என்றால், தயவுசெய்து அதை அணைக்கவும்!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "குறிப்பிட்ட இணையதளம் அல்லது நீங்கள் பார்வையிடும் அனைவருக்கும் விண்ணப்பிக்கலாம்."
+   },
+   "subdomainViewDescription": {
+      "message": "இந்த டொமைனின் அனைத்து துணை டொமைன்களையும் நைட் ஐ மாற்றும்"
+   },
+   "subdomainViewTitle": {
+      "message": "துணை டொமைன்கள்"
+   },
+   "supportViewContinueBtn": {
+      "message": "தொடரவும்"
+   },
+   "supportViewInfo1": {
+      "message": "Night Eye தொடர்பாக உங்களுக்கு ஏதேனும் கேள்விகள் அல்லது பிரச்சனைகள் இருந்தால் உதவ நாங்கள் இங்கு இருக்கிறோம்."
+   },
+   "supportViewInfo2": {
+      "message": "எங்கள் ஆதரவு அமைப்பைப் பயன்படுத்த, சரியான தொடர்புத் தகவலை வழங்கவும்."
+   },
+   "supportViewInfo3": {
+      "message": "ஆங்கிலத்தில் மட்டும் எங்களுக்கு செய்தி அனுப்பவும்."
+   },
+   "supportViewInputEmail": {
+      "message": "மின்னஞ்சல்"
+   },
+   "supportViewInputName": {
+      "message": "பெயர்"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "தயவுசெய்து காத்திருங்கள்..."
+   },
+   "switchLabelOff": {
+      "message": "ஆஃப்"
+   },
+   "switchLabelOn": {
+      "message": "அன்று"
+   },
+   "temperatureViewDescription": {
+      "message": "கீழே உள்ள ஸ்லைடரை இழுத்து நீல ஒளியை சரிசெய்யவும்."
+   },
+   "temperatureViewOption1": {
+      "message": "நீலத்துடன்"
+   },
+   "temperatureViewOption2": {
+      "message": "நீலம் இல்லாமல்"
+   },
+   "temperatureViewTitle": {
+      "message": "நீல விளக்கு"
+   },
+   "tooltipDark": {
+      "message": "இந்த பயன்முறையைப் பயன்படுத்தி, தேர்ந்தெடுக்கப்பட்ட அமைப்புகளின் அடிப்படையில் நைட் ஐ வண்ணங்களை மாற்றும்"
+   },
+   "tooltipFiltered": {
+      "message": "இந்த பயன்முறையைப் பயன்படுத்தி, இணையதளம் இயல்பாகவே பல வடிப்பான்களின் விளைவுடன் இருக்கும் - பிரகாசம், மாறுபாடு, செறிவு, சூடான/குளிர், மங்கலான"
+   },
+   "tooltipNormal": {
+      "message": "இந்த பயன்முறையைப் பயன்படுத்தி, இணையதளம் இயல்பாகவே இருக்கும், நைட் ஐ எந்த நிறத்தையும் மாற்றாது"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "செயல்படுத்த"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "ரத்து செய்"
+   },
+   "trailActivationViewClientArea": {
+      "message": "வாடிக்கையாளர் பகுதி"
+   },
+   "trailActivationViewDescr": {
+      "message": "\u003Cbr>Night Eye Proவைச் செயல்படுத்த, வாங்கும் போது நீங்கள் பயன்படுத்திய மின்னஞ்சலைப் பயன்படுத்தவும்."
+   },
+   "trailActivationViewTitle": {
+      "message": "செயல்படுத்துதல்"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "ரத்து செய்"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "கண்ட்ரோல் பேனல்"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "செயலிழக்கச் செய்"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "இரவுக் கண் உங்கள் மின்னஞ்சலுடன் தொடர்புடையது \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "மேலும் விவரங்களுக்கு, பார்வையிடவும்"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "இந்த உலாவியில் \u003Cbr> நைட் ஐயை நிரந்தரமாக செயலிழக்கச் செய்யலாம்."
+   },
+   "trailLogoutViewTitle": {
+      "message": "செயல்படுத்தப்பட்டது"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "தொடரவும்"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "உங்கள் \u003Cbr> இலவச சோதனை $1 அன்று காலாவதியாகும் வரை ஒரே நேரத்தில் 3 உலாவிகளில் இரவுக் கண்ணை அனுபவிக்கலாம்"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "ஒரே நேரத்தில் $1 உலாவிகளில் இரவுக் கண்ணை அனுபவிக்கலாம்."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "நீட்டிப்பை வெற்றிகரமாகச் செயல்படுத்திவிட்டீர்கள்."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "ஒரே நேரத்தில் 3 உலாவிகளில் இரவுக் கண்ணை அனுபவிக்க முடியும்."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "கிளையண்ட் பகுதியில் செயலில் உள்ள உலாவிகளை நீங்கள் நிர்வகிக்கலாம்."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "அதை அணுக, தயவுசெய்து செல்லவும்"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "வெற்றிகரமான செயல்படுத்தல்"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "ரத்து செய்"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "கடந்த சில மாதங்களாக நைட் ஐ அதன் பயனை நிரூபித்துள்ளது என்று நம்புகிறோம்!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "நீங்கள் இதை தொடர்ந்து பயன்படுத்த விரும்பினால், எங்கள் விலை மற்றும் அதனுடன் வரும் அனைத்து நன்மைகளையும் பார்க்கவும்."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "இரவுக் கண் உங்கள் மின்னஞ்சலுடன் தொடர்புடையது \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> நீங்கள் பணம் செலுத்த முடிவு செய்தால் அதைப் பயன்படுத்தவும்."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "விலை நிர்ணயம்"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "ப்ரோ பதிப்பு"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "கடந்த மாதங்களில் நைட் ஐ அதன் பயனை நிரூபித்துள்ளது என்று நம்புகிறோம்."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "இலவச லைட் பதிப்பை நீங்கள் எப்போதும் பயன்படுத்தலாம் அல்லது ப்ரோவுக்குச் செல்லலாம். எங்கள் விலை நிர்ணயம் மற்றும் அதனுடன் வரும் அனைத்து நன்மைகளையும் பாருங்கள்."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "லைட் பதிப்பு"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5 இணையதளங்கள் வரை டார்க் மோடு"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "ப்ரோ பதிப்பு"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "வரம்புகள் இல்லை"
+   },
+   "trialExpiredViewTitle": {
+      "message": "உங்கள் இலவச சோதனை காலாவதியானது."
+   },
+   "trialLiteViewCancel": {
+      "message": "ரத்து செய்"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (வரம்புகளை அகற்று)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "டார்க் பயன்முறையை \u003Cbr> 5 இணையதளங்கள் வரை இயக்கலாம். நீங்கள் பட்டியலை நிர்வகிக்கலாம் மற்றும் எப்போது வேண்டுமானாலும் மாற்றலாம்."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "லைட் பதிப்பு"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "லைட் பற்றி படிக்கவும்"
+   },
+   "trialLiteViewSave": {
+      "message": "சேமிக்கவும்"
+   },
+   "trialProViewActivateBtn": {
+      "message": "செயல்படுத்த"
+   },
+   "trialProViewActivateDescr": {
+      "message": "உங்களிடம் ஏற்கனவே கணக்கு இருந்தால்,\u003C/br> அதை செயல்படுத்தவும்!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "ரத்து செய்"
+   },
+   "trialProViewDescrPart1": {
+      "message": "கடந்த சில மாதங்களாக நைட் ஐ அதன் பயனை நிரூபித்துள்ளது என்று நம்புகிறோம்!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "நீங்கள் இதை தொடர்ந்து பயன்படுத்த விரும்பினால், எங்கள் விலை மற்றும் அதனுடன் வரும் அனைத்து நன்மைகளையும் பார்க்கவும்."
+   },
+   "trialProViewPricing": {
+      "message": "விலை நிர்ணயம்"
+   },
+   "trialProViewTitle": {
+      "message": "ப்ரோ பதிப்பு"
+   }
+}

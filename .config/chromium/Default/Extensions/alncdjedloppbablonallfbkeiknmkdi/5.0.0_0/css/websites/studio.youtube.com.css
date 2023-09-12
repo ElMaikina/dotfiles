@@ -1,0 +1,12 @@
+svg {
+    filter: invert(80%);
+}
+
+.ytcp-playlist-dialog {
+    background-color: #1f1f1f !important;
+}
+
+
+text tspan {
+    fill: #000;
+}

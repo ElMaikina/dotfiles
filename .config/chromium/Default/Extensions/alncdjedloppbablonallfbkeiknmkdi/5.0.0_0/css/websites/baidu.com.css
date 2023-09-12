@@ -1,0 +1,29 @@
+.class_title,
+.content-sec {
+    background: transparent !important;
+}
+
+body,
+#head,
+.s_ipt_wr {
+    background-color: #1c1c21 !important;
+}
+
+a:link {
+    color: #99a8e6 !important;
+}
+
+em {
+    color: #e69999 !important;
+}
+
+.result .c-abstract {
+    color: #bfbfbf
+}
+
+
+.para-title,
+.basic-info {
+    background-image: none !important;
+    background-color: #262626 !important;
+}

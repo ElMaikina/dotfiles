@@ -1,0 +1,84 @@
+/********* GLOBAL ***********/
+::selection {
+    background: #338ccc;
+    color: #fff;
+}
+
+::-moz-selection {
+    background: #338ccc;
+    color: #fff;
+}
+
+:root[nighteye="active"] .CodeMirror-cursor {
+    border-color: #cecece !important;
+}
+
+:root[nighteye="active"] img {
+    mix-blend-mode: unset !important;
+    background-blend-mode: unset !important;
+}
+
+:root[nighteye="active"] figure table tr {
+    background-color: transparent;
+}
+
+:root[nighteye="active"] figure table tr:nth-child(2n+1) {
+    background-color: rgb(26, 26, 26);
+}
+
+/*All medium websites */
+body.is-withMagicUnderlines .markup--anchor {
+    text-decoration: underline;
+}
+
+body.is-withMagicUnderlines .postArticle.is-withAccentColors .markup--quote.is-other {
+    background-image: linear-gradient(rgba(51, 204, 138, 0.2), rgba(51, 204, 138, 0.2)) !important;
+}
+
+/*LaTeX*/
+img.tex-formula,
+img[src*="//tex."] {
+    filter: invert(80%);
+}
+
+/***** Shopify *****/
+.shopify-section .vertical-wrapper {
+    background: transparent !important;
+}
+
+/***** Openbenchmaking Charts *****/
+img[src*='//openbenchmarking.org/embed.php'] {
+    filter: invert(90%) hue-rotate(180deg) contrast(90%);
+}
+
+/***** CM Editor *****/
+.cm-cursor {
+    border-color: #dddddd !important;
+}
+
+/***** Bandcamp Player *****/
+.inline_player .progbar {
+    filter: invert(80%);
+}
+
+.inline_player .prev_cell,
+.inline_player .next_cell {
+    filter: invert(50%);
+}
+
+.inline_player .playbutton,
+.track_list .play_status {
+    background: #5f5f5f !important;
+}
+
+/***** WordPress *****/
+:root[nighteye="active"] body.single #main-content .post-thumb .single-thumbnail img {
+    z-index: 0;
+}
+
+/****** Microsoft Login ******/
+.background-image-holder,
+.background-image,
+.background-image-small {
+    background-image: none !important;
+}

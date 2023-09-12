@@ -1,0 +1,11 @@
+font,
+th,
+b {
+    color: #efefef !important;
+}
+
+.ooui-theme-fandom .wds-community-header::before,
+.mcf-card-wiki-articles__header::before {
+    background-color: #000;
+    background-blend-mode: exclusion;
+}

@@ -1,0 +1,7 @@
+svg rect {
+    fill: transparent !important;
+}
+
+svg text {
+    fill: rgb(191, 191, 191);
+}

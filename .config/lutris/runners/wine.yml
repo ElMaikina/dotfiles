@@ -1,0 +1,10 @@
+system:
+  gamescope: true
+  gamescope_force_grab_cursor: true
+  gamescope_game_res: 960x540
+  gamescope_output_res: 1920x1080
+  reset_pulse: false
+  sdl_video_fullscreen: '0'
+  vk_icd: /usr/share/vulkan/icd.d/nvidia_icd.json
+  xephyr_fullscreen: false
+wine: {}

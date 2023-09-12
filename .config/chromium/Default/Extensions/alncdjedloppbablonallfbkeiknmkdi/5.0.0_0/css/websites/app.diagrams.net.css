@@ -1,0 +1,21 @@
+.geButton,
+a .geSprite,
+.geSprite-plus,
+.geEditor>a>div {
+    filter: invert(80%);
+}
+
+.geBackgroundPage {
+    background-color: #1f1f1f !important;
+}
+
+.geSidebar svg ellipse,
+.geSidebar svg rect,
+.geSidebar svg path {
+    fill: transparent !important;
+    stroke: #fefefe !important;
+}
+
+.geFormatContainer .geFormatSection {
+    background-color: transparent !important;
+}

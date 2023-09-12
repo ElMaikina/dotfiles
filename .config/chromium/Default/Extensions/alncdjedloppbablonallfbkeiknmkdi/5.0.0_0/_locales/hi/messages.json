@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "नीचे स्लाइडर को खींचकर चमक को समायोजित करें।"
+   },
+   "brightnessViewTitle": {
+      "message": "चमक"
+   },
+   "colorViewDescription": {
+      "message": "वेबसाइट से एक रंग चुनें और इसे अपनी इच्छानुसार बदल दें।"
+   },
+   "colorViewOriginalColor": {
+      "message": "मूल"
+   },
+   "colorViewReplacedColor": {
+      "message": "जगह ले ली"
+   },
+   "colorViewTitle": {
+      "message": "रंग चयनकर्ता"
+   },
+   "contrastViewDescription": {
+      "message": "नीचे स्लाइडर को खींचकर कंट्रास्ट समायोजित करें।"
+   },
+   "contrastViewTitle": {
+      "message": "अंतर"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "सभी वेबसाइट"
+   },
+   "controlsPanelButtonApply": {
+      "message": "आवेदन करना"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "पर लागू"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "रद्द करना"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "रीसेट"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "डिफॉल्ट्स का पुनःस्थापन"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "वर्तमान वेबसाइट"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "सभी वेबसाइटों के लिए"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "वर्तमान वेबसाइट के लिए"
+   },
+   "dimViewDescription": {
+      "message": "वेबसाइटों के डिमिंग स्तर को समायोजित करें।"
+   },
+   "dimViewTitle": {
+      "message": "धुंधला"
+   },
+   "extDescription": {
+      "message": "प्रत्येक वेबसाइट को इच्छानुसार डार्क मोड / लाइट मोड में स्विच करें। नाइट आई से करें अपनी आंखों का ख्याल।"
+   },
+   "extDisabledStatus": {
+      "message": "रात की आँख बंद हो जाती है"
+   },
+   "extName": {
+      "message": "डार्क मोड - नाइट आई"
+   },
+   "extToggleButton": {
+      "message": "टैब के लिए डार्क और नॉर्मल मोड टॉगल करें"
+   },
+   "extTurnOnButton": {
+      "message": "चालू करो"
+   },
+   "filterModeNameDark": {
+      "message": "अँधेरा"
+   },
+   "filterModeNameFiltered": {
+      "message": "छाना हुआ"
+   },
+   "filterModeNameNormal": {
+      "message": "सामान्य"
+   },
+   "firstRunViewFeature1": {
+      "message": "पेज लोड करने की गति प्रभावित हो सकती है"
+   },
+   "firstRunViewFeature2": {
+      "message": "नाइट आई प्रो के 3 महीने मुफ्त (कोई क्रेडिट कार्ड नहीं)"
+   },
+   "firstRunViewFeature3": {
+      "message": "कोई ब्राउज़िंग जानकारी एकत्र नहीं की जाती है"
+   },
+   "firstRunViewFeature4": {
+      "message": "बिल्ट-इन चैट के माध्यम से हमसे संपर्क करें"
+   },
+   "firstRunViewTitle": {
+      "message": "जल्दी शुरू"
+   },
+   "helpOSIntegrationLink": {
+      "message": "अधिक जानकारी"
+   },
+   "helpViewActivateNow": {
+      "message": "अब सक्रिय करें"
+   },
+   "helpViewActivated": {
+      "message": "अपना एक्सटेंशन प्रबंधित करें"
+   },
+   "helpViewByExpires": {
+      "message": "$1 तक \u003C/br>समाप्ति: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "क्लाइंट क्षेत्र"
+   },
+   "helpViewDarkScroll": {
+      "message": "डार्क स्क्रॉल"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "नाइट आई को किसी भी स्क्रॉल को अंधेरा होने दें।"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "नई वेबसाइट खोलते समय निष्पादित होने वाला डिफ़ॉल्ट मोड चुनें"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "डिफ़ॉल्ट मोड"
+   },
+   "helpViewDisabled": {
+      "message": "अक्षम"
+   },
+   "helpViewEnabled": {
+      "message": "सक्रिय"
+   },
+   "helpViewExpiredNever": {
+      "message": "कभी नहीँ"
+   },
+   "helpViewExpires": {
+      "message": "$1 . समाप्त हो रहा है"
+   },
+   "helpViewExportData": {
+      "message": "निर्यात जानकारी"
+   },
+   "helpViewGoProTitle": {
+      "message": "पेशेवर बनो"
+   },
+   "helpViewHelpButton": {
+      "message": "मदद करना"
+   },
+   "helpViewImportData": {
+      "message": "आयात आंकड़ा"
+   },
+   "helpViewLanguage": {
+      "message": "भाषा"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "डार्क मोड सूची प्रबंधित करें"
+   },
+   "helpViewOSColorScheme": {
+      "message": "ओएस रंग योजना एकीकरण"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "अपने सक्रिय OS रंग योजना के साथ नाइट आई को सिंक करें।"
+   },
+   "helpViewShortcutDescription": {
+      "message": "अपना खुद का शॉर्टकट असाइन करने का तरीका जानें"
+   },
+   "helpViewShortcutTitle": {
+      "message": "चालू/बंद शॉर्टकट"
+   },
+   "helpViewSignInSignUp": {
+      "message": "प्रवेश या साइन अप"
+   },
+   "helpViewSignOut": {
+      "message": "साइन आउट"
+   },
+   "helpViewTimerDescr": {
+      "message": "यह काम किस प्रकार करता है"
+   },
+   "helpViewTimerOff": {
+      "message": "बंद"
+   },
+   "helpViewTimerOn": {
+      "message": "पर"
+   },
+   "helpViewTimerTitle": {
+      "message": "अनुसूची"
+   },
+   "helpViewUninstallDescription": {
+      "message": "एक्सटेंशन सूची में नाइट आई ढूंढें और हटाएं पर क्लिक करें"
+   },
+   "helpViewUninstallTitle": {
+      "message": "स्थापना रद्द करें"
+   },
+   "helpViewWhiteListButton": {
+      "message": "श्वेतसूची"
+   },
+   "imageViewDescription": {
+      "message": "नाइट आई छवियों को प्रोसेस करती है जिससे वे गहरे रंग की हो जाती हैं। यह सुविधा है जिसके लिए अधिक कम्प्यूटेशनल संसाधनों की आवश्यकता होती है और यह आपके कंप्यूटर को धीमा कर सकता है।"
+   },
+   "imageViewTitle": {
+      "message": "इमेजिस"
+   },
+   "labelBlueLight": {
+      "message": "नीली बत्ती"
+   },
+   "labelBrightness": {
+      "message": "चमक"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "बिल्ट-इन \u003Cbr>डार्क थीम"
+   },
+   "labelColors": {
+      "message": "रंग की"
+   },
+   "labelContinue": {
+      "message": "जारी रखना"
+   },
+   "labelContrast": {
+      "message": "अंतर"
+   },
+   "labelCurrent": {
+      "message": "मौजूदा"
+   },
+   "labelCustomCode": {
+      "message": "कस्टम कोड"
+   },
+   "labelCustomUrlPath": {
+      "message": "अनुकूलित करें \u003Cbr> पृष्ठ"
+   },
+   "labelDim": {
+      "message": "धुंधला"
+   },
+   "labelDisabled": {
+      "message": "अक्षम"
+   },
+   "labelEnabled": {
+      "message": "सक्रिय"
+   },
+   "labelExperimentalFeature": {
+      "message": "प्रायोगिक विशेषता"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "पृष्ठभूमि रूपांतरण"
+   },
+   "labelImageHighCPU": {
+      "message": "उच्च CPU खपत"
+   },
+   "labelImageIconConversion": {
+      "message": "प्रतीक रूपांतरण"
+   },
+   "labelImages": {
+      "message": "इमेजिस"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "सूची प्रबंधित करें"
+   },
+   "labelPleaseWait": {
+      "message": "कृपया प्रतीक्षा करें"
+   },
+   "labelSaturation": {
+      "message": "परिपूर्णता"
+   },
+   "labelSubdomains": {
+      "message": "उप डोमेन"
+   },
+   "labelTurboCache": {
+      "message": "स्थानीय कैश"
+   },
+   "labelWebsite": {
+      "message": "वेबसाइट"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "इस वेबसाइट को डार्क मोड लिस्ट में नहीं जोड़ा गया है।"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "गहरा संस्करण"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "फ़िल्टर किया गया संस्करण"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "सामान्य संस्करण"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "समर्थित नहीं"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "यह वेबसाइट समर्थित नहीं है"
+   },
+   "okButton": {
+      "message": "ठीक है"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "बंद करना"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "आप 30 दिनों से नाइट आई का उपयोग कर रहे हैं।"
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "धन्यवाद के रूप में, हमारे पास विशेष 10% की छूट है। कृपया डिस्काउंट कोड का उपयोग करें \u003Cdiv class=\"DiscountCode\">-\u003C/div> यह ऑफर 48 घंटों के लिए वैध है।"
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "अपना प्रो संस्करण अभी प्राप्त करें"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "यदि आप रुचि नहीं रखते हैं,\u003Cbr> तो आपके पास नि:शुल्क परीक्षण से \u003Cbr> 2 महीने और बचे हैं। आनंद लेना!"
+   },
+   "refreshButton": {
+      "message": "ताज़ा करना"
+   },
+   "refreshViewDescription": {
+      "message": "नवीनतम सेटिंग्स लागू करने के लिए आपको वर्तमान पृष्ठ को ताज़ा करना होगा"
+   },
+   "refreshViewTitle": {
+      "message": "कृपया पृष्ठ को फिर से लोड करें"
+   },
+   "saturationViewDescription": {
+      "message": "नीचे स्लाइडर को खींचकर संतृप्ति को समायोजित करें।"
+   },
+   "saturationViewTitle": {
+      "message": "परिपूर्णता"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "डीप इंटीग्रेशन आपको उन वेबसाइटों के बिल्ट-इन डार्क थीम को नियंत्रित करने की अनुमति देता है जो पहले से ही डार्क UI लागू कर चुके हैं।"
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "देखें कि डीप इंटीग्रेशन कैसे काम करता है"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "यहां"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "गहरा एकीकरण"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "अक्षम"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "रात आँख का अंधेरा"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "नाइट आई आपको सुचारू और सुसंगत डार्क मोड प्रदान करने के लिए आइकन और पृष्ठभूमि जैसी छवियों को परिवर्तित करता है।"
+   },
+   "settingsImageViewDescrP2": {
+      "message": "प्रतीक और पृष्ठभूमि रूपांतरण उच्च CPU खपत के साथ आता है।"
+   },
+   "settingsImageViewDescrP3": {
+      "message": "सर्वश्रेष्ठ डार्क मोड अनुभव के लिए चालू करें।"
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU खपत को कम करने के लिए बंद करें।"
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "नाइट आई इस डोमेन के सभी उप डोमेन को बदल देगी"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "अधिक पाठ"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "सर्वश्रेष्ठ डार्क मोड अनुभव के लिए चालू करें।"
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU खपत को कम करने के लिए बंद करें।"
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "कैशे सामान्य से डार्क मोड में वेबसाइट रूपांतरण को गति देता है (पृष्ठ लोडिंग गति प्रभावित नहीं होती है)। यह वेबसाइट के आधार पर प्रारंभिक उज्ज्वल चमक को कम कर सकता है।"
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "कैशे फीचर लगभग 80% वेबसाइटों पर काम करता है, इस प्रकार यदि कोई वेबसाइट ठीक से व्यवहार नहीं कर रही है, तो कृपया इसे इसके लिए बंद कर दें!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "विशिष्ट वेबसाइट या आपके द्वारा देखे जाने वाले सभी पर लागू किया जा सकता है।"
+   },
+   "subdomainViewDescription": {
+      "message": "नाइट आई इस डोमेन के सभी उप डोमेन को बदल देगी"
+   },
+   "subdomainViewTitle": {
+      "message": "उप डोमेन"
+   },
+   "supportViewContinueBtn": {
+      "message": "जारी रखना"
+   },
+   "supportViewInfo1": {
+      "message": "यदि आपके पास नाइट आई के साथ कोई प्रश्न या समस्या है तो हम आपकी सहायता के लिए यहां हैं।"
+   },
+   "supportViewInfo2": {
+      "message": "हमारी सहायता प्रणाली का उपयोग करने के लिए, कृपया सही संपर्क जानकारी प्रदान करें।"
+   },
+   "supportViewInfo3": {
+      "message": "हमें केवल अंग्रेजी में मैसेज करें।"
+   },
+   "supportViewInputEmail": {
+      "message": "ईमेल"
+   },
+   "supportViewInputName": {
+      "message": "नाम"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "कृपया प्रतीक्षा करें..."
+   },
+   "switchLabelOff": {
+      "message": "बंद"
+   },
+   "switchLabelOn": {
+      "message": "पर"
+   },
+   "temperatureViewDescription": {
+      "message": "नीचे स्लाइडर को खींचकर नीली रोशनी को समायोजित करें।"
+   },
+   "temperatureViewOption1": {
+      "message": "नीले रंग के साथ"
+   },
+   "temperatureViewOption2": {
+      "message": "नीले रंग के बिना"
+   },
+   "temperatureViewTitle": {
+      "message": "नीली बत्ती"
+   },
+   "tooltipDark": {
+      "message": "इस मोड का उपयोग करते हुए, नाइट आई चयनित सेटिंग्स के आधार पर रंग बदलेगी"
+   },
+   "tooltipFiltered": {
+      "message": "इस मोड का उपयोग करते हुए, वेबसाइट डिफ़ॉल्ट रूप से कई फिल्टर के प्रभाव के साथ होगी - चमक, कंट्रास्ट, संतृप्ति, गर्म / ठंडा, मंद"
+   },
+   "tooltipNormal": {
+      "message": "इस मोड का उपयोग करने पर वेबसाइट डिफ़ॉल्ट रूप से होगी, नाइट आई कोई रंग नहीं बदलेगी"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "सक्रिय"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "रद्द करना"
+   },
+   "trailActivationViewClientArea": {
+      "message": "ग्राहक का क्षेत्र"
+   },
+   "trailActivationViewDescr": {
+      "message": "कृपया उस ईमेल का उपयोग करें जिसका उपयोग आपने खरीदारी करते समय \u003Cbr>Night Eye Pro को सक्रिय करने के लिए किया था।"
+   },
+   "trailActivationViewTitle": {
+      "message": "सक्रियण"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "रद्द करना"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "कंट्रोल पैनल"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "निष्क्रिय करें"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "नाइट आई आपके ई-मेल से संबद्ध है \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "अधिक जानकारी के लिए, विजिट करें"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "आप इस ब्राउज़र के लिए \u003Cbr> नाइट आई को स्थायी रूप से निष्क्रिय कर सकते हैं।"
+   },
+   "trailLogoutViewTitle": {
+      "message": "सक्रिय"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "जारी रखना"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "जब तक आपका \u003Cbr> नि:शुल्क परीक्षण $1 . को समाप्त नहीं हो जाता, तब तक आप एक बार में 3 ब्राउज़र तक नाइट आई का आनंद ले सकते हैं"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "आप एक बार में $1 ब्राउज़र तक नाइट आई का आनंद ले सकते हैं।"
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "आपने एक्सटेंशन को सफलतापूर्वक सक्रिय कर दिया है।"
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "आप एक बार में 3 ब्राउज़र तक नाइट आई का आनंद ले सकते हैं।"
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "आप क्लाइंट एरिया में सक्रिय ब्राउज़रों को प्रबंधित कर सकते हैं।"
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "इसे एक्सेस करने के लिए, कृपया यहां जाएं"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "सफल सक्रियण"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "रद्द करना"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "हमें उम्मीद है कि नाइट आई ने पिछले महीनों में अपनी उपयोगिता साबित की है!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "यदि आप इसका उपयोग जारी रखना चाहते हैं, तो हमारे मूल्य निर्धारण और इसके साथ आने वाले सभी लाभों की जांच करें।"
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "नाइट आई आपके ई-मेल से संबद्ध है \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> यदि आप भुगतान करने का निर्णय लेते हैं तो इसका उपयोग करें।"
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "मूल्य निर्धारण"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "प्रो संस्करण"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "हमें उम्मीद है कि नाइट आई ने पिछले महीनों में अपनी उपयोगिता साबित की है।"
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "आप हमेशा के लिए मुफ्त लाइट संस्करण का उपयोग कर सकते हैं या प्रो जा सकते हैं। हमारे मूल्य निर्धारण और साथ आने वाले सभी लाभों की जाँच करें।"
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "लाइट संस्करण"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5 वेबसाइटों तक डार्क मोड"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "प्रो संस्करण"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "असीम"
+   },
+   "trialExpiredViewTitle": {
+      "message": "आपका मुफ्त ट्रायल समाप्त हो चुका है।"
+   },
+   "trialLiteViewCancel": {
+      "message": "रद्द करना"
+   },
+   "trialLiteViewGoPro": {
+      "message": "जाओ प्रो (सीमाएँ हटाएँ)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "डार्क मोड को \u003Cbr> 5 वेबसाइटों तक सक्षम किया जा सकता है। आप सूची को प्रबंधित कर सकते हैं और इसे किसी भी समय बदल सकते हैं।"
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "लाइट संस्करण"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "लाइट के बारे में पढ़ें"
+   },
+   "trialLiteViewSave": {
+      "message": "बचाना"
+   },
+   "trialProViewActivateBtn": {
+      "message": "सक्रिय"
+   },
+   "trialProViewActivateDescr": {
+      "message": "यदि आपके पास पहले से ही एक खाता है, तो\u003C/br> कृपया इसे सक्रिय करें!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "रद्द करना"
+   },
+   "trialProViewDescrPart1": {
+      "message": "हमें उम्मीद है कि नाइट आई ने पिछले महीनों में अपनी उपयोगिता साबित की है!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "यदि आप इसका उपयोग जारी रखना चाहते हैं, तो हमारे मूल्य निर्धारण और इसके साथ आने वाले सभी लाभों की जांच करें।"
+   },
+   "trialProViewPricing": {
+      "message": "मूल्य निर्धारण"
+   },
+   "trialProViewTitle": {
+      "message": "प्रो संस्करण"
+   }
+}

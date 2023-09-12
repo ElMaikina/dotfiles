@@ -1,0 +1,16 @@
+.skeleton_main {
+    /* background-blend-mode: color-burn; */
+    background: none !important;
+}
+
+.top_outer {
+    background: none !important
+}
+
+#navigation {
+    background-color: rgb(41, 41, 41) !important;
+}
+
+.html5 .top_outer img {
+    mix-blend-mode: screen;
+}

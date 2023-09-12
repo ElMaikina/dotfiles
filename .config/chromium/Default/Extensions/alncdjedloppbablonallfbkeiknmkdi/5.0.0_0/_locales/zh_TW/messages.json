@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "通過拖動下面的滑塊來調整亮度。"
+   },
+   "brightnessViewTitle": {
+      "message": "亮度"
+   },
+   "colorViewDescription": {
+      "message": "從網站上選擇一種顏色並將其更改為您想要的任何顏色。"
+   },
+   "colorViewOriginalColor": {
+      "message": "原來的"
+   },
+   "colorViewReplacedColor": {
+      "message": "更換"
+   },
+   "colorViewTitle": {
+      "message": "選色器"
+   },
+   "contrastViewDescription": {
+      "message": "通過拖動下面的滑塊來調整對比度。"
+   },
+   "contrastViewTitle": {
+      "message": "對比"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "所有網站"
+   },
+   "controlsPanelButtonApply": {
+      "message": "申請"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "適用於"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "取消"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "重置"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "恢復默認值"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "當前網站"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "適用於所有網站"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "對於當前網站"
+   },
+   "dimViewDescription": {
+      "message": "調整網站的調光級別。"
+   },
+   "dimViewTitle": {
+      "message": "暗淡"
+   },
+   "extDescription": {
+      "message": "根據需要將每個網站切換到暗模式/亮模式。用夜眼呵護您的眼睛。"
+   },
+   "extDisabledStatus": {
+      "message": "夜眼已停止"
+   },
+   "extName": {
+      "message": "黑暗模式 - 夜眼"
+   },
+   "extToggleButton": {
+      "message": "切換選項卡的暗模式和正常模式"
+   },
+   "extTurnOnButton": {
+      "message": "打開"
+   },
+   "filterModeNameDark": {
+      "message": "黑暗的"
+   },
+   "filterModeNameFiltered": {
+      "message": "過濾"
+   },
+   "filterModeNameNormal": {
+      "message": "普通的"
+   },
+   "firstRunViewFeature1": {
+      "message": "頁面加載速度可能會受到影響"
+   },
+   "firstRunViewFeature2": {
+      "message": "免費 3 個月的 Night Eye Pro（無信用卡）"
+   },
+   "firstRunViewFeature3": {
+      "message": "不收集瀏覽信息"
+   },
+   "firstRunViewFeature4": {
+      "message": "通過內置聊天聯繫我們"
+   },
+   "firstRunViewTitle": {
+      "message": "快速開始"
+   },
+   "helpOSIntegrationLink": {
+      "message": "更多細節"
+   },
+   "helpViewActivateNow": {
+      "message": "立即激活"
+   },
+   "helpViewActivated": {
+      "message": "管理您的擴展程序"
+   },
+   "helpViewByExpires": {
+      "message": "由 $1 \u003C/br>到期：$2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "客戶區"
+   },
+   "helpViewDarkScroll": {
+      "message": "黑暗捲軸"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "讓夜眼使任何捲軸變暗。"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "選擇打開新網站時要執行的默認模式"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "默認模式"
+   },
+   "helpViewDisabled": {
+      "message": "已禁用"
+   },
+   "helpViewEnabled": {
+      "message": "啟用"
+   },
+   "helpViewExpiredNever": {
+      "message": "絕不"
+   },
+   "helpViewExpires": {
+      "message": "過期 $1"
+   },
+   "helpViewExportData": {
+      "message": "導出數據"
+   },
+   "helpViewGoProTitle": {
+      "message": "去臨"
+   },
+   "helpViewHelpButton": {
+      "message": "幫助"
+   },
+   "helpViewImportData": {
+      "message": "導入數據"
+   },
+   "helpViewLanguage": {
+      "message": "語"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "管理暗模式列表"
+   },
+   "helpViewOSColorScheme": {
+      "message": "操作系統配色方案集成"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "將 Night Eye 與您的活動操作系統配色方案同步。"
+   },
+   "helpViewShortcutDescription": {
+      "message": "了解如何分配您自己的快捷方式"
+   },
+   "helpViewShortcutTitle": {
+      "message": "開/關快捷方式"
+   },
+   "helpViewSignInSignUp": {
+      "message": "登錄註冊"
+   },
+   "helpViewSignOut": {
+      "message": "登出"
+   },
+   "helpViewTimerDescr": {
+      "message": "這個怎麼運作"
+   },
+   "helpViewTimerOff": {
+      "message": "離開"
+   },
+   "helpViewTimerOn": {
+      "message": "上"
+   },
+   "helpViewTimerTitle": {
+      "message": "日程"
+   },
+   "helpViewUninstallDescription": {
+      "message": "在擴展列表中找到夜眼並點擊刪除"
+   },
+   "helpViewUninstallTitle": {
+      "message": "卸載"
+   },
+   "helpViewWhiteListButton": {
+      "message": "白名單"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye 處理圖像，使它們變暗。此功能需要更多計算資源，並且會降低您的計算機速度。"
+   },
+   "imageViewTitle": {
+      "message": "圖片"
+   },
+   "labelBlueLight": {
+      "message": "藍光"
+   },
+   "labelBrightness": {
+      "message": "亮度"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "內置 \u003Cbr>深色主題"
+   },
+   "labelColors": {
+      "message": "顏色"
+   },
+   "labelContinue": {
+      "message": "繼續"
+   },
+   "labelContrast": {
+      "message": "對比"
+   },
+   "labelCurrent": {
+      "message": "當前的"
+   },
+   "labelCustomCode": {
+      "message": "自定義代碼"
+   },
+   "labelCustomUrlPath": {
+      "message": "自定義 \u003Cbr> 頁面"
+   },
+   "labelDim": {
+      "message": "暗淡"
+   },
+   "labelDisabled": {
+      "message": "已禁用"
+   },
+   "labelEnabled": {
+      "message": "啟用"
+   },
+   "labelExperimentalFeature": {
+      "message": "實驗功能"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "背景轉換"
+   },
+   "labelImageHighCPU": {
+      "message": "CPU消耗高"
+   },
+   "labelImageIconConversion": {
+      "message": "圖標轉換"
+   },
+   "labelImages": {
+      "message": "圖片"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "管理列表"
+   },
+   "labelPleaseWait": {
+      "message": "請稍等"
+   },
+   "labelSaturation": {
+      "message": "飽和"
+   },
+   "labelSubdomains": {
+      "message": "子域"
+   },
+   "labelTurboCache": {
+      "message": "本地緩存"
+   },
+   "labelWebsite": {
+      "message": "網站"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "該網站未添加到深色模式列表中。"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "深色版"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "過濾版本"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "普通版"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "不支持"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "不支持此網站"
+   },
+   "okButton": {
+      "message": "好的"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "關"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "您已經使用 Night Eye 30 天了。"
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "作為感謝，我們有一個特別的 10% 折扣。請使用折扣碼\u003Cdiv class=\"DiscountCode\">-\u003C/div> 此優惠有效期為48小時。"
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "立即獲取您的 PRO 版本"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "如果您不感興趣，\u003Cbr>您還有 2 個月的免費試用時間\u003Cbr>。享受！"
+   },
+   "refreshButton": {
+      "message": "刷新"
+   },
+   "refreshViewDescription": {
+      "message": "您必須刷新當前頁面才能應用最新設置"
+   },
+   "refreshViewTitle": {
+      "message": "請重新加載頁面"
+   },
+   "saturationViewDescription": {
+      "message": "通過拖動下面的滑塊來調整飽和度。"
+   },
+   "saturationViewTitle": {
+      "message": "飽和"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "深度集成允許您控制已實現深色 UI 的網站的內置深色主題。"
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "了解深度集成的工作原理"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "這裡"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "深度融合"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "已禁用"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "夜眼暗"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye 可轉換圖標和背景等圖像，為您提供流暢一致的暗模式。"
+   },
+   "settingsImageViewDescrP2": {
+      "message": "圖標和背景轉換伴隨著高 CPU 消耗。"
+   },
+   "settingsImageViewDescrP3": {
+      "message": "打開以獲得最佳黑暗模式體驗。"
+   },
+   "settingsImageViewDescrP4": {
+      "message": "關閉以減少 CPU 消耗。"
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye 將轉換此域的所有子域"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "更多更多文字"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "打開以獲得最佳黑暗模式體驗。"
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "關閉以減少 CPU 消耗。"
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "緩存加快了網站從正常模式到暗模式的轉換（頁面加載速度不受影響）。它可以減少最初的明亮閃光，具體取決於網站。"
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "緩存功能適用於大約 80% 的網站，因此如果網站運行不正常，請將其關閉！"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "可以應用於特定網站或您訪問的所有網站。"
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye 將轉換此域的所有子域"
+   },
+   "subdomainViewTitle": {
+      "message": "子域"
+   },
+   "supportViewContinueBtn": {
+      "message": "繼續"
+   },
+   "supportViewInfo1": {
+      "message": "如果您對 Night Eye 有任何疑問或問題，我們隨時為您提供幫助。"
+   },
+   "supportViewInfo2": {
+      "message": "要使用我們的支持系統，請提供正確的聯繫信息。"
+   },
+   "supportViewInfo3": {
+      "message": "只用英語給我們留言。"
+   },
+   "supportViewInputEmail": {
+      "message": "電子郵件"
+   },
+   "supportViewInputName": {
+      "message": "姓名"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "請稍等..."
+   },
+   "switchLabelOff": {
+      "message": "離開"
+   },
+   "switchLabelOn": {
+      "message": "上"
+   },
+   "temperatureViewDescription": {
+      "message": "通過拖動下面的滑塊來調整藍光。"
+   },
+   "temperatureViewOption1": {
+      "message": "有藍色"
+   },
+   "temperatureViewOption2": {
+      "message": "沒有藍色"
+   },
+   "temperatureViewTitle": {
+      "message": "藍光"
+   },
+   "tooltipDark": {
+      "message": "使用此模式，夜眼將根據所選設置更改顏色"
+   },
+   "tooltipFiltered": {
+      "message": "使用這種模式，網站會默認加上幾個濾鏡的效果——亮度、對比度、飽和度、暖色/冷色、暗淡"
+   },
+   "tooltipNormal": {
+      "message": "使用此模式，網站會默認，Night Eye不會改變任何顏色"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "啟用"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "取消"
+   },
+   "trailActivationViewClientArea": {
+      "message": "客戶區"
+   },
+   "trailActivationViewDescr": {
+      "message": "請使用您在購買時使用的電子郵件激活 \u003Cbr>Night Eye Pro。"
+   },
+   "trailActivationViewTitle": {
+      "message": "激活"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "取消"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "控制面板"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "停用"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "夜視儀與您的電子郵件 \u003Cb class=\"ActivatedEmail\">$1\u003C/b> 相關聯"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "欲了解更多詳情，請訪問"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "您可以永久停用此瀏覽器的 \u003Cbr> Night Eye。"
+   },
+   "trailLogoutViewTitle": {
+      "message": "活性"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "繼續"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "您可以同時在多達 3 個瀏覽器上使用 Night Eye，直到您的 \u003Cbr> 免費試用期滿 1 美元"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "您可以一次在最高 1 美元的瀏覽器上享受 Night Eye。"
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "您已成功激活擴展程序。"
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "您可以同時在多達 3 個瀏覽器上使用 Night Eye。"
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "您可以在客戶區管理活動的瀏覽器。"
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "要訪問它，請訪問"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "成功激活"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "取消"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "我們希望夜眼在過去幾個月中證明了它的實用性！"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "如果您想繼續使用它，請查看我們的定價以及隨之而來的所有好處。"
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye 與您的電子郵件相關聯\u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr>如果您決定付款，請使用它。"
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "價錢"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "專業版"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "我們希望夜眼在過去幾個月中證明了它的有用性。"
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "您可以永久使用免費的 Lite 版本，也可以轉為 Pro。查看我們的定價以及隨之而來的所有好處。"
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "精簡版"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "最多 5 個網站的暗模式"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "專業版"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "無限"
+   },
+   "trialExpiredViewTitle": {
+      "message": "您的免費試用期已過。"
+   },
+   "trialLiteViewCancel": {
+      "message": "取消"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro（消除限制）"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "最多可以在 \u003Cbr> 5 個網站上啟用深色模式。您可以管理列表並隨時更改它。"
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "精簡版"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "閱讀精簡版"
+   },
+   "trialLiteViewSave": {
+      "message": "節省"
+   },
+   "trialProViewActivateBtn": {
+      "message": "啟用"
+   },
+   "trialProViewActivateDescr": {
+      "message": "如果您已經有一個帳戶，\u003C/br>請激活它！"
+   },
+   "trialProViewCancelBtn": {
+      "message": "取消"
+   },
+   "trialProViewDescrPart1": {
+      "message": "我們希望夜眼在過去幾個月中證明了它的實用性！"
+   },
+   "trialProViewDescrPart2": {
+      "message": "如果您想繼續使用它，請查看我們的定價以及隨之而來的所有好處。"
+   },
+   "trialProViewPricing": {
+      "message": "價錢"
+   },
+   "trialProViewTitle": {
+      "message": "專業版"
+   }
+}

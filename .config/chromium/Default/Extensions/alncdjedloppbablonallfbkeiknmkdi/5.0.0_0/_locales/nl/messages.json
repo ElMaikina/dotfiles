@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Pas de helderheid aan door de onderstaande schuifregelaar te slepen."
+   },
+   "brightnessViewTitle": {
+      "message": "Helderheid"
+   },
+   "colorViewDescription": {
+      "message": "Kies een kleur van de website en verander deze in wat je maar wilt."
+   },
+   "colorViewOriginalColor": {
+      "message": "Origineel"
+   },
+   "colorViewReplacedColor": {
+      "message": "vervangen"
+   },
+   "colorViewTitle": {
+      "message": "Kleur kiezer"
+   },
+   "contrastViewDescription": {
+      "message": "Pas het contrast aan door de onderstaande schuifregelaar te slepen."
+   },
+   "contrastViewTitle": {
+      "message": "Contrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "alle websites"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Van toepassing zijn"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Van toepassing op"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Annuleren"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Resetten"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Standaardinstellingen herstellen"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "huidige website"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "voor alle websites"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "voor huidige website"
+   },
+   "dimViewDescription": {
+      "message": "Pas het dimniveau van de websites aan."
+   },
+   "dimViewTitle": {
+      "message": "dim"
+   },
+   "extDescription": {
+      "message": "Schakel elke website naar wens in donkere modus / lichte modus. Verzorg je ogen met Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Nachtoog is gestopt"
+   },
+   "extName": {
+      "message": "Donkere modus - Nachtoog"
+   },
+   "extToggleButton": {
+      "message": "Schakel tussen donkere en normale modus voor het tabblad"
+   },
+   "extTurnOnButton": {
+      "message": "Aanzetten"
+   },
+   "filterModeNameDark": {
+      "message": "Donker"
+   },
+   "filterModeNameFiltered": {
+      "message": "Gefilterd"
+   },
+   "filterModeNameNormal": {
+      "message": "normaal"
+   },
+   "firstRunViewFeature1": {
+      "message": "De laadsnelheid van de pagina kan worden beïnvloed"
+   },
+   "firstRunViewFeature2": {
+      "message": "Gratis 3 maanden Night Eye Pro (geen creditcard)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Er wordt geen browse-informatie verzameld"
+   },
+   "firstRunViewFeature4": {
+      "message": "Neem contact met ons op via de ingebouwde chat"
+   },
+   "firstRunViewTitle": {
+      "message": "Snelle start"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Meer details"
+   },
+   "helpViewActivateNow": {
+      "message": "Activeer nu"
+   },
+   "helpViewActivated": {
+      "message": "Beheer uw extensie"
+   },
+   "helpViewByExpires": {
+      "message": "met $1 \u003C/br>verloopt: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Klantengedeelte"
+   },
+   "helpViewDarkScroll": {
+      "message": "Donkere rollen"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Laat Night Eye elke scroll donker maken."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Kies de standaardmodus die moet worden uitgevoerd bij het openen van nieuwe websites"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Standaard modus"
+   },
+   "helpViewDisabled": {
+      "message": "Gehandicapt"
+   },
+   "helpViewEnabled": {
+      "message": "Ingeschakeld"
+   },
+   "helpViewExpiredNever": {
+      "message": "nooit"
+   },
+   "helpViewExpires": {
+      "message": "Verloopt $1"
+   },
+   "helpViewExportData": {
+      "message": "Exportgegevens"
+   },
+   "helpViewGoProTitle": {
+      "message": "Ga Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Helpen"
+   },
+   "helpViewImportData": {
+      "message": "Data importeren"
+   },
+   "helpViewLanguage": {
+      "message": "Taal"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Lijst met donkere modi beheren"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integratie van OS-kleurenschema"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Synchroniseer Night Eye met uw actieve OS-kleurenschema."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Ontdek hoe u uw eigen snelkoppeling kunt toewijzen"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Aan/Uit-snelkoppeling"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Aanmelden / Aanmelden"
+   },
+   "helpViewSignOut": {
+      "message": "Afmelden"
+   },
+   "helpViewTimerDescr": {
+      "message": "Hoe het werkt"
+   },
+   "helpViewTimerOff": {
+      "message": "Uit"
+   },
+   "helpViewTimerOn": {
+      "message": "Op"
+   },
+   "helpViewTimerTitle": {
+      "message": "Schema"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Zoek Night Eye in de lijst met extensies en klik op verwijderen"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Verwijderen"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Witte lijst"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye verwerkt beelden waardoor ze donkerder worden. Deze functie vereist meer rekenkracht en kan uw computer vertragen."
+   },
+   "imageViewTitle": {
+      "message": "Afbeeldingen"
+   },
+   "labelBlueLight": {
+      "message": "blauw licht"
+   },
+   "labelBrightness": {
+      "message": "helderheid"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "ingebouwd \u003Cbr>donker thema"
+   },
+   "labelColors": {
+      "message": "kleuren"
+   },
+   "labelContinue": {
+      "message": "Doorgaan"
+   },
+   "labelContrast": {
+      "message": "contrast"
+   },
+   "labelCurrent": {
+      "message": "Huidig"
+   },
+   "labelCustomCode": {
+      "message": "aangepaste code"
+   },
+   "labelCustomUrlPath": {
+      "message": "pas \u003Cbr> pagina's aan"
+   },
+   "labelDim": {
+      "message": "dimmen"
+   },
+   "labelDisabled": {
+      "message": "Gehandicapt"
+   },
+   "labelEnabled": {
+      "message": "Ingeschakeld"
+   },
+   "labelExperimentalFeature": {
+      "message": "Experimentele functie"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Achtergronden conversie"
+   },
+   "labelImageHighCPU": {
+      "message": "Hoog CPU-verbruik"
+   },
+   "labelImageIconConversion": {
+      "message": "Pictogrammen conversie"
+   },
+   "labelImages": {
+      "message": "afbeeldingen"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Beheer de lijst"
+   },
+   "labelPleaseWait": {
+      "message": "Even geduld aub"
+   },
+   "labelSaturation": {
+      "message": "verzadiging"
+   },
+   "labelSubdomains": {
+      "message": "subdomeinen"
+   },
+   "labelTurboCache": {
+      "message": "lokale cache"
+   },
+   "labelWebsite": {
+      "message": "website"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Deze website is niet toegevoegd aan de donkere moduslijst."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Donkere versie"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Gefilterde versie"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normale versie"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Niet ondersteund"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Deze website wordt niet ondersteund"
+   },
+   "okButton": {
+      "message": "Oké"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Dichtbij"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "U gebruikt Night Eye nu 30 dagen."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Als dank hebben we een speciale korting van 10%. Gebruik de kortingscode \u003Cdiv class=\"DiscountCode\">-\u003C/div> Deze aanbieding is 48 uur geldig."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Koop nu uw PRO-versie"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Als je niet geïnteresseerd bent,\u003Cbr> heb je nog 2 maanden \u003Cbr> van de gratis proefperiode. Genieten van!"
+   },
+   "refreshButton": {
+      "message": "Vernieuwen"
+   },
+   "refreshViewDescription": {
+      "message": "U moet de huidige pagina vernieuwen om de nieuwste instellingen toe te passen"
+   },
+   "refreshViewTitle": {
+      "message": "Herlaad alstublieft de pagina"
+   },
+   "saturationViewDescription": {
+      "message": "Pas de verzadiging aan door de onderstaande schuifregelaar te slepen."
+   },
+   "saturationViewTitle": {
+      "message": "Verzadiging"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Dankzij diepe integratie kunt u de ingebouwde donkere thema's beheren van de websites die al een donkere gebruikersinterface hebben geïmplementeerd."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Bekijk hoe diepe integratie werkt"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "HIER"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Diepe integratie"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Gehandicapt"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Nachtoog donker"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye converteert afbeeldingen zoals pictogrammen en achtergronden om u een vloeiende en consistente donkere modus te bieden."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "De conversie van pictogrammen en achtergronden wordt geleverd met een hoog CPU-verbruik."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Schakel AAN voor de beste ervaring in de donkere modus."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Schakel UIT om het CPU-verbruik te verminderen."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye converteert alle subdomeinen van dit domein"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Meer meer tekst"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Schakel AAN voor de beste ervaring in de donkere modus."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Schakel UIT om het CPU-verbruik te verminderen."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "De cache versnelt de websiteconversie van de normale naar de donkere modus (de laadsnelheid van de pagina wordt niet beïnvloed). Het kan de eerste heldere flitsen verminderen, afhankelijk van de website."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "De cachefunctie werkt op ongeveer 80% van de websites, dus als een website zich niet naar behoren gedraagt, schakel deze dan uit!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Kan worden toegepast op een specifieke website of op alles wat u bezoekt."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye converteert alle subdomeinen van dit domein"
+   },
+   "subdomainViewTitle": {
+      "message": "Subdomeinen"
+   },
+   "supportViewContinueBtn": {
+      "message": "Doorgaan"
+   },
+   "supportViewInfo1": {
+      "message": "We zijn er om je te helpen als je vragen of problemen hebt met Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Geef de juiste contactgegevens op om ons ondersteuningssysteem te gebruiken."
+   },
+   "supportViewInfo3": {
+      "message": "Stuur ons alleen een bericht in het Engels."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Naam"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Even geduld aub..."
+   },
+   "switchLabelOff": {
+      "message": "Uit"
+   },
+   "switchLabelOn": {
+      "message": "Op"
+   },
+   "temperatureViewDescription": {
+      "message": "Pas het blauwe licht aan door de onderstaande schuifregelaar te slepen."
+   },
+   "temperatureViewOption1": {
+      "message": "Met blauw"
+   },
+   "temperatureViewOption2": {
+      "message": "Zonder blauw"
+   },
+   "temperatureViewTitle": {
+      "message": "Blauw licht"
+   },
+   "tooltipDark": {
+      "message": "In deze modus verandert Nachtoog van kleur op basis van geselecteerde instellingen"
+   },
+   "tooltipFiltered": {
+      "message": "Als u deze modus gebruikt, wordt de website standaard plus het effect van verschillende filters - helderheid, contrast, verzadiging, warm/koud, gedimd"
+   },
+   "tooltipNormal": {
+      "message": "In deze modus is de website standaard, Night Eye zal geen kleur veranderen"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Activeren"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Annuleren"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Gebied van de klant"
+   },
+   "trailActivationViewDescr": {
+      "message": "Gebruik het e-mailadres dat u bij de aankoop hebt gebruikt om \u003Cbr>Night Eye Pro te activeren."
+   },
+   "trailActivationViewTitle": {
+      "message": "Activering"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Annuleren"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Controlepaneel"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deactiveren"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Nachtoog is gekoppeld aan uw e-mailadres \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Ga voor meer informatie naar"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "U kunt \u003Cbr> Night Eye permanent deactiveren voor deze browser."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Geactiveerd"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Doorgaan"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "U kunt in maximaal 3 browsers tegelijk genieten van Night Eye totdat uw \u003Cbr> gratis proefperiode op $ 1 verloopt"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "U kunt van Night Eye genieten in maximaal $ 1 browsers tegelijk."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "U heeft de extensie succesvol geactiveerd."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "U kunt in maximaal 3 browsers tegelijk genieten van Night Eye."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "U kunt de actieve browsers beheren in de Client Area."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Om toegang te krijgen, ga naar"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Succesvolle activering"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Annuleren"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "We hopen dat Night Eye de afgelopen maanden zijn nut heeft bewezen!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Als je het wilt blijven gebruiken, bekijk dan onze prijzen en alle voordelen die daarbij horen."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye is gekoppeld aan uw e-mailadres \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> gebruik het als u besluit te betalen."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Prijzen"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro-versie"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "We hopen dat Night Eye de afgelopen maanden zijn nut heeft bewezen."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Je kunt de gratis Lite-versie voor altijd gebruiken of Pro gaan. Bekijk onze prijzen en alle voordelen die daarbij horen."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "lichte versie"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Donkere modus op maximaal 5 websites"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro-versie"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Geen grenzen"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Jouw gratis proefperiode is afgelopen."
+   },
+   "trialLiteViewCancel": {
+      "message": "Annuleren"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (verwijder de limieten)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "De donkere modus kan op maximaal \u003Cbr> 5 websites worden ingeschakeld. U kunt de lijst beheren en op elk moment wijzigen."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lichte versie"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lees over Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Opslaan"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Activeren"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Als je al een account hebt,\u003C/br> activeer het dan!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Annuleren"
+   },
+   "trialProViewDescrPart1": {
+      "message": "We hopen dat Night Eye de afgelopen maanden zijn nut heeft bewezen!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Als je het wilt blijven gebruiken, bekijk dan onze prijzen en alle voordelen die daarbij horen."
+   },
+   "trialProViewPricing": {
+      "message": "Prijzen"
+   },
+   "trialProViewTitle": {
+      "message": "Pro-versie"
+   }
+}

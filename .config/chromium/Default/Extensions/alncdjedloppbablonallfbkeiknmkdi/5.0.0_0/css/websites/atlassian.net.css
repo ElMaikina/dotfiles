@@ -1,0 +1,64 @@
+html {
+    background-color: #000 !important;
+}
+
+body {
+    filter: invert(86%) hue-rotate(180deg) brightness(105%) contrast(105%);
+}
+
+* {
+    font-weight: 500;
+    color: #5b6772;
+}
+
+p,
+a.aui-list-item-link,
+a[data-qa="pull-request-row-link"] {
+    color: #5b6772 !important;
+}
+
+[aria-label*="profile"] span:empty,
+[data-testid*="profile"] span:empty,
+[data-test-id*="profile"] span:empty,
+span[role="img"],
+img,
+svg,
+iframe,
+video,
+*[style*="://avatar-management"],
+*[style*="/aa-avatar/"],
+.emoji-common-emoji-sprite {
+    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(105%);
+    border-color: transparent;
+}
+
+#gh {
+    padding: 0 40px;
+}
+
+#content {
+    margin: 0;
+}
+
+[data-testid="Content"]>div:first-child {
+    background: white;
+}
+
+#jira .smart-link-title-wrapper,
+#jira a[title],
+#jira .akEditor a {
+    color: rgb(197, 124, 231) !important
+}
+
+button[data-testid="use-template-button"] span,
+button[data-testid="comment-save-button"] span,
+*[data-testid="globalCreate-button"] span,
+#createGlobalItem span,
+button[type="submit"] span,
+div[id="extracted-share-button"] span {
+    color: #c5c5c5;
+}
+
+button[data-testid*="issue-activity-feed.ui.buttons"] {
+    background-color: #c5c5c5;
+}

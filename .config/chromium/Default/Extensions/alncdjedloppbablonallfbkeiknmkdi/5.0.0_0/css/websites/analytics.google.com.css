@@ -1,0 +1,34 @@
+.gmp-product-switcher-button {
+    filter: invert(100%);
+}
+
+#ID-minuteChart svg>rect {
+    fill: #1f1f1f !important;
+}
+
+table td {
+    background-color: #1f1f1f !important;
+}
+
+#ID-minuteChart g[clip-path]>g>rect {
+    fill: #808080 !important;
+}
+
+*[class*="link-icon"],
+*[class*="group-icon"] {
+    filter: invert(80%);
+}
+
+.google-visualization-tooltip {
+    background-color: red !important;
+}
+
+.google-visualization-tooltip text {
+    fill: #fefefe !important;
+}
+
+.ga-nav ga-nav-link .ga-nav-link-group:before,
+.ga-link-icon:after,
+.ga-link-icon svg {
+    filter: invert(1);
+}

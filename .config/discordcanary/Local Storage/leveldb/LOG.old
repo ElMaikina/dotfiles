@@ -1,0 +1,6 @@
+2023/09/11-16:59:28.793 596 Reusing MANIFEST /home/elmaikina/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2023/09/11-16:59:28.796 596 Recovering log #29
+2023/09/11-16:59:28.801 596 Reusing old log /home/elmaikina/.config/discordcanary/Local Storage/leveldb/000029.log 
+2023/09/11-17:01:41.243 597 Level-0 table #33: started
+2023/09/11-17:01:41.274 597 Level-0 table #33: 1903685 bytes OK
+2023/09/11-17:01:41.276 597 Delete type=0 #29

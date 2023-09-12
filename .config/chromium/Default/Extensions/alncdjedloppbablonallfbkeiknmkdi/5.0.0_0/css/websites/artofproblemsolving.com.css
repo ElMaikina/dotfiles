@@ -1,0 +1,3 @@
+img[src*='latex'] {
+    filter: invert(80%);
+}

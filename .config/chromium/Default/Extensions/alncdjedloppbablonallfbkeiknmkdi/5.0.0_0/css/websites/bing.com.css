@@ -1,0 +1,11 @@
+div[id*="_video"] {
+    border-bottom: 1px solid;
+}
+
+div[class*="_meta"] {
+    background: rgb(26, 26, 26) !important;
+}
+
+div[class*="title"] {
+    color: #cecece !important;
+}

@@ -1,0 +1,7 @@
+.monaco-editor .inputarea {
+    color: red !important;
+    caret-color: #fff !important;
+    width: 2px !important;
+    height: 20px !important;
+    cursor: pointer !important;
+}

@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Säädä kirkkautta vetämällä alla olevaa liukusäädintä."
+   },
+   "brightnessViewTitle": {
+      "message": "Kirkkaus"
+   },
+   "colorViewDescription": {
+      "message": "Valitse väri verkkosivustolta ja muuta se haluamaksesi."
+   },
+   "colorViewOriginalColor": {
+      "message": "Alkuperäinen"
+   },
+   "colorViewReplacedColor": {
+      "message": "Vaihdettu"
+   },
+   "colorViewTitle": {
+      "message": "Värinvalitsija"
+   },
+   "contrastViewDescription": {
+      "message": "Säädä kontrastia vetämällä alla olevaa liukusäädintä."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrasti"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "kaikki verkkosivustot"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Käytä"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Hakea"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Peruuttaa"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Nollaa"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Palauttaa oletukset"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "nykyinen verkkosivusto"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "kaikille verkkosivustoille"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "nykyiselle verkkosivustolle"
+   },
+   "dimViewDescription": {
+      "message": "Säädä verkkosivustojen himmennystasoa."
+   },
+   "dimViewTitle": {
+      "message": "Himmeä"
+   },
+   "extDescription": {
+      "message": "Vaihda jokainen verkkosivusto tummaan / vaaleaan tilaan haluamallasi tavalla. Hoida silmiäsi Night Eyen avulla."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye on pysäytetty"
+   },
+   "extName": {
+      "message": "Tumma tila - Night Eye"
+   },
+   "extToggleButton": {
+      "message": "Vaihda välilehden tumma ja normaali tila"
+   },
+   "extTurnOnButton": {
+      "message": "Kiihottua"
+   },
+   "filterModeNameDark": {
+      "message": "Tumma"
+   },
+   "filterModeNameFiltered": {
+      "message": "Suodatettu"
+   },
+   "filterModeNameNormal": {
+      "message": "Normaali"
+   },
+   "firstRunViewFeature1": {
+      "message": "Sivun latausnopeuteen saattaa vaikuttaa"
+   },
+   "firstRunViewFeature2": {
+      "message": "Ilmainen 3 kuukauden Night Eye Pro (ei luottokorttia)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Selaustietoja ei kerätä"
+   },
+   "firstRunViewFeature4": {
+      "message": "Ota meihin yhteyttä sisäänrakennetun chatin kautta"
+   },
+   "firstRunViewTitle": {
+      "message": "Pika-aloitus"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Lisätietoja"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktivoi nyt"
+   },
+   "helpViewActivated": {
+      "message": "Hallinnoi laajennusta"
+   },
+   "helpViewByExpires": {
+      "message": "1 $ mennessä \u003C/br>vanhenee: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Asiakasalue"
+   },
+   "helpViewDarkScroll": {
+      "message": "Tummat rullat"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Anna Night Eyen tummentaa minkä tahansa rullauksen."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Valitse oletustila, joka suoritetaan avattaessa uusia verkkosivustoja"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Oletustila"
+   },
+   "helpViewDisabled": {
+      "message": "Liikuntarajoitteinen"
+   },
+   "helpViewEnabled": {
+      "message": "Käytössä"
+   },
+   "helpViewExpiredNever": {
+      "message": "ei milloinkaan"
+   },
+   "helpViewExpires": {
+      "message": "Vanhenee 1 $"
+   },
+   "helpViewExportData": {
+      "message": "Vie tiedot"
+   },
+   "helpViewGoProTitle": {
+      "message": "Ryhtyä ammattilaiseksi"
+   },
+   "helpViewHelpButton": {
+      "message": "auta"
+   },
+   "helpViewImportData": {
+      "message": "Tuo tiedot"
+   },
+   "helpViewLanguage": {
+      "message": "Kieli"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Hallitse tumman tilan luetteloa"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS Color Scheme -integraatio"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Synkronoi Night Eye aktiivisen käyttöjärjestelmän väriteeman kanssa."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Ota selvää, kuinka voit määrittää oman pikakuvakkeen"
+   },
+   "helpViewShortcutTitle": {
+      "message": "On/Off pikakuvake"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Kirjaudu Rekisteröidy"
+   },
+   "helpViewSignOut": {
+      "message": "Kirjaudu ulos"
+   },
+   "helpViewTimerDescr": {
+      "message": "Kuinka se toimii"
+   },
+   "helpViewTimerOff": {
+      "message": "Vinossa"
+   },
+   "helpViewTimerOn": {
+      "message": "Päällä"
+   },
+   "helpViewTimerTitle": {
+      "message": "Ajoittaa"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Etsi Night Eye laajennusluettelosta ja napsauta poista"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Poista asennus"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Valkoinen lista"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye käsittelee kuvia ja tekee niistä tummempia. Tämä ominaisuus vaatii enemmän laskentaresursseja ja voi hidastaa tietokonettasi."
+   },
+   "imageViewTitle": {
+      "message": "Kuvat"
+   },
+   "labelBlueLight": {
+      "message": "sininen valo"
+   },
+   "labelBrightness": {
+      "message": "kirkkaus"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "sisäänrakennettu \u003Cbr>tumma teema"
+   },
+   "labelColors": {
+      "message": "värit"
+   },
+   "labelContinue": {
+      "message": "Jatkaa"
+   },
+   "labelContrast": {
+      "message": "kontrasti"
+   },
+   "labelCurrent": {
+      "message": "Nykyinen"
+   },
+   "labelCustomCode": {
+      "message": "kustomoitu koodi"
+   },
+   "labelCustomUrlPath": {
+      "message": "muokata \u003Cbr>-sivuja"
+   },
+   "labelDim": {
+      "message": "himmeä"
+   },
+   "labelDisabled": {
+      "message": "Liikuntarajoitteinen"
+   },
+   "labelEnabled": {
+      "message": "Käytössä"
+   },
+   "labelExperimentalFeature": {
+      "message": "Kokeellinen ominaisuus"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Taustan muuntaminen"
+   },
+   "labelImageHighCPU": {
+      "message": "Korkea suorittimen kulutus"
+   },
+   "labelImageIconConversion": {
+      "message": "Kuvakkeiden muuntaminen"
+   },
+   "labelImages": {
+      "message": "kuvia"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Hallinnoi luetteloa"
+   },
+   "labelPleaseWait": {
+      "message": "Odota"
+   },
+   "labelSaturation": {
+      "message": "kylläisyys"
+   },
+   "labelSubdomains": {
+      "message": "aliverkkotunnuksia"
+   },
+   "labelTurboCache": {
+      "message": "paikallinen välimuisti"
+   },
+   "labelWebsite": {
+      "message": "verkkosivusto"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Tätä verkkosivustoa ei ole lisätty pimeän tilan luetteloon."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Tumma versio"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Suodatettu versio"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normaali versio"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Ei tueta"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Tätä verkkosivustoa ei tueta"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "kiinni"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Olet käyttänyt Night Eye -sovellusta nyt 30 päivää."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Kiitoksena meillä on 10% erikoisale. Käytä alennuskoodia \u003Cdiv class=\"DiscountCode\">-\u003C/div> Tämä tarjous on voimassa 48 tuntia."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Hanki PRO-versiosi nyt"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Jos et ole kiinnostunut,\u003Cbr> sinulla on vielä 2 kuukautta jäljellä \u003Cbr> ilmaisesta kokeilusta. Nauttia!"
+   },
+   "refreshButton": {
+      "message": "virkistää"
+   },
+   "refreshViewDescription": {
+      "message": "Sinun on päivitettävä nykyinen sivu, jotta voit ottaa uusimmat asetukset käyttöön"
+   },
+   "refreshViewTitle": {
+      "message": "Lataa sivu uudelleen"
+   },
+   "saturationViewDescription": {
+      "message": "Säädä kylläisyyttä vetämällä alla olevaa liukusäädintä."
+   },
+   "saturationViewTitle": {
+      "message": "Kylläisyys"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Syvän integroinnin avulla voit hallita sisäänrakennettuja tummia teemoja sivustoissa, joissa on jo käytössä tumma käyttöliittymä."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Katso, kuinka syväintegraatio toimii"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "TÄSSÄ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Syvä integraatio"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Liikuntarajoitteinen"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Night Eye tumma"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye muuntaa kuvat, kuten kuvakkeet ja taustat, tarjotakseen sinulle tasaisen ja yhtenäisen tumman tilan."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Kuvakkeiden ja taustan muuntaminen sisältää korkean suorittimen kulutuksen."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Laita PÄÄLLE saadaksesi parhaan pimeän tilan käyttökokemuksen."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Kytke pois päältä vähentääksesi prosessorin kulutusta."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye muuntaa kaikki tämän verkkotunnuksen aliverkkotunnukset"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Lisää tekstiä"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Laita PÄÄLLE saadaksesi parhaan pimeän tilan käyttökokemuksen."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Kytke pois päältä vähentääksesi prosessorin kulutusta."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Välimuisti nopeuttaa verkkosivuston muuntamista normaalista tummaan tilaan (sivun latausnopeuteen ei vaikuta). Se voi vähentää ensimmäisiä kirkkaita välähdyksiä verkkosivustosta riippuen."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Välimuistitoiminto toimii noin 80 %:lla sivustoista, joten jos sivusto ei toimi kunnolla, laita se pois päältä!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Voidaan soveltaa tietylle verkkosivustolle tai kaikille vierailemillesi kohteille."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye muuntaa kaikki tämän verkkotunnuksen aliverkkotunnukset"
+   },
+   "subdomainViewTitle": {
+      "message": "Aliverkkotunnukset"
+   },
+   "supportViewContinueBtn": {
+      "message": "Jatkaa"
+   },
+   "supportViewInfo1": {
+      "message": "Autamme mielellämme, jos sinulla on kysyttävää tai ongelmia Night Eyen kanssa."
+   },
+   "supportViewInfo2": {
+      "message": "Käytä tukijärjestelmäämme antamalla oikeat yhteystiedot."
+   },
+   "supportViewInfo3": {
+      "message": "Lähetä meille viesti vain englanniksi."
+   },
+   "supportViewInputEmail": {
+      "message": "Sähköposti"
+   },
+   "supportViewInputName": {
+      "message": "Nimi"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Odota..."
+   },
+   "switchLabelOff": {
+      "message": "Vinossa"
+   },
+   "switchLabelOn": {
+      "message": "Päällä"
+   },
+   "temperatureViewDescription": {
+      "message": "Säädä sinistä valoa vetämällä alla olevaa liukusäädintä."
+   },
+   "temperatureViewOption1": {
+      "message": "Sinisen kanssa"
+   },
+   "temperatureViewOption2": {
+      "message": "Ilman sinistä"
+   },
+   "temperatureViewTitle": {
+      "message": "Sininen valo"
+   },
+   "tooltipDark": {
+      "message": "Tässä tilassa Night Eye muuttaa värejä valittujen asetusten perusteella"
+   },
+   "tooltipFiltered": {
+      "message": "Tätä tilaa käytettäessä verkkosivustolla on oletusarvoisesti useita suodattimia - kirkkaus, kontrasti, kylläisyys, lämmin/kylmä, himmeä"
+   },
+   "tooltipNormal": {
+      "message": "Tätä tilaa käytettäessä verkkosivusto on oletuksena, Night Eye ei muuta väriä"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktivoida"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Peruuttaa"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Asiakkaan alue"
+   },
+   "trailActivationViewDescr": {
+      "message": "Aktivoi Night Eye Pro käyttämällä ostoksen yhteydessä käyttämääsi sähköpostiosoitetta."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktivointi"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Peruuttaa"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Ohjauspaneeli"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Poista käytöstä"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye on liitetty sähköpostiisi \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Lisätietoja on osoitteessa"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Voit poistaa Night Eye -sovelluksen pysyvästi käytöstä tässä selaimessa."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktivoitu"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Jatkaa"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Voit nauttia Night Eye -sovelluksesta jopa kolmella selaimella kerralla, kunnes \u003Cbr>-ilmainen kokeilujaksosi päättyy 1 dollarilla"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Voit nauttia Night Eye -sovelluksesta jopa $1 selaimella kerralla."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Laajennuksen aktivoiminen onnistui."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Voit nauttia Night Eye -sovelluksesta jopa kolmella selaimella kerralla."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Voit hallita aktiivisia selaimia asiakasalueella."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Pääset siihen siirtymällä osoitteeseen"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Onnistunut aktivointi"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Peruuttaa"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Toivomme, että Night Eye osoittautui hyödylliseksi viime kuukausina!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Jos haluat jatkaa sen käyttöä, tutustu hinnoitteluumme ja kaikkiin mukana tuleviin etuihin."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye on liitetty sähköpostiisi. \u003Cb class=\"AccountEmail\">1 $\u003C/b>\u003Cbr> käytä sitä, jos päätät maksaa."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Hinnoittelu"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro versio"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Toivomme, että Night Eye on osoittanut käyttökelpoisuutensa viime kuukausina."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Voit käyttää ilmaista Lite-versiota ikuisesti tai käyttää Prota. Tutustu hinnoitteluumme ja kaikkiin mukana tuleviin etuihin."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite versio"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Tumma tila jopa viidellä verkkosivustolla"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro versio"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Ei rajoja"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Ilmainen kokeilujaksosi on vanhentunut."
+   },
+   "trialLiteViewCancel": {
+      "message": "Peruuttaa"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (poista rajoitukset)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Tumma tila voidaan ottaa käyttöön jopa \u003Cbr> 5 verkkosivustolla. Voit hallita luetteloa ja muuttaa sitä milloin tahansa."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite versio"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lue Litestä"
+   },
+   "trialLiteViewSave": {
+      "message": "Tallentaa"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktivoida"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Jos sinulla on jo tili,\u003C/br> aktivoi se!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Peruuttaa"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Toivomme, että Night Eye osoittautui hyödylliseksi viime kuukausina!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Jos haluat jatkaa sen käyttöä, tutustu hinnoitteluumme ja kaikkiin mukana tuleviin etuihin."
+   },
+   "trialProViewPricing": {
+      "message": "Hinnoittelu"
+   },
+   "trialProViewTitle": {
+      "message": "Pro versio"
+   }
+}

@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Ayusin ang liwanag sa pamamagitan ng pag-drag sa slider sa ibaba."
+   },
+   "brightnessViewTitle": {
+      "message": "Liwanag"
+   },
+   "colorViewDescription": {
+      "message": "Pumili ng isang kulay mula sa website at baguhin ito sa anumang nais mo."
+   },
+   "colorViewOriginalColor": {
+      "message": "Orihinal"
+   },
+   "colorViewReplacedColor": {
+      "message": "Pinalitan"
+   },
+   "colorViewTitle": {
+      "message": "Tagapili ng kulay"
+   },
+   "contrastViewDescription": {
+      "message": "Ayusin ang kaibahan sa pamamagitan ng pag-drag sa slider sa ibaba."
+   },
+   "contrastViewTitle": {
+      "message": "Contrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "lahat ng mga website"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Mag-apply"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Mag apply sa"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Kanselahin"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "I-reset"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Ibalik sa dating ayos"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "kasalukuyang website"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "para sa lahat ng mga website"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "para sa kasalukuyang website"
+   },
+   "dimViewDescription": {
+      "message": "Ayusin ang dimming level ng mga website."
+   },
+   "dimViewTitle": {
+      "message": "Dim"
+   },
+   "extDescription": {
+      "message": "Ilipat ang bawat website sa dark mode / light mode ayon sa gusto. Alagaan ang iyong mga mata gamit ang Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Tumigil ang Night Eye"
+   },
+   "extName": {
+      "message": "Dark Mode - Night Eye"
+   },
+   "extToggleButton": {
+      "message": "I-toggle ang madilim at normal na mode para sa tab"
+   },
+   "extTurnOnButton": {
+      "message": "Buksan"
+   },
+   "filterModeNameDark": {
+      "message": "Madilim"
+   },
+   "filterModeNameFiltered": {
+      "message": "Na-filter"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Maaaring maapektuhan ang bilis ng paglo-load ng page"
+   },
+   "firstRunViewFeature2": {
+      "message": "Libreng 3 buwan ng Night Eye Pro (walang credit card)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Walang nakolektang impormasyon sa pagba-browse"
+   },
+   "firstRunViewFeature4": {
+      "message": "Makipag-ugnayan sa amin sa pamamagitan ng built-in na chat"
+   },
+   "firstRunViewTitle": {
+      "message": "Mabilis na Pagsisimula"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Higit pang mga detalye"
+   },
+   "helpViewActivateNow": {
+      "message": "I-activate ngayon"
+   },
+   "helpViewActivated": {
+      "message": "Pamahalaan ang iyong extension"
+   },
+   "helpViewByExpires": {
+      "message": "sa $1 \u003C/br>mag-e-expire: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Lugar ng kliyente"
+   },
+   "helpViewDarkScroll": {
+      "message": "Madilim na mga scroll"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Hayaang gawing madilim ng Night Eye ang anumang scroll."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Piliin ang default na mode na isasagawa kapag nagbubukas ng mga bagong website"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Default na mode"
+   },
+   "helpViewDisabled": {
+      "message": "Hindi pinagana"
+   },
+   "helpViewEnabled": {
+      "message": "Pinagana"
+   },
+   "helpViewExpiredNever": {
+      "message": "hindi kailanman"
+   },
+   "helpViewExpires": {
+      "message": "Mag-e-expire ang $1"
+   },
+   "helpViewExportData": {
+      "message": "I-export ang data"
+   },
+   "helpViewGoProTitle": {
+      "message": "Pumunta sa Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Tulong"
+   },
+   "helpViewImportData": {
+      "message": "Mag-import ng data"
+   },
+   "helpViewLanguage": {
+      "message": "Wika"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Pamahalaan ang listahan ng dark mode"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Pagsasama ng OS Color Scheme"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "I-sync ang Night Eye sa iyong aktibong OS Color scheme."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Alamin kung paano magtalaga ng sarili mong shortcut"
+   },
+   "helpViewShortcutTitle": {
+      "message": "On/Off Shortcut"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Mag-sign In / Mag-sign Up"
+   },
+   "helpViewSignOut": {
+      "message": "Mag-sign Out"
+   },
+   "helpViewTimerDescr": {
+      "message": "Paano ito gumagana"
+   },
+   "helpViewTimerOff": {
+      "message": "Naka-off"
+   },
+   "helpViewTimerOn": {
+      "message": "Naka-on"
+   },
+   "helpViewTimerTitle": {
+      "message": "Iskedyul"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Hanapin ang Night Eye sa listahan ng mga extension at i-click ang alisin"
+   },
+   "helpViewUninstallTitle": {
+      "message": "I-uninstall"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Whitelist"
+   },
+   "imageViewDescription": {
+      "message": "Pinoproseso ng Night Eye ang mga imahe na nagpapadilim sa kanila. Ang tampok na ito ay nangangailangan ng higit pang mga mapagkukunan ng computational at maaaring makapagpabagal sa iyong computer."
+   },
+   "imageViewTitle": {
+      "message": "Mga imahe"
+   },
+   "labelBlueLight": {
+      "message": "asul na ilaw"
+   },
+   "labelBrightness": {
+      "message": "ningning"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "built-in na \u003Cbr>madilim na tema"
+   },
+   "labelColors": {
+      "message": "mga kulay"
+   },
+   "labelContinue": {
+      "message": "Magpatuloy"
+   },
+   "labelContrast": {
+      "message": "kaibahan"
+   },
+   "labelCurrent": {
+      "message": "Kasalukuyan"
+   },
+   "labelCustomCode": {
+      "message": "pasadyang code"
+   },
+   "labelCustomUrlPath": {
+      "message": "i-customize ang mga pahina ng \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "madilim"
+   },
+   "labelDisabled": {
+      "message": "Hindi pinagana"
+   },
+   "labelEnabled": {
+      "message": "Pinagana"
+   },
+   "labelExperimentalFeature": {
+      "message": "Pang-eksperimentong tampok"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Pagbabago ng background"
+   },
+   "labelImageHighCPU": {
+      "message": "Mataas na pagkonsumo ng CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Pag-convert ng mga icon"
+   },
+   "labelImages": {
+      "message": "mga larawan"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Pamahalaan ang listahan"
+   },
+   "labelPleaseWait": {
+      "message": "Mangyaring maghintay"
+   },
+   "labelSaturation": {
+      "message": "saturation"
+   },
+   "labelSubdomains": {
+      "message": "mga subdomain"
+   },
+   "labelTurboCache": {
+      "message": "lokal na cache"
+   },
+   "labelWebsite": {
+      "message": "website"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Ang website na ito ay hindi idinagdag sa listahan ng dark mode."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Madilim na bersyon"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Na-filter na bersyon"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normal na bersyon"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Hindi suportado"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Ang website na ito ay hindi suportado"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Isara"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Gumagamit ka na ng Night Eye sa loob ng 30 araw na ngayon."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Bilang pasasalamat, mayroon kaming espesyal na 10% na diskwento. Pakigamit ang discount code \u003Cdiv class=\"DiscountCode\">-\u003C/div> Ang alok na ito ay may bisa sa loob ng 48 oras."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Kunin ang iyong PRO na bersyon ngayon"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Kung hindi ka interesado,\u003Cbr> mayroon kang 2 buwan pang natitira \u003Cbr> mula sa libreng pagsubok. Enjoy!"
+   },
+   "refreshButton": {
+      "message": "Refresh"
+   },
+   "refreshViewDescription": {
+      "message": "Kailangan mong i-refresh ang kasalukuyang page upang mailapat ang pinakabagong mga setting"
+   },
+   "refreshViewTitle": {
+      "message": "Paki-reload ang page"
+   },
+   "saturationViewDescription": {
+      "message": "Ayusin ang saturation sa pamamagitan ng pag-drag sa slider sa ibaba."
+   },
+   "saturationViewTitle": {
+      "message": "Saturation"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Nagbibigay-daan sa iyo ang malalim na pagsasama na kontrolin ang mga built-in na madilim na tema ng mga website na nagpatupad na ng madilim na UI."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Tingnan kung paano gumagana ang Deep integration"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "DITO"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Malalim na pagsasama"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Hindi pinagana"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Gabi Madilim ang mata"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Kino-convert ng Night Eye ang mga imahe gaya ng mga icon at background para mabigyan ka ng makinis at pare-parehong dark mode."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Ang conversion ng mga icon at background ay kasama ng Mataas na pagkonsumo ng CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "I-ON para sa pinakamagandang karanasan sa dark mode."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "I-OFF para bawasan ang pagkonsumo ng CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Iko-convert ng Night Eye ang lahat ng subdomain ng domain na ito"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Marami pang text"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "I-ON para sa pinakamagandang karanasan sa dark mode."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "I-OFF para bawasan ang pagkonsumo ng CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Pinapabilis ng cache ang conversion ng website mula Normal hanggang Dark Mode (hindi apektado ang bilis ng paglo-load ng page). Maaari nitong bawasan ang mga unang maliwanag na flash, depende sa website."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Ang tampok na cache ay gumagana sa halos 80% ng mga website, kaya kung ang isang website ay hindi kumikilos nang maayos, mangyaring i-off ito para dito!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Maaaring ilapat sa partikular na website o sa lahat ng binibisita mo."
+   },
+   "subdomainViewDescription": {
+      "message": "Iko-convert ng Night Eye ang lahat ng subdomain ng domain na ito"
+   },
+   "subdomainViewTitle": {
+      "message": "Mga subdomain"
+   },
+   "supportViewContinueBtn": {
+      "message": "Magpatuloy"
+   },
+   "supportViewInfo1": {
+      "message": "Narito kami upang tumulong kung mayroon kang anumang mga katanungan o problema sa Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Upang magamit ang aming support system, mangyaring magbigay ng tamang impormasyon sa pakikipag-ugnayan."
+   },
+   "supportViewInfo3": {
+      "message": "Mensahe lang kami sa English."
+   },
+   "supportViewInputEmail": {
+      "message": "Email"
+   },
+   "supportViewInputName": {
+      "message": "Pangalan"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Mangyaring maghintay..."
+   },
+   "switchLabelOff": {
+      "message": "Naka-off"
+   },
+   "switchLabelOn": {
+      "message": "Naka-on"
+   },
+   "temperatureViewDescription": {
+      "message": "Ayusin ang asul na ilaw sa pamamagitan ng pag-drag sa slider sa ibaba."
+   },
+   "temperatureViewOption1": {
+      "message": "Na may asul"
+   },
+   "temperatureViewOption2": {
+      "message": "Walang asul"
+   },
+   "temperatureViewTitle": {
+      "message": "Asul na ilaw"
+   },
+   "tooltipDark": {
+      "message": "Gamit ang mode na ito, babaguhin ng Night Eye ang mga kulay batay sa mga napiling setting"
+   },
+   "tooltipFiltered": {
+      "message": "Gamit ang mode na ito, ang website ay magiging bilang default plus effect ng ilang mga filter - liwanag, contrast, saturation, mainit/malamig, madilim"
+   },
+   "tooltipNormal": {
+      "message": "Gamit ang mode na ito, magiging default ang website, hindi magbabago ng anumang kulay ang Night Eye"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "I-activate"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Kanselahin"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Lugar ng Kliyente"
+   },
+   "trailActivationViewDescr": {
+      "message": "Pakigamit ang email na ginamit mo noong bumibili para i-activate ang \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Pag-activate"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Kanselahin"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Control Panel"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "I-deactivate"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Ang night eye ay nauugnay sa iyong e-mail \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Para sa higit pang mga detalye, bisitahin ang"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Maaari mong permanenteng i-deactivate ang \u003Cbr> Night Eye para sa browser na ito."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Na-activate"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Magpatuloy"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Mae-enjoy mo ang Night Eye sa hanggang 3 browser nang sabay-sabay hanggang sa mag-expire ang iyong \u003Cbr> Libreng Pagsubok sa $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Mae-enjoy mo ang Night Eye sa hanggang $1 na browser nang sabay-sabay."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Matagumpay mong na-activate ang extension."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Mae-enjoy mo ang Night Eye sa hanggang 3 browser nang sabay-sabay."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Maaari mong pamahalaan ang mga aktibong browser sa Client Area."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Upang ma-access ito, mangyaring pumunta sa"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Matagumpay na Pag-activate"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Kanselahin"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Umaasa kami na napatunayan ng Night Eye ang pagiging kapaki-pakinabang nito sa mga nakaraang buwan!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Kung gusto mong ipagpatuloy ang paggamit nito, tingnan ang aming pagpepresyo at lahat ng mga benepisyong kaakibat nito."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Ang Night Eye ay nauugnay sa iyong e-mail \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> gamitin ito kung magpasya kang magbayad."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Pagpepresyo"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro na Bersyon"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Umaasa kami na napatunayan ng Night Eye ang pagiging kapaki-pakinabang nito sa mga nakaraang buwan."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Maaari mong gamitin ang libreng bersyon ng Lite magpakailanman o pumunta sa Pro. Tingnan ang aming pagpepresyo at lahat ng mga benepisyong kasama."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite na bersyon"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Dark mode sa hanggang 5 website"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro na bersyon"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Walang limitasyon"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Ang iyong libreng pagsubok ay nag-expire na."
+   },
+   "trialLiteViewCancel": {
+      "message": "Kanselahin"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (alisin ang mga limitasyon)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Maaaring paganahin ang Dark Mode sa hanggang \u003Cbr> 5 website. Maaari mong pamahalaan ang listahan at baguhin ito anumang oras."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite na Bersyon"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Basahin ang tungkol sa Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "I-save"
+   },
+   "trialProViewActivateBtn": {
+      "message": "I-activate"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Kung mayroon ka nang account,\u003C/br> paki-activate ito!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Kanselahin"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Umaasa kami na napatunayan ng Night Eye ang pagiging kapaki-pakinabang nito sa mga nakaraang buwan!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Kung gusto mong ipagpatuloy ang paggamit nito, tingnan ang aming pagpepresyo at lahat ng mga benepisyong kaakibat nito."
+   },
+   "trialProViewPricing": {
+      "message": "Pagpepresyo"
+   },
+   "trialProViewTitle": {
+      "message": "Pro na Bersyon"
+   }
+}

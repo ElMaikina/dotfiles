@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Prilagodite svetlost tako, da povlečete spodnji drsnik."
+   },
+   "brightnessViewTitle": {
+      "message": "Svetlost"
+   },
+   "colorViewDescription": {
+      "message": "Na spletnem mestu izberite barvo in jo spremenite v poljubno."
+   },
+   "colorViewOriginalColor": {
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "message": "Zamenjano"
+   },
+   "colorViewTitle": {
+      "message": "Izbirnik barv"
+   },
+   "contrastViewDescription": {
+      "message": "Prilagodite kontrast tako, da povlečete spodnji drsnik."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "vse spletne strani"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Prijavite se"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Se nanaša na"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Prekliči"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Ponastaviti"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Obnoviti privzete nastavitve"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "trenutna spletna stran"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "za vse spletne strani"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "za trenutno spletno stran"
+   },
+   "dimViewDescription": {
+      "message": "Prilagodite stopnjo zatemnitve spletnih mest."
+   },
+   "dimViewTitle": {
+      "message": "Dim"
+   },
+   "extDescription": {
+      "message": "Vsako spletno stran po želji preklopite v temni / svetel način. Poskrbite za svoje oči z Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye je ustavljen"
+   },
+   "extName": {
+      "message": "Temni način - nočno oko"
+   },
+   "extToggleButton": {
+      "message": "Za zavihek preklopite med temnim in običajnim načinom"
+   },
+   "extTurnOnButton": {
+      "message": "Vklopiti"
+   },
+   "filterModeNameDark": {
+      "message": "Temno"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrirano"
+   },
+   "filterModeNameNormal": {
+      "message": "normalno"
+   },
+   "firstRunViewFeature1": {
+      "message": "To lahko vpliva na hitrost nalaganja strani"
+   },
+   "firstRunViewFeature2": {
+      "message": "Brezplačni 3 meseci Night Eye Pro (brez kreditne kartice)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Podatki o brskanju se ne zbirajo"
+   },
+   "firstRunViewFeature4": {
+      "message": "Kontaktirajte nas prek vgrajenega klepeta"
+   },
+   "firstRunViewTitle": {
+      "message": "Hiter začetek"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Več podrobnosti"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktivirajte zdaj"
+   },
+   "helpViewActivated": {
+      "message": "Upravljajte svojo razširitev"
+   },
+   "helpViewByExpires": {
+      "message": "do $1 \u003C/br>poteče: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Področje za stranke"
+   },
+   "helpViewDarkScroll": {
+      "message": "Temni zvitki"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Naj Night Eye obarva kateri koli drsnik temno."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Izberite privzeti način, ki se bo izvajal pri odpiranju novih spletnih mest"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Privzeti način"
+   },
+   "helpViewDisabled": {
+      "message": "Onemogočeno"
+   },
+   "helpViewEnabled": {
+      "message": "Omogočeno"
+   },
+   "helpViewExpiredNever": {
+      "message": "nikoli"
+   },
+   "helpViewExpires": {
+      "message": "Poteče 1 $"
+   },
+   "helpViewExportData": {
+      "message": "Izvoz podatkov"
+   },
+   "helpViewGoProTitle": {
+      "message": "Postani profesionalec"
+   },
+   "helpViewHelpButton": {
+      "message": "pomoč"
+   },
+   "helpViewImportData": {
+      "message": "Uvoz podatkov"
+   },
+   "helpViewLanguage": {
+      "message": "Jezik"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Upravljajte seznam temnega načina"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integracija barvne sheme OS"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sinhronizirajte Night Eye z aktivno barvno shemo OS."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Ugotovite, kako dodelite svojo bližnjico"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Bližnjica za vklop/izklop"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Prijavite se / Prijavite se"
+   },
+   "helpViewSignOut": {
+      "message": "Odjava"
+   },
+   "helpViewTimerDescr": {
+      "message": "Kako deluje"
+   },
+   "helpViewTimerOff": {
+      "message": "Izključeno"
+   },
+   "helpViewTimerOn": {
+      "message": "Vklopljeno"
+   },
+   "helpViewTimerTitle": {
+      "message": "Urnik"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Poiščite Night Eye na seznamu razširitev in kliknite odstrani"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Odstrani"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Seznam dovoljenih"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye obdela slike in jih naredi temnejše. Ta funkcija zahteva več računalniških virov in lahko upočasni vaš računalnik."
+   },
+   "imageViewTitle": {
+      "message": "Slike"
+   },
+   "labelBlueLight": {
+      "message": "modra svetloba"
+   },
+   "labelBrightness": {
+      "message": "svetlost"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "vgrajena temna tema"
+   },
+   "labelColors": {
+      "message": "barve"
+   },
+   "labelContinue": {
+      "message": "Nadaljuj"
+   },
+   "labelContrast": {
+      "message": "kontrast"
+   },
+   "labelCurrent": {
+      "message": "Trenutno"
+   },
+   "labelCustomCode": {
+      "message": "kodo po meri"
+   },
+   "labelCustomUrlPath": {
+      "message": "prilagodi \u003Cbr> strani"
+   },
+   "labelDim": {
+      "message": "dim"
+   },
+   "labelDisabled": {
+      "message": "Onemogočeno"
+   },
+   "labelEnabled": {
+      "message": "Omogočeno"
+   },
+   "labelExperimentalFeature": {
+      "message": "Eksperimentalna funkcija"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Pretvorba ozadij"
+   },
+   "labelImageHighCPU": {
+      "message": "Visoka poraba procesorja"
+   },
+   "labelImageIconConversion": {
+      "message": "Pretvorba ikon"
+   },
+   "labelImages": {
+      "message": "slike"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Upravljajte seznam"
+   },
+   "labelPleaseWait": {
+      "message": "Prosim počakaj"
+   },
+   "labelSaturation": {
+      "message": "nasičenost"
+   },
+   "labelSubdomains": {
+      "message": "poddomene"
+   },
+   "labelTurboCache": {
+      "message": "lokalni predpomnilnik"
+   },
+   "labelWebsite": {
+      "message": "Spletna stran"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "To spletno mesto ni dodano na seznam temnega načina."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Temna različica"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtrirana različica"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normalna različica"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Ne podpira"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "To spletno mesto ni podprto"
+   },
+   "okButton": {
+      "message": "v redu"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Zapri"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Night Eye uporabljate že 30 dni."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "V zahvalo imamo poseben 10% popust. Uporabite kodo za popust \u003Cdiv class=\"DiscountCode\">-\u003C/div> Ta ponudba velja 48 ur."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Zagotovite si svojo različico PRO zdaj"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Če vas ne zanima,\u003Cbr> imate še 2 meseca \u003Cbr> brezplačnega preizkusa. Uživajte!"
+   },
+   "refreshButton": {
+      "message": "Osveži"
+   },
+   "refreshViewDescription": {
+      "message": "Za uporabo najnovejših nastavitev morate osvežiti trenutno stran"
+   },
+   "refreshViewTitle": {
+      "message": "Ponovno naložite stran"
+   },
+   "saturationViewDescription": {
+      "message": "Prilagodite nasičenost tako, da povlečete spodnji drsnik."
+   },
+   "saturationViewTitle": {
+      "message": "Nasičenost"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Globoka integracija vam omogoča nadzor nad vgrajenimi temnimi temami spletnih mest, ki so že implementirala temni uporabniški vmesnik."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Oglejte si, kako deluje globoka integracija"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "TUKAJ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Globoka integracija"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Onemogočeno"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Night Eye temno"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye pretvori slike, kot so ikone in ozadja, da vam zagotovi gladek in dosleden temni način."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Pretvorba ikon in ozadij prihaja z visoko porabo procesorja."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "VKLOPITE za najboljšo izkušnjo temnega načina."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Izklopite, da zmanjšate porabo procesorja."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye bo pretvoril vse poddomene te domene"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Več več besedila"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "VKLOPITE za najboljšo izkušnjo temnega načina."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Izklopite, da zmanjšate porabo procesorja."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Predpomnilnik pospeši pretvorbo spletnega mesta iz običajnega v temni način (to ne vpliva na hitrost nalaganja strani). Lahko zmanjša začetne svetle bliske, odvisno od spletne strani."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Funkcija predpomnilnika deluje na približno 80 % spletnih mest, zato jo izklopite, če se spletna stran ne obnaša pravilno!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Uporablja se lahko za določeno spletno mesto ali za vsa, ki jih obiščete."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye bo pretvoril vse poddomene te domene"
+   },
+   "subdomainViewTitle": {
+      "message": "Poddomene"
+   },
+   "supportViewContinueBtn": {
+      "message": "Nadaljuj"
+   },
+   "supportViewInfo1": {
+      "message": "Tukaj smo, da vam pomagamo, če imate kakršna koli vprašanja ali težave z Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Če želite uporabljati naš sistem podpore, navedite pravilne kontaktne podatke."
+   },
+   "supportViewInfo3": {
+      "message": "Pošiljajte nam samo sporočila v angleščini."
+   },
+   "supportViewInputEmail": {
+      "message": "E-naslov"
+   },
+   "supportViewInputName": {
+      "message": "Ime"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Prosim počakaj..."
+   },
+   "switchLabelOff": {
+      "message": "Izključeno"
+   },
+   "switchLabelOn": {
+      "message": "Vklopljeno"
+   },
+   "temperatureViewDescription": {
+      "message": "Prilagodite modro svetlobo tako, da povlečete spodnji drsnik."
+   },
+   "temperatureViewOption1": {
+      "message": "Z modro"
+   },
+   "temperatureViewOption2": {
+      "message": "Brez modrega"
+   },
+   "temperatureViewTitle": {
+      "message": "Modra svetloba"
+   },
+   "tooltipDark": {
+      "message": "Z uporabo tega načina bo Night Eye spremenil barve glede na izbrane nastavitve"
+   },
+   "tooltipFiltered": {
+      "message": "V tem načinu bo spletno mesto privzeto plus učinek več filtrov - svetlost, kontrast, nasičenost, toplo/hladno, zatemnjeno"
+   },
+   "tooltipNormal": {
+      "message": "V tem načinu bo spletno mesto privzeto, Night Eye ne bo spremenil nobene barve"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktiviraj"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Prekliči"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Območje za stranke"
+   },
+   "trailActivationViewDescr": {
+      "message": "Uporabite e-poštni naslov, ki ste ga uporabili pri nakupu, da aktivirate Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktivacija"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Prekliči"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Nadzorna plošča"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deaktiviraj"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye je povezan z vašim e-poštnim naslovom \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Za več podrobnosti obiščite"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Za ta brskalnik lahko trajno deaktivirate \u003Cbr> Night Eye."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktivirano"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Nadaljuj"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Night Eye lahko uživate v do 3 brskalnikih hkrati, dokler vam \u003Cbr> brezplačna preizkusna različica ne poteče za 1 $"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Night Eye lahko uživate v do $1 brskalnikih hkrati."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Uspešno ste aktivirali razširitev."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Night Eye lahko uživate v do 3 brskalnikih hkrati."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Aktivne brskalnike lahko upravljate v odjemalskem območju."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Za dostop do njega pojdite na"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Uspešna aktivacija"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Prekliči"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Upamo, da je Night Eye dokazal svojo uporabnost v zadnjih mesecih!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Če ga želite še naprej uporabljati, si oglejte naše cene in vse ugodnosti, ki jih prinaša."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye je povezan z vašim e-poštnim naslovom \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> uporabite ga, če se odločite za plačilo."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Cenitev"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro različica"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Upamo, da se je Night Eye v zadnjih mesecih izkazal za uporabnega."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Za vedno lahko uporabljate brezplačno različico Lite ali pa greste na Pro. Oglejte si naše cene in vse ugodnosti, ki prihajajo zraven."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite različica"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Temni način na do 5 spletnih mestih"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro različica"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Brez omejitev"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Vaše brezplačno preskusno obdobje je poteklo."
+   },
+   "trialLiteViewCancel": {
+      "message": "Prekliči"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (odstranite omejitve)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Temni način je mogoče omogočiti na do \u003Cbr> 5 spletnih mestih. Seznam lahko upravljate in ga kadar koli spremenite."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite različica"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Preberite o Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Shrani"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktiviraj"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Če že imate račun,\u003C/br> ga aktivirajte!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Prekliči"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Upamo, da je Night Eye dokazal svojo uporabnost v zadnjih mesecih!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Če ga želite še naprej uporabljati, si oglejte naše cene in vse ugodnosti, ki jih prinaša."
+   },
+   "trialProViewPricing": {
+      "message": "Cenitev"
+   },
+   "trialProViewTitle": {
+      "message": "Pro različica"
+   }
+}

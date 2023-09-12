@@ -1,0 +1,10 @@
+#site-header {
+    background: #1f1f1f !important;
+}
+
+#site-header img,
+.Grid-cell img,
+.related-icon img,
+.iconPreview {
+    filter: invert(70%);
+}

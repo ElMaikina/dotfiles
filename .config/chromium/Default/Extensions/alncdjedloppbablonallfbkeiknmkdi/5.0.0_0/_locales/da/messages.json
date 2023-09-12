@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Juster lysstyrken ved at trække skyderen nedenfor."
+   },
+   "brightnessViewTitle": {
+      "message": "Lysstyrke"
+   },
+   "colorViewDescription": {
+      "message": "Vælg en farve fra hjemmesiden og skift den til hvad du ønsker."
+   },
+   "colorViewOriginalColor": {
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "message": "Erstattet"
+   },
+   "colorViewTitle": {
+      "message": "Farvevælger"
+   },
+   "contrastViewDescription": {
+      "message": "Juster kontrasten ved at trække skyderen nedenfor."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "alle hjemmesider"
+   },
+   "controlsPanelButtonApply": {
+      "message": "ansøge"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Ansøg til"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Afbestille"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Nulstil"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Gendanne standardindstillingerne"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "nuværende hjemmeside"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "for alle hjemmesider"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "for nuværende hjemmeside"
+   },
+   "dimViewDescription": {
+      "message": "Juster dæmpningsniveauet på webstederne."
+   },
+   "dimViewTitle": {
+      "message": "Svag"
+   },
+   "extDescription": {
+      "message": "Skift hvert websted til mørk tilstand / lys tilstand som ønsket. Pas på dine øjne med Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye er stoppet"
+   },
+   "extName": {
+      "message": "Dark Mode - Night Eye"
+   },
+   "extToggleButton": {
+      "message": "Skift mellem mørk og normal tilstand for fanen"
+   },
+   "extTurnOnButton": {
+      "message": "Tænde for"
+   },
+   "filterModeNameDark": {
+      "message": "Mørk"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtreret"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "Sideindlæsningshastigheden kan blive påvirket"
+   },
+   "firstRunViewFeature2": {
+      "message": "Gratis 3 måneders Night Eye Pro (intet kreditkort)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Der indsamles ingen browseroplysninger"
+   },
+   "firstRunViewFeature4": {
+      "message": "Kontakt os via den indbyggede chat"
+   },
+   "firstRunViewTitle": {
+      "message": "Hurtig start"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Flere detaljer"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktiver nu"
+   },
+   "helpViewActivated": {
+      "message": "Administrer din udvidelse"
+   },
+   "helpViewByExpires": {
+      "message": "ved $1 \u003C/br>udløber: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Kundeområde"
+   },
+   "helpViewDarkScroll": {
+      "message": "Mørke ruller"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Lad Night Eye gøre enhver rulle mørk."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Vælg den standardtilstand, der skal udføres, når du åbner nye websteder"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Standardtilstand"
+   },
+   "helpViewDisabled": {
+      "message": "handicappet"
+   },
+   "helpViewEnabled": {
+      "message": "Aktiveret"
+   },
+   "helpViewExpiredNever": {
+      "message": "aldrig"
+   },
+   "helpViewExpires": {
+      "message": "Udløber $1"
+   },
+   "helpViewExportData": {
+      "message": "Eksporter data"
+   },
+   "helpViewGoProTitle": {
+      "message": "Bliv professionel"
+   },
+   "helpViewHelpButton": {
+      "message": "Hjælp"
+   },
+   "helpViewImportData": {
+      "message": "Importer data"
+   },
+   "helpViewLanguage": {
+      "message": "Sprog"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Administrer listen over mørke tilstande"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS Color Scheme integration"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Synkroniser Night Eye med dit aktive OS-farveskema."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Find ud af, hvordan du tildeler din egen genvej"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Genvej til/fra"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Log ind / Tilmeld dig"
+   },
+   "helpViewSignOut": {
+      "message": "Log ud"
+   },
+   "helpViewTimerDescr": {
+      "message": "Hvordan det virker"
+   },
+   "helpViewTimerOff": {
+      "message": "Af"
+   },
+   "helpViewTimerOn": {
+      "message": "På"
+   },
+   "helpViewTimerTitle": {
+      "message": "Tidsplan"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Find Night Eye på udvidelseslisten, og klik på fjern"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Afinstaller"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Hvidliste"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye behandler billeder og gør dem mørkere. Denne funktion kræver flere beregningsressourcer og kan gøre din computer langsommere."
+   },
+   "imageViewTitle": {
+      "message": "Billeder"
+   },
+   "labelBlueLight": {
+      "message": "blåt lys"
+   },
+   "labelBrightness": {
+      "message": "lysstyrke"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "indbygget og mørkt tema"
+   },
+   "labelColors": {
+      "message": "farver"
+   },
+   "labelContinue": {
+      "message": "Blive ved"
+   },
+   "labelContrast": {
+      "message": "kontrast"
+   },
+   "labelCurrent": {
+      "message": "Nuværende"
+   },
+   "labelCustomCode": {
+      "message": "tilpasset kode"
+   },
+   "labelCustomUrlPath": {
+      "message": "tilpasse \u003Cbr>-sider"
+   },
+   "labelDim": {
+      "message": "svag"
+   },
+   "labelDisabled": {
+      "message": "handicappet"
+   },
+   "labelEnabled": {
+      "message": "Aktiveret"
+   },
+   "labelExperimentalFeature": {
+      "message": "Eksperimentel funktion"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Konvertering af baggrunde"
+   },
+   "labelImageHighCPU": {
+      "message": "Højt CPU-forbrug"
+   },
+   "labelImageIconConversion": {
+      "message": "Konvertering af ikoner"
+   },
+   "labelImages": {
+      "message": "billeder"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Administrer listen"
+   },
+   "labelPleaseWait": {
+      "message": "Vent venligst"
+   },
+   "labelSaturation": {
+      "message": "mætning"
+   },
+   "labelSubdomains": {
+      "message": "underdomæner"
+   },
+   "labelTurboCache": {
+      "message": "lokal cache"
+   },
+   "labelWebsite": {
+      "message": "internet side"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Denne hjemmeside er ikke tilføjet på listen over mørke tilstande."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Mørk udgave"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtreret version"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normal version"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Ikke understøttet"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Denne hjemmeside er ikke understøttet"
+   },
+   "okButton": {
+      "message": "Okay"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Tæt"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Du har brugt Night Eye i 30 dage nu."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Som tak har vi en særlig 10% rabat. Brug venligst rabatkoden \u003Cdiv class=\"DiscountCode\">-\u003C/div> Dette tilbud er gyldigt i 48 timer."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Få din PRO-version nu"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Hvis du ikke er interesseret,\u003Cbr> har du 2 måneder mere tilbage \u003Cbr> fra den gratis prøveperiode. God fornøjelse!"
+   },
+   "refreshButton": {
+      "message": "Opdater"
+   },
+   "refreshViewDescription": {
+      "message": "Du skal opdatere den aktuelle side for at anvende de seneste indstillinger"
+   },
+   "refreshViewTitle": {
+      "message": "Genindlæs venligst siden"
+   },
+   "saturationViewDescription": {
+      "message": "Juster mætningen ved at trække skyderen nedenfor."
+   },
+   "saturationViewTitle": {
+      "message": "Mætning"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Dyb integration giver dig mulighed for at kontrollere de indbyggede mørke temaer på de websteder, der allerede har implementeret en mørk brugergrænseflade."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Se, hvordan Deep integration fungerer"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "HER"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Dyb integration"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "handicappet"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Night Eye mørkt"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye konverterer billeder såsom ikoner og baggrunde for at give dig en jævn og ensartet mørk tilstand."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Konvertering af ikoner og baggrunde kommer med højt CPU-forbrug."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Tænd for den bedste oplevelse i mørk tilstand."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Sluk for at reducere CPU-forbruget."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye vil konvertere alle underdomæner af dette domæne"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Mere mere tekst"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Tænd for den bedste oplevelse i mørk tilstand."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Sluk for at reducere CPU-forbruget."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Cachen fremskynder webstedskonverteringen fra normal til mørk tilstand (sidens indlæsningshastighed påvirkes ikke). Det kan reducere de indledende lyse blink, afhængigt af webstedet."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Cache-funktionen virker på omkring 80 % af hjemmesiderne, så hvis en hjemmeside ikke opfører sig ordentligt, skal du slå den fra for det!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Kan anvendes på en bestemt hjemmeside eller på alle, du besøger."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye vil konvertere alle underdomæner af dette domæne"
+   },
+   "subdomainViewTitle": {
+      "message": "Underdomæner"
+   },
+   "supportViewContinueBtn": {
+      "message": "Blive ved"
+   },
+   "supportViewInfo1": {
+      "message": "Vi er her for at hjælpe, hvis du har spørgsmål eller problemer med Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "For at bruge vores supportsystem skal du angive korrekte kontaktoplysninger."
+   },
+   "supportViewInfo3": {
+      "message": "Send os kun besked på engelsk."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Navn"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Vent venligst..."
+   },
+   "switchLabelOff": {
+      "message": "Af"
+   },
+   "switchLabelOn": {
+      "message": "På"
+   },
+   "temperatureViewDescription": {
+      "message": "Juster det blå lys ved at trække skyderen nedenfor."
+   },
+   "temperatureViewOption1": {
+      "message": "Med blå"
+   },
+   "temperatureViewOption2": {
+      "message": "Uden blå"
+   },
+   "temperatureViewTitle": {
+      "message": "Blåt lys"
+   },
+   "tooltipDark": {
+      "message": "Ved at bruge denne tilstand vil Night Eye ændre farver baseret på valgte indstillinger"
+   },
+   "tooltipFiltered": {
+      "message": "Ved at bruge denne tilstand vil hjemmesiden som standard være plus effekt af flere filtre - lysstyrke, kontrast, mætning, varm/kold, dæmpet"
+   },
+   "tooltipNormal": {
+      "message": "Ved at bruge denne tilstand vil hjemmesiden være som standard, Night Eye vil ikke ændre nogen farve"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktiver"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Afbestille"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Kundens område"
+   },
+   "trailActivationViewDescr": {
+      "message": "Brug venligst den e-mail, du brugte, da du foretog købet, til at aktivere \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktivering"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Afbestille"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Kontrolpanel"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deaktiver"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye er knyttet til din e-mail \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "For flere detaljer, besøg"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Du kan permanent deaktivere \u003Cbr> Night Eye for denne browser."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktiveret"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Blive ved"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Du kan nyde Night Eye på op til 3 browsere på én gang, indtil din \u003Cbr> gratis prøveperiode udløber på $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Du kan nyde Night Eye på op til $1 browsere på én gang."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Du har aktiveret udvidelsen."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Du kan nyde Night Eye på op til 3 browsere på én gang."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Du kan administrere de aktive browsere i klientområdet."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "For at få adgang til det, gå venligst til"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Vellykket aktivering"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Afbestille"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Vi håber, at Night Eye har bevist sin brugbarhed i de sidste måneder!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Hvis du vil fortsætte med at bruge det, så tjek vores priser og alle de fordele, der følger med."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye er knyttet til din e-mail \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> brug den, hvis du beslutter dig for at betale."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Prissætning"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro version"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Vi håber, at Night Eye har bevist sin brugbarhed i de sidste måneder."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Du kan bruge den gratis Lite-version for evigt eller gå Pro. Tjek vores priser og alle de fordele, der følger med."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite version"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Mørk tilstand på op til 5 websteder"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro version"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Ingen grænser"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Din gratis prøveperiode er udløbet."
+   },
+   "trialLiteViewCancel": {
+      "message": "Afbestille"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (fjern grænserne)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Mørk tilstand kan aktiveres på op til \u003Cbr> 5 websteder. Du kan administrere listen og ændre den til enhver tid."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite version"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Læs om Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Gemme"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktiver"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Hvis du allerede har en konto,\u003C/br> skal du aktivere den!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Afbestille"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Vi håber, at Night Eye har bevist sin brugbarhed i de sidste måneder!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Hvis du vil fortsætte med at bruge det, så tjek vores priser og alle de fordele, der følger med."
+   },
+   "trialProViewPricing": {
+      "message": "Prissætning"
+   },
+   "trialProViewTitle": {
+      "message": "Pro version"
+   }
+}

@@ -1,0 +1,5 @@
+.mfFontCategories_card img,
+.tabContainer img,
+.result-row img {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%);
+}

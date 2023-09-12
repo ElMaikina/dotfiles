@@ -1,0 +1,11 @@
+.inlineformula {
+    filter: invert(1);
+}
+
+#mainContent td img[class] {
+    filter: invert(1);
+}
+
+#mainContent img[class='center-image'] {
+    background-color: #fff !important;
+}

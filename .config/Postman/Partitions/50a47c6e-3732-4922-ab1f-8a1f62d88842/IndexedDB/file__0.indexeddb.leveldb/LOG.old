@@ -1,0 +1,10 @@
+2023/09/07-22:41:49.527 ed3be Creating DB /home/elmaikina/.config/Postman/Partitions/50a47c6e-3732-4922-ab1f-8a1f62d88842/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2023/09/07-22:41:49.531 ed3be Reusing MANIFEST /home/elmaikina/.config/Postman/Partitions/50a47c6e-3732-4922-ab1f-8a1f62d88842/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/09/07-22:41:49.536 ed3c0 Level-0 table #5: started
+2023/09/07-22:41:49.538 ed3c0 Level-0 table #5: 492 bytes OK
+2023/09/07-22:41:49.539 ed3c0 Delete type=0 #3
+2023/09/07-22:41:49.539 ed3c0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/07-22:41:50.319 ed3bf Level-0 table #7: started
+2023/09/07-22:41:50.320 ed3bf Level-0 table #7: 477 bytes OK
+2023/09/07-22:41:50.322 ed3bf Delete type=0 #4
+2023/09/07-22:41:50.322 ed3bf Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

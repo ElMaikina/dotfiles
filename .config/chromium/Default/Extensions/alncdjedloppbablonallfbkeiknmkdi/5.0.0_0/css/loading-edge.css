@@ -1,0 +1,41 @@
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]),
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]):not([nighteyeurl*="google."]) * {
+    background: #1f1f1f !important;
+    color: #b4bcca !important;
+}
+
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) header,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) header *,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) footer,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) footer *,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) section,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) section *,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) nav,
+:root:not([nighteye="passive"]):not([nighteye="active"]):not([nighteye="disabled"]) nav * {
+    background-color: #272727 !important;
+}
+
+:root[nighteye="passive"] * {
+    background: #1f1f1f !important;
+    color: #b4bcca !important;
+}
+
+:root[nighteye="passive"] a {
+    color: #a1b6de !important;
+}
+
+:root[nighteye="passive"] header,
+:root[nighteye="passive"] header *,
+:root[nighteye="passive"] footer,
+:root[nighteye="passive"] footer *,
+:root[nighteye="passive"] section,
+:root[nighteye="passive"] section *,
+:root[nighteye="passive"] nav,
+:root[nighteye="passive"] nav * {
+    background: #272727 !important;
+}
+
+/* it has to be here in this file */
+:root.NightEyeInvert {
+    filter: invert(90%);
+}

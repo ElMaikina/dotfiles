@@ -1,0 +1,8 @@
+:root {
+    --base-color: #cecece;
+    --link-color: #cecece;
+}
+
+.markdown-section a {
+    color: #cecece !important;
+}

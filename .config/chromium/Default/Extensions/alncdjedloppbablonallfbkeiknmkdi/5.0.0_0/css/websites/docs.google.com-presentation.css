@@ -1,0 +1,5 @@
+/* slides-presentation */
+#speakernotes svg text,
+#docs-explore-icon {
+    fill: rgb(191, 191, 191) !important;
+}

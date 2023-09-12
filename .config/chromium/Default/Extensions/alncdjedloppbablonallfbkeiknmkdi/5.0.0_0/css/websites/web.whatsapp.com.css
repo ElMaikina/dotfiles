@@ -1,0 +1,18 @@
+svg {
+    /* filter: invert(100%); */
+}
+
+.landing-title,
+.landing-main,
+.landing-main * {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+span[data-icon="status-v3-x"] svg path {
+    fill: #fff !important;
+}
+
+header~div {
+    background: none !important;
+}

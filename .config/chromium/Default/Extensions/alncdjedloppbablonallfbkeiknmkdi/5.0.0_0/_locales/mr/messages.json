@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "खालील स्लाइडर ड्रॅग करून ब्राइटनेस समायोजित करा."
+   },
+   "brightnessViewTitle": {
+      "message": "चमक"
+   },
+   "colorViewDescription": {
+      "message": "वेबसाइटवरून एक रंग निवडा आणि तुम्हाला हवे तसे बदला."
+   },
+   "colorViewOriginalColor": {
+      "message": "मूळ"
+   },
+   "colorViewReplacedColor": {
+      "message": "बदलले"
+   },
+   "colorViewTitle": {
+      "message": "रंग निवडक"
+   },
+   "contrastViewDescription": {
+      "message": "खालील स्लाइडर ड्रॅग करून कॉन्ट्रास्ट समायोजित करा."
+   },
+   "contrastViewTitle": {
+      "message": "कॉन्ट्रास्ट"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "सर्व वेबसाइट्स"
+   },
+   "controlsPanelButtonApply": {
+      "message": "अर्ज करा"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "लागू"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "रद्द करा"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "रीसेट करा"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "पुर्वासपांदित करा"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "वर्तमान वेबसाइट"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "सर्व वेबसाइट्ससाठी"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "वर्तमान वेबसाइटसाठी"
+   },
+   "dimViewDescription": {
+      "message": "वेबसाइट्सची अंधुक पातळी समायोजित करा."
+   },
+   "dimViewTitle": {
+      "message": "मंद"
+   },
+   "extDescription": {
+      "message": "प्रत्येक वेबसाइटला हवे तसे डार्क मोड/लाइट मोडवर स्विच करा. नाईट आयने डोळ्यांची काळजी घ्या."
+   },
+   "extDisabledStatus": {
+      "message": "नाईट नेत्र थांबले आहे"
+   },
+   "extName": {
+      "message": "गडद मोड - रात्रीचा डोळा"
+   },
+   "extToggleButton": {
+      "message": "टॅबसाठी गडद आणि सामान्य मोड टॉगल करा"
+   },
+   "extTurnOnButton": {
+      "message": "चालू करणे"
+   },
+   "filterModeNameDark": {
+      "message": "गडद"
+   },
+   "filterModeNameFiltered": {
+      "message": "फिल्टर केले"
+   },
+   "filterModeNameNormal": {
+      "message": "सामान्य"
+   },
+   "firstRunViewFeature1": {
+      "message": "पृष्ठ लोडिंग गती प्रभावित होऊ शकते"
+   },
+   "firstRunViewFeature2": {
+      "message": "नाईट आय प्रो मोफत 3 महिने (क्रेडिट कार्ड नाही)"
+   },
+   "firstRunViewFeature3": {
+      "message": "कोणतीही ब्राउझिंग माहिती गोळा केली जात नाही"
+   },
+   "firstRunViewFeature4": {
+      "message": "अंगभूत चॅटद्वारे आमच्याशी संपर्क साधा"
+   },
+   "firstRunViewTitle": {
+      "message": "क्विक स्टार्ट"
+   },
+   "helpOSIntegrationLink": {
+      "message": "अधिक माहितीसाठी"
+   },
+   "helpViewActivateNow": {
+      "message": "आता सक्रिय करा"
+   },
+   "helpViewActivated": {
+      "message": "तुमचा विस्तार व्यवस्थापित करा"
+   },
+   "helpViewByExpires": {
+      "message": "$1 द्वारे \u003C/br>कालबाह्य होईल: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "ग्राहक क्षेत्र"
+   },
+   "helpViewDarkScroll": {
+      "message": "गडद स्क्रोल"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Night Eye कोणत्याही स्क्रोलला गडद होऊ द्या."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "नवीन वेबसाइट उघडताना अंमलात आणण्यासाठी डीफॉल्ट मोड निवडा"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "डीफॉल्ट मोड"
+   },
+   "helpViewDisabled": {
+      "message": "अक्षम"
+   },
+   "helpViewEnabled": {
+      "message": "सक्षम केले"
+   },
+   "helpViewExpiredNever": {
+      "message": "कधीही"
+   },
+   "helpViewExpires": {
+      "message": "$1 कालबाह्य होईल"
+   },
+   "helpViewExportData": {
+      "message": "डेटा निर्यात करा"
+   },
+   "helpViewGoProTitle": {
+      "message": "जा प्रो"
+   },
+   "helpViewHelpButton": {
+      "message": "मदत करा"
+   },
+   "helpViewImportData": {
+      "message": "डेटा आयात करा"
+   },
+   "helpViewLanguage": {
+      "message": "इंग्रजी"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "गडद मोड सूची व्यवस्थापित करा"
+   },
+   "helpViewOSColorScheme": {
+      "message": "ओएस कलर स्कीम एकत्रीकरण"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "तुमच्या सक्रिय OS कलर स्कीमसह नाईट आय सिंक करा."
+   },
+   "helpViewShortcutDescription": {
+      "message": "तुमचा स्वतःचा शॉर्टकट कसा नियुक्त करायचा ते शोधा"
+   },
+   "helpViewShortcutTitle": {
+      "message": "शॉर्टकट चालू/बंद"
+   },
+   "helpViewSignInSignUp": {
+      "message": "साइन इन / साइन अप करा"
+   },
+   "helpViewSignOut": {
+      "message": "साइन आउट करा"
+   },
+   "helpViewTimerDescr": {
+      "message": "हे कसे कार्य करते"
+   },
+   "helpViewTimerOff": {
+      "message": "बंद"
+   },
+   "helpViewTimerOn": {
+      "message": "चालू"
+   },
+   "helpViewTimerTitle": {
+      "message": "वेळापत्रक"
+   },
+   "helpViewUninstallDescription": {
+      "message": "विस्तार सूचीमध्ये नाईट आय शोधा आणि काढा क्लिक करा"
+   },
+   "helpViewUninstallTitle": {
+      "message": "विस्थापित करा"
+   },
+   "helpViewWhiteListButton": {
+      "message": "श्वेतसूची"
+   },
+   "imageViewDescription": {
+      "message": "नाईट आय प्रतिमांवर प्रक्रिया करते ते गडद बनवते. या वैशिष्ट्यासाठी अधिक संगणकीय संसाधने आवश्यक आहेत आणि आपला संगणक धीमा करू शकतात."
+   },
+   "imageViewTitle": {
+      "message": "प्रतिमा"
+   },
+   "labelBlueLight": {
+      "message": "निळा प्रकाश"
+   },
+   "labelBrightness": {
+      "message": "चमक"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "अंगभूत \u003Cbr>गडद थीम"
+   },
+   "labelColors": {
+      "message": "रंग"
+   },
+   "labelContinue": {
+      "message": "सुरू"
+   },
+   "labelContrast": {
+      "message": "कॉन्ट्रास्ट"
+   },
+   "labelCurrent": {
+      "message": "चालू"
+   },
+   "labelCustomCode": {
+      "message": "सानुकूल कोड"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> पृष्ठे सानुकूलित करा"
+   },
+   "labelDim": {
+      "message": "मंद"
+   },
+   "labelDisabled": {
+      "message": "अक्षम"
+   },
+   "labelEnabled": {
+      "message": "सक्षम केले"
+   },
+   "labelExperimentalFeature": {
+      "message": "प्रायोगिक वैशिष्ट्य"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "पार्श्वभूमी रूपांतरण"
+   },
+   "labelImageHighCPU": {
+      "message": "उच्च CPU वापर"
+   },
+   "labelImageIconConversion": {
+      "message": "चिन्ह रूपांतरण"
+   },
+   "labelImages": {
+      "message": "प्रतिमा"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "सूची व्यवस्थापित करा"
+   },
+   "labelPleaseWait": {
+      "message": "कृपया थांबा"
+   },
+   "labelSaturation": {
+      "message": "संपृक्तता"
+   },
+   "labelSubdomains": {
+      "message": "उपडोमेन"
+   },
+   "labelTurboCache": {
+      "message": "स्थानिक कॅशे"
+   },
+   "labelWebsite": {
+      "message": "संकेतस्थळ"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "ही वेबसाइट गडद मोड सूचीमध्ये जोडलेली नाही."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "गडद आवृत्ती"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "फिल्टर केलेली आवृत्ती"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "सामान्य आवृत्ती"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "समर्थित नाही"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "ही वेबसाइट समर्थित नाही"
+   },
+   "okButton": {
+      "message": "ठीक आहे"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "बंद"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "तुम्ही आता ३० दिवसांपासून नाईट आय वापरत आहात."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "धन्यवाद म्हणून, आमच्याकडे विशेष 10% सूट आहे. कृपया सवलत कोड वापरा \u003Cdiv class=\"DiscountCode\">-\u003C/div> ही ऑफर ४८ तासांसाठी वैध आहे."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "आता तुमची PRO आवृत्ती मिळवा"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "तुम्हाला स्वारस्य नसल्यास, तुमच्याकडे विनामूल्य चाचणीपासून \u003Cbr> आणखी २ महिने शिल्लक आहेत. आनंद घ्या!"
+   },
+   "refreshButton": {
+      "message": "रिफ्रेश करा"
+   },
+   "refreshViewDescription": {
+      "message": "नवीनतम सेटिंग्ज लागू करण्यासाठी तुम्हाला वर्तमान पृष्ठ रीफ्रेश करावे लागेल"
+   },
+   "refreshViewTitle": {
+      "message": "कृपया पृष्ठ रीलोड करा"
+   },
+   "saturationViewDescription": {
+      "message": "खालील स्लाइडर ड्रॅग करून संपृक्तता समायोजित करा."
+   },
+   "saturationViewTitle": {
+      "message": "संपृक्तता"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "डीप इंटिग्रेशन तुम्हाला वेबसाइट्सच्या बिल्ट-इन गडद थीम नियंत्रित करण्यास अनुमती देते ज्यांनी आधीच गडद UI लागू केले आहे."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "डीप इंटिग्रेशन कसे कार्य करते ते पहा"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "येथे"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "खोल एकीकरण"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "अक्षम"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "रात्री डोळा अंधार"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "नाइट आय तुम्हाला गुळगुळीत आणि सातत्यपूर्ण गडद मोड प्रदान करण्यासाठी आयकॉन आणि बॅकग्राउंड सारख्या प्रतिमा रूपांतरित करते."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "चिन्ह आणि पार्श्वभूमी रूपांतरण उच्च CPU वापरासह येते."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "सर्वोत्तम गडद मोड अनुभवासाठी चालू करा."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU वापर कमी करण्यासाठी बंद करा."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "नाईट आय या डोमेनचे सर्व सबडोमेन रूपांतरित करेल"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "अधिक अधिक मजकूर"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "सर्वोत्तम गडद मोड अनुभवासाठी चालू करा."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU वापर कमी करण्यासाठी बंद करा."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "कॅशे वेबसाइटचे रूपांतर सामान्य ते गडद मोडमध्ये वाढवते (पृष्ठ लोडिंग गती प्रभावित होत नाही). हे वेबसाइटवर अवलंबून प्रारंभिक चमकदार चमक कमी करू शकते."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "कॅशे वैशिष्ट्य सुमारे 80% वेबसाइट्सवर कार्य करते, अशा प्रकारे वेबसाइट योग्यरित्या वागत नसल्यास, कृपया त्यासाठी ते बंद करा!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "विशिष्ट वेबसाइटवर किंवा तुम्ही भेट दिलेल्या सर्वांसाठी लागू केले जाऊ शकते."
+   },
+   "subdomainViewDescription": {
+      "message": "नाईट आय या डोमेनचे सर्व सबडोमेन रूपांतरित करेल"
+   },
+   "subdomainViewTitle": {
+      "message": "उपडोमेन"
+   },
+   "supportViewContinueBtn": {
+      "message": "सुरू"
+   },
+   "supportViewInfo1": {
+      "message": "तुम्हाला नाईट आय बाबत काही प्रश्न किंवा समस्या असल्यास आम्ही मदत करण्यासाठी येथे आहोत."
+   },
+   "supportViewInfo2": {
+      "message": "आमची समर्थन प्रणाली वापरण्यासाठी, कृपया योग्य संपर्क माहिती प्रदान करा."
+   },
+   "supportViewInfo3": {
+      "message": "आम्हाला फक्त इंग्रजीत संदेश पाठवा."
+   },
+   "supportViewInputEmail": {
+      "message": "ईमेल"
+   },
+   "supportViewInputName": {
+      "message": "नाव"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "कृपया थांबा..."
+   },
+   "switchLabelOff": {
+      "message": "बंद"
+   },
+   "switchLabelOn": {
+      "message": "चालू"
+   },
+   "temperatureViewDescription": {
+      "message": "खालील स्लाइडर ड्रॅग करून निळा प्रकाश समायोजित करा."
+   },
+   "temperatureViewOption1": {
+      "message": "निळा सह"
+   },
+   "temperatureViewOption2": {
+      "message": "निळ्याशिवाय"
+   },
+   "temperatureViewTitle": {
+      "message": "निळा प्रकाश"
+   },
+   "tooltipDark": {
+      "message": "या मोडचा वापर करून, निवडलेल्या सेटिंग्जवर आधारित नाइट आय रंग बदलेल"
+   },
+   "tooltipFiltered": {
+      "message": "या मोडचा वापर करून, वेबसाइट डीफॉल्टनुसार अनेक फिल्टर्सचा प्रभाव असेल - ब्राइटनेस, कॉन्ट्रास्ट, संपृक्तता, उबदार/थंड, मंद"
+   },
+   "tooltipNormal": {
+      "message": "या मोडचा वापर करून, वेबसाइट बाय डीफॉल्ट असेल, नाईट आय कोणताही रंग बदलणार नाही"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "सक्रिय करा"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "रद्द करा"
+   },
+   "trailActivationViewClientArea": {
+      "message": "ग्राहकाचे क्षेत्र"
+   },
+   "trailActivationViewDescr": {
+      "message": "कृपया \u003Cbr>नाईट आय प्रो सक्रिय करण्यासाठी खरेदी करताना तुम्ही वापरलेला ईमेल वापरा."
+   },
+   "trailActivationViewTitle": {
+      "message": "सक्रियकरण"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "रद्द करा"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "नियंत्रण पॅनेल"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "निष्क्रिय करा"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "रात्रीचा डोळा तुमच्या ई-मेलशी संबंधित आहे \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "अधिक तपशीलांसाठी, भेट द्या"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "तुम्ही या ब्राउझरसाठी \u003Cbr> नाईट आय कायमचे निष्क्रिय करू शकता."
+   },
+   "trailLogoutViewTitle": {
+      "message": "सक्रिय केले"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "सुरू"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "तुमची \u003Cbr> मोफत चाचणी $1 ला संपेपर्यंत तुम्ही एकाच वेळी 3 ब्राउझरवर Night Eye चा आनंद घेऊ शकता"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "तुम्ही एकाच वेळी $1 पर्यंत ब्राउझरवर Night Eye चा आनंद घेऊ शकता."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "तुम्ही विस्तार यशस्वीरित्या सक्रिय केला आहे."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "तुम्ही एकाच वेळी 3 पर्यंत ब्राउझरवर Night Eye चा आनंद घेऊ शकता."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "तुम्ही क्लायंट एरियामध्ये सक्रिय ब्राउझर व्यवस्थापित करू शकता."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "त्यात प्रवेश करण्यासाठी, कृपया येथे जा"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "यशस्वी सक्रियकरण"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "रद्द करा"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "आम्हाला आशा आहे की नाईट आयने गेल्या काही महिन्यांपासून त्याची उपयुक्तता सिद्ध केली आहे!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "तुम्हाला ते वापरणे सुरू ठेवायचे असल्यास, आमची किंमत आणि त्यासोबत येणारे सर्व फायदे पहा."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "नाईट आय तुमच्या ई-मेलशी संबंधित आहे \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> तुम्ही पैसे देण्याचे ठरविल्यास ते वापरा."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "किंमत"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "प्रो आवृत्ती"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "आम्हाला आशा आहे की नाईट आयने गेल्या काही महिन्यांपासून त्याची उपयुक्तता सिद्ध केली आहे."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "तुम्ही कायमची मोफत लाइट आवृत्ती वापरू शकता किंवा प्रो वर जाऊ शकता. आमची किंमत आणि त्यासोबत येणारे सर्व फायदे पहा."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "लाइट आवृत्ती"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "सुमारे 5 वेबसाइटवर गडद मोड"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "प्रो आवृत्ती"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "मर्यादा नाही"
+   },
+   "trialExpiredViewTitle": {
+      "message": "तुमची विनामूल्य चाचणी कालबाह्य झाली आहे."
+   },
+   "trialLiteViewCancel": {
+      "message": "रद्द करा"
+   },
+   "trialLiteViewGoPro": {
+      "message": "गो प्रो (मर्यादा काढा)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "गडद मोड \u003Cbr> 5 वेबसाइटवर सक्षम केला जाऊ शकतो. तुम्ही सूची व्यवस्थापित करू शकता आणि ती कधीही बदलू शकता."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "लाइट आवृत्ती"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lite बद्दल वाचा"
+   },
+   "trialLiteViewSave": {
+      "message": "जतन करा"
+   },
+   "trialProViewActivateBtn": {
+      "message": "सक्रिय करा"
+   },
+   "trialProViewActivateDescr": {
+      "message": "तुमच्याकडे आधीपासूनच खाते असल्यास,\u003C/br> कृपया ते सक्रिय करा!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "रद्द करा"
+   },
+   "trialProViewDescrPart1": {
+      "message": "आम्हाला आशा आहे की नाईट आयने गेल्या काही महिन्यांपासून त्याची उपयुक्तता सिद्ध केली आहे!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "तुम्हाला ते वापरणे सुरू ठेवायचे असल्यास, आमची किंमत आणि त्यासोबत येणारे सर्व फायदे पहा."
+   },
+   "trialProViewPricing": {
+      "message": "किंमत"
+   },
+   "trialProViewTitle": {
+      "message": "प्रो आवृत्ती"
+   }
+}

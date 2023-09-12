@@ -1,0 +1,4 @@
+.viewport img[src*="content"],
+.jfk-button-img {
+    filter: invert(90%);
+}

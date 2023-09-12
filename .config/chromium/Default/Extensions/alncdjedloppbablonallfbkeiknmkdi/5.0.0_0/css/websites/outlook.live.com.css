@@ -1,0 +1,4 @@
+div[contenteditable] {
+    filter: invert(90%) hue-rotate(180deg) contrast(90%);
+    padding: 5px 10px;
+}

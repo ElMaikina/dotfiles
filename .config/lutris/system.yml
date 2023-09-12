@@ -1,0 +1,6 @@
+system:
+  disable_compositor: true
+  env:
+    DXVK_ASYNC: '1'
+  pulse_latency: true
+  reset_pulse: true

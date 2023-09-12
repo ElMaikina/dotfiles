@@ -1,0 +1,9 @@
+[user]
+forceIconSize=true
+iconSize=18
+indicatorStyle=2
+inactiveIndicatorStyle=2
+pinned=/usr/share/applications/firefox.desktop;/usr/share/applications/thunar.desktop;/usr/share/applications/xfce4-terminal.desktop;
+onlyDisplayVisible=true
+onlyDisplayScreen=true
+showPreviews=true

@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Ajusteu la brillantor arrossegant el control lliscant de sota."
+   },
+   "brightnessViewTitle": {
+      "message": "Brillantor"
+   },
+   "colorViewDescription": {
+      "message": "Trieu un color del lloc web i canvieu-lo pel que vulgueu."
+   },
+   "colorViewOriginalColor": {
+      "message": "Original"
+   },
+   "colorViewReplacedColor": {
+      "message": "Reemplaçat"
+   },
+   "colorViewTitle": {
+      "message": "Selector de colors"
+   },
+   "contrastViewDescription": {
+      "message": "Ajusteu el contrast arrossegant el control lliscant de sota."
+   },
+   "contrastViewTitle": {
+      "message": "Contrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "tots els llocs web"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Aplicar"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Aplicar a"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Cancel · lar"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Restableix"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Restaurar els valors predeterminats"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "web actual"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "per a tots els llocs web"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "per al lloc web actual"
+   },
+   "dimViewDescription": {
+      "message": "Ajusteu el nivell d'atenuació dels llocs web."
+   },
+   "dimViewTitle": {
+      "message": "Dim"
+   },
+   "extDescription": {
+      "message": "Canvieu cada lloc web al mode fosc/mode clar com vulgueu. Cuida els teus ulls amb Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye està aturat"
+   },
+   "extName": {
+      "message": "Mode fosc - Ull nocturn"
+   },
+   "extToggleButton": {
+      "message": "Canvia el mode fosc i el normal per a la pestanya"
+   },
+   "extTurnOnButton": {
+      "message": "Encendre"
+   },
+   "filterModeNameDark": {
+      "message": "Fosc"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrat"
+   },
+   "filterModeNameNormal": {
+      "message": "Normal"
+   },
+   "firstRunViewFeature1": {
+      "message": "La velocitat de càrrega de la pàgina es pot veure afectada"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 mesos gratuïts de Night Eye Pro (sense targeta de crèdit)"
+   },
+   "firstRunViewFeature3": {
+      "message": "No es recull cap informació de navegació"
+   },
+   "firstRunViewFeature4": {
+      "message": "Contacta amb nosaltres mitjançant el xat integrat"
+   },
+   "firstRunViewTitle": {
+      "message": "Començament ràpid"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Més detalls"
+   },
+   "helpViewActivateNow": {
+      "message": "Activa ara"
+   },
+   "helpViewActivated": {
+      "message": "Gestioneu la vostra extensió"
+   },
+   "helpViewByExpires": {
+      "message": "per 1 $ \u003C/br>caduca: 2 $"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Àrea de clients"
+   },
+   "helpViewDarkScroll": {
+      "message": "Rotlles fosques"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Deixa que Night Eye enfosqui qualsevol rotllo."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Trieu el mode predeterminat que s'executarà en obrir nous llocs web"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Mode predeterminat"
+   },
+   "helpViewDisabled": {
+      "message": "Inhabilitat"
+   },
+   "helpViewEnabled": {
+      "message": "Habilitat"
+   },
+   "helpViewExpiredNever": {
+      "message": "mai"
+   },
+   "helpViewExpires": {
+      "message": "Caduca 1 $"
+   },
+   "helpViewExportData": {
+      "message": "Exportar dades"
+   },
+   "helpViewGoProTitle": {
+      "message": "Anar Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Ajuda"
+   },
+   "helpViewImportData": {
+      "message": "Importa dades"
+   },
+   "helpViewLanguage": {
+      "message": "Llenguatge"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Gestiona la llista de mode fosc"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integració de l'esquema de colors del sistema operatiu"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sincronitza Night Eye amb el teu esquema de color actiu del sistema operatiu."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Descobriu com assignar la vostra pròpia drecera"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Drecera activada/desactivada"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Inicieu sessió/Registreu-vos"
+   },
+   "helpViewSignOut": {
+      "message": "Tanca sessió"
+   },
+   "helpViewTimerDescr": {
+      "message": "Com funciona"
+   },
+   "helpViewTimerOff": {
+      "message": "Apagat"
+   },
+   "helpViewTimerOn": {
+      "message": "Encès"
+   },
+   "helpViewTimerTitle": {
+      "message": "Horari"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Cerqueu Night Eye a la llista d'extensions i feu clic a Elimina"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Desinstal·la"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Llista blanca"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye processa les imatges fent-les més fosques. Aquesta característica requereix més recursos computacionals i pot alentir el vostre ordinador."
+   },
+   "imageViewTitle": {
+      "message": "Imatges"
+   },
+   "labelBlueLight": {
+      "message": "llum blava"
+   },
+   "labelBrightness": {
+      "message": "brillantor"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "tema fosc integrat"
+   },
+   "labelColors": {
+      "message": "colors"
+   },
+   "labelContinue": {
+      "message": "Continua"
+   },
+   "labelContrast": {
+      "message": "contrast"
+   },
+   "labelCurrent": {
+      "message": "Actual"
+   },
+   "labelCustomCode": {
+      "message": "codi personalitzat"
+   },
+   "labelCustomUrlPath": {
+      "message": "personalitzar les pàgines \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "dim"
+   },
+   "labelDisabled": {
+      "message": "Inhabilitat"
+   },
+   "labelEnabled": {
+      "message": "Habilitat"
+   },
+   "labelExperimentalFeature": {
+      "message": "Característica experimental"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Conversió de fons"
+   },
+   "labelImageHighCPU": {
+      "message": "Alt consum de CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Conversió d'icones"
+   },
+   "labelImages": {
+      "message": "imatges"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Gestionar la llista"
+   },
+   "labelPleaseWait": {
+      "message": "Si us plau, espereu"
+   },
+   "labelSaturation": {
+      "message": "saturació"
+   },
+   "labelSubdomains": {
+      "message": "subdominis"
+   },
+   "labelTurboCache": {
+      "message": "memòria cau local"
+   },
+   "labelWebsite": {
+      "message": "lloc web"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Aquest lloc web no s'afegeix a la llista del mode fosc."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Versió fosca"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Versió filtrada"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Versió normal"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "No compatible"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Aquest lloc web no és compatible"
+   },
+   "okButton": {
+      "message": "D'acord"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Tanca"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Fa 30 dies que feu servir Night Eye."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Com a agraïment, tenim un descompte especial del 10%. Si us plau, utilitzeu el codi de descompte \u003Cdiv class=\"DiscountCode\">-\u003C/div> Aquesta oferta és vàlida durant 48 hores."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Obteniu la vostra versió PRO ara"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Si no us interessa,\u003Cbr> us queden 2 mesos més \u003Cbr> de la prova gratuïta. Gaudeix!"
+   },
+   "refreshButton": {
+      "message": "Actualització"
+   },
+   "refreshViewDescription": {
+      "message": "Heu d'actualitzar la pàgina actual per aplicar la configuració més recent"
+   },
+   "refreshViewTitle": {
+      "message": "Torneu a carregar la pàgina"
+   },
+   "saturationViewDescription": {
+      "message": "Ajusteu la saturació arrossegant el control lliscant de sota."
+   },
+   "saturationViewTitle": {
+      "message": "Saturació"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "La integració profunda us permet controlar els temes foscos integrats dels llocs web que ja implementen una interfície d'usuari fosca."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Vegeu com funciona la integració profunda"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "AQUÍ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Integració profunda"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Inhabilitat"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Ull nocturn fosc"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye converteix imatges com ara icones i fons per oferir-vos un mode fosc suau i consistent."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "La conversió d'icones i fons inclou un alt consum de CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Activa per obtenir la millor experiència en mode fosc."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Apagueu per reduir el consum de CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye convertirà tots els subdominis d'aquest domini"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Més més text"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Activa per obtenir la millor experiència en mode fosc."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Apagueu per reduir el consum de CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "La memòria cau accelera la conversió del lloc web del mode normal al mode fosc (la velocitat de càrrega de la pàgina no es veu afectada). Pot reduir els flaixos brillants inicials, depenent del lloc web."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "La funció de memòria cau funciona al voltant del 80% dels llocs web, per tant, si un lloc web no es comporta correctament, desactiveu-lo."
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Es pot aplicar a un lloc web específic o a tots els que visiteu."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye convertirà tots els subdominis d'aquest domini"
+   },
+   "subdomainViewTitle": {
+      "message": "Subdominis"
+   },
+   "supportViewContinueBtn": {
+      "message": "Continua"
+   },
+   "supportViewInfo1": {
+      "message": "Estem aquí per ajudar-vos si teniu cap pregunta o problema amb Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Per utilitzar el nostre sistema d'assistència, proporcioneu la informació de contacte correcta."
+   },
+   "supportViewInfo3": {
+      "message": "Envieu-nos un missatge només en anglès."
+   },
+   "supportViewInputEmail": {
+      "message": "Correu electrònic"
+   },
+   "supportViewInputName": {
+      "message": "Nom"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Si us plau, espereu..."
+   },
+   "switchLabelOff": {
+      "message": "Apagat"
+   },
+   "switchLabelOn": {
+      "message": "Encès"
+   },
+   "temperatureViewDescription": {
+      "message": "Ajusteu la llum blava arrossegant el control lliscant de sota."
+   },
+   "temperatureViewOption1": {
+      "message": "Amb blau"
+   },
+   "temperatureViewOption2": {
+      "message": "Sense blau"
+   },
+   "temperatureViewTitle": {
+      "message": "Llum blava"
+   },
+   "tooltipDark": {
+      "message": "Amb aquest mode, Night Eye canviarà els colors en funció de la configuració seleccionada"
+   },
+   "tooltipFiltered": {
+      "message": "Amb aquest mode, el lloc web tindrà per defecte l'efecte de diversos filtres: brillantor, contrast, saturació, càlid/fred, tènue."
+   },
+   "tooltipNormal": {
+      "message": "Amb aquest mode, el lloc web serà per defecte, Night Eye no canviarà cap color"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Activar"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Cancel · lar"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Àrea del client"
+   },
+   "trailActivationViewDescr": {
+      "message": "Si us plau, utilitzeu el correu electrònic que vau utilitzar en fer la compra per activar \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Activació"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Cancel · lar"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Panell de control"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Desactivar"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye està associat amb el vostre correu electrònic \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Per a més detalls, visiteu"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Pots desactivar permanentment \u003Cbr> Night Eye per a aquest navegador."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Activat"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Continua"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Podeu gaudir de Night Eye en fins a 3 navegadors alhora fins que la vostra prova gratuïta \u003Cbr> caduqui amb 1 $"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Podeu gaudir de Night Eye en navegadors de fins a 1 $ alhora."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Heu activat correctament l'extensió."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Podeu gaudir de Night Eye en fins a 3 navegadors alhora."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Podeu gestionar els navegadors actius a l'àrea de clients."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Per accedir-hi, aneu a"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Activació amb èxit"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Cancel · lar"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Esperem que Night Eye hagi demostrat la seva utilitat durant els últims mesos!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Si el voleu seguir utilitzant, consulteu els nostres preus i tots els avantatges que se'n deriven."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye està associat al teu correu electrònic \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> fes-lo servir si decideixes pagar."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Preus"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Versió Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Esperem que Night Eye hagi demostrat la seva utilitat durant els últims mesos."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Podeu utilitzar la versió gratuïta Lite per sempre o anar Pro. Consulteu els nostres preus i tots els avantatges que se'n deriven."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Versió lleugera"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Mode fosc en fins a 5 llocs web"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Versió Pro"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Sense limits"
+   },
+   "trialExpiredViewTitle": {
+      "message": "La vostra prova gratuïta ha caducat."
+   },
+   "trialLiteViewCancel": {
+      "message": "Cancel · lar"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (elimina els límits)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "El mode fosc es pot activar en fins a \u003Cbr> 5 llocs web. Podeu gestionar la llista i canviar-la en qualsevol moment."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Versió Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Llegeix sobre Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Desa"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Activar"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Si ja teniu un compte,\u003C/br> activeu-lo!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Cancel · lar"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Esperem que Night Eye hagi demostrat la seva utilitat durant els últims mesos!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Si el voleu seguir utilitzant, consulteu els nostres preus i tots els avantatges que se'n deriven."
+   },
+   "trialProViewPricing": {
+      "message": "Preus"
+   },
+   "trialProViewTitle": {
+      "message": "Versió Pro"
+   }
+}

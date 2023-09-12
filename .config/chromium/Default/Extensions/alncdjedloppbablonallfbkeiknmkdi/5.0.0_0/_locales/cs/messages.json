@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Upravte jas přetažením posuvníku níže."
+   },
+   "brightnessViewTitle": {
+      "message": "Jas"
+   },
+   "colorViewDescription": {
+      "message": "Vyberte si barvu z webu a změňte ji na libovolnou."
+   },
+   "colorViewOriginalColor": {
+      "message": "Originál"
+   },
+   "colorViewReplacedColor": {
+      "message": "Vyměněno"
+   },
+   "colorViewTitle": {
+      "message": "Výběr barvy"
+   },
+   "contrastViewDescription": {
+      "message": "Upravte kontrast přetažením posuvníku níže."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrast"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "všechny webové stránky"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Aplikovat"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Se vztahují na"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "zrušení"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Resetovat"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Obnovit výchozí nastavení"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "aktuální webové stránky"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "pro všechny webové stránky"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "pro aktuální web"
+   },
+   "dimViewDescription": {
+      "message": "Upravte úroveň stmívání webových stránek."
+   },
+   "dimViewTitle": {
+      "message": "Ztlumit"
+   },
+   "extDescription": {
+      "message": "Podle potřeby přepněte každou webovou stránku do tmavého / světlého režimu. Pečujte o své oči s Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye je zastaven"
+   },
+   "extName": {
+      "message": "Tmavý režim - Noční oko"
+   },
+   "extToggleButton": {
+      "message": "Přepnout tmavý a normální režim pro kartu"
+   },
+   "extTurnOnButton": {
+      "message": "Zapnout"
+   },
+   "filterModeNameDark": {
+      "message": "Temný"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrovaný"
+   },
+   "filterModeNameNormal": {
+      "message": "Normální"
+   },
+   "firstRunViewFeature1": {
+      "message": "Rychlost načítání stránky může být ovlivněna"
+   },
+   "firstRunViewFeature2": {
+      "message": "Zdarma 3 měsíce Night Eye Pro (bez kreditní karty)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Nejsou shromažďovány žádné informace o prohlížení"
+   },
+   "firstRunViewFeature4": {
+      "message": "Kontaktujte nás prostřednictvím vestavěného chatu"
+   },
+   "firstRunViewTitle": {
+      "message": "Rychlý start"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Více informací"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktivujte nyní"
+   },
+   "helpViewActivated": {
+      "message": "Spravujte své rozšíření"
+   },
+   "helpViewByExpires": {
+      "message": "do $1 \u003C/br>vyprší: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Klientská oblast"
+   },
+   "helpViewDarkScroll": {
+      "message": "Tmavé svitky"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Nechte Night Eye ztmavit jakýkoli svitek."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Vyberte výchozí režim, který se má spustit při otevírání nových webových stránek"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Výchozí režim"
+   },
+   "helpViewDisabled": {
+      "message": "Zakázáno"
+   },
+   "helpViewEnabled": {
+      "message": "Povoleno"
+   },
+   "helpViewExpiredNever": {
+      "message": "nikdy"
+   },
+   "helpViewExpires": {
+      "message": "Platnost vyprší 1 $"
+   },
+   "helpViewExportData": {
+      "message": "Export dat"
+   },
+   "helpViewGoProTitle": {
+      "message": "Staň se profesionálem"
+   },
+   "helpViewHelpButton": {
+      "message": "Pomoc"
+   },
+   "helpViewImportData": {
+      "message": "Importujte data"
+   },
+   "helpViewLanguage": {
+      "message": "Jazyk"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Správa seznamu tmavého režimu"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integrace barevného schématu OS"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Synchronizujte Night Eye s aktivním barevným schématem operačního systému."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Zjistěte, jak přiřadit vlastní zkratku"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Zkratka zapnuto/vypnuto"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Přihlášení / Registrace"
+   },
+   "helpViewSignOut": {
+      "message": "Odhlásit se"
+   },
+   "helpViewTimerDescr": {
+      "message": "Jak to funguje"
+   },
+   "helpViewTimerOff": {
+      "message": "Vypnuto"
+   },
+   "helpViewTimerOn": {
+      "message": "Na"
+   },
+   "helpViewTimerTitle": {
+      "message": "Plán"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Najděte Night Eye v seznamu rozšíření a klikněte na Odebrat"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Odinstalovat"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Seznam povolených"
+   },
+   "imageViewDescription": {
+      "message": "Noční oko zpracovává snímky a tím je ztmavuje. Tato funkce vyžaduje více výpočetních zdrojů a může zpomalit váš počítač."
+   },
+   "imageViewTitle": {
+      "message": "snímky"
+   },
+   "labelBlueLight": {
+      "message": "modré světlo"
+   },
+   "labelBrightness": {
+      "message": "jas"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "vestavěné \u003Cbr>tmavé téma"
+   },
+   "labelColors": {
+      "message": "barvy"
+   },
+   "labelContinue": {
+      "message": "Pokračovat"
+   },
+   "labelContrast": {
+      "message": "kontrast"
+   },
+   "labelCurrent": {
+      "message": "Proud"
+   },
+   "labelCustomCode": {
+      "message": "Vlastní kód"
+   },
+   "labelCustomUrlPath": {
+      "message": "upravit \u003Cbr> stránky"
+   },
+   "labelDim": {
+      "message": "ztlumit"
+   },
+   "labelDisabled": {
+      "message": "Zakázáno"
+   },
+   "labelEnabled": {
+      "message": "Povoleno"
+   },
+   "labelExperimentalFeature": {
+      "message": "Experimentální funkce"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Konverze pozadí"
+   },
+   "labelImageHighCPU": {
+      "message": "Vysoká spotřeba CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Konverze ikon"
+   },
+   "labelImages": {
+      "message": "snímky"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Spravujte seznam"
+   },
+   "labelPleaseWait": {
+      "message": "Prosím, čekejte"
+   },
+   "labelSaturation": {
+      "message": "nasycení"
+   },
+   "labelSubdomains": {
+      "message": "subdomény"
+   },
+   "labelTurboCache": {
+      "message": "místní cache"
+   },
+   "labelWebsite": {
+      "message": "webová stránka"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Tento web není přidán do seznamu tmavého režimu."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Tmavá verze"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtrovaná verze"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normální verze"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Není podporováno"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Tento web není podporován"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Zavřít"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Noční oko používáte již 30 dní."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Jako poděkování pro vás máme speciální slevu 10 %. Použijte prosím slevový kód \u003Cdiv class=\"DiscountCode\">-\u003C/div> Tato nabídka platí 48 hodin."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Získejte PRO verzi hned teď"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Pokud nemáte zájem,\u003Cbr> zbývají vám ještě 2 měsíce \u003Cbr> od bezplatné zkušební verze. Užívat si!"
+   },
+   "refreshButton": {
+      "message": "Obnovit"
+   },
+   "refreshViewDescription": {
+      "message": "Chcete-li použít nejnovější nastavení, musíte obnovit aktuální stránku"
+   },
+   "refreshViewTitle": {
+      "message": "Načtěte stránku znovu"
+   },
+   "saturationViewDescription": {
+      "message": "Upravte sytost přetažením posuvníku níže."
+   },
+   "saturationViewTitle": {
+      "message": "Nasycení"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Hluboká integrace vám umožňuje ovládat vestavěná temná témata webů, které již implementovaly tmavé uživatelské rozhraní."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Podívejte se, jak hluboká integrace funguje"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "TADY"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Hluboká integrace"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Zakázáno"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Noční Oko tmavé"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye převádí obrázky, jako jsou ikony a pozadí, aby vám poskytl plynulý a konzistentní tmavý režim."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Konverze ikon a pozadí přichází s vysokou spotřebou CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Zapněte pro nejlepší zážitek z tmavého režimu."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Vypněte pro snížení spotřeby CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye převede všechny subdomény této domény"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Více více textu"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Zapněte pro nejlepší zážitek z tmavého režimu."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Vypněte pro snížení spotřeby CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Mezipaměť urychluje převod webu z normálního do tmavého režimu (rychlost načítání stránky není ovlivněna). V závislosti na webu může snížit počáteční jasné záblesky."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Funkce mezipaměti funguje na přibližně 80 % webových stránek, takže pokud se webová stránka nechová správně, vypněte ji!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Lze použít na konkrétní web nebo na všechny, které navštívíte."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye převede všechny subdomény této domény"
+   },
+   "subdomainViewTitle": {
+      "message": "Subdomény"
+   },
+   "supportViewContinueBtn": {
+      "message": "Pokračovat"
+   },
+   "supportViewInfo1": {
+      "message": "Jsme tu, abychom vám pomohli, pokud máte nějaké dotazy nebo problémy s Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Chcete-li používat náš systém podpory, uveďte prosím správné kontaktní údaje."
+   },
+   "supportViewInfo3": {
+      "message": "Napište nám pouze v angličtině."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mailem"
+   },
+   "supportViewInputName": {
+      "message": "název"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Prosím, čekejte..."
+   },
+   "switchLabelOff": {
+      "message": "Vypnuto"
+   },
+   "switchLabelOn": {
+      "message": "Na"
+   },
+   "temperatureViewDescription": {
+      "message": "Upravte modré světlo přetažením posuvníku níže."
+   },
+   "temperatureViewOption1": {
+      "message": "S modrou"
+   },
+   "temperatureViewOption2": {
+      "message": "Bez modré"
+   },
+   "temperatureViewTitle": {
+      "message": "Modré světlo"
+   },
+   "tooltipDark": {
+      "message": "Pomocí tohoto režimu bude Night Eye měnit barvy na základě vybraných nastavení"
+   },
+   "tooltipFiltered": {
+      "message": "Při použití tohoto režimu bude web ve výchozím nastavení plus efekt několika filtrů - jas, kontrast, sytost, teplý/studený, tlumený"
+   },
+   "tooltipNormal": {
+      "message": "Při použití tohoto režimu bude web ve výchozím nastavení, Night Eye nezmění žádnou barvu"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "aktivovat"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "zrušení"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Oblast klienta"
+   },
+   "trailActivationViewDescr": {
+      "message": "K aktivaci \u003Cbr>Night Eye Pro použijte prosím e-mail, který jste použili při nákupu."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktivace"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "zrušení"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Kontrolní panel"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deaktivovat"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye je spojen s vaším e-mailem \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Další podrobnosti naleznete na adrese"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Pro tento prohlížeč můžete trvale deaktivovat \u003Cbr> Night Eye."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktivováno"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Pokračovat"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Night Eye si můžete užívat až ve 3 prohlížečích najednou, dokud vaše \u003Cbr> bezplatná zkušební verze nevyprší za 1 $"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Night Eye si můžete užít v prohlížečích až za $1 najednou."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Úspěšně jste aktivovali rozšíření."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Night Eye si můžete užít až ve 3 prohlížečích najednou."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Aktivní prohlížeče můžete spravovat v klientské oblasti."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Chcete-li k němu získat přístup, přejděte na"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Úspěšná aktivace"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "zrušení"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Doufáme, že Night Eye v posledních měsících prokázal svou užitečnost!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Pokud jej chcete používat i nadále, podívejte se na naše ceny a všechny výhody, které s sebou přináší."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye je spojen s vaším e-mailem \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> použijte jej, pokud se rozhodnete zaplatit."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Ceny"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Verze Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Doufáme, že Night Eye v minulých měsících prokázal svou užitečnost."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Můžete používat bezplatnou verzi Lite navždy nebo jít Pro. Podívejte se na naše ceny a všechny výhody, které s tím souvisí."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite verze"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Tmavý režim až na 5 webech"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro verze"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Žadné limity"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Vaše bezplatná zkušební verze vypršela."
+   },
+   "trialLiteViewCancel": {
+      "message": "zrušení"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (odstranění limitů)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Tmavý režim lze povolit až na \u003Cbr> 5 webech. Seznam můžete spravovat a kdykoli jej změnit."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite verze"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Přečtěte si o tématu Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Uložit"
+   },
+   "trialProViewActivateBtn": {
+      "message": "aktivovat"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Pokud již máte účet,\u003C/br> ho prosím aktivujte!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "zrušení"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Doufáme, že Night Eye v posledních měsících prokázal svou užitečnost!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Pokud jej chcete používat i nadále, podívejte se na naše ceny a všechny výhody, které s sebou přináší."
+   },
+   "trialProViewPricing": {
+      "message": "Ceny"
+   },
+   "trialProViewTitle": {
+      "message": "Verze Pro"
+   }
+}

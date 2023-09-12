@@ -1,0 +1,3 @@
+.sidebar__menu a:first-child:after {
+    background: none !important;
+}

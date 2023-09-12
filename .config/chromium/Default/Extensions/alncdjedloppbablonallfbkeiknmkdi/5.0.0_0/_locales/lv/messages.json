@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Pielāgojiet spilgtumu, velkot zemāk esošo slīdni."
+   },
+   "brightnessViewTitle": {
+      "message": "Spilgtums"
+   },
+   "colorViewDescription": {
+      "message": "Izvēlieties krāsu no vietnes un mainiet to uz jebkuru vēlaties."
+   },
+   "colorViewOriginalColor": {
+      "message": "Oriģināls"
+   },
+   "colorViewReplacedColor": {
+      "message": "Nomainīts"
+   },
+   "colorViewTitle": {
+      "message": "Krāsu atlasītājs"
+   },
+   "contrastViewDescription": {
+      "message": "Pielāgojiet kontrastu, velkot zemāk esošo slīdni."
+   },
+   "contrastViewTitle": {
+      "message": "Kontrasts"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "visas tīmekļa vietnes"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Pieteikties"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Pieteikties"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Atcelt"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Atiestatīt"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Atjaunot noklusējumus"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "pašreizējā vietne"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "visām vietnēm"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "pašreizējai vietnei"
+   },
+   "dimViewDescription": {
+      "message": "Pielāgojiet vietņu aptumšošanas līmeni."
+   },
+   "dimViewTitle": {
+      "message": "Aptumšot"
+   },
+   "extDescription": {
+      "message": "Pārslēdziet katru vietni uz tumšo / gaišo režīmu pēc vajadzības. Rūpējieties par savām acīm ar Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Nakts acs ir apturēta"
+   },
+   "extName": {
+      "message": "Tumšais režīms — Night Eye"
+   },
+   "extToggleButton": {
+      "message": "Pārslēgt cilnes tumšo un parasto režīmu"
+   },
+   "extTurnOnButton": {
+      "message": "Ieslēdz"
+   },
+   "filterModeNameDark": {
+      "message": "Tumšs"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrēts"
+   },
+   "filterModeNameNormal": {
+      "message": "Normāls"
+   },
+   "firstRunViewFeature1": {
+      "message": "Lapas ielādes ātrums var tikt ietekmēts"
+   },
+   "firstRunViewFeature2": {
+      "message": "Night Eye Pro 3 mēneši bez maksas (bez kredītkartes)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Pārlūkošanas informācija netiek apkopota"
+   },
+   "firstRunViewFeature4": {
+      "message": "Sazinieties ar mums, izmantojot iebūvēto tērzēšanu"
+   },
+   "firstRunViewTitle": {
+      "message": "Ātrs sākums"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Skatīt vairāk"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktivizēt tagad"
+   },
+   "helpViewActivated": {
+      "message": "Pārvaldiet savu paplašinājumu"
+   },
+   "helpViewByExpires": {
+      "message": "līdz $1 \u003C/br>beidzas: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Klientu zona"
+   },
+   "helpViewDarkScroll": {
+      "message": "Tumši ruļļi"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Ļaujiet Night Eye padarīt jebkuru ritināšanu tumšu."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Izvēlieties noklusējuma režīmu, kas jāizpilda, atverot jaunas vietnes"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Noklusējuma režīms"
+   },
+   "helpViewDisabled": {
+      "message": "Atspējots"
+   },
+   "helpViewEnabled": {
+      "message": "Iespējots"
+   },
+   "helpViewExpiredNever": {
+      "message": "nekad"
+   },
+   "helpViewExpires": {
+      "message": "Derīguma termiņš beidzas 1 $"
+   },
+   "helpViewExportData": {
+      "message": "Eksportēt datus"
+   },
+   "helpViewGoProTitle": {
+      "message": "Go Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Palīdzība"
+   },
+   "helpViewImportData": {
+      "message": "Importēt datus"
+   },
+   "helpViewLanguage": {
+      "message": "Valoda"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Pārvaldīt tumšā režīma sarakstu"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS krāsu shēmas integrācija"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sinhronizējiet Night Eye ar savu aktīvo OS krāsu shēmu."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Uzziniet, kā piešķirt savu saīsni"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Ieslēgšanas/izslēgšanas saīsne"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Pierakstīties / Reģistrēties"
+   },
+   "helpViewSignOut": {
+      "message": "Izrakstīties"
+   },
+   "helpViewTimerDescr": {
+      "message": "Kā tas strādā"
+   },
+   "helpViewTimerOff": {
+      "message": "Izslēgts"
+   },
+   "helpViewTimerOn": {
+      "message": "Ieslēgts"
+   },
+   "helpViewTimerTitle": {
+      "message": "Grafiks"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Paplašinājumu sarakstā atrodiet Night Eye un noklikšķiniet uz noņemt"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Atinstalēt"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Baltais saraksts"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye apstrādā attēlus, padarot tos tumšākus. Šī funkcija prasa vairāk skaitļošanas resursu un var palēnināt datora darbību."
+   },
+   "imageViewTitle": {
+      "message": "Attēli"
+   },
+   "labelBlueLight": {
+      "message": "zila gaisma"
+   },
+   "labelBrightness": {
+      "message": "spilgtumu"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "iebūvēts tumšs motīvs"
+   },
+   "labelColors": {
+      "message": "krāsas"
+   },
+   "labelContinue": {
+      "message": "Turpināt"
+   },
+   "labelContrast": {
+      "message": "kontrasts"
+   },
+   "labelCurrent": {
+      "message": "Pašreizējais"
+   },
+   "labelCustomCode": {
+      "message": "pielāgots kods"
+   },
+   "labelCustomUrlPath": {
+      "message": "pielāgot \u003Cbr> lapas"
+   },
+   "labelDim": {
+      "message": "blāvs"
+   },
+   "labelDisabled": {
+      "message": "Atspējots"
+   },
+   "labelEnabled": {
+      "message": "Iespējots"
+   },
+   "labelExperimentalFeature": {
+      "message": "Eksperimentāla iezīme"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Fonu konvertēšana"
+   },
+   "labelImageHighCPU": {
+      "message": "Augsts CPU patēriņš"
+   },
+   "labelImageIconConversion": {
+      "message": "Ikonu konvertēšana"
+   },
+   "labelImages": {
+      "message": "attēlus"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Pārvaldiet sarakstu"
+   },
+   "labelPleaseWait": {
+      "message": "Lūdzu uzgaidiet"
+   },
+   "labelSaturation": {
+      "message": "piesātinājums"
+   },
+   "labelSubdomains": {
+      "message": "apakšdomēni"
+   },
+   "labelTurboCache": {
+      "message": "vietējā kešatmiņa"
+   },
+   "labelWebsite": {
+      "message": "tīmekļa vietne"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Šī vietne nav pievienota tumšā režīma sarakstam."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Tumšā versija"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Filtrētā versija"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normāla versija"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Nav atbalstīts"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Šī vietne netiek atbalstīta"
+   },
+   "okButton": {
+      "message": "labi"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Aizvērt"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Jūs lietojat Night Eye jau 30 dienas."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Kā pateicību mums ir īpaša 10% atlaide. Lūdzu, izmantojiet atlaides kodu \u003Cdiv class=\"DiscountCode\">-\u003C/div> Šis piedāvājums ir spēkā 48 stundas."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Iegūstiet savu PRO versiju tūlīt"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Ja jūs neinteresē,\u003Cbr> jums ir atlikuši vēl 2 mēneši \u003Cbr> no bezmaksas izmēģinājuma versijas. Izbaudi!"
+   },
+   "refreshButton": {
+      "message": "atjaunot"
+   },
+   "refreshViewDescription": {
+      "message": "Lai lietotu jaunākos iestatījumus, jums ir jāatsvaidzina pašreizējā lapa"
+   },
+   "refreshViewTitle": {
+      "message": "Lūdzu, atkārtoti ielādējiet lapu"
+   },
+   "saturationViewDescription": {
+      "message": "Pielāgojiet piesātinājumu, velkot zemāk esošo slīdni."
+   },
+   "saturationViewTitle": {
+      "message": "Piesātinājums"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Dziļa integrācija ļauj kontrolēt iebūvētās tumšās tēmas vietnēs, kurās jau ir ieviesta tumšā lietotāja saskarne."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Skatiet, kā darbojas dziļā integrācija"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ŠEIT"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Dziļa integrācija"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Atspējots"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Nakts Acs tumša"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye pārvērš attēlus, piemēram, ikonas un fonus, lai nodrošinātu vienmērīgu un konsekventu tumšo režīmu."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Ikonu un fonu konvertēšana tiek nodrošināta ar lielu CPU patēriņu."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Ieslēdziet, lai iegūtu vislabāko tumšā režīma pieredzi."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Izslēdziet, lai samazinātu CPU patēriņu."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye konvertēs visus šī domēna apakšdomēnus"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Vairāk vairāk teksta"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Ieslēdziet, lai iegūtu vislabāko tumšā režīma pieredzi."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Izslēdziet, lai samazinātu CPU patēriņu."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Kešatmiņa paātrina vietnes pārveidošanu no parastā uz tumšo režīmu (lapas ielādes ātrums netiek ietekmēts). Tas var samazināt sākotnējos spožos mirgoņus atkarībā no vietnes."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Kešatmiņas funkcija darbojas aptuveni 80% vietņu, tādēļ, ja vietne nedarbojas pareizi, lūdzu, izslēdziet to!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Var attiecināt uz konkrētu vietni vai uz visu, ko apmeklējat."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye konvertēs visus šī domēna apakšdomēnus"
+   },
+   "subdomainViewTitle": {
+      "message": "Apakšdomēni"
+   },
+   "supportViewContinueBtn": {
+      "message": "Turpināt"
+   },
+   "supportViewInfo1": {
+      "message": "Mēs esam šeit, lai palīdzētu, ja jums ir kādi jautājumi vai problēmas ar Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Lai izmantotu mūsu atbalsta sistēmu, lūdzu, norādiet pareizu kontaktinformāciju."
+   },
+   "supportViewInfo3": {
+      "message": "Rakstiet mums tikai angļu valodā."
+   },
+   "supportViewInputEmail": {
+      "message": "E-pasts"
+   },
+   "supportViewInputName": {
+      "message": "Vārds"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Lūdzu uzgaidiet..."
+   },
+   "switchLabelOff": {
+      "message": "Izslēgts"
+   },
+   "switchLabelOn": {
+      "message": "Ieslēgts"
+   },
+   "temperatureViewDescription": {
+      "message": "Pielāgojiet zilo gaismu, velkot tālāk esošo slīdni."
+   },
+   "temperatureViewOption1": {
+      "message": "Ar zilu"
+   },
+   "temperatureViewOption2": {
+      "message": "Bez zila"
+   },
+   "temperatureViewTitle": {
+      "message": "Zilā gaisma"
+   },
+   "tooltipDark": {
+      "message": "Izmantojot šo režīmu, Night Eye mainīs krāsas, pamatojoties uz atlasītajiem iestatījumiem"
+   },
+   "tooltipFiltered": {
+      "message": "Izmantojot šo režīmu, vietne pēc noklusējuma būs plus vairāku filtru efekts - spilgtums, kontrasts, piesātinājums, silts/auksts, blāvs"
+   },
+   "tooltipNormal": {
+      "message": "Izmantojot šo režīmu, vietne būs pēc noklusējuma, Night Eye nemainīs nevienu krāsu"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktivizēt"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Atcelt"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Klientu zona"
+   },
+   "trailActivationViewDescr": {
+      "message": "Lūdzu, izmantojiet e-pastu, ko izmantojāt, veicot pirkumu, lai aktivizētu programmu Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktivizēšana"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Atcelt"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Vadības panelis"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deaktivizēt"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Nakts acs ir saistīta ar jūsu e-pastu \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Lai iegūtu sīkāku informāciju, apmeklējiet"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Varat neatgriezeniski deaktivizēt pakalpojumu Night Eye šai pārlūkprogrammai."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktivizēts"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Turpināt"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Jūs varat baudīt Night Eye līdz pat 3 pārlūkprogrammām vienlaikus, līdz beidzas jūsu \u003Cbr> bezmaksas izmēģinājuma periods par 1 $"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Jūs varat baudīt Night Eye pārlūkprogrammās līdz pat 1 dolāram vienlaikus."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Jūs esat veiksmīgi aktivizējis paplašinājumu."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Jūs varat baudīt Night Eye līdz pat 3 pārlūkprogrammās vienlaikus."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Aktīvās pārlūkprogrammas varat pārvaldīt klientu zonā."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Lai tai piekļūtu, lūdzu, dodieties uz"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Veiksmīga aktivizēšana"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Atcelt"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Ceram, ka Night Eye pēdējos mēnešos pierādīja savu noderīgumu!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Ja vēlaties turpināt to lietot, pārbaudiet mūsu cenas un visas ar to saistītās priekšrocības."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Nakts acs ir saistīta ar jūsu e-pastu. \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> izmantojiet to, ja nolemjat maksāt."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Cenu noteikšana"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro versija"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Mēs ceram, ka Night Eye pēdējo mēnešu laikā ir pierādījusi savu noderību."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Varat uz visiem laikiem izmantot bezmaksas Lite versiju vai izmantot Pro. Iepazīstieties ar mūsu cenām un visām piedāvātajām priekšrocībām."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite versija"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Tumšais režīms līdz pat 5 vietnēm"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro versija"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Bez robežām"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Jūsu bezmaksas izmēģinājuma periods ir beidzies."
+   },
+   "trialLiteViewCancel": {
+      "message": "Atcelt"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (noņemiet ierobežojumus)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Tumšo režīmu var iespējot ne vairāk kā 5 vietnēs. Varat pārvaldīt sarakstu un jebkurā laikā to mainīt."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite versija"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lasiet par Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Saglabāt"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktivizēt"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Ja jums jau ir konts,\u003C/br> lūdzu, aktivizējiet to!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Atcelt"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Ceram, ka Night Eye pēdējos mēnešos pierādīja savu noderīgumu!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Ja vēlaties turpināt to lietot, pārbaudiet mūsu cenas un visas ar to saistītās priekšrocības."
+   },
+   "trialProViewPricing": {
+      "message": "Cenu noteikšana"
+   },
+   "trialProViewTitle": {
+      "message": "Pro versija"
+   }
+}

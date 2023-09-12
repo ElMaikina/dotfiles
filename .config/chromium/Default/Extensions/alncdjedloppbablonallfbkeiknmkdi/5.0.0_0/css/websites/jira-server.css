@@ -1,0 +1,10 @@
+/* Jira Websites with JEditor installed */
+#jira div[renderer-type="jeditor-renderer"] .cke_button_icon {
+    filter: invert(1);
+}
+
+#jira #ghx-detail-contents {
+    background: none !important;
+}
+
+/****************************/

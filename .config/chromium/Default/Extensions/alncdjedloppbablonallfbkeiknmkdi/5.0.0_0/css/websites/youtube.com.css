@@ -1,0 +1,10 @@
+/* Youtube OLD version - without dark theme */
+
+.yt-uix-button-icon,
+.yt-uix-button-has-icon:before {
+    filter: invert(85%);
+}
+
+.ytd-comment-replies-renderer yt-icon {
+    width: 30px;
+}

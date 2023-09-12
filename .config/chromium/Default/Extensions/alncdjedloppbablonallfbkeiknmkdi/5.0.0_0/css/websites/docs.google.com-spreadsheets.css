@@ -1,0 +1,53 @@
+.docs-icon,
+canvas {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%);
+}
+
+.color-dialog .hsv-hs-image,
+.color-dialog .hsv-v-image {
+    filter: inherit !important;
+}
+
+
+.cell-input.editable {
+    /* filter: invert(100%); */
+    /* background-color: #cecece !important;
+    color: #000 !important; */
+}
+
+.cell-input.editable .match-paren {
+    background-color: #338ccc !important;
+}
+
+.kix-cursor-caret {
+    border-color: #cecece !important;
+}
+
+.kix-lineview-decorations>div {
+    border-color: #aeaeae !important;
+}
+
+.formula-content span:not(.default-formula-text-color) {
+    color: #038011 !important;
+}
+
+.default-formula-text-color {
+    color: #000 !important;
+}
+
+#t-formula-bar-input .default-formula-text-color {
+    color: #cecece !important;
+}
+
+div[role="tablist"] * {
+    filter: none !important;
+}
+
+.docs-title-input,
+.docs-title-input-label {
+    font-variant-ligatures: none !important;
+    font-size: 16px !important;
+}
+#t-formula-bar-input .cell-input {
+    background-color: #1f1f1f !important;
+}

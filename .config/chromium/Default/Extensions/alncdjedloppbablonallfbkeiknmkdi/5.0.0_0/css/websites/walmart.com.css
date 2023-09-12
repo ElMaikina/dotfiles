@@ -1,0 +1,5 @@
+a svg,
+button svg,
+div[data-automation-id="quantity-change"] svg {
+    filter: invert(80%)
+}

@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Подесите осветљеност превлачењем клизача испод."
+   },
+   "brightnessViewTitle": {
+      "message": "Осветљеност"
+   },
+   "colorViewDescription": {
+      "message": "Изаберите боју са веб странице и промените је у коју желите."
+   },
+   "colorViewOriginalColor": {
+      "message": "Оригинал"
+   },
+   "colorViewReplacedColor": {
+      "message": "Замењено"
+   },
+   "colorViewTitle": {
+      "message": "Бирач боја"
+   },
+   "contrastViewDescription": {
+      "message": "Подесите контраст превлачењем клизача испод."
+   },
+   "contrastViewTitle": {
+      "message": "Контраст"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "све веб странице"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Применити"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Примењују на"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Поништити, отказати"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Ресетовање"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Врати подразумеване вредности"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "актуелна веб локација"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "за све веб странице"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "за тренутну веб страницу"
+   },
+   "dimViewDescription": {
+      "message": "Подесите ниво затамњења веб локација."
+   },
+   "dimViewTitle": {
+      "message": "Замутити"
+   },
+   "extDescription": {
+      "message": "Пребаците сваку веб локацију у тамни/светли режим по жељи. Водите рачуна о својим очима уз Нигхт Еие."
+   },
+   "extDisabledStatus": {
+      "message": "Ноћно око је заустављено"
+   },
+   "extName": {
+      "message": "Тамни режим - Ноћно око"
+   },
+   "extToggleButton": {
+      "message": "Укључите тамни и нормални режим за картицу"
+   },
+   "extTurnOnButton": {
+      "message": "Укључити"
+   },
+   "filterModeNameDark": {
+      "message": "Дарк"
+   },
+   "filterModeNameFiltered": {
+      "message": "Филтрирано"
+   },
+   "filterModeNameNormal": {
+      "message": "Нормално"
+   },
+   "firstRunViewFeature1": {
+      "message": "То може утицати на брзину учитавања странице"
+   },
+   "firstRunViewFeature2": {
+      "message": "Бесплатна 3 месеца Нигхт Еие Про (без кредитне картице)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Информације о прегледању се не прикупљају"
+   },
+   "firstRunViewFeature4": {
+      "message": "Контактирајте нас путем уграђеног ћаскања"
+   },
+   "firstRunViewTitle": {
+      "message": "Брз почетак"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Детаљније"
+   },
+   "helpViewActivateNow": {
+      "message": "Активирајте сада"
+   },
+   "helpViewActivated": {
+      "message": "Управљајте додатком"
+   },
+   "helpViewByExpires": {
+      "message": "до $1 \u003C/бр>истиче: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Подручје клијента"
+   },
+   "helpViewDarkScroll": {
+      "message": "Тамни свици"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Нека Ноћно око затамни било који свитак."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Изаберите подразумевани режим који ће се извршавати приликом отварања нових веб локација"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Подразумеван мод"
+   },
+   "helpViewDisabled": {
+      "message": "Онемогућено"
+   },
+   "helpViewEnabled": {
+      "message": "Омогућено"
+   },
+   "helpViewExpiredNever": {
+      "message": "никад"
+   },
+   "helpViewExpires": {
+      "message": "Истиче $1"
+   },
+   "helpViewExportData": {
+      "message": "Извези податке"
+   },
+   "helpViewGoProTitle": {
+      "message": "Го Про"
+   },
+   "helpViewHelpButton": {
+      "message": "Помоћ"
+   },
+   "helpViewImportData": {
+      "message": "Увезите податке"
+   },
+   "helpViewLanguage": {
+      "message": "Језик"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Управљајте листом тамног режима"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Интеграција шеме боја ОС"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Синхронизујте Нигхт Еие са активном шемом боја ОС-а."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Сазнајте како да доделите сопствену пречицу"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Пречица за укључивање/искључивање"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Пријавите се / Пријавите се"
+   },
+   "helpViewSignOut": {
+      "message": "Одјава"
+   },
+   "helpViewTimerDescr": {
+      "message": "Како то ради"
+   },
+   "helpViewTimerOff": {
+      "message": "Ван"
+   },
+   "helpViewTimerOn": {
+      "message": "на"
+   },
+   "helpViewTimerTitle": {
+      "message": "Распоред"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Пронађите Нигхт Еие на листи екстензија и кликните на дугме Уклони"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Деинсталирај"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Бела листа"
+   },
+   "imageViewDescription": {
+      "message": "Ноћно око обрађује слике чинећи их тамнијим. Ова функција захтева више рачунарских ресурса и може успорити ваш рачунар."
+   },
+   "imageViewTitle": {
+      "message": "Слике"
+   },
+   "labelBlueLight": {
+      "message": "плаво светло"
+   },
+   "labelBrightness": {
+      "message": "осветљеност"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "уграђена тамна тема"
+   },
+   "labelColors": {
+      "message": "боје"
+   },
+   "labelContinue": {
+      "message": "Настави"
+   },
+   "labelContrast": {
+      "message": "контраст"
+   },
+   "labelCurrent": {
+      "message": "Тренутни"
+   },
+   "labelCustomCode": {
+      "message": "прилагођени код"
+   },
+   "labelCustomUrlPath": {
+      "message": "прилагодите \u003Cбр> странице"
+   },
+   "labelDim": {
+      "message": "замутити"
+   },
+   "labelDisabled": {
+      "message": "Онемогућено"
+   },
+   "labelEnabled": {
+      "message": "Омогућено"
+   },
+   "labelExperimentalFeature": {
+      "message": "Експериментална карактеристика"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Конверзија позадине"
+   },
+   "labelImageHighCPU": {
+      "message": "Велика потрошња процесора"
+   },
+   "labelImageIconConversion": {
+      "message": "Конверзија икона"
+   },
+   "labelImages": {
+      "message": "слике"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Управљајте листом"
+   },
+   "labelPleaseWait": {
+      "message": "Сачекајте"
+   },
+   "labelSaturation": {
+      "message": "засићење"
+   },
+   "labelSubdomains": {
+      "message": "поддомени"
+   },
+   "labelTurboCache": {
+      "message": "локални кеш"
+   },
+   "labelWebsite": {
+      "message": "веб сајт"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Ова веб локација није додата на листу тамног режима."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Тамна верзија"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Филтрирана верзија"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Нормална верзија"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Није подржан"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Ова веб локација није подржана"
+   },
+   "okButton": {
+      "message": "У реду"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Близу"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Већ 30 дана користите Нигхт Еие."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "У знак захвалности, имамо посебан попуст од 10%. Користите код за попуст \u003Cдив цласс=\"ДисцоунтЦоде\">-\u003C/див> Ова понуда важи 48 сати."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Набавите своју ПРО верзију сада"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Ако нисте заинтересовани,\u003Cбр> имате још 2 месеца \u003Cбр> до бесплатног пробног периода. Уживати!"
+   },
+   "refreshButton": {
+      "message": "Освјежи"
+   },
+   "refreshViewDescription": {
+      "message": "Морате освежити тренутну страницу да бисте применили најновија подешавања"
+   },
+   "refreshViewTitle": {
+      "message": "Поново учитајте страницу"
+   },
+   "saturationViewDescription": {
+      "message": "Подесите засићеност превлачењем клизача испод."
+   },
+   "saturationViewTitle": {
+      "message": "Засићење"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Дубока интеграција вам омогућава да контролишете уграђене тамне теме веб локација које су већ имплементирале тамни кориснички интерфејс."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Погледајте како функционише дубока интеграција"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ОВДЕ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Дубока интеграција"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Онемогућено"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Ноћно око тамно"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Нигхт Еие конвертује слике као што су иконе и позадине да би вам обезбедио гладак и доследан тамни режим."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Конверзија икона и позадина долази са високом потрошњом процесора."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Укључите за најбоље искуство у мрачном режиму."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Искључите да бисте смањили потрошњу процесора."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Нигхт Еие ће конвертовати све поддомене овог домена"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Још више текста"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Укључите за најбоље искуство у мрачном режиму."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Искључите да бисте смањили потрошњу процесора."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Кеш меморија убрзава конверзију веб локације из нормалног у тамни режим (не утиче на брзину учитавања странице). Може да смањи почетне светле блицеве, у зависности од веб локације."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Функција кеш меморије ради на око 80% веб локација, тако да ако се веб локација не понаша исправно, искључите је!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Може се применити на одређену веб локацију или на све које посећујете."
+   },
+   "subdomainViewDescription": {
+      "message": "Нигхт Еие ће конвертовати све поддомене овог домена"
+   },
+   "subdomainViewTitle": {
+      "message": "Поддомени"
+   },
+   "supportViewContinueBtn": {
+      "message": "Настави"
+   },
+   "supportViewInfo1": {
+      "message": "Ту смо да вам помогнемо ако имате било каквих питања или проблема са Нигхт Еие-ом."
+   },
+   "supportViewInfo2": {
+      "message": "Да бисте користили наш систем подршке, наведите тачне контакт информације."
+   },
+   "supportViewInfo3": {
+      "message": "Пошаљите нам поруку само на енглеском."
+   },
+   "supportViewInputEmail": {
+      "message": "Емаил"
+   },
+   "supportViewInputName": {
+      "message": "Име"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Сачекајте..."
+   },
+   "switchLabelOff": {
+      "message": "Ван"
+   },
+   "switchLabelOn": {
+      "message": "на"
+   },
+   "temperatureViewDescription": {
+      "message": "Подесите плаво светло превлачењем клизача испод."
+   },
+   "temperatureViewOption1": {
+      "message": "Са плавим"
+   },
+   "temperatureViewOption2": {
+      "message": "Без плаве боје"
+   },
+   "temperatureViewTitle": {
+      "message": "Плаво светло"
+   },
+   "tooltipDark": {
+      "message": "Користећи овај режим, Нигхт Еие ће променити боје на основу изабраних подешавања"
+   },
+   "tooltipFiltered": {
+      "message": "Користећи овај режим, веб локација ће подразумевано имати ефекат неколико филтера - осветљеност, контраст, засићеност, топло/хладно, затамњено"
+   },
+   "tooltipNormal": {
+      "message": "Коришћењем овог режима, веб локација ће подразумевано бити, Нигхт Еие неће променити боју"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Активирати"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Поништити, отказати"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Подручје клијента"
+   },
+   "trailActivationViewDescr": {
+      "message": "Користите имејл који сте користили приликом куповине да активирате \u003Cбр>Нигхт Еие Про."
+   },
+   "trailActivationViewTitle": {
+      "message": "Активација"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Поништити, отказати"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Контролна табла"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Деактивирај"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Ноћно око је повезано са вашом е-поштом \u003Cб цласс=\"АцтиватедЕмаил\">$1\u003C/б>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "За више детаља, посетите"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Можете трајно деактивирати \u003Cбр> Нигхт Еие за овај претраживач."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Активирано"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Настави"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Можете да уживате у Нигхт Еие-у на до 3 претраживача одједном док ваш \u003Cбр> бесплатни пробни период не истекне за 1 УСД"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Можете да уживате у Нигхт Еие-у на највише $1 претраживачима одједном."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Успешно сте активирали екстензију."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Можете уживати у Нигхт Еие-у на до 3 претраживача одједном."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Можете управљати активним прегледачима у зони за клијенте."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Да бисте му приступили, идите на"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Успешна активација"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Поништити, отказати"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Надамо се да је Нигхт Еие доказао своју корисност протеклих месеци!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Ако желите да наставите да га користите, погледајте наше цене и све предности које долазе."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Нигхт Еие је повезан са вашом е-поштом \u003Cб цласс=\"АццоунтЕмаил\">$1\u003C/б>\u003Cбр> користите је ако одлучите да платите."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Прицинг"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Про верзија"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Надамо се да је Нигхт Еие доказао своју корисност током протеклих месеци."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Можете да користите бесплатну Лите верзију заувек или идите на Про. Погледајте наше цене и све предности које долазе."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Лите верзија"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Тамни режим на до 5 веб локација"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Про верзија"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Без ограничења"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Ваша бесплатна пробна верзија је истекла."
+   },
+   "trialLiteViewCancel": {
+      "message": "Поништити, отказати"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Го Про (уклоните ограничења)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Тамни режим може да се омогући на највише \u003Cбр> 5 веб локација. Можете управљати листом и мењати је у било ком тренутку."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Лите верзија"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Прочитајте о Лите-у"
+   },
+   "trialLiteViewSave": {
+      "message": "сачувати"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Активирати"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Ако већ имате налог,\u003C/бр> активирајте га!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Поништити, отказати"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Надамо се да је Нигхт Еие доказао своју корисност протеклих месеци!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Ако желите да наставите да га користите, погледајте наше цене и све предности које долазе."
+   },
+   "trialProViewPricing": {
+      "message": "Прицинг"
+   },
+   "trialProViewTitle": {
+      "message": "Про верзија"
+   }
+}

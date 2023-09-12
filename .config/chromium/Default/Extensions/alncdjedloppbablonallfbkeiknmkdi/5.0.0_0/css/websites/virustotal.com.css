@@ -1,0 +1,7 @@
+html {
+    background: #1f1f1f !important;
+}
+
+vt-virustotal-app::shadow #headerBg {
+    background: #5cebca;
+}

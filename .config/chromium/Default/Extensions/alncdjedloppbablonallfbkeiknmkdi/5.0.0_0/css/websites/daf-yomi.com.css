@@ -1,0 +1,12 @@
+html,
+body,
+.clsBody,
+a,
+.clsMainTable .clsContent {
+    background: none !important;
+    background-color: #1f1f1f !important;
+}
+
+.clsContainer h2 {
+    background: #3b3b3b;
+}

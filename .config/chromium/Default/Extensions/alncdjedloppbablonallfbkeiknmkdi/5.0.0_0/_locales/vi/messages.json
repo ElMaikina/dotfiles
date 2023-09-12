@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Điều chỉnh độ sáng bằng cách kéo thanh trượt bên dưới."
+   },
+   "brightnessViewTitle": {
+      "message": "độ sáng"
+   },
+   "colorViewDescription": {
+      "message": "Chọn một màu từ trang web và thay đổi nó thành bất kỳ màu gì bạn muốn."
+   },
+   "colorViewOriginalColor": {
+      "message": "Nguyên bản"
+   },
+   "colorViewReplacedColor": {
+      "message": "Đã thay thế"
+   },
+   "colorViewTitle": {
+      "message": "Bộ chọn màu"
+   },
+   "contrastViewDescription": {
+      "message": "Điều chỉnh độ tương phản bằng cách kéo thanh trượt bên dưới."
+   },
+   "contrastViewTitle": {
+      "message": "Tương phản"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "tất cả các trang web"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Ứng dụng"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Nộp đơn"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Hủy bỏ"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Cài lại"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Khôi phục mặc định"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "trang web hiện tại"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "cho tất cả các trang web"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "cho trang web hiện tại"
+   },
+   "dimViewDescription": {
+      "message": "Điều chỉnh mức độ mờ của các trang web."
+   },
+   "dimViewTitle": {
+      "message": "Lờ mờ"
+   },
+   "extDescription": {
+      "message": "Chuyển từng trang web sang chế độ tối / chế độ sáng như mong muốn. Chăm sóc đôi mắt của bạn với Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye đã ngừng hoạt động"
+   },
+   "extName": {
+      "message": "Chế độ tối - Mắt ban đêm"
+   },
+   "extToggleButton": {
+      "message": "Chuyển đổi chế độ tối và chế độ bình thường cho tab"
+   },
+   "extTurnOnButton": {
+      "message": "Bật"
+   },
+   "filterModeNameDark": {
+      "message": "Tối"
+   },
+   "filterModeNameFiltered": {
+      "message": "Đã lọc"
+   },
+   "filterModeNameNormal": {
+      "message": "Bình thường"
+   },
+   "firstRunViewFeature1": {
+      "message": "Tốc độ tải trang có thể bị ảnh hưởng"
+   },
+   "firstRunViewFeature2": {
+      "message": "Miễn phí 3 tháng Night Eye Pro (không cần thẻ tín dụng)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Không có thông tin duyệt web nào được thu thập"
+   },
+   "firstRunViewFeature4": {
+      "message": "Liên hệ với chúng tôi qua trò chuyện tích hợp sẵn"
+   },
+   "firstRunViewTitle": {
+      "message": "Bắt đầu nhanh"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Thêm chi tiết"
+   },
+   "helpViewActivateNow": {
+      "message": "Kích hoạt ngay"
+   },
+   "helpViewActivated": {
+      "message": "Quản lý tiện ích mở rộng của bạn"
+   },
+   "helpViewByExpires": {
+      "message": "bởi $ 1 \u003C/br> hết hạn: $ 2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Khu vực khách hàng"
+   },
+   "helpViewDarkScroll": {
+      "message": "Cuộn tối"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Hãy để Night Eye biến bất kỳ cuộn nào thành tối."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Chọn chế độ mặc định được thực thi khi mở các trang web mới"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Chế độ mặc định"
+   },
+   "helpViewDisabled": {
+      "message": "Vô hiệu hóa"
+   },
+   "helpViewEnabled": {
+      "message": "Đã bật"
+   },
+   "helpViewExpiredNever": {
+      "message": "không bao giờ"
+   },
+   "helpViewExpires": {
+      "message": "Hết hạn $ 1"
+   },
+   "helpViewExportData": {
+      "message": "Xuất dữ liệu"
+   },
+   "helpViewGoProTitle": {
+      "message": "Đi pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Cứu giúp"
+   },
+   "helpViewImportData": {
+      "message": "Nhập dữ liệu"
+   },
+   "helpViewLanguage": {
+      "message": "Ngôn ngữ"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Quản lý danh sách chế độ tối"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Tích hợp bảng màu hệ điều hành"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Đồng bộ hóa Night Eye với bảng màu Hệ điều hành đang hoạt động của bạn."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Tìm hiểu cách chỉ định phím tắt của riêng bạn"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Phím tắt Bật / Tắt"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Đăng nhập Đăng ký"
+   },
+   "helpViewSignOut": {
+      "message": "Đăng xuất"
+   },
+   "helpViewTimerDescr": {
+      "message": "Làm thế nào nó hoạt động"
+   },
+   "helpViewTimerOff": {
+      "message": "Tắt"
+   },
+   "helpViewTimerOn": {
+      "message": "Trên"
+   },
+   "helpViewTimerTitle": {
+      "message": "Lịch trình"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Tìm Night Eye trong danh sách tiện ích mở rộng và nhấp vào xóa"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Gỡ cài đặt"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Danh sách trắng"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye xử lý hình ảnh khiến chúng trở nên tối hơn. Đây là tính năng yêu cầu nhiều tài nguyên tính toán hơn và có thể làm chậm máy tính của bạn."
+   },
+   "imageViewTitle": {
+      "message": "Hình ảnh"
+   },
+   "labelBlueLight": {
+      "message": "đèn xanh"
+   },
+   "labelBrightness": {
+      "message": "độ sáng"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "tích hợp sẵn \u003Cbr> chủ đề tối"
+   },
+   "labelColors": {
+      "message": "màu sắc"
+   },
+   "labelContinue": {
+      "message": "Tiếp tục"
+   },
+   "labelContrast": {
+      "message": "tương phản"
+   },
+   "labelCurrent": {
+      "message": "Hiện hành"
+   },
+   "labelCustomCode": {
+      "message": "mã tùy chỉnh"
+   },
+   "labelCustomUrlPath": {
+      "message": "tùy chỉnh \u003Cbr> trang"
+   },
+   "labelDim": {
+      "message": "lờ mờ"
+   },
+   "labelDisabled": {
+      "message": "Vô hiệu hóa"
+   },
+   "labelEnabled": {
+      "message": "Đã bật"
+   },
+   "labelExperimentalFeature": {
+      "message": "Tính năng thử nghiệm"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Chuyển đổi nền"
+   },
+   "labelImageHighCPU": {
+      "message": "Tiêu thụ CPU cao"
+   },
+   "labelImageIconConversion": {
+      "message": "Chuyển đổi biểu tượng"
+   },
+   "labelImages": {
+      "message": "hình ảnh"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Quản lý danh sách"
+   },
+   "labelPleaseWait": {
+      "message": "Vui lòng chờ"
+   },
+   "labelSaturation": {
+      "message": "bão hòa"
+   },
+   "labelSubdomains": {
+      "message": "tên miền phụ"
+   },
+   "labelTurboCache": {
+      "message": "bộ nhớ cache cục bộ"
+   },
+   "labelWebsite": {
+      "message": "trang mạng"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Trang web này không được thêm vào danh sách chế độ tối."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Phiên bản tối"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Phiên bản đã lọc"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Phiên bản bình thường"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Không được hỗ trợ"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Trang web này không được hỗ trợ"
+   },
+   "okButton": {
+      "message": "ĐƯỢC RỒI"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Đóng"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Bạn đã sử dụng Night Eye được 30 ngày rồi."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Để thay lời cảm ơn, chúng tôi có chương trình giảm giá đặc biệt 10%. Vui lòng sử dụng mã giảm giá \u003Cdiv class = \"ReduceCode\"> - \u003C/div> Ưu đãi này có giá trị trong 48 giờ."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Tải xuống phiên bản PRO của bạn ngay bây giờ"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Nếu bạn không quan tâm, \u003Cbr> bạn còn 2 tháng nữa \u003Cbr> từ bản dùng thử miễn phí. Vui thích!"
+   },
+   "refreshButton": {
+      "message": "Làm mới"
+   },
+   "refreshViewDescription": {
+      "message": "Bạn phải làm mới trang hiện tại để áp dụng các cài đặt mới nhất"
+   },
+   "refreshViewTitle": {
+      "message": "Vui lòng tải lại trang"
+   },
+   "saturationViewDescription": {
+      "message": "Điều chỉnh độ bão hòa bằng cách kéo thanh trượt bên dưới."
+   },
+   "saturationViewTitle": {
+      "message": "Bão hòa"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "Tích hợp sâu cho phép bạn kiểm soát các chủ đề tối được tích hợp sẵn của các trang web đã triển khai giao diện người dùng tối."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Xem cách hoạt động của Tích hợp sâu"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "NƠI ĐÂY"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Tích hợp sâu"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Vô hiệu hóa"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Đêm tối mắt"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye chuyển đổi các hình ảnh như biểu tượng và hình nền để cung cấp cho bạn chế độ tối mượt mà và nhất quán."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Chuyển đổi biểu tượng và hình nền đi kèm với mức tiêu thụ CPU cao."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "BẬT để có trải nghiệm chế độ tối tốt nhất."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "TẮT để giảm mức tiêu thụ CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye sẽ chuyển đổi tất cả các miền phụ của miền này"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Nhiều văn bản hơn"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "BẬT để có trải nghiệm chế độ tối tốt nhất."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "TẮT để giảm mức tiêu thụ CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "Bộ nhớ đệm tăng tốc độ chuyển đổi trang web từ Chế độ bình thường sang Chế độ tối (tốc độ tải trang không bị ảnh hưởng). Nó có thể giảm nhấp nháy sáng ban đầu, tùy thuộc vào trang web."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "Tính năng bộ nhớ cache hoạt động trên khoảng 80% các trang web, do đó nếu một trang web hoạt động không bình thường, vui lòng tắt tính năng này đi!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Có thể được áp dụng cho trang web cụ thể hoặc cho tất cả những gì bạn truy cập."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye sẽ chuyển đổi tất cả các miền phụ của miền này"
+   },
+   "subdomainViewTitle": {
+      "message": "Tên miền phụ"
+   },
+   "supportViewContinueBtn": {
+      "message": "Tiếp tục"
+   },
+   "supportViewInfo1": {
+      "message": "Chúng tôi sẵn sàng trợ giúp nếu bạn có bất kỳ câu hỏi hoặc vấn đề nào với Mắt ban đêm."
+   },
+   "supportViewInfo2": {
+      "message": "Để sử dụng hệ thống hỗ trợ của chúng tôi, vui lòng cung cấp thông tin liên hệ chính xác."
+   },
+   "supportViewInfo3": {
+      "message": "Chỉ nhắn tin cho chúng tôi bằng tiếng Anh."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Tên"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Vui lòng chờ..."
+   },
+   "switchLabelOff": {
+      "message": "Tắt"
+   },
+   "switchLabelOn": {
+      "message": "Trên"
+   },
+   "temperatureViewDescription": {
+      "message": "Điều chỉnh ánh sáng xanh lam bằng cách kéo thanh trượt bên dưới."
+   },
+   "temperatureViewOption1": {
+      "message": "Với màu xanh lam"
+   },
+   "temperatureViewOption2": {
+      "message": "Không có màu xanh lam"
+   },
+   "temperatureViewTitle": {
+      "message": "Đèn xanh"
+   },
+   "tooltipDark": {
+      "message": "Sử dụng chế độ này, Night Eye sẽ thay đổi màu sắc dựa trên các cài đặt đã chọn"
+   },
+   "tooltipFiltered": {
+      "message": "Sử dụng chế độ này, trang web sẽ được mặc định cộng với hiệu ứng của một số bộ lọc - độ sáng, độ tương phản, độ bão hòa, ấm / lạnh, mờ"
+   },
+   "tooltipNormal": {
+      "message": "Sử dụng chế độ này, trang web sẽ ở chế độ mặc định, Night Eye sẽ không thay đổi bất kỳ màu nào"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Hoạt động"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Hủy bỏ"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Khu vực của khách hàng"
+   },
+   "trailActivationViewDescr": {
+      "message": "Vui lòng sử dụng email bạn đã sử dụng khi mua hàng để kích hoạt \u003Cbr> Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Kích hoạt"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Hủy bỏ"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Bảng điều khiển"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Hủy kích hoạt"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Mắt ban đêm được liên kết với e-mail \u003Cb class = \"ActivatedEmail\"> $ 1 \u003C/b> của bạn"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Để biết thêm chi tiết, hãy truy cập"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Bạn có thể hủy kích hoạt vĩnh viễn \u003Cbr> Night Eye cho trình duyệt này."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Đã kích hoạt"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Tiếp tục"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Bạn có thể thưởng thức Night Eye trên tối đa 3 trình duyệt cùng một lúc cho đến khi \u003Cbr> Bản dùng thử miễn phí hết hạn với $ 1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Bạn có thể thưởng thức Night Eye trên các trình duyệt lên đến $ 1 cùng một lúc."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Bạn đã kích hoạt thành công tiện ích mở rộng."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Bạn có thể thưởng thức Night Eye trên tối đa 3 trình duyệt cùng một lúc."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Bạn có thể quản lý các trình duyệt đang hoạt động trong Khu vực khách hàng."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Để truy cập nó, vui lòng truy cập"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Kích hoạt thành công"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Hủy bỏ"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Chúng tôi hy vọng rằng Night Eye đã chứng minh được tính hữu ích của nó trong những tháng qua!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Nếu bạn muốn tiếp tục sử dụng, hãy xem giá của chúng tôi và tất cả các lợi ích đi kèm."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye được liên kết với e-mail \u003Cb class = \"AccountEmail\"> $ 1 \u003C/b> \u003Cbr> của bạn, hãy sử dụng nó nếu bạn quyết định thanh toán."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Định giá"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Phiên bản chuyên nghiệp"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Chúng tôi hy vọng rằng Night Eye đã chứng minh được tính hữu ích của nó trong những tháng qua."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Bạn có thể sử dụng phiên bản Lite miễn phí mãi mãi hoặc chuyển sang phiên bản Pro. Kiểm tra giá của chúng tôi và tất cả các lợi ích đi kèm."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Phiên bản Lite"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Chế độ tối trên tối đa 5 trang web"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Phiên bản chuyên nghiệp"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Không giới hạn"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Bản thử nghiệm miễn phí của bạn đã hết hạn."
+   },
+   "trialLiteViewCancel": {
+      "message": "Hủy bỏ"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (loại bỏ các giới hạn)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "Chế độ tối có thể được bật trên tối đa \u003Cbr> 5 trang web. Bạn có thể quản lý danh sách và thay đổi danh sách bất kỳ lúc nào."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Phiên bản Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Đọc về Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Tiết kiệm"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Hoạt động"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Nếu bạn đã có tài khoản, \u003C/br> vui lòng kích hoạt nó!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Hủy bỏ"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Chúng tôi hy vọng rằng Night Eye đã chứng minh được tính hữu ích của nó trong những tháng qua!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Nếu bạn muốn tiếp tục sử dụng, hãy xem giá của chúng tôi và tất cả các lợi ích đi kèm."
+   },
+   "trialProViewPricing": {
+      "message": "Định giá"
+   },
+   "trialProViewTitle": {
+      "message": "Phiên bản chuyên nghiệp"
+   }
+}

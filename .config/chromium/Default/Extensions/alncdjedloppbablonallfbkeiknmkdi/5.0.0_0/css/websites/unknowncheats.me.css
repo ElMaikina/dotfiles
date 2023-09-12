@@ -1,0 +1,19 @@
+table,
+table * {
+    background-image: none !important;
+}
+
+img[src$='ambience/misc/forum_banner.png'] {
+    content: url(https://www.unknowncheats.me/forum/ambience/misc/forum_banner_dark.png?v=1);
+}
+img[src$='ambience/misc/forum_banner_x.png'] {
+    content: url(https://www.unknowncheats.me/forum/ambience/misc/forum_banner_x_dark.png?v=1);
+}
+img[title=Reply], img[title="Post New Thread"], img[title="Edit/Delete Message"], img[title="Reply With Quote"], img[title="Multi-Quote This Message"], img[title="Quick reply to this message"], img[src$="rep_button_pos.png"], img[src$="threadclosed.gif"], img[src$="rep_button_neg.png"], img[src$="paperclip.gif"], img[src$="motm_button.png"], img[src$="motm_nominate.png"], img[src*="ambience/editor/"], img[src*="ambience/statusicon/"], img[src$="report.png"], img[src$="medal-rev.gif"] {
+    filter: invert(1);
+}
+
+img[src*='nav_'] {
+    filter: invert(1);
+}
+

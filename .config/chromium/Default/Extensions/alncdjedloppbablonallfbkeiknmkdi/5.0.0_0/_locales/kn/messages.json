@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "ಕೆಳಗಿನ ಸ್ಲೈಡರ್ ಅನ್ನು ಎಳೆಯುವ ಮೂಲಕ ಹೊಳಪನ್ನು ಹೊಂದಿಸಿ."
+   },
+   "brightnessViewTitle": {
+      "message": "ಹೊಳಪು"
+   },
+   "colorViewDescription": {
+      "message": "ವೆಬ್‌ಸೈಟ್‌ನಿಂದ ಬಣ್ಣವನ್ನು ಆರಿಸಿ ಮತ್ತು ನೀವು ಬಯಸಿದಂತೆ ಅದನ್ನು ಬದಲಾಯಿಸಿ."
+   },
+   "colorViewOriginalColor": {
+      "message": "ಮೂಲ"
+   },
+   "colorViewReplacedColor": {
+      "message": "ಬದಲಾಯಿಸಲಾಗಿದೆ"
+   },
+   "colorViewTitle": {
+      "message": "ಬಣ್ಣ ಪಿಕ್ಕರ್"
+   },
+   "contrastViewDescription": {
+      "message": "ಕೆಳಗಿನ ಸ್ಲೈಡರ್ ಅನ್ನು ಎಳೆಯುವ ಮೂಲಕ ಕಾಂಟ್ರಾಸ್ಟ್ ಅನ್ನು ಹೊಂದಿಸಿ."
+   },
+   "contrastViewTitle": {
+      "message": "ಕಾಂಟ್ರಾಸ್ಟ್"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳು"
+   },
+   "controlsPanelButtonApply": {
+      "message": "ಅನ್ವಯಿಸು"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "ಅರ್ಜಿ ಹಾಕು"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "ಮರುಹೊಂದಿಸಿ"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "ಮತ್ತೆ ಮೊದಲಂತೆ ಮಾಡು"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "ಪ್ರಸ್ತುತ ವೆಬ್‌ಸೈಟ್"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "ಎಲ್ಲಾ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "ಪ್ರಸ್ತುತ ವೆಬ್‌ಸೈಟ್‌ಗಾಗಿ"
+   },
+   "dimViewDescription": {
+      "message": "ವೆಬ್‌ಸೈಟ್‌ಗಳ ಮಬ್ಬಾಗಿಸುವಿಕೆಯ ಮಟ್ಟವನ್ನು ಹೊಂದಿಸಿ."
+   },
+   "dimViewTitle": {
+      "message": "ಮಂದ"
+   },
+   "extDescription": {
+      "message": "ಬಯಸಿದಂತೆ ಪ್ರತಿ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಡಾರ್ಕ್ ಮೋಡ್ / ಲೈಟ್ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಿ. ರಾತ್ರಿ ಕಣ್ಣಿನಿಂದ ನಿಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ನೋಡಿಕೊಳ್ಳಿ."
+   },
+   "extDisabledStatus": {
+      "message": "ರಾತ್ರಿ ಕಣ್ಣು ನಿಲ್ಲಿಸಲಾಗಿದೆ"
+   },
+   "extName": {
+      "message": "ಡಾರ್ಕ್ ಮೋಡ್ - ರಾತ್ರಿ ಕಣ್ಣು"
+   },
+   "extToggleButton": {
+      "message": "ಟ್ಯಾಬ್‌ಗಾಗಿ ಡಾರ್ಕ್ ಮತ್ತು ಸಾಮಾನ್ಯ ಮೋಡ್ ಅನ್ನು ಟಾಗಲ್ ಮಾಡಿ"
+   },
+   "extTurnOnButton": {
+      "message": "ಆನ್ ಮಾಡಿ"
+   },
+   "filterModeNameDark": {
+      "message": "ಕತ್ತಲು"
+   },
+   "filterModeNameFiltered": {
+      "message": "ಫಿಲ್ಟರ್ ಮಾಡಲಾಗಿದೆ"
+   },
+   "filterModeNameNormal": {
+      "message": "ಸಾಮಾನ್ಯ"
+   },
+   "firstRunViewFeature1": {
+      "message": "ಪುಟ ಲೋಡಿಂಗ್ ವೇಗವು ಪರಿಣಾಮ ಬೀರಬಹುದು"
+   },
+   "firstRunViewFeature2": {
+      "message": "ಉಚಿತ 3 ತಿಂಗಳ ನೈಟ್ ಐ ಪ್ರೊ (ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಇಲ್ಲ)"
+   },
+   "firstRunViewFeature3": {
+      "message": "ಯಾವುದೇ ಬ್ರೌಸಿಂಗ್ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ"
+   },
+   "firstRunViewFeature4": {
+      "message": "ಅಂತರ್ನಿರ್ಮಿತ ಚಾಟ್ ಮೂಲಕ ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
+   },
+   "firstRunViewTitle": {
+      "message": "ತ್ವರಿತ ಪ್ರಾರಂಭ"
+   },
+   "helpOSIntegrationLink": {
+      "message": "ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗಾಗಿ"
+   },
+   "helpViewActivateNow": {
+      "message": "ಈಗ ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "helpViewActivated": {
+      "message": "ನಿಮ್ಮ ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "helpViewByExpires": {
+      "message": "$1 ರಿಂದ \u003C/br>ಅವಧಿ ಮುಕ್ತಾಯವಾಗುತ್ತದೆ: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "ಗ್ರಾಹಕ ಪ್ರದೇಶ"
+   },
+   "helpViewDarkScroll": {
+      "message": "ಡಾರ್ಕ್ ಸುರುಳಿಗಳು"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "ನೈಟ್ ಐ ಯಾವುದೇ ಸ್ಕ್ರಾಲ್ ಡಾರ್ಕ್ ಆಗಲಿ."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "ಹೊಸ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ತೆರೆಯುವಾಗ ಕಾರ್ಯಗತಗೊಳಿಸಬೇಕಾದ ಡೀಫಾಲ್ಟ್ ಮೋಡ್ ಅನ್ನು ಆರಿಸಿ"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "ಡೀಫಾಲ್ಟ್ ಮೋಡ್"
+   },
+   "helpViewDisabled": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "helpViewEnabled": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "helpViewExpiredNever": {
+      "message": "ಎಂದಿಗೂ"
+   },
+   "helpViewExpires": {
+      "message": "$1 ಅವಧಿ ಮುಗಿಯುತ್ತದೆ"
+   },
+   "helpViewExportData": {
+      "message": "ಡೇಟಾವನ್ನು ರಫ್ತು ಮಾಡಿ"
+   },
+   "helpViewGoProTitle": {
+      "message": "ಪರವಾಗಿರು, ವೃತ್ತಿಪರನಾಗು"
+   },
+   "helpViewHelpButton": {
+      "message": "ಸಹಾಯ"
+   },
+   "helpViewImportData": {
+      "message": "ಡೇಟಾವನ್ನು ಆಮದು ಮಾಡಿ"
+   },
+   "helpViewLanguage": {
+      "message": "ಭಾಷೆ"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "ಡಾರ್ಕ್ ಮೋಡ್ ಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS ಬಣ್ಣದ ಯೋಜನೆ ಏಕೀಕರಣ"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "ನಿಮ್ಮ ಸಕ್ರಿಯ OS ಬಣ್ಣದ ಯೋಜನೆಯೊಂದಿಗೆ ನೈಟ್ ಐ ಅನ್ನು ಸಿಂಕ್ ಮಾಡಿ."
+   },
+   "helpViewShortcutDescription": {
+      "message": "ನಿಮ್ಮ ಸ್ವಂತ ಶಾರ್ಟ್‌ಕಟ್ ಅನ್ನು ಹೇಗೆ ನಿಯೋಜಿಸಬೇಕು ಎಂಬುದನ್ನು ಕಂಡುಕೊಳ್ಳಿ"
+   },
+   "helpViewShortcutTitle": {
+      "message": "ಆನ್/ಆಫ್ ಶಾರ್ಟ್‌ಕಟ್"
+   },
+   "helpViewSignInSignUp": {
+      "message": "ಸೈನ್ ಇನ್ / ಸೈನ್ ಅಪ್"
+   },
+   "helpViewSignOut": {
+      "message": "ಸೈನ್ ಔಟ್"
+   },
+   "helpViewTimerDescr": {
+      "message": "ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ"
+   },
+   "helpViewTimerOff": {
+      "message": "ಆರಿಸಿ"
+   },
+   "helpViewTimerOn": {
+      "message": "ಆನ್"
+   },
+   "helpViewTimerTitle": {
+      "message": "ವೇಳಾಪಟ್ಟಿ"
+   },
+   "helpViewUninstallDescription": {
+      "message": "ವಿಸ್ತರಣೆಗಳ ಪಟ್ಟಿಯಲ್ಲಿ ನೈಟ್ ಐ ಅನ್ನು ಹುಡುಕಿ ಮತ್ತು ತೆಗೆದುಹಾಕಿ ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "helpViewUninstallTitle": {
+      "message": "ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ"
+   },
+   "helpViewWhiteListButton": {
+      "message": "ಶ್ವೇತಪಟ್ಟಿ"
+   },
+   "imageViewDescription": {
+      "message": "ನೈಟ್ ಐ ಚಿತ್ರಗಳನ್ನು ಪ್ರಕ್ರಿಯೆಗೊಳಿಸುತ್ತದೆ ಅವುಗಳನ್ನು ಗಾಢವಾಗಿಸುತ್ತದೆ. ಈ ವೈಶಿಷ್ಟ್ಯಕ್ಕೆ ಹೆಚ್ಚಿನ ಕಂಪ್ಯೂಟೇಶನಲ್ ಸಂಪನ್ಮೂಲಗಳು ಬೇಕಾಗುತ್ತವೆ ಮತ್ತು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಅನ್ನು ನಿಧಾನಗೊಳಿಸಬಹುದು."
+   },
+   "imageViewTitle": {
+      "message": "ಚಿತ್ರಗಳು"
+   },
+   "labelBlueLight": {
+      "message": "ನೀಲಿ ಬೆಳಕು"
+   },
+   "labelBrightness": {
+      "message": "ಹೊಳಪು"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "ಅಂತರ್ನಿರ್ಮಿತ \u003Cbr>ಡಾರ್ಕ್ ಥೀಮ್"
+   },
+   "labelColors": {
+      "message": "ಬಣ್ಣಗಳು"
+   },
+   "labelContinue": {
+      "message": "ಮುಂದುವರಿಸಿ"
+   },
+   "labelContrast": {
+      "message": "ಕಾಂಟ್ರಾಸ್ಟ್"
+   },
+   "labelCurrent": {
+      "message": "ಪ್ರಸ್ತುತ"
+   },
+   "labelCustomCode": {
+      "message": "ಕಸ್ಟಮ್ ಕೋಡ್"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> ಪುಟಗಳನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ"
+   },
+   "labelDim": {
+      "message": "ಮಂದ"
+   },
+   "labelDisabled": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "labelEnabled": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "labelExperimentalFeature": {
+      "message": "ಪ್ರಾಯೋಗಿಕ ವೈಶಿಷ್ಟ್ಯ"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "ಹಿನ್ನೆಲೆ ಪರಿವರ್ತನೆ"
+   },
+   "labelImageHighCPU": {
+      "message": "ಹೆಚ್ಚಿನ CPU ಬಳಕೆ"
+   },
+   "labelImageIconConversion": {
+      "message": "ಚಿಹ್ನೆಗಳ ಪರಿವರ್ತನೆ"
+   },
+   "labelImages": {
+      "message": "ಚಿತ್ರಗಳು"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "ಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಿ"
+   },
+   "labelPleaseWait": {
+      "message": "ದಯಮಾಡಿ ನಿರೀಕ್ಷಿಸಿ"
+   },
+   "labelSaturation": {
+      "message": "ಶುದ್ಧತ್ವ"
+   },
+   "labelSubdomains": {
+      "message": "ಉಪಡೊಮೇನ್‌ಗಳು"
+   },
+   "labelTurboCache": {
+      "message": "ಸ್ಥಳೀಯ ಸಂಗ್ರಹ"
+   },
+   "labelWebsite": {
+      "message": "ಜಾಲತಾಣ"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "ಈ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಡಾರ್ಕ್ ಮೋಡ್ ಪಟ್ಟಿಯಲ್ಲಿ ಸೇರಿಸಲಾಗಿಲ್ಲ."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "ಡಾರ್ಕ್ ಆವೃತ್ತಿ"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "ಫಿಲ್ಟರ್ ಮಾಡಿದ ಆವೃತ್ತಿ"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "ಸಾಮಾನ್ಯ ಆವೃತ್ತಿ"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "ಈ ವೆಬ್‌ಸೈಟ್ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"
+   },
+   "okButton": {
+      "message": "ಸರಿ"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "ಮುಚ್ಚಿ"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "ನೀವು ಈಗ 30 ದಿನಗಳಿಂದ Night Eye ಅನ್ನು ಬಳಸುತ್ತಿರುವಿರಿ."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "ಧನ್ಯವಾದಗಳು, ನಾವು ವಿಶೇಷ 10% ರಿಯಾಯಿತಿಯನ್ನು ಹೊಂದಿದ್ದೇವೆ. ದಯವಿಟ್ಟು ರಿಯಾಯಿತಿ ಕೋಡ್ ಬಳಸಿ \u003Cdiv class=\"DiscountCode\">-\u003C/div> ಈ ಕೊಡುಗೆಯು 48 ಗಂಟೆಗಳವರೆಗೆ ಮಾನ್ಯವಾಗಿರುತ್ತದೆ."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "ಈಗ ನಿಮ್ಮ PRO ಆವೃತ್ತಿಯನ್ನು ಪಡೆಯಿರಿ"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "ನಿಮಗೆ ಆಸಕ್ತಿ ಇಲ್ಲದಿದ್ದರೆ, \u003Cbr> ಉಚಿತ ಪ್ರಯೋಗದಿಂದ \u003Cbr> ನಿಮಗೆ ಇನ್ನೂ 2 ತಿಂಗಳುಗಳು ಉಳಿದಿವೆ. ಆನಂದಿಸಿ!"
+   },
+   "refreshButton": {
+      "message": "ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+   },
+   "refreshViewDescription": {
+      "message": "ಇತ್ತೀಚಿನ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನ್ವಯಿಸಲು ನೀವು ಪ್ರಸ್ತುತ ಪುಟವನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಬೇಕು"
+   },
+   "refreshViewTitle": {
+      "message": "ದಯವಿಟ್ಟು ಪುಟವನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ"
+   },
+   "saturationViewDescription": {
+      "message": "ಕೆಳಗಿನ ಸ್ಲೈಡರ್ ಅನ್ನು ಎಳೆಯುವ ಮೂಲಕ ಶುದ್ಧತ್ವವನ್ನು ಹೊಂದಿಸಿ."
+   },
+   "saturationViewTitle": {
+      "message": "ಶುದ್ಧತ್ವ"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "ಈಗಾಗಲೇ ಡಾರ್ಕ್ UI ಅನ್ನು ಅಳವಡಿಸಿರುವ ವೆಬ್‌ಸೈಟ್‌ಗಳ ಅಂತರ್ನಿರ್ಮಿತ ಡಾರ್ಕ್ ಥೀಮ್‌ಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಆಳವಾದ ಏಕೀಕರಣವು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ಆಳವಾದ ಏಕೀಕರಣವು ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನೋಡಿ"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ಇಲ್ಲಿ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "ಆಳವಾದ ಏಕೀಕರಣ"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "ರಾತ್ರಿ ಕಣ್ಣು ಕತ್ತಲು"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "ನೈಟ್ ಐ ನಿಮಗೆ ನಯವಾದ ಮತ್ತು ಸ್ಥಿರವಾದ ಡಾರ್ಕ್ ಮೋಡ್ ಅನ್ನು ಒದಗಿಸಲು ಐಕಾನ್‌ಗಳು ಮತ್ತು ಹಿನ್ನೆಲೆಗಳಂತಹ ಚಿತ್ರಗಳನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "ಐಕಾನ್‌ಗಳು ಮತ್ತು ಹಿನ್ನೆಲೆಗಳ ಪರಿವರ್ತನೆಯು ಹೆಚ್ಚಿನ CPU ಬಳಕೆಯೊಂದಿಗೆ ಬರುತ್ತದೆ."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "ಅತ್ಯುತ್ತಮ ಡಾರ್ಕ್ ಮೋಡ್ ಅನುಭವಕ್ಕಾಗಿ ಆನ್ ಮಾಡಿ."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಆಫ್ ಮಾಡಿ."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "ರಾತ್ರಿ ಕಣ್ಣು ಈ ಡೊಮೇನ್‌ನ ಎಲ್ಲಾ ಉಪಡೊಮೇನ್‌ಗಳನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "ಹೆಚ್ಚು ಹೆಚ್ಚು ಪಠ್ಯ"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "ಅತ್ಯುತ್ತಮ ಡಾರ್ಕ್ ಮೋಡ್ ಅನುಭವಕ್ಕಾಗಿ ಆನ್ ಮಾಡಿ."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU ಬಳಕೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಆಫ್ ಮಾಡಿ."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "ಸಂಗ್ರಹವು ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ಸಾಧಾರಣದಿಂದ ಡಾರ್ಕ್ ಮೋಡ್‌ಗೆ ಪರಿವರ್ತಿಸುವುದನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ (ಪುಟ ಲೋಡಿಂಗ್ ವೇಗವು ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ). ಇದು ವೆಬ್‌ಸೈಟ್‌ಗೆ ಅನುಗುಣವಾಗಿ ಆರಂಭಿಕ ಹೊಳಪಿನ ಹೊಳಪನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "ಸಂಗ್ರಹ ವೈಶಿಷ್ಟ್ಯವು ಸುಮಾರು 80% ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ, ಹೀಗಾಗಿ ವೆಬ್‌ಸೈಟ್ ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಅದನ್ನು ಆಫ್ ಮಾಡಿ!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "ನಿರ್ದಿಷ್ಟ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಅಥವಾ ನೀವು ಭೇಟಿ ನೀಡುವ ಎಲ್ಲರಿಗೂ ಅನ್ವಯಿಸಬಹುದು."
+   },
+   "subdomainViewDescription": {
+      "message": "ರಾತ್ರಿ ಕಣ್ಣು ಈ ಡೊಮೇನ್‌ನ ಎಲ್ಲಾ ಉಪಡೊಮೇನ್‌ಗಳನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ"
+   },
+   "subdomainViewTitle": {
+      "message": "ಉಪಡೊಮೇನ್‌ಗಳು"
+   },
+   "supportViewContinueBtn": {
+      "message": "ಮುಂದುವರಿಸಿ"
+   },
+   "supportViewInfo1": {
+      "message": "ನೈಟ್ ಐ ಬಗ್ಗೆ ನಿಮಗೆ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳು ಅಥವಾ ಸಮಸ್ಯೆಗಳಿದ್ದರೆ ಸಹಾಯ ಮಾಡಲು ನಾವು ಇಲ್ಲಿದ್ದೇವೆ."
+   },
+   "supportViewInfo2": {
+      "message": "ನಮ್ಮ ಬೆಂಬಲ ವ್ಯವಸ್ಥೆಯನ್ನು ಬಳಸಲು, ದಯವಿಟ್ಟು ಸರಿಯಾದ ಸಂಪರ್ಕ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಿ."
+   },
+   "supportViewInfo3": {
+      "message": "ನಮಗೆ ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಮಾತ್ರ ಸಂದೇಶ ಕಳುಹಿಸಿ."
+   },
+   "supportViewInputEmail": {
+      "message": "ಇಮೇಲ್"
+   },
+   "supportViewInputName": {
+      "message": "ಹೆಸರು"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "ದಯಮಾಡಿ ನಿರೀಕ್ಷಿಸಿ..."
+   },
+   "switchLabelOff": {
+      "message": "ಆರಿಸಿ"
+   },
+   "switchLabelOn": {
+      "message": "ಆನ್"
+   },
+   "temperatureViewDescription": {
+      "message": "ಕೆಳಗಿನ ಸ್ಲೈಡರ್ ಅನ್ನು ಎಳೆಯುವ ಮೂಲಕ ನೀಲಿ ಬೆಳಕನ್ನು ಹೊಂದಿಸಿ."
+   },
+   "temperatureViewOption1": {
+      "message": "ನೀಲಿ ಜೊತೆ"
+   },
+   "temperatureViewOption2": {
+      "message": "ನೀಲಿ ಇಲ್ಲದೆ"
+   },
+   "temperatureViewTitle": {
+      "message": "ನೀಲಿ ಬೆಳಕು"
+   },
+   "tooltipDark": {
+      "message": "ಈ ಮೋಡ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು, ಆಯ್ಕೆಮಾಡಿದ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಆಧಾರದ ಮೇಲೆ ನೈಟ್ ಐ ಬಣ್ಣಗಳನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ"
+   },
+   "tooltipFiltered": {
+      "message": "ಈ ಮೋಡ್ ಅನ್ನು ಬಳಸುವುದರಿಂದ, ವೆಬ್‌ಸೈಟ್ ಡೀಫಾಲ್ಟ್ ಜೊತೆಗೆ ಹಲವಾರು ಫಿಲ್ಟರ್‌ಗಳ ಪರಿಣಾಮವಾಗಿರುತ್ತದೆ - ಹೊಳಪು, ಕಾಂಟ್ರಾಸ್ಟ್, ಶುದ್ಧತ್ವ, ಬೆಚ್ಚಗಿನ/ಶೀತ, ಮಂದ"
+   },
+   "tooltipNormal": {
+      "message": "ಈ ಮೋಡ್ ಅನ್ನು ಬಳಸುವುದರಿಂದ, ವೆಬ್‌ಸೈಟ್ ಡೀಫಾಲ್ಟ್ ಆಗಿರುತ್ತದೆ, ರಾತ್ರಿಯ ಕಣ್ಣು ಯಾವುದೇ ಬಣ್ಣವನ್ನು ಬದಲಾಯಿಸುವುದಿಲ್ಲ"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "trailActivationViewClientArea": {
+      "message": "ಗ್ರಾಹಕರ ಪ್ರದೇಶ"
+   },
+   "trailActivationViewDescr": {
+      "message": "\u003Cbr>ನೈಟ್ ಐ ಪ್ರೊ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಖರೀದಿ ಮಾಡುವಾಗ ನೀವು ಬಳಸಿದ ಇಮೇಲ್ ಅನ್ನು ಬಳಸಿ."
+   },
+   "trailActivationViewTitle": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸುವಿಕೆ"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "ನಿಯಂತ್ರಣಫಲಕ"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "ರಾತ್ರಿಯ ಕಣ್ಣು ನಿಮ್ಮ ಇಮೇಲ್ \u003Cb class=\"ActivatedEmail\">$1\u003C/b> ಜೊತೆಗೆ ಸಂಯೋಜಿತವಾಗಿದೆ"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗಾಗಿ, ಭೇಟಿ ನೀಡಿ"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "ಈ ಬ್ರೌಸರ್‌ಗಾಗಿ ನೀವು \u003Cbr> ನೈಟ್ ಐ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಬಹುದು."
+   },
+   "trailLogoutViewTitle": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "ಮುಂದುವರಿಸಿ"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "ನಿಮ್ಮ \u003Cbr> ಉಚಿತ ಪ್ರಯೋಗವು $1 ರಂದು ಮುಕ್ತಾಯಗೊಳ್ಳುವವರೆಗೆ ನೀವು ಏಕಕಾಲದಲ್ಲಿ 3 ಬ್ರೌಸರ್‌ಗಳಲ್ಲಿ ನೈಟ್ ಐ ಅನ್ನು ಆನಂದಿಸಬಹುದು"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "ನೀವು ಏಕಕಾಲದಲ್ಲಿ $1 ಬ್ರೌಸರ್‌ಗಳಲ್ಲಿ ನೈಟ್ ಐ ಅನ್ನು ಆನಂದಿಸಬಹುದು."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "ನೀವು ವಿಸ್ತರಣೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಕ್ರಿಯಗೊಳಿಸಿರುವಿರಿ."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "ನೀವು ಏಕಕಾಲದಲ್ಲಿ 3 ಬ್ರೌಸರ್‌ಗಳಲ್ಲಿ ನೈಟ್ ಐ ಆನಂದಿಸಬಹುದು."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "ನೀವು ಕ್ಲೈಂಟ್ ಏರಿಯಾದಲ್ಲಿ ಸಕ್ರಿಯ ಬ್ರೌಸರ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಬಹುದು."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "ಅದನ್ನು ಪ್ರವೇಶಿಸಲು, ದಯವಿಟ್ಟು ಇಲ್ಲಿಗೆ ಹೋಗಿ"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "ಯಶಸ್ವಿ ಸಕ್ರಿಯಗೊಳಿಸುವಿಕೆ"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "ಕಳೆದ ತಿಂಗಳುಗಳಲ್ಲಿ ನೈಟ್ ಐ ಅದರ ಉಪಯುಕ್ತತೆಯನ್ನು ಸಾಬೀತುಪಡಿಸಿದೆ ಎಂದು ನಾವು ಭಾವಿಸುತ್ತೇವೆ!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "ನೀವು ಅದನ್ನು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ಬಯಸಿದರೆ, ನಮ್ಮ ಬೆಲೆ ಮತ್ತು ಅದರೊಂದಿಗೆ ಬರುವ ಎಲ್ಲಾ ಪ್ರಯೋಜನಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "ರಾತ್ರಿಯ ಕಣ್ಣು ನಿಮ್ಮ ಇಮೇಲ್ \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> ಜೊತೆಗೆ ಸಂಯೋಜಿತವಾಗಿದೆ ನೀವು ಪಾವತಿಸಲು ನಿರ್ಧರಿಸಿದರೆ ಅದನ್ನು ಬಳಸಿ."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "ಬೆಲೆ ನಿಗದಿ"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "ಪ್ರೊ ಆವೃತ್ತಿ"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "ಕಳೆದ ತಿಂಗಳುಗಳಲ್ಲಿ ನೈಟ್ ಐ ಅದರ ಉಪಯುಕ್ತತೆಯನ್ನು ಸಾಬೀತುಪಡಿಸಿದೆ ಎಂದು ನಾವು ಭಾವಿಸುತ್ತೇವೆ."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "ನೀವು ಉಚಿತ ಲೈಟ್ ಆವೃತ್ತಿಯನ್ನು ಶಾಶ್ವತವಾಗಿ ಬಳಸಬಹುದು ಅಥವಾ ಪ್ರೊಗೆ ಹೋಗಬಹುದು. ನಮ್ಮ ಬೆಲೆ ಮತ್ತು ಜೊತೆಗೆ ಬರುವ ಎಲ್ಲಾ ಪ್ರಯೋಜನಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "ಲೈಟ್ ಆವೃತ್ತಿ"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5 ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಡಾರ್ಕ್ ಮೋಡ್"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "ಪ್ರೊ ಆವೃತ್ತಿ"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "ಮಿತಿಯಿಲ್ಲ"
+   },
+   "trialExpiredViewTitle": {
+      "message": "ನಿಮ್ಮ ಉಚಿತ ಪ್ರಯೋಗದ ಅವಧಿ ಮುಗಿದಿದೆ."
+   },
+   "trialLiteViewCancel": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "trialLiteViewGoPro": {
+      "message": "ಗೋ ಪ್ರೊ (ಮಿತಿಗಳನ್ನು ತೆಗೆದುಹಾಕಿ)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "\u003Cbr> 5 ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಡಾರ್ಕ್ ಮೋಡ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು. ನೀವು ಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಬಹುದು ಮತ್ತು ಅದನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "ಲೈಟ್ ಆವೃತ್ತಿ"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "ಲೈಟ್ ಬಗ್ಗೆ ಓದಿ"
+   },
+   "trialLiteViewSave": {
+      "message": "ಉಳಿಸಿ"
+   },
+   "trialProViewActivateBtn": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "trialProViewActivateDescr": {
+      "message": "ನೀವು ಈಗಾಗಲೇ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದರೆ,\u003C/br> ದಯವಿಟ್ಟು ಅದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "trialProViewDescrPart1": {
+      "message": "ಕಳೆದ ತಿಂಗಳುಗಳಲ್ಲಿ ನೈಟ್ ಐ ಅದರ ಉಪಯುಕ್ತತೆಯನ್ನು ಸಾಬೀತುಪಡಿಸಿದೆ ಎಂದು ನಾವು ಭಾವಿಸುತ್ತೇವೆ!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "ನೀವು ಅದನ್ನು ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು ಬಯಸಿದರೆ, ನಮ್ಮ ಬೆಲೆ ಮತ್ತು ಅದರೊಂದಿಗೆ ಬರುವ ಎಲ್ಲಾ ಪ್ರಯೋಜನಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
+   },
+   "trialProViewPricing": {
+      "message": "ಬೆಲೆ ನಿಗದಿ"
+   },
+   "trialProViewTitle": {
+      "message": "ಪ್ರೊ ಆವೃತ್ತಿ"
+   }
+}

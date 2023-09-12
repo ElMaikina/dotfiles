@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Regola la luminosità trascinando il cursore in basso."
+   },
+   "brightnessViewTitle": {
+      "message": "Luminosità"
+   },
+   "colorViewDescription": {
+      "message": "Scegli un colore dal sito Web e cambialo in quello che desideri."
+   },
+   "colorViewOriginalColor": {
+      "message": "Originale"
+   },
+   "colorViewReplacedColor": {
+      "message": "Sostituito"
+   },
+   "colorViewTitle": {
+      "message": "Color Picker"
+   },
+   "contrastViewDescription": {
+      "message": "Regola il contrasto trascinando il cursore in basso."
+   },
+   "contrastViewTitle": {
+      "message": "Contrasto"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "tutti i siti web"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Applicare"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Applica a"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Annulla"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Ripristina"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Ripristina le impostazioni predifinite"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "sito web attuale"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "per tutti i siti web"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "per il sito web attuale"
+   },
+   "dimViewDescription": {
+      "message": "Regola il livello di oscuramento dei siti web."
+   },
+   "dimViewTitle": {
+      "message": "Dim"
+   },
+   "extDescription": {
+      "message": "Passa a ciascun sito Web in modalità oscura / modalità luce come desiderato. Prenditi cura dei tuoi occhi con Night Eye."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye è fermo"
+   },
+   "extName": {
+      "message": "Modalità oscura - Occhio notturno"
+   },
+   "extToggleButton": {
+      "message": "Attiva/disattiva la modalità normale e scura per la scheda"
+   },
+   "extTurnOnButton": {
+      "message": "Accendere"
+   },
+   "filterModeNameDark": {
+      "message": "Scuro"
+   },
+   "filterModeNameFiltered": {
+      "message": "Filtrato"
+   },
+   "filterModeNameNormal": {
+      "message": "Normale"
+   },
+   "firstRunViewFeature1": {
+      "message": "La velocità di caricamento della pagina potrebbe risentirne"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 mesi gratuiti di Night Eye Pro (senza carta di credito)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Non vengono raccolte informazioni di navigazione"
+   },
+   "firstRunViewFeature4": {
+      "message": "Contattaci tramite la chat integrata"
+   },
+   "firstRunViewTitle": {
+      "message": "Avvio veloce"
+   },
+   "helpOSIntegrationLink": {
+      "message": "Più dettagli"
+   },
+   "helpViewActivateNow": {
+      "message": "Attivare ora"
+   },
+   "helpViewActivated": {
+      "message": "Gestisci la tua estensione"
+   },
+   "helpViewByExpires": {
+      "message": "entro $ 1 \u003C/br> scade: $ 2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Area clienti"
+   },
+   "helpViewDarkScroll": {
+      "message": "Pergamene oscure"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Lascia che Night Eye renda scuro qualsiasi pergamena."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Scegli la modalità predefinita da eseguire all'apertura di nuovi siti web"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Modalità di default"
+   },
+   "helpViewDisabled": {
+      "message": "Disabilitato"
+   },
+   "helpViewEnabled": {
+      "message": "Abilitato"
+   },
+   "helpViewExpiredNever": {
+      "message": "mai"
+   },
+   "helpViewExpires": {
+      "message": "Scade $ 1"
+   },
+   "helpViewExportData": {
+      "message": "Esporta dati"
+   },
+   "helpViewGoProTitle": {
+      "message": "Vai Pro"
+   },
+   "helpViewHelpButton": {
+      "message": "Aiuto"
+   },
+   "helpViewImportData": {
+      "message": "Importa dati"
+   },
+   "helpViewLanguage": {
+      "message": "Lingua"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "Gestisci l'elenco della modalità oscura"
+   },
+   "helpViewOSColorScheme": {
+      "message": "Integrazione della combinazione di colori del sistema operativo"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Sincronizza Night Eye con la tua combinazione di colori del sistema operativo attiva."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Scopri come assegnare la tua scorciatoia"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Collegamento On/Off"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Accedi / Registrati"
+   },
+   "helpViewSignOut": {
+      "message": "Disconnessione"
+   },
+   "helpViewTimerDescr": {
+      "message": "Come funziona"
+   },
+   "helpViewTimerOff": {
+      "message": "Spento"
+   },
+   "helpViewTimerOn": {
+      "message": "SU"
+   },
+   "helpViewTimerTitle": {
+      "message": "Programma"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Trova Night Eye nell'elenco delle estensioni e fai clic su Rimuovi"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Disinstalla"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Lista bianca"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye elabora le immagini rendendole più scure. Questa caratteristica richiede più risorse di calcolo e può rallentare il tuo computer."
+   },
+   "imageViewTitle": {
+      "message": "immagini"
+   },
+   "labelBlueLight": {
+      "message": "luce blu"
+   },
+   "labelBrightness": {
+      "message": "luminosità"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "built-in \u003Cbr>tema scuro"
+   },
+   "labelColors": {
+      "message": "colori"
+   },
+   "labelContinue": {
+      "message": "Continua"
+   },
+   "labelContrast": {
+      "message": "contrasto"
+   },
+   "labelCurrent": {
+      "message": "Attuale"
+   },
+   "labelCustomCode": {
+      "message": "codice personalizzato"
+   },
+   "labelCustomUrlPath": {
+      "message": "personalizzare le pagine di \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "fioco"
+   },
+   "labelDisabled": {
+      "message": "Disabilitato"
+   },
+   "labelEnabled": {
+      "message": "Abilitato"
+   },
+   "labelExperimentalFeature": {
+      "message": "Caratteristica sperimentale"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Conversione sfondi"
+   },
+   "labelImageHighCPU": {
+      "message": "Elevato consumo di CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "Conversione icone"
+   },
+   "labelImages": {
+      "message": "immagini"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Gestisci la lista"
+   },
+   "labelPleaseWait": {
+      "message": "attendere prego"
+   },
+   "labelSaturation": {
+      "message": "saturazione"
+   },
+   "labelSubdomains": {
+      "message": "sottodomini"
+   },
+   "labelTurboCache": {
+      "message": "cache locale"
+   },
+   "labelWebsite": {
+      "message": "sito web"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Questo sito Web non è stato aggiunto all'elenco della modalità oscura."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Versione oscura"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Versione filtrata"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Versione normale"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Non supportato"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Questo sito Web non è supportato"
+   },
+   "okButton": {
+      "message": "OK"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Chiudere"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Stai usando Night Eye da 30 giorni."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Come ringraziamento, abbiamo uno sconto speciale del 10%. Utilizza il codice sconto \u003Cdiv class=\"DiscountCode\">-\u003C/div> Questa offerta è valida per 48 ore."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Ottieni subito la tua versione PRO"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Se non sei interessato,\u003Cbr> hai ancora 2 mesi \u003Cbr> dalla prova gratuita. Divertiti!"
+   },
+   "refreshButton": {
+      "message": "ricaricare"
+   },
+   "refreshViewDescription": {
+      "message": "È necessario aggiornare la pagina corrente per applicare le impostazioni più recenti"
+   },
+   "refreshViewTitle": {
+      "message": "Si prega di ricaricare la pagina"
+   },
+   "saturationViewDescription": {
+      "message": "Regola la saturazione trascinando il cursore in basso."
+   },
+   "saturationViewTitle": {
+      "message": "Saturazione"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "L'integrazione profonda ti consente di controllare i temi scuri incorporati nei siti Web che hanno già implementato un'interfaccia utente scura."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Scopri come funziona l'integrazione profonda"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "QUI"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Profonda integrazione"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Disabilitato"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Occhio notturno scuro"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye converte immagini come icone e sfondi per offrirti una modalità scura uniforme e uniforme."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "La conversione di icone e sfondi comporta un elevato consumo di CPU."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Attiva per la migliore esperienza in modalità oscura."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Spegnere per ridurre il consumo di CPU."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye convertirà tutti i sottodomini di questo dominio"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Più testo"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Attiva per la migliore esperienza in modalità oscura."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Spegnere per ridurre il consumo di CPU."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "La cache accelera la conversione del sito Web dalla modalità normale alla modalità oscura (la velocità di caricamento della pagina non è influenzata). Può ridurre i lampi luminosi iniziali, a seconda del sito Web."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "La funzione cache funziona su circa l'80% dei siti Web, quindi se un sito Web non si comporta correttamente, disattivalo!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Può essere applicato a un sito Web specifico oa tutto ciò che visiti."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye convertirà tutti i sottodomini di questo dominio"
+   },
+   "subdomainViewTitle": {
+      "message": "Sottodomini"
+   },
+   "supportViewContinueBtn": {
+      "message": "Continua"
+   },
+   "supportViewInfo1": {
+      "message": "Siamo qui per aiutarti in caso di domande o problemi con Night Eye."
+   },
+   "supportViewInfo2": {
+      "message": "Per utilizzare il nostro sistema di supporto, fornire le informazioni di contatto corrette."
+   },
+   "supportViewInfo3": {
+      "message": "Inviaci un messaggio solo in inglese."
+   },
+   "supportViewInputEmail": {
+      "message": "E-mail"
+   },
+   "supportViewInputName": {
+      "message": "Nome"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Attendere prego..."
+   },
+   "switchLabelOff": {
+      "message": "Spento"
+   },
+   "switchLabelOn": {
+      "message": "SU"
+   },
+   "temperatureViewDescription": {
+      "message": "Regola la luce blu trascinando il cursore in basso."
+   },
+   "temperatureViewOption1": {
+      "message": "Con il blu"
+   },
+   "temperatureViewOption2": {
+      "message": "Senza blu"
+   },
+   "temperatureViewTitle": {
+      "message": "Luce blu"
+   },
+   "tooltipDark": {
+      "message": "Usando questa modalità, Night Eye cambierà i colori in base alle impostazioni selezionate"
+   },
+   "tooltipFiltered": {
+      "message": "Utilizzando questa modalità, il sito Web sarà per impostazione predefinita più l'effetto di diversi filtri: luminosità, contrasto, saturazione, caldo/freddo, attenuazione"
+   },
+   "tooltipNormal": {
+      "message": "Utilizzando questa modalità, il sito Web sarà predefinito, Night Eye non cambierà alcun colore"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Attivare"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Annulla"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Area Clienti"
+   },
+   "trailActivationViewDescr": {
+      "message": "Utilizza l'e-mail che hai utilizzato al momento dell'acquisto per attivare \u003Cbr>Night Eye Pro."
+   },
+   "trailActivationViewTitle": {
+      "message": "Attivazione"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Annulla"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Pannello di controllo"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Disattivare"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye è associato alla tua e-mail \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "Per maggiori dettagli, visitare"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Puoi disattivare in modo permanente \u003Cbr> Night Eye per questo browser."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Attivato"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Continua"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Puoi goderti Night Eye su un massimo di 3 browser contemporaneamente fino alla scadenza della tua prova gratuita di \u003Cbr> a $ 1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Puoi goderti Night Eye su browser fino a $ 1 alla volta."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Hai attivato correttamente l'estensione."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Puoi goderti Night Eye su un massimo di 3 browser contemporaneamente."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Puoi gestire i browser attivi nell'Area Clienti."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Per accedervi, vai su"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Attivazione riuscita"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Annulla"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Speriamo che Night Eye abbia dimostrato la sua utilità negli ultimi mesi!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Se vuoi continuare a usarlo, controlla i nostri prezzi e tutti i vantaggi che ne derivano."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye è associato alla tua e-mail \u003Cb class=\"AccountEmail\">$ 1\u003C/b>\u003Cbr> usala se decidi di pagare."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Prezzo"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Versione Pro"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Ci auguriamo che Night Eye abbia dimostrato la sua utilità negli ultimi mesi."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Puoi utilizzare la versione Lite gratuita per sempre o passare a Pro. Scopri i nostri prezzi e tutti i vantaggi che ne derivano."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "versione semplificata"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Modalità oscura su un massimo di 5 siti Web"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Versione Pro"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Senza limiti"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Il vostro periodo di prova è scaduto."
+   },
+   "trialLiteViewCancel": {
+      "message": "Annulla"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (rimuovere i limiti)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "La modalità oscura può essere abilitata su un massimo di \u003Cbr> 5 siti web. Puoi gestire l'elenco e modificarlo in qualsiasi momento."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Versione semplificata"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Leggi di Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "Salva"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Attivare"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Se hai già un account,\u003C/br> attivalo!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Annulla"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Speriamo che Night Eye abbia dimostrato la sua utilità negli ultimi mesi!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Se vuoi continuare a usarlo, controlla i nostri prezzi e tutti i vantaggi che ne derivano."
+   },
+   "trialProViewPricing": {
+      "message": "Prezzo"
+   },
+   "trialProViewTitle": {
+      "message": "Versione Pro"
+   }
+}

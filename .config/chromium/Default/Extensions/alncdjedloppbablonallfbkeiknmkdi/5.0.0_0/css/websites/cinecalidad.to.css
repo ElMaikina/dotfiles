@@ -1,0 +1,10 @@
+.home_post_cont img {
+    z-index: 0 !important;
+}
+
+.hover_caption_caption {
+    height: 100%;
+    background-color: #000;
+    z-index: 2;
+    box-sizing: border-box;
+}

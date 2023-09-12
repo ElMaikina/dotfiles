@@ -1,0 +1,7 @@
+.nav-header {
+    position: absolute !important;
+}
+
+.nav-header__bg--scroll {
+    backdrop-filter: unset !important;
+}

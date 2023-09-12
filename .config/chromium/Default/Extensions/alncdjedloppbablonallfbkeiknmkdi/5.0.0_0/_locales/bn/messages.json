@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "নীচের স্লাইডারটি টেনে উজ্জ্বলতা সামঞ্জস্য করুন।"
+   },
+   "brightnessViewTitle": {
+      "message": "উজ্জ্বলতা"
+   },
+   "colorViewDescription": {
+      "message": "ওয়েবসাইট থেকে একটি রঙ চয়ন করুন এবং আপনি যা চান তা পরিবর্তন করুন।"
+   },
+   "colorViewOriginalColor": {
+      "message": "আসল"
+   },
+   "colorViewReplacedColor": {
+      "message": "প্রতিস্থাপিত"
+   },
+   "colorViewTitle": {
+      "message": "রঙ চয়নকারী"
+   },
+   "contrastViewDescription": {
+      "message": "নীচের স্লাইডারটি টেনে বৈসাদৃশ্য সামঞ্জস্য করুন।"
+   },
+   "contrastViewTitle": {
+      "message": "বৈপরীত্য"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "সব ওয়েবসাইট"
+   },
+   "controlsPanelButtonApply": {
+      "message": "আবেদন করুন"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "আবেদন করতে"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "বাতিল করুন"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "রিসেট"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "পূর্বনির্ধারন পুনরুধার"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "বর্তমান ওয়েবসাইট"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "সব ওয়েবসাইটের জন্য"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "বর্তমান ওয়েবসাইটের জন্য"
+   },
+   "dimViewDescription": {
+      "message": "ওয়েবসাইটগুলির আবছা স্তর সামঞ্জস্য করুন।"
+   },
+   "dimViewTitle": {
+      "message": "আবছা"
+   },
+   "extDescription": {
+      "message": "প্রতিটি ওয়েবসাইটকে ইচ্ছামতো ডার্ক মোড/লাইট মোডে পরিবর্তন করুন। নাইট আই দিয়ে আপনার চোখের যত্ন নিন।"
+   },
+   "extDisabledStatus": {
+      "message": "নাইট আই থেমে গেছে"
+   },
+   "extName": {
+      "message": "ডার্ক মোড - নাইট আই"
+   },
+   "extToggleButton": {
+      "message": "ট্যাবের জন্য অন্ধকার এবং স্বাভাবিক মোড টগল করুন"
+   },
+   "extTurnOnButton": {
+      "message": "চালু করা"
+   },
+   "filterModeNameDark": {
+      "message": "অন্ধকার"
+   },
+   "filterModeNameFiltered": {
+      "message": "ফিল্টার করা হয়েছে"
+   },
+   "filterModeNameNormal": {
+      "message": "স্বাভাবিক"
+   },
+   "firstRunViewFeature1": {
+      "message": "পৃষ্ঠা লোডিং গতি প্রভাবিত হতে পারে"
+   },
+   "firstRunViewFeature2": {
+      "message": "বিনামূল্যে 3 মাস নাইট আই প্রো (কোনও ক্রেডিট কার্ড নেই)"
+   },
+   "firstRunViewFeature3": {
+      "message": "কোন ব্রাউজিং তথ্য সংগ্রহ করা হয় না"
+   },
+   "firstRunViewFeature4": {
+      "message": "বিল্ট-ইন চ্যাটের মাধ্যমে আমাদের সাথে যোগাযোগ করুন"
+   },
+   "firstRunViewTitle": {
+      "message": "দ্রুত শুরু"
+   },
+   "helpOSIntegrationLink": {
+      "message": "আরো বিস্তারিত"
+   },
+   "helpViewActivateNow": {
+      "message": "এখন সচল"
+   },
+   "helpViewActivated": {
+      "message": "আপনার এক্সটেনশন পরিচালনা করুন"
+   },
+   "helpViewByExpires": {
+      "message": "$1 \u003C/br>এ মেয়াদ শেষ হবে: $2৷"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "ক্লায়েন্ট এলাকা"
+   },
+   "helpViewDarkScroll": {
+      "message": "গাঢ় স্ক্রল"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "নাইট আই যেকোন স্ক্রোলকে অন্ধকার করে দিন।"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "নতুন ওয়েবসাইট খোলার সময় কার্যকর করা ডিফল্ট মোড নির্বাচন করুন"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "ডিফল্ট মোড"
+   },
+   "helpViewDisabled": {
+      "message": "অক্ষম"
+   },
+   "helpViewEnabled": {
+      "message": "সক্রিয়"
+   },
+   "helpViewExpiredNever": {
+      "message": "কখনই"
+   },
+   "helpViewExpires": {
+      "message": "$1 মেয়াদ শেষ"
+   },
+   "helpViewExportData": {
+      "message": "রপ্তানি তথ্য"
+   },
+   "helpViewGoProTitle": {
+      "message": "প্রো যান"
+   },
+   "helpViewHelpButton": {
+      "message": "সাহায্য"
+   },
+   "helpViewImportData": {
+      "message": "তথ্য আমদানি"
+   },
+   "helpViewLanguage": {
+      "message": "ভাষা"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "অন্ধকার মোড তালিকা পরিচালনা করুন"
+   },
+   "helpViewOSColorScheme": {
+      "message": "ওএস কালার স্কিম ইন্টিগ্রেশন"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "আপনার সক্রিয় OS কালার স্কিমের সাথে নাইট আই সিঙ্ক করুন।"
+   },
+   "helpViewShortcutDescription": {
+      "message": "আপনার নিজের শর্টকাট বরাদ্দ কিভাবে খুঁজে বের করুন"
+   },
+   "helpViewShortcutTitle": {
+      "message": "অন/অফ শর্টকাট"
+   },
+   "helpViewSignInSignUp": {
+      "message": "সাইন ইন সাইন আপ"
+   },
+   "helpViewSignOut": {
+      "message": "সাইন আউট"
+   },
+   "helpViewTimerDescr": {
+      "message": "কিভাবে এটা কাজ করে"
+   },
+   "helpViewTimerOff": {
+      "message": "বন্ধ"
+   },
+   "helpViewTimerOn": {
+      "message": "চালু"
+   },
+   "helpViewTimerTitle": {
+      "message": "সময়সূচী"
+   },
+   "helpViewUninstallDescription": {
+      "message": "এক্সটেনশন তালিকায় নাইট আই খুঁজুন এবং সরাতে ক্লিক করুন"
+   },
+   "helpViewUninstallTitle": {
+      "message": "আনইনস্টল করুন"
+   },
+   "helpViewWhiteListButton": {
+      "message": "হোয়াইটলিস্ট"
+   },
+   "imageViewDescription": {
+      "message": "নাইট আই ছবিগুলিকে আরও গাঢ় করে তোলে। এই বৈশিষ্ট্যটির জন্য আরও গণনামূলক সংস্থান প্রয়োজন এবং আপনার কম্পিউটারকে ধীর করে দিতে পারে।"
+   },
+   "imageViewTitle": {
+      "message": "ছবি"
+   },
+   "labelBlueLight": {
+      "message": "নীল আলো"
+   },
+   "labelBrightness": {
+      "message": "উজ্জ্বলতা"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "অন্তর্নির্মিত \u003Cbr>ডার্ক থিম"
+   },
+   "labelColors": {
+      "message": "রং"
+   },
+   "labelContinue": {
+      "message": "চালিয়ে যান"
+   },
+   "labelContrast": {
+      "message": "বিপরীত"
+   },
+   "labelCurrent": {
+      "message": "কারেন্ট"
+   },
+   "labelCustomCode": {
+      "message": "প্রচলিত সংকেত"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> পৃষ্ঠাগুলি কাস্টমাইজ করুন"
+   },
+   "labelDim": {
+      "message": "আবছা"
+   },
+   "labelDisabled": {
+      "message": "অক্ষম"
+   },
+   "labelEnabled": {
+      "message": "সক্রিয়"
+   },
+   "labelExperimentalFeature": {
+      "message": "পরীক্ষামূলক বৈশিষ্ট্য"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "পটভূমি রূপান্তর"
+   },
+   "labelImageHighCPU": {
+      "message": "উচ্চ CPU খরচ"
+   },
+   "labelImageIconConversion": {
+      "message": "আইকন রূপান্তর"
+   },
+   "labelImages": {
+      "message": "ছবি"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "তালিকা পরিচালনা করুন"
+   },
+   "labelPleaseWait": {
+      "message": "অনুগ্রহপূর্বক অপেক্ষা করুন"
+   },
+   "labelSaturation": {
+      "message": "স্যাচুরেশন"
+   },
+   "labelSubdomains": {
+      "message": "সাবডোমেন"
+   },
+   "labelTurboCache": {
+      "message": "স্থানীয় ক্যাশে"
+   },
+   "labelWebsite": {
+      "message": "ওয়েবসাইট"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "এই ওয়েবসাইটটি ডার্ক মোড তালিকায় যোগ করা হয়নি।"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "অন্ধকার সংস্করণ"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "ফিল্টার করা সংস্করণ"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "সাধারণ সংস্করণ"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "সমর্থিত নয়"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "এই ওয়েবসাইট সমর্থিত নয়"
+   },
+   "okButton": {
+      "message": "ঠিক আছে"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "বন্ধ"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "আপনি এখন 30 দিন ধরে নাইট আই ব্যবহার করছেন।"
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "আপনাকে ধন্যবাদ হিসাবে, আমাদের একটি বিশেষ 10% ছাড় রয়েছে। অনুগ্রহ করে ডিসকাউন্ট কোড ব্যবহার করুন \u003Cdiv class=\"DiscountCode\">-\u003C/div> এই অফারটি 48 ঘন্টার জন্য বৈধ।"
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "এখন আপনার PRO সংস্করণ পান"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "আপনি যদি আগ্রহী না হন, তাহলে বিনামূল্যে ট্রায়াল থেকে \u003Cbr> আপনার কাছে আরও 2 মাস বাকি আছে। উপভোগ করুন!"
+   },
+   "refreshButton": {
+      "message": "রিফ্রেশ"
+   },
+   "refreshViewDescription": {
+      "message": "সর্বশেষ সেটিংস প্রয়োগ করার জন্য আপনাকে বর্তমান পৃষ্ঠাটি রিফ্রেশ করতে হবে"
+   },
+   "refreshViewTitle": {
+      "message": "পৃষ্ঠাটি পুনরায় লোড করুন"
+   },
+   "saturationViewDescription": {
+      "message": "নীচের স্লাইডারটি টেনে স্যাচুরেশন সামঞ্জস্য করুন।"
+   },
+   "saturationViewTitle": {
+      "message": "স্যাচুরেশন"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "গভীর ইন্টিগ্রেশন আপনাকে ওয়েবসাইটগুলির অন্তর্নির্মিত অন্ধকার থিমগুলিকে নিয়ন্ত্রণ করতে দেয় যা ইতিমধ্যে একটি অন্ধকার UI প্রয়োগ করেছে৷"
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ডিপ ইন্টিগ্রেশন কিভাবে কাজ করে দেখুন"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "এখানে"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "গভীর একীকরণ"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "অক্ষম"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "রাতের চোখ অন্ধকার"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "নাইট আই আপনাকে মসৃণ এবং সামঞ্জস্যপূর্ণ অন্ধকার মোড প্রদান করতে আইকন এবং ব্যাকগ্রাউন্ডের মতো ছবিগুলিকে রূপান্তর করে।"
+   },
+   "settingsImageViewDescrP2": {
+      "message": "আইকন এবং ব্যাকগ্রাউন্ড রূপান্তর উচ্চ CPU খরচ সঙ্গে আসে."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "সেরা ডার্ক মোড অভিজ্ঞতার জন্য চালু করুন।"
+   },
+   "settingsImageViewDescrP4": {
+      "message": "CPU খরচ কমাতে বন্ধ করুন।"
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "নাইট আই এই ডোমেনের সমস্ত সাবডোমেনকে রূপান্তর করবে"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "আরো আরো টেক্সট"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "সেরা ডার্ক মোড অভিজ্ঞতার জন্য চালু করুন।"
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "CPU খরচ কমাতে বন্ধ করুন।"
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "ক্যাশে সাধারণ থেকে ডার্ক মোডে ওয়েবসাইট রূপান্তরকে গতি দেয় (পৃষ্ঠা লোড করার গতি প্রভাবিত হয় না)। এটি ওয়েবসাইটের উপর নির্ভর করে প্রাথমিক উজ্জ্বল ঝলকানি কমাতে পারে।"
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "ক্যাশে বৈশিষ্ট্যটি প্রায় 80% ওয়েবসাইটে কাজ করে, এইভাবে যদি একটি ওয়েবসাইট সঠিকভাবে আচরণ না করে, তাহলে দয়া করে এটির জন্য এটি বন্ধ করুন!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "নির্দিষ্ট ওয়েবসাইট বা আপনি পরিদর্শন করা সমস্ত ক্ষেত্রে প্রয়োগ করা যেতে পারে।"
+   },
+   "subdomainViewDescription": {
+      "message": "নাইট আই এই ডোমেনের সমস্ত সাবডোমেনকে রূপান্তর করবে"
+   },
+   "subdomainViewTitle": {
+      "message": "সাবডোমেন"
+   },
+   "supportViewContinueBtn": {
+      "message": "চালিয়ে যান"
+   },
+   "supportViewInfo1": {
+      "message": "নাইট আই নিয়ে আপনার কোনো প্রশ্ন বা সমস্যা থাকলে আমরা সাহায্য করতে এখানে আছি।"
+   },
+   "supportViewInfo2": {
+      "message": "আমাদের সমর্থন সিস্টেম ব্যবহার করতে, সঠিক যোগাযোগ তথ্য প্রদান করুন."
+   },
+   "supportViewInfo3": {
+      "message": "শুধুমাত্র ইংরেজিতে আমাদের বার্তা."
+   },
+   "supportViewInputEmail": {
+      "message": "ইমেইল"
+   },
+   "supportViewInputName": {
+      "message": "নাম"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "অনুগ্রহপূর্বক অপেক্ষা করুন..."
+   },
+   "switchLabelOff": {
+      "message": "বন্ধ"
+   },
+   "switchLabelOn": {
+      "message": "চালু"
+   },
+   "temperatureViewDescription": {
+      "message": "নীচের স্লাইডারটি টেনে নীল আলো সামঞ্জস্য করুন।"
+   },
+   "temperatureViewOption1": {
+      "message": "নীলের সাথে"
+   },
+   "temperatureViewOption2": {
+      "message": "নীল ছাড়া"
+   },
+   "temperatureViewTitle": {
+      "message": "নীল আলো"
+   },
+   "tooltipDark": {
+      "message": "এই মোড ব্যবহার করে, নাইট আই নির্বাচিত সেটিংসের উপর ভিত্তি করে রঙ পরিবর্তন করবে"
+   },
+   "tooltipFiltered": {
+      "message": "এই মোড ব্যবহার করে, ওয়েবসাইটটি ডিফল্টভাবে বেশ কয়েকটি ফিল্টারের প্লাস প্রভাব থাকবে - উজ্জ্বলতা, বৈসাদৃশ্য, স্যাচুরেশন, উষ্ণ/ঠান্ডা, আবছা"
+   },
+   "tooltipNormal": {
+      "message": "এই মোড ব্যবহার করে, ওয়েবসাইটটি ডিফল্টভাবে থাকবে, নাইট আই কোনো রঙ পরিবর্তন করবে না"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "সক্রিয় করুন"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "বাতিল করুন"
+   },
+   "trailActivationViewClientArea": {
+      "message": "গ্রাহকের এলাকা"
+   },
+   "trailActivationViewDescr": {
+      "message": "\u003Cbr>নাইট আই প্রো সক্রিয় করতে কেনাকাটা করার সময় আপনি যে ইমেলটি ব্যবহার করেছিলেন তা ব্যবহার করুন৷"
+   },
+   "trailActivationViewTitle": {
+      "message": "সক্রিয়করণ"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "বাতিল করুন"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "কন্ট্রোল প্যানেল"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "নিষ্ক্রিয় করুন"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "নাইট আই আপনার ই-মেইল \u003Cb class=\"ActivatedEmail\">$1\u003C/b> এর সাথে যুক্ত"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "আরো বিস্তারিত জানার জন্য, দেখুন"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "আপনি এই ব্রাউজারের জন্য \u003Cbr> নাইট আই স্থায়ীভাবে নিষ্ক্রিয় করতে পারেন।"
+   },
+   "trailLogoutViewTitle": {
+      "message": "সক্রিয়"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "চালিয়ে যান"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "আপনার \u003Cbr> বিনামূল্যে ট্রায়ালের মেয়াদ $1 এ শেষ না হওয়া পর্যন্ত আপনি একবারে 3টি পর্যন্ত ব্রাউজারে নাইট আই উপভোগ করতে পারবেন"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "আপনি একবারে $1 পর্যন্ত ব্রাউজারে নাইট আই উপভোগ করতে পারবেন।"
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "আপনি সফলভাবে এক্সটেনশন সক্রিয় করেছেন."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "আপনি একবারে 3টি পর্যন্ত ব্রাউজারে নাইট আই উপভোগ করতে পারবেন।"
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "আপনি ক্লায়েন্ট এলাকায় সক্রিয় ব্রাউজার পরিচালনা করতে পারেন."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "এটি অ্যাক্সেস করতে, অনুগ্রহ করে যান"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "সফল অ্যাক্টিভেশন"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "বাতিল করুন"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "আমরা আশা করি যে নাইট আই গত কয়েক মাস ধরে তার উপযোগিতা প্রমাণ করেছে!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "আপনি যদি এটি ব্যবহার চালিয়ে যেতে চান তবে আমাদের মূল্য এবং এর সাথে আসা সমস্ত সুবিধাগুলি দেখুন৷"
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "নাইট আই আপনার ই-মেইলের সাথে যুক্ত \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> যদি আপনি অর্থপ্রদান করার সিদ্ধান্ত নেন তাহলে এটি ব্যবহার করুন।"
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "মূল্য নির্ধারণ"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "প্রো সংস্করণ"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "আমরা আশা করি গত কয়েক মাস ধরে নাইট আই এর উপযোগিতা প্রমাণ করেছে।"
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "আপনি চিরতরে বিনামূল্যে লাইট সংস্করণ ব্যবহার করতে পারেন বা প্রো যেতে পারেন। আমাদের মূল্য এবং সাথে আসা সমস্ত সুবিধা দেখুন।"
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "হালকা সংস্করণ"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5টি পর্যন্ত ওয়েবসাইটে ডার্ক মোড"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "প্রো সংস্করণ"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "সীমাহীন"
+   },
+   "trialExpiredViewTitle": {
+      "message": "আপনার বিনামূল্যে ট্রায়াল মেয়াদ শেষ হয়ে গেছে."
+   },
+   "trialLiteViewCancel": {
+      "message": "বাতিল করুন"
+   },
+   "trialLiteViewGoPro": {
+      "message": "গো প্রো (সীমা সরান)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "ডার্ক মোড \u003Cbr> 5টি ওয়েবসাইটে সক্রিয় করা যেতে পারে। আপনি তালিকা পরিচালনা করতে পারেন এবং যেকোনো সময় পরিবর্তন করতে পারেন।"
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "হালকা সংস্করণ"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Lite সম্পর্কে পড়ুন"
+   },
+   "trialLiteViewSave": {
+      "message": "সংরক্ষণ"
+   },
+   "trialProViewActivateBtn": {
+      "message": "সক্রিয় করুন"
+   },
+   "trialProViewActivateDescr": {
+      "message": "আপনার যদি ইতিমধ্যে একটি অ্যাকাউন্ট থাকে,\u003C/br> দয়া করে এটি সক্রিয় করুন!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "বাতিল করুন"
+   },
+   "trialProViewDescrPart1": {
+      "message": "আমরা আশা করি যে নাইট আই গত কয়েক মাস ধরে তার উপযোগিতা প্রমাণ করেছে!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "আপনি যদি এটি ব্যবহার চালিয়ে যেতে চান তবে আমাদের মূল্য এবং এর সাথে আসা সমস্ত সুবিধাগুলি দেখুন৷"
+   },
+   "trialProViewPricing": {
+      "message": "মূল্য নির্ধারণ"
+   },
+   "trialProViewTitle": {
+      "message": "প্রো সংস্করণ"
+   }
+}

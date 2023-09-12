@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "ปรับความสว่างด้วยการลากตัวเลื่อนด้านล่าง"
+   },
+   "brightnessViewTitle": {
+      "message": "ความสว่าง"
+   },
+   "colorViewDescription": {
+      "message": "เลือกสีจากเว็บไซต์และเปลี่ยนเป็นสีใดก็ได้ที่คุณต้องการ"
+   },
+   "colorViewOriginalColor": {
+      "message": "ต้นฉบับ"
+   },
+   "colorViewReplacedColor": {
+      "message": "เปลี่ยนแล้ว"
+   },
+   "colorViewTitle": {
+      "message": "ตัวเลือกสี"
+   },
+   "contrastViewDescription": {
+      "message": "ปรับความคมชัดโดยการลากตัวเลื่อนด้านล่าง"
+   },
+   "contrastViewTitle": {
+      "message": "ตัดกัน"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "เว็บไซต์ทั้งหมด"
+   },
+   "controlsPanelButtonApply": {
+      "message": "นำมาใช้"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "ใช้กับ"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "ยกเลิก"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "รีเซ็ต"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "เรียกคืนค่าเริ่มต้น"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "เว็บไซต์ปัจจุบัน"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "สำหรับเว็บไซต์ทั้งหมด"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "สำหรับเว็บไซต์ปัจจุบัน"
+   },
+   "dimViewDescription": {
+      "message": "ปรับระดับการหรี่แสงของเว็บไซต์"
+   },
+   "dimViewTitle": {
+      "message": "ติ่มซำ"
+   },
+   "extDescription": {
+      "message": "เปลี่ยนแต่ละเว็บไซต์เป็นโหมดมืด / โหมดแสงตามต้องการ ดูแลดวงตาด้วย Night Eye"
+   },
+   "extDisabledStatus": {
+      "message": "ไนท์อายหยุดลง"
+   },
+   "extName": {
+      "message": "โหมดมืด - ตากลางคืน"
+   },
+   "extToggleButton": {
+      "message": "สลับโหมดมืดและปกติสำหรับแท็บ"
+   },
+   "extTurnOnButton": {
+      "message": "เปิด"
+   },
+   "filterModeNameDark": {
+      "message": "มืด"
+   },
+   "filterModeNameFiltered": {
+      "message": "กรองแล้ว"
+   },
+   "filterModeNameNormal": {
+      "message": "ปกติ"
+   },
+   "firstRunViewFeature1": {
+      "message": "ความเร็วในการโหลดหน้าอาจได้รับผลกระทบ"
+   },
+   "firstRunViewFeature2": {
+      "message": "ฟรี Night Eye Pro 3 เดือน (ไม่มีบัตรเครดิต)"
+   },
+   "firstRunViewFeature3": {
+      "message": "ไม่มีการรวบรวมข้อมูลการท่องเว็บ"
+   },
+   "firstRunViewFeature4": {
+      "message": "ติดต่อเราผ่านการแชทในตัว"
+   },
+   "firstRunViewTitle": {
+      "message": "เริ่มต้นอย่างรวดเร็ว"
+   },
+   "helpOSIntegrationLink": {
+      "message": "รายละเอียดเพิ่มเติม"
+   },
+   "helpViewActivateNow": {
+      "message": "เปิดใช้งานทันที"
+   },
+   "helpViewActivated": {
+      "message": "จัดการส่วนขยายของคุณ"
+   },
+   "helpViewByExpires": {
+      "message": "โดย $1 \u003C/br>หมดอายุ: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "พื้นที่ลูกค้า"
+   },
+   "helpViewDarkScroll": {
+      "message": "คัมภีร์มืด"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "ให้ Night Eye เปลี่ยนม้วนหนังสือให้มืดลง"
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "เลือกโหมดเริ่มต้นที่จะดำเนินการเมื่อเปิดเว็บไซต์ใหม่"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "โหมดเริ่มต้น"
+   },
+   "helpViewDisabled": {
+      "message": "พิการ"
+   },
+   "helpViewEnabled": {
+      "message": "เปิดใช้งาน"
+   },
+   "helpViewExpiredNever": {
+      "message": "ไม่เคย"
+   },
+   "helpViewExpires": {
+      "message": "หมดอายุ $1"
+   },
+   "helpViewExportData": {
+      "message": "ส่งออกข้อมูล"
+   },
+   "helpViewGoProTitle": {
+      "message": "ไปโปร"
+   },
+   "helpViewHelpButton": {
+      "message": "ช่วย"
+   },
+   "helpViewImportData": {
+      "message": "นำเข้าข้อมูล"
+   },
+   "helpViewLanguage": {
+      "message": "ภาษา"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "จัดการรายการโหมดมืด"
+   },
+   "helpViewOSColorScheme": {
+      "message": "การรวม OS Color Scheme"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "ซิงค์ Night Eye กับ OS Color Scheme ที่ใช้งานอยู่"
+   },
+   "helpViewShortcutDescription": {
+      "message": "ดูวิธีกำหนดทางลัดของคุณเอง"
+   },
+   "helpViewShortcutTitle": {
+      "message": "เปิด/ปิดทางลัด"
+   },
+   "helpViewSignInSignUp": {
+      "message": "เข้าสู่ระบบ / สมัครสมาชิก"
+   },
+   "helpViewSignOut": {
+      "message": "ออกจากระบบ"
+   },
+   "helpViewTimerDescr": {
+      "message": "มันทำงานอย่างไร"
+   },
+   "helpViewTimerOff": {
+      "message": "ปิด"
+   },
+   "helpViewTimerOn": {
+      "message": "บน"
+   },
+   "helpViewTimerTitle": {
+      "message": "กำหนดการ"
+   },
+   "helpViewUninstallDescription": {
+      "message": "ค้นหา Night Eye ในรายการส่วนขยายแล้วคลิกลบ"
+   },
+   "helpViewUninstallTitle": {
+      "message": "ถอนการติดตั้ง"
+   },
+   "helpViewWhiteListButton": {
+      "message": "ไวท์ลิสต์"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye ประมวลผลภาพให้เข้มขึ้น คุณลักษณะนี้ต้องใช้ทรัพยากรในการคำนวณมากขึ้นและอาจทำให้คอมพิวเตอร์ของคุณช้าลง"
+   },
+   "imageViewTitle": {
+      "message": "รูปภาพ"
+   },
+   "labelBlueLight": {
+      "message": "แสงสีฟ้า"
+   },
+   "labelBrightness": {
+      "message": "ความสว่าง"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "ในตัว \u003Cbr>ธีมสีเข้ม"
+   },
+   "labelColors": {
+      "message": "สี"
+   },
+   "labelContinue": {
+      "message": "ดำเนินการต่อ"
+   },
+   "labelContrast": {
+      "message": "ตัดกัน"
+   },
+   "labelCurrent": {
+      "message": "หมุนเวียน"
+   },
+   "labelCustomCode": {
+      "message": "รหัสที่กำหนดเอง"
+   },
+   "labelCustomUrlPath": {
+      "message": "ปรับแต่ง \u003Cbr> เพจ"
+   },
+   "labelDim": {
+      "message": "สลัว"
+   },
+   "labelDisabled": {
+      "message": "พิการ"
+   },
+   "labelEnabled": {
+      "message": "เปิดใช้งาน"
+   },
+   "labelExperimentalFeature": {
+      "message": "คุณสมบัติทดลอง"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "การแปลงพื้นหลัง"
+   },
+   "labelImageHighCPU": {
+      "message": "การบริโภค CPU สูง"
+   },
+   "labelImageIconConversion": {
+      "message": "การแปลงไอคอน"
+   },
+   "labelImages": {
+      "message": "ภาพ"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "จัดการรายการ"
+   },
+   "labelPleaseWait": {
+      "message": "โปรดรอ"
+   },
+   "labelSaturation": {
+      "message": "ความอิ่มตัว"
+   },
+   "labelSubdomains": {
+      "message": "โดเมนย่อย"
+   },
+   "labelTurboCache": {
+      "message": "แคชในเครื่อง"
+   },
+   "labelWebsite": {
+      "message": "เว็บไซต์"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "เว็บไซต์นี้ไม่ได้เพิ่มในรายการโหมดมืด"
+   },
+   "labelWebsiteStatusDark": {
+      "message": "เวอร์ชั่นมืด"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "เวอร์ชันที่กรอง"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "เวอร์ชั่นปกติ"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "ไม่รองรับ"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "ไม่รองรับเว็บไซต์นี้"
+   },
+   "okButton": {
+      "message": "ตกลง"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "ปิด I"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "คุณใช้ Night Eye มา 30 วันแล้ว"
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "เพื่อเป็นการขอบคุณ เรามีส่วนลดพิเศษ 10% โปรดใช้รหัสส่วนลด \u003Cdiv class=\"DiscountCode\">-\u003C/div> ข้อเสนอนี้มีอายุ 48 ชั่วโมง"
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "รับเวอร์ชัน PRO ของคุณทันที"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "หากคุณไม่สนใจ\u003Cbr> คุณเหลือเวลาอีก 2 เดือน \u003Cbr> จากการทดลองใช้ฟรี สนุก!"
+   },
+   "refreshButton": {
+      "message": "รีเฟรช"
+   },
+   "refreshViewDescription": {
+      "message": "คุณต้องรีเฟรชหน้าปัจจุบันเพื่อใช้การตั้งค่าล่าสุด"
+   },
+   "refreshViewTitle": {
+      "message": "กรุณาโหลดหน้านี้ใหม่"
+   },
+   "saturationViewDescription": {
+      "message": "ปรับความอิ่มตัวด้วยการลากตัวเลื่อนด้านล่าง"
+   },
+   "saturationViewTitle": {
+      "message": "ความอิ่มตัว"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "การผสานรวมอย่างลึกซึ้งช่วยให้คุณควบคุมธีมมืดในตัวของเว็บไซต์ที่ใช้ UI สีเข้มแล้ว"
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ดูว่าการบูรณาการเชิงลึกทำงานอย่างไร"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ที่นี่"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "การบูรณาการอย่างลึกซึ้ง"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "พิการ"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "ไนท์ อาย ดาร์ก"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye จะแปลงภาพต่างๆ เช่น ไอคอนและพื้นหลังเพื่อให้คุณมีโหมดมืดที่ราบรื่นและสม่ำเสมอ"
+   },
+   "settingsImageViewDescrP2": {
+      "message": "การแปลงไอคอนและพื้นหลังมาพร้อมกับการใช้ CPU สูง"
+   },
+   "settingsImageViewDescrP3": {
+      "message": "เปิดเพื่อประสบการณ์โหมดมืดที่ดีที่สุด"
+   },
+   "settingsImageViewDescrP4": {
+      "message": "ปิดเพื่อลดการใช้ CPU"
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye จะแปลงโดเมนย่อยทั้งหมดของโดเมนนี้"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "ข้อความเพิ่มเติม"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "เปิดเพื่อประสบการณ์โหมดมืดที่ดีที่สุด"
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "ปิดเพื่อลดการใช้ CPU"
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "แคชช่วยเพิ่มความเร็วในการแปลงเว็บไซต์จากโหมดปกติเป็นโหมดมืด (ความเร็วในการโหลดหน้าไม่ได้รับผลกระทบ) สามารถลดแสงวูบวาบเริ่มแรกได้ ขึ้นอยู่กับเว็บไซต์"
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "ฟีเจอร์แคชทำงานบนเว็บไซต์ประมาณ 80% ดังนั้นหากเว็บไซต์ทำงานไม่ถูกต้อง โปรดปิดมัน!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "ใช้ได้กับบางเว็บไซต์หรือทุกเว็บไซต์ที่คุณเข้าชม"
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye จะแปลงโดเมนย่อยทั้งหมดของโดเมนนี้"
+   },
+   "subdomainViewTitle": {
+      "message": "โดเมนย่อย"
+   },
+   "supportViewContinueBtn": {
+      "message": "ดำเนินการต่อ"
+   },
+   "supportViewInfo1": {
+      "message": "เราพร้อมให้ความช่วยเหลือหากคุณมีคำถามหรือปัญหาเกี่ยวกับ Night Eye"
+   },
+   "supportViewInfo2": {
+      "message": "หากต้องการใช้ระบบสนับสนุนของเรา โปรดระบุข้อมูลติดต่อที่ถูกต้อง"
+   },
+   "supportViewInfo3": {
+      "message": "ส่งข้อความหาเราเป็นภาษาอังกฤษเท่านั้น"
+   },
+   "supportViewInputEmail": {
+      "message": "อีเมล"
+   },
+   "supportViewInputName": {
+      "message": "ชื่อ"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "โปรดรอ..."
+   },
+   "switchLabelOff": {
+      "message": "ปิด"
+   },
+   "switchLabelOn": {
+      "message": "บน"
+   },
+   "temperatureViewDescription": {
+      "message": "ปรับแสงสีน้ำเงินโดยลากตัวเลื่อนด้านล่าง"
+   },
+   "temperatureViewOption1": {
+      "message": "ด้วยสีน้ำเงิน"
+   },
+   "temperatureViewOption2": {
+      "message": "ไม่มีสีน้ำเงิน"
+   },
+   "temperatureViewTitle": {
+      "message": "แสงสีฟ้า"
+   },
+   "tooltipDark": {
+      "message": "เมื่อใช้โหมดนี้ Night Eye จะเปลี่ยนสีตามการตั้งค่าที่เลือก"
+   },
+   "tooltipFiltered": {
+      "message": "เมื่อใช้โหมดนี้ เว็บไซต์จะเป็นค่าเริ่มต้นพร้อมเอฟเฟกต์ของฟิลเตอร์หลายตัว - ความสว่าง, คอนทราสต์, ความอิ่มตัว, อุ่น/เย็น, สลัว"
+   },
+   "tooltipNormal": {
+      "message": "เมื่อใช้โหมดนี้ เว็บไซต์จะเป็นค่าเริ่มต้น Night Eye จะไม่เปลี่ยนสีใดๆ"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "เปิดใช้งาน"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "ยกเลิก"
+   },
+   "trailActivationViewClientArea": {
+      "message": "พื้นที่ของลูกค้า"
+   },
+   "trailActivationViewDescr": {
+      "message": "โปรดใช้อีเมลที่คุณใช้ในการซื้อเพื่อเปิดใช้งาน \u003Cbr>Night Eye Pro"
+   },
+   "trailActivationViewTitle": {
+      "message": "การเปิดใช้งาน"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "ยกเลิก"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "แผงควบคุม"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "ปิดการใช้งาน"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Night eye เชื่อมโยงกับอีเมลของคุณ \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "ดูรายละเอียดเพิ่มเติมได้ที่"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "คุณสามารถปิดการใช้งาน \u003Cbr> Night Eye สำหรับเบราว์เซอร์นี้ได้อย่างถาวร"
+   },
+   "trailLogoutViewTitle": {
+      "message": "เปิดใช้งานแล้ว"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "ดำเนินการต่อ"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "คุณสามารถเพลิดเพลินกับ Night Eye ได้มากถึง 3 เบราว์เซอร์ในคราวเดียว จนกว่าช่วงทดลองใช้ฟรี \u003Cbr> ของคุณจะหมดอายุในราคา $1"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "คุณสามารถเพลิดเพลินกับ Night Eye บนเบราว์เซอร์ได้มากถึง $1 พร้อมกัน"
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "คุณเปิดใช้งานส่วนขยายสำเร็จแล้ว"
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "คุณสามารถเพลิดเพลินกับ Night Eye บนเบราว์เซอร์ได้สูงสุด 3 เบราว์เซอร์พร้อมกัน"
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "คุณสามารถจัดการเบราว์เซอร์ที่ใช้งานอยู่ในพื้นที่ไคลเอ็นต์"
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "หากต้องการเข้าถึง โปรดไปที่"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "เปิดใช้งานสำเร็จ"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "ยกเลิก"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "เราหวังว่า Night Eye จะพิสูจน์ประโยชน์ของมันในช่วงหลายเดือนที่ผ่านมา!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "หากคุณต้องการใช้งานต่อไป ให้ตรวจสอบราคาของเราและประโยชน์ทั้งหมดที่มาพร้อมกับ"
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye เชื่อมโยงกับอีเมลของคุณ \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> ที่ใช้หากคุณตัดสินใจชำระเงิน"
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "ราคา"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "รุ่นโปร"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "เราหวังว่า Night Eye จะพิสูจน์ประโยชน์ของมันในช่วงหลายเดือนที่ผ่านมา"
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "คุณสามารถใช้รุ่น Lite ฟรีตลอดไปหรือใช้งานแบบ Pro ตรวจสอบราคาของเราและประโยชน์ทั้งหมดที่มาพร้อมกับ"
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "รุ่น Lite"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "โหมดมืดสูงสุด 5 เว็บไซต์"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "รุ่นโปร"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "ไม่มีขีด จำกัด"
+   },
+   "trialExpiredViewTitle": {
+      "message": "ช่วงทดลองใช้ฟรีของคุณหมดอายุแล้ว"
+   },
+   "trialLiteViewCancel": {
+      "message": "ยกเลิก"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (ลบขีด จำกัด )"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "โหมดมืดสามารถเปิดใช้งานได้มากถึง \u003Cbr> 5 เว็บไซต์ คุณสามารถจัดการรายการและเปลี่ยนแปลงได้ตลอดเวลา"
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "รุ่น Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "อ่านเกี่ยวกับ Lite"
+   },
+   "trialLiteViewSave": {
+      "message": "บันทึก"
+   },
+   "trialProViewActivateBtn": {
+      "message": "เปิดใช้งาน"
+   },
+   "trialProViewActivateDescr": {
+      "message": "หากคุณมีบัญชีอยู่แล้ว\u003C/br> โปรดเปิดใช้งาน!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "ยกเลิก"
+   },
+   "trialProViewDescrPart1": {
+      "message": "เราหวังว่า Night Eye จะพิสูจน์ประโยชน์ของมันในช่วงหลายเดือนที่ผ่านมา!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "หากคุณต้องการใช้งานต่อไป ให้ตรวจสอบราคาของเราและประโยชน์ทั้งหมดที่มาพร้อมกับ"
+   },
+   "trialProViewPricing": {
+      "message": "ราคา"
+   },
+   "trialProViewTitle": {
+      "message": "รุ่นโปร"
+   }
+}

@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "روشنایی را با کشیدن نوار لغزنده زیر تنظیم کنید."
+   },
+   "brightnessViewTitle": {
+      "message": "روشنایی"
+   },
+   "colorViewDescription": {
+      "message": "یک رنگ از وب سایت انتخاب کنید و آن را به هر چیزی که می خواهید تغییر دهید."
+   },
+   "colorViewOriginalColor": {
+      "message": "اصل"
+   },
+   "colorViewReplacedColor": {
+      "message": "جایگزین شد"
+   },
+   "colorViewTitle": {
+      "message": "انتخاب کننده رنگ"
+   },
+   "contrastViewDescription": {
+      "message": "کنتراست را با کشیدن نوار لغزنده زیر تنظیم کنید."
+   },
+   "contrastViewTitle": {
+      "message": "تضاد"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "همه وب سایت ها"
+   },
+   "controlsPanelButtonApply": {
+      "message": "درخواست دادن"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "درخواست به"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "لغو کنید"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "بازنشانی کنید"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "بازیابی پیش فرض ها"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "وب سایت فعلی"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "برای همه وب سایت ها"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "برای وب سایت فعلی"
+   },
+   "dimViewDescription": {
+      "message": "سطح کم نور شدن وب سایت ها را تنظیم کنید."
+   },
+   "dimViewTitle": {
+      "message": "کم نور"
+   },
+   "extDescription": {
+      "message": "هر وب سایت را به صورت دلخواه به حالت تاریک / حالت روشن تغییر دهید. با چشم شب از چشمان خود مراقبت کنید."
+   },
+   "extDisabledStatus": {
+      "message": "چشم شب متوقف شده است"
+   },
+   "extName": {
+      "message": "حالت تاریک - چشم شب"
+   },
+   "extToggleButton": {
+      "message": "حالت تاریک و عادی را برای برگه تغییر دهید"
+   },
+   "extTurnOnButton": {
+      "message": "روشن کن"
+   },
+   "filterModeNameDark": {
+      "message": "تاریک"
+   },
+   "filterModeNameFiltered": {
+      "message": "فیلتر شده"
+   },
+   "filterModeNameNormal": {
+      "message": "طبیعی"
+   },
+   "firstRunViewFeature1": {
+      "message": "سرعت بارگذاری صفحه ممکن است تحت تأثیر قرار گیرد"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 ماه رایگان Night Eye Pro (بدون کارت اعتباری)"
+   },
+   "firstRunViewFeature3": {
+      "message": "هیچ اطلاعات مرور جمع آوری نمی شود"
+   },
+   "firstRunViewFeature4": {
+      "message": "از طریق چت داخلی با ما تماس بگیرید"
+   },
+   "firstRunViewTitle": {
+      "message": "شروع سریع"
+   },
+   "helpOSIntegrationLink": {
+      "message": "جزئیات بیشتر"
+   },
+   "helpViewActivateNow": {
+      "message": "هم اکنون فعال کن"
+   },
+   "helpViewActivated": {
+      "message": "برنامه افزودنی خود را مدیریت کنید"
+   },
+   "helpViewByExpires": {
+      "message": "توسط $1 \u003C/br>منقضی می شود: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "منطقه مشتری"
+   },
+   "helpViewDarkScroll": {
+      "message": "طومارهای تاریک"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "اجازه دهید Night Eye هر اسکرول را تاریک کند."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "حالت پیش فرض را برای اجرا در هنگام باز کردن وب سایت های جدید انتخاب کنید"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "حالت پیش فرض"
+   },
+   "helpViewDisabled": {
+      "message": "معلول"
+   },
+   "helpViewEnabled": {
+      "message": "فعال شد"
+   },
+   "helpViewExpiredNever": {
+      "message": "هرگز"
+   },
+   "helpViewExpires": {
+      "message": "1 دلار منقضی می شود"
+   },
+   "helpViewExportData": {
+      "message": "صادرات داده ها"
+   },
+   "helpViewGoProTitle": {
+      "message": "برو طرفدار"
+   },
+   "helpViewHelpButton": {
+      "message": "کمک"
+   },
+   "helpViewImportData": {
+      "message": "داده ها را وارد کنید"
+   },
+   "helpViewLanguage": {
+      "message": "زبان"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "لیست حالت تاریک را مدیریت کنید"
+   },
+   "helpViewOSColorScheme": {
+      "message": "ادغام طرح رنگ سیستم عامل"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Night Eye را با طرح رنگ سیستم عامل فعال خود همگام کنید."
+   },
+   "helpViewShortcutDescription": {
+      "message": "نحوه اختصاص میانبر خود را بیابید"
+   },
+   "helpViewShortcutTitle": {
+      "message": "میانبر روشن/خاموش"
+   },
+   "helpViewSignInSignUp": {
+      "message": "ورود ثبت نام"
+   },
+   "helpViewSignOut": {
+      "message": "خروج از سیستم"
+   },
+   "helpViewTimerDescr": {
+      "message": "چگونه کار می کند"
+   },
+   "helpViewTimerOff": {
+      "message": "خاموش"
+   },
+   "helpViewTimerOn": {
+      "message": "بر"
+   },
+   "helpViewTimerTitle": {
+      "message": "برنامه"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Night Eye را در لیست افزونه ها پیدا کنید و روی حذف کلیک کنید"
+   },
+   "helpViewUninstallTitle": {
+      "message": "حذف نصب کنید"
+   },
+   "helpViewWhiteListButton": {
+      "message": "لیست سفید"
+   },
+   "imageViewDescription": {
+      "message": "Night Eye تصاویر را پردازش می کند و آنها را تیره تر می کند. این ویژگی به منابع محاسباتی بیشتری نیاز دارد و می تواند کامپیوتر شما را کند کند."
+   },
+   "imageViewTitle": {
+      "message": "تصاویر"
+   },
+   "labelBlueLight": {
+      "message": "نور آبی"
+   },
+   "labelBrightness": {
+      "message": "روشنایی"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "تم داخلی \u003Cbr>تاریک"
+   },
+   "labelColors": {
+      "message": "رنگ ها"
+   },
+   "labelContinue": {
+      "message": "ادامه هید"
+   },
+   "labelContrast": {
+      "message": "تضاد"
+   },
+   "labelCurrent": {
+      "message": "جاری"
+   },
+   "labelCustomCode": {
+      "message": "کد سفارشی"
+   },
+   "labelCustomUrlPath": {
+      "message": "سفارشی کردن صفحات \u003Cbr>"
+   },
+   "labelDim": {
+      "message": "کم نور"
+   },
+   "labelDisabled": {
+      "message": "معلول"
+   },
+   "labelEnabled": {
+      "message": "فعال شد"
+   },
+   "labelExperimentalFeature": {
+      "message": "ویژگی آزمایشی"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "تبدیل پس زمینه"
+   },
+   "labelImageHighCPU": {
+      "message": "مصرف بالای CPU"
+   },
+   "labelImageIconConversion": {
+      "message": "تبدیل آیکون ها"
+   },
+   "labelImages": {
+      "message": "تصاویر"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "لیست را مدیریت کنید"
+   },
+   "labelPleaseWait": {
+      "message": "لطفا صبر کنید"
+   },
+   "labelSaturation": {
+      "message": "اشباع"
+   },
+   "labelSubdomains": {
+      "message": "زیر دامنه ها"
+   },
+   "labelTurboCache": {
+      "message": "حافظه پنهان محلی"
+   },
+   "labelWebsite": {
+      "message": "سایت اینترنتی"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "این وب سایت به لیست حالت تاریک اضافه نشده است."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "نسخه تاریک"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "نسخه فیلتر شده"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "نسخه معمولی"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "پشتیبانی نشده"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "این وب سایت پشتیبانی نمی شود"
+   },
+   "okButton": {
+      "message": "خوب"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "نزدیک"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "اکنون 30 روز است که از چشم شب استفاده می کنید."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "برای تشکر از شما 10 درصد تخفیف ویژه داریم. لطفا از کد تخفیف \u003Cdiv class=\"DiscountCode\">-\u003C/div> استفاده کنید این پیشنهاد به مدت 48 ساعت معتبر است."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "اکنون نسخه PRO خود را دریافت کنید"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "اگر علاقه ندارید،\u003Cbr> 2 ماه دیگر از دوره آزمایشی رایگان \u003Cbr> باقی مانده است. لذت بردن!"
+   },
+   "refreshButton": {
+      "message": "تازه کردن"
+   },
+   "refreshViewDescription": {
+      "message": "برای اعمال آخرین تنظیمات باید صفحه فعلی را بازخوانی کنید"
+   },
+   "refreshViewTitle": {
+      "message": "لطفا صفحه را دوباره بارگذاری کنید"
+   },
+   "saturationViewDescription": {
+      "message": "با کشیدن نوار لغزنده زیر میزان اشباع را تنظیم کنید."
+   },
+   "saturationViewTitle": {
+      "message": "اشباع"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "یکپارچه‌سازی عمیق به شما امکان می‌دهد تم‌های تاریک داخلی وب‌سایت‌هایی را که قبلاً یک رابط کاربری تاریک اجرا کرده‌اند، کنترل کنید."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ببینید یکپارچگی عمیق چگونه کار می کند"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "اینجا"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "یکپارچگی عمیق"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "معلول"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "چشم شب تاریک"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "Night Eye تصاویری مانند آیکون‌ها و پس‌زمینه‌ها را تبدیل می‌کند تا حالت تاریک صاف و یکدستی را برای شما فراهم کند."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "تبدیل آیکون ها و پس زمینه ها با مصرف بالای CPU همراه است."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "برای بهترین تجربه حالت تاریک آن را روشن کنید."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "برای کاهش مصرف CPU آن را خاموش کنید."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "Night Eye تمامی زیر دامنه های این دامنه را تبدیل می کند"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "متن بیشتر"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "برای بهترین تجربه حالت تاریک آن را روشن کنید."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "برای کاهش مصرف CPU آن را خاموش کنید."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "کش سرعت تبدیل وب سایت را از حالت عادی به حالت تاریک افزایش می دهد (سرعت بارگذاری صفحه تحت تأثیر قرار نمی گیرد). بسته به وب سایت، می تواند فلاش های روشن اولیه را کاهش دهد."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "ویژگی کش در حدود 80 درصد از وب سایت ها کار می کند، بنابراین اگر یک وب سایت به درستی رفتار نمی کند، لطفاً آن را برای آن خاموش کنید!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "می تواند برای وب سایت خاصی یا برای همه کسانی که بازدید می کنید اعمال شود."
+   },
+   "subdomainViewDescription": {
+      "message": "Night Eye تمامی زیر دامنه های این دامنه را تبدیل می کند"
+   },
+   "subdomainViewTitle": {
+      "message": "زیر دامنه ها"
+   },
+   "supportViewContinueBtn": {
+      "message": "ادامه هید"
+   },
+   "supportViewInfo1": {
+      "message": "ما اینجا هستیم تا در صورت داشتن هر گونه سوال یا مشکل در مورد Night Eye به شما کمک کنیم."
+   },
+   "supportViewInfo2": {
+      "message": "برای استفاده از سیستم پشتیبانی ما، لطفا اطلاعات تماس صحیح را ارائه دهید."
+   },
+   "supportViewInfo3": {
+      "message": "فقط به زبان انگلیسی به ما پیام دهید."
+   },
+   "supportViewInputEmail": {
+      "message": "پست الکترونیک"
+   },
+   "supportViewInputName": {
+      "message": "نام"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "لطفا صبر کنید..."
+   },
+   "switchLabelOff": {
+      "message": "خاموش"
+   },
+   "switchLabelOn": {
+      "message": "بر"
+   },
+   "temperatureViewDescription": {
+      "message": "نور آبی را با کشیدن نوار لغزنده زیر تنظیم کنید."
+   },
+   "temperatureViewOption1": {
+      "message": "با آبی"
+   },
+   "temperatureViewOption2": {
+      "message": "بدون آبی"
+   },
+   "temperatureViewTitle": {
+      "message": "نور آبی"
+   },
+   "tooltipDark": {
+      "message": "با استفاده از این حالت، Night Eye رنگ ها را بر اساس تنظیمات انتخاب شده تغییر می دهد"
+   },
+   "tooltipFiltered": {
+      "message": "با استفاده از این حالت، وب‌سایت به‌طور پیش‌فرض دارای اثر چند فیلتر خواهد بود - روشنایی، کنتراست، اشباع، گرم/سرد، کم نور."
+   },
+   "tooltipNormal": {
+      "message": "با استفاده از این حالت، وب سایت به صورت پیش فرض خواهد بود، چشم شب هیچ رنگی را تغییر نمی دهد"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "فعال کنید"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "لغو کنید"
+   },
+   "trailActivationViewClientArea": {
+      "message": "منطقه مشتری"
+   },
+   "trailActivationViewDescr": {
+      "message": "لطفاً از ایمیلی که هنگام خرید استفاده کرده اید برای فعال کردن \u003Cbr>Night Eye Pro استفاده کنید."
+   },
+   "trailActivationViewTitle": {
+      "message": "فعال سازی"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "لغو کنید"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "صفحه کنترل"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "از کار انداختن"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "چشم شب با ایمیل \u003Cb class=\"ActivatedEmail\">$1\u003C/b> شما مرتبط است"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "برای جزئیات بیشتر، مراجعه کنید"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "شما می توانید برای همیشه \u003Cbr> Night Eye را برای این مرورگر غیرفعال کنید."
+   },
+   "trailLogoutViewTitle": {
+      "message": "فعال شد"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "ادامه هید"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "تا زمانی که نسخه آزمایشی رایگان \u003Cbr> شما در $1 منقضی شود، می توانید از Night Eye در حداکثر 3 مرورگر به طور همزمان لذت ببرید."
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "می‌توانید به‌طور هم‌زمان از Night Eye در مرورگرهای حداکثر 1 دلاری لذت ببرید."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "افزونه را با موفقیت فعال کردید."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "می توانید از Night Eye در حداکثر 3 مرورگر به طور همزمان لذت ببرید."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "می توانید مرورگرهای فعال را در ناحیه مشتری مدیریت کنید."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "برای دسترسی به آن لطفا به"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "فعال سازی موفق"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "لغو کنید"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "امیدواریم که چشم شب مفید بودن خود را در ماه های گذشته ثابت کرده باشد!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "اگر می‌خواهید به استفاده از آن ادامه دهید، قیمت ما و تمام مزایایی که به همراه دارد را بررسی کنید."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "Night Eye با ایمیل شما مرتبط است \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> اگر تصمیم به پرداخت دارید از آن استفاده کنید."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "قیمت گذاری"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "نسخه حرفه ای"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "امیدواریم چشم شب مفید بودن خود را در ماه های گذشته ثابت کرده باشد."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "می توانید برای همیشه از نسخه Lite رایگان استفاده کنید یا به Pro. قیمت ما و تمام مزایایی که به همراه دارد را بررسی کنید."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "نسخه Lite"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "حالت تاریک در حداکثر 5 وب سایت"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "نسخه حرفه ای"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "بدون محدودیت"
+   },
+   "trialExpiredViewTitle": {
+      "message": "دوره آزمایشی رایگان شما منقضی شده است."
+   },
+   "trialLiteViewCancel": {
+      "message": "لغو کنید"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (حذف محدودیت ها)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "حالت تاریک را می توان در حداکثر \u003Cbr> 5 وب سایت فعال کرد. شما می توانید لیست را مدیریت کرده و هر زمان که بخواهید آن را تغییر دهید."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "نسخه Lite"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "درباره Lite بخوانید"
+   },
+   "trialLiteViewSave": {
+      "message": "صرفه جویی"
+   },
+   "trialProViewActivateBtn": {
+      "message": "فعال کنید"
+   },
+   "trialProViewActivateDescr": {
+      "message": "اگر از قبل یک حساب دارید، لطفاً آن را فعال کنید!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "لغو کنید"
+   },
+   "trialProViewDescrPart1": {
+      "message": "امیدواریم که چشم شب مفید بودن خود را در ماه های گذشته ثابت کرده باشد!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "اگر می‌خواهید به استفاده از آن ادامه دهید، قیمت ما و تمام مزایایی که به همراه دارد را بررسی کنید."
+   },
+   "trialProViewPricing": {
+      "message": "قیمت گذاری"
+   },
+   "trialProViewTitle": {
+      "message": "نسخه حرفه ای"
+   }
+}

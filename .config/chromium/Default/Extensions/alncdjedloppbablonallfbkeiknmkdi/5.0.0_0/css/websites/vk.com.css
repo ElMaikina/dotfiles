@@ -1,0 +1,17 @@
+.videoplayer_btn_icon,
+.videoplayer_volume_slider {
+    filter: invert(1);
+}
+
+.videoplayer_timeline ._bars_wrap {
+    filter: invert(1);
+}
+
+.videoplayer_settings_icon,
+.videoplayer_next_icon {
+    filter: none !important;
+}
+
+.videocat_items_block .video_item .video_item_thumb_wrap {
+    filter: none;
+}

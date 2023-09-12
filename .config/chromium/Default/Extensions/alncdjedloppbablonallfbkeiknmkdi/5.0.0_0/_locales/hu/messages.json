@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "Állítsa be a fényerőt az alábbi csúszka húzásával."
+   },
+   "brightnessViewTitle": {
+      "message": "Fényerősség"
+   },
+   "colorViewDescription": {
+      "message": "Válasszon egy színt a webhelyről, és változtassa meg a kívánt színre."
+   },
+   "colorViewOriginalColor": {
+      "message": "Eredeti"
+   },
+   "colorViewReplacedColor": {
+      "message": "Lecserélve"
+   },
+   "colorViewTitle": {
+      "message": "Színválasztó"
+   },
+   "contrastViewDescription": {
+      "message": "Állítsa be a kontrasztot az alábbi csúszka húzásával."
+   },
+   "contrastViewTitle": {
+      "message": "Kontraszt"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "minden webhely"
+   },
+   "controlsPanelButtonApply": {
+      "message": "Alkalmaz"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "Vonatkoznak"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "Megszünteti"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "Visszaállítás"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "Alapértékek visszaállítása"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "aktuális weboldal"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "minden webhelyhez"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "az aktuális weboldalhoz"
+   },
+   "dimViewDescription": {
+      "message": "Állítsa be a webhelyek elsötétítési szintjét."
+   },
+   "dimViewTitle": {
+      "message": "Homályos"
+   },
+   "extDescription": {
+      "message": "Igény szerint minden webhelyet állítson sötét/világos módba. Vigyázzon a szemére a Night Eye segítségével."
+   },
+   "extDisabledStatus": {
+      "message": "Night Eye leállt"
+   },
+   "extName": {
+      "message": "Sötét mód – Night Eye"
+   },
+   "extToggleButton": {
+      "message": "Sötét és normál mód váltása a lapon"
+   },
+   "extTurnOnButton": {
+      "message": "Bekapcsol"
+   },
+   "filterModeNameDark": {
+      "message": "Sötét"
+   },
+   "filterModeNameFiltered": {
+      "message": "Szűrt"
+   },
+   "filterModeNameNormal": {
+      "message": "Normál"
+   },
+   "firstRunViewFeature1": {
+      "message": "Ez befolyásolhatja az oldal betöltési sebességét"
+   },
+   "firstRunViewFeature2": {
+      "message": "Ingyenes Night Eye Pro 3 hónapig (hitelkártya nélkül)"
+   },
+   "firstRunViewFeature3": {
+      "message": "Nem gyűjtenek böngészési információkat"
+   },
+   "firstRunViewFeature4": {
+      "message": "Vegye fel velünk a kapcsolatot a beépített chaten keresztül"
+   },
+   "firstRunViewTitle": {
+      "message": "Gyors indítás"
+   },
+   "helpOSIntegrationLink": {
+      "message": "További részletek"
+   },
+   "helpViewActivateNow": {
+      "message": "Aktiváld most"
+   },
+   "helpViewActivated": {
+      "message": "Kezelje bővítményét"
+   },
+   "helpViewByExpires": {
+      "message": "1 dollárral \u003C/br>lejár: 2 dollár"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "Ügyfélterület"
+   },
+   "helpViewDarkScroll": {
+      "message": "Sötét tekercsek"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "Hagyja, hogy a Night Eye sötétítsen minden tekercset."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "Válassza ki az új webhelyek megnyitásakor végrehajtandó alapértelmezett módot"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "Alapértelmezett mód"
+   },
+   "helpViewDisabled": {
+      "message": "Tiltva"
+   },
+   "helpViewEnabled": {
+      "message": "Engedélyezve"
+   },
+   "helpViewExpiredNever": {
+      "message": "soha"
+   },
+   "helpViewExpires": {
+      "message": "1 dollár lejár"
+   },
+   "helpViewExportData": {
+      "message": "Adatok exportálása"
+   },
+   "helpViewGoProTitle": {
+      "message": "Profivá"
+   },
+   "helpViewHelpButton": {
+      "message": "Segítség"
+   },
+   "helpViewImportData": {
+      "message": "Adatok importálása"
+   },
+   "helpViewLanguage": {
+      "message": "Nyelv"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "A sötét módok listájának kezelése"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS színséma integráció"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "Szinkronizálja a Night Eye-t az aktív operációs rendszer színsémájával."
+   },
+   "helpViewShortcutDescription": {
+      "message": "Ismerje meg, hogyan rendelhet hozzá saját parancsikont"
+   },
+   "helpViewShortcutTitle": {
+      "message": "Be/Ki parancsikon"
+   },
+   "helpViewSignInSignUp": {
+      "message": "Bejelentkezés Regisztráció"
+   },
+   "helpViewSignOut": {
+      "message": "Kijelentkezés"
+   },
+   "helpViewTimerDescr": {
+      "message": "Hogyan működik"
+   },
+   "helpViewTimerOff": {
+      "message": "Ki"
+   },
+   "helpViewTimerOn": {
+      "message": "Tovább"
+   },
+   "helpViewTimerTitle": {
+      "message": "Menetrend"
+   },
+   "helpViewUninstallDescription": {
+      "message": "Keresse meg a Night Eye elemet a bővítmények listájában, és kattintson az eltávolítás gombra"
+   },
+   "helpViewUninstallTitle": {
+      "message": "Eltávolítás"
+   },
+   "helpViewWhiteListButton": {
+      "message": "Fehérlista"
+   },
+   "imageViewDescription": {
+      "message": "A Night Eye feldolgozza a képeket, és sötétebbé teszi azokat. Ez a funkció több számítási erőforrást igényel, és lelassíthatja a számítógépet."
+   },
+   "imageViewTitle": {
+      "message": "Képek"
+   },
+   "labelBlueLight": {
+      "message": "kék fény"
+   },
+   "labelBrightness": {
+      "message": "Fényerősség"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "beépített \u003Cbr>sötét téma"
+   },
+   "labelColors": {
+      "message": "színek"
+   },
+   "labelContinue": {
+      "message": "Folytatni"
+   },
+   "labelContrast": {
+      "message": "kontraszt"
+   },
+   "labelCurrent": {
+      "message": "Jelenlegi"
+   },
+   "labelCustomCode": {
+      "message": "egyéni kód"
+   },
+   "labelCustomUrlPath": {
+      "message": "testreszabhatja a \u003Cbr> oldalakat"
+   },
+   "labelDim": {
+      "message": "homályos"
+   },
+   "labelDisabled": {
+      "message": "Tiltva"
+   },
+   "labelEnabled": {
+      "message": "Engedélyezve"
+   },
+   "labelExperimentalFeature": {
+      "message": "Kísérleti funkció"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "Hátterek átalakítása"
+   },
+   "labelImageHighCPU": {
+      "message": "Magas CPU fogyasztás"
+   },
+   "labelImageIconConversion": {
+      "message": "Ikonok átalakítása"
+   },
+   "labelImages": {
+      "message": "képeket"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "Kezelje a listát"
+   },
+   "labelPleaseWait": {
+      "message": "Kérlek várj"
+   },
+   "labelSaturation": {
+      "message": "telítettség"
+   },
+   "labelSubdomains": {
+      "message": "aldomainek"
+   },
+   "labelTurboCache": {
+      "message": "helyi gyorsítótár"
+   },
+   "labelWebsite": {
+      "message": "weboldal"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "Ez a webhely nincs hozzáadva a sötét módok listájához."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "Sötét változat"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "Szűrt változat"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "Normál verzió"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "Nem támogatott"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "Ez a webhely nem támogatott"
+   },
+   "okButton": {
+      "message": "rendben"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "Bezárás"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "Már 30 napja használja a Night Eye-t."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "Köszönetképpen 10% kedvezményt adunk. Kérjük, használja a kedvezménykódot: \u003Cdiv class=\"DiscountCode\">-\u003C/div> Az ajánlat 48 óráig érvényes."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "Szerezze be a PRO verzióját most"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "Ha nem érdekli,\u003Cbr> még 2 hónapja van hátra \u003Cbr> az ingyenes próbaidőszakból. Élvezd!"
+   },
+   "refreshButton": {
+      "message": "Frissítés"
+   },
+   "refreshViewDescription": {
+      "message": "A legújabb beállítások alkalmazásához frissítenie kell az aktuális oldalt"
+   },
+   "refreshViewTitle": {
+      "message": "Kérjük, töltse be újra az oldalt"
+   },
+   "saturationViewDescription": {
+      "message": "Állítsa be a telítettséget az alábbi csúszka húzásával."
+   },
+   "saturationViewTitle": {
+      "message": "Telítettség"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "A mély integráció lehetővé teszi azoknak a webhelyeknek a beépített sötét témáinak szabályozását, amelyek már megvalósítottak sötét felhasználói felületet."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "Tekintse meg, hogyan működik a mélyintegráció"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ITT"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "Mély integráció"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "Tiltva"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "Night Eye sötét"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "A Night Eye konvertálja a képeket, például az ikonokat és a háttereket, hogy egyenletes és egyenletes sötét módot biztosítson."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "Az ikonok és hátterek átalakítása magas CPU-fogyasztással jár."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "Kapcsolja BE a legjobb sötét mód élményért."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "Kapcsolja KI a CPU-fogyasztás csökkentése érdekében."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "A Night Eye konvertálja a domain összes aldomainjét"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "Még több szöveg"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "Kapcsolja BE a legjobb sötét mód élményért."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "Kapcsolja KI a CPU-fogyasztás csökkentése érdekében."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "A gyorsítótár felgyorsítja a webhelyek normálból sötét módba konvertálását (az oldal betöltési sebességét ez nem befolyásolja). A webhelytől függően csökkentheti a kezdeti fényes villanásokat."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "A cache funkció a weboldalak mintegy 80%-án működik, ezért ha egy weboldal nem működik megfelelően, kérjük, kapcsolja ki számára!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "Alkalmazható egy adott webhelyre vagy az összes meglátogatott webhelyre."
+   },
+   "subdomainViewDescription": {
+      "message": "A Night Eye konvertálja a domain összes aldomainjét"
+   },
+   "subdomainViewTitle": {
+      "message": "Aldomainek"
+   },
+   "supportViewContinueBtn": {
+      "message": "Folytatni"
+   },
+   "supportViewInfo1": {
+      "message": "Itt vagyunk, hogy segítsünk, ha bármilyen kérdése vagy problémája van a Night Eye-val."
+   },
+   "supportViewInfo2": {
+      "message": "Támogatási rendszerünk használatához kérjük, adja meg a megfelelő elérhetőségi adatokat."
+   },
+   "supportViewInfo3": {
+      "message": "Csak angolul írjon nekünk."
+   },
+   "supportViewInputEmail": {
+      "message": "Email"
+   },
+   "supportViewInputName": {
+      "message": "Név"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "Kérlek várj..."
+   },
+   "switchLabelOff": {
+      "message": "Ki"
+   },
+   "switchLabelOn": {
+      "message": "Tovább"
+   },
+   "temperatureViewDescription": {
+      "message": "Állítsa be a kék fényt az alábbi csúszka húzásával."
+   },
+   "temperatureViewOption1": {
+      "message": "Kékkel"
+   },
+   "temperatureViewOption2": {
+      "message": "Kék nélkül"
+   },
+   "temperatureViewTitle": {
+      "message": "Kék fény"
+   },
+   "tooltipDark": {
+      "message": "Ebben az üzemmódban a Night Eye a kiválasztott beállítások alapján megváltoztatja a színeket"
+   },
+   "tooltipFiltered": {
+      "message": "Ennek a módnak a használatával a webhely alapértelmezés szerint több szűrő hatása is lesz - fényerő, kontraszt, telítettség, meleg/hideg, homályos"
+   },
+   "tooltipNormal": {
+      "message": "Ezt a módot használva a weboldal alapértelmezés szerint lesz, a Night Eye színe nem változik"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "Aktiválja"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "Megszünteti"
+   },
+   "trailActivationViewClientArea": {
+      "message": "Ügyfél területe"
+   },
+   "trailActivationViewDescr": {
+      "message": "Kérjük, használja a vásárláskor használt e-mail címet a Night Eye Pro aktiválásához."
+   },
+   "trailActivationViewTitle": {
+      "message": "Aktiválás"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "Megszünteti"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "Vezérlőpult"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "Deaktiválás"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "Az éjszakai szem az Ön e-mailjéhez van társítva: \u003Cb class=\"ActivatedEmail\">$1\u003C/b>"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "További részletekért látogasson el"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "Ebben a böngészőben véglegesen deaktiválhatja a Night Eye-t."
+   },
+   "trailLogoutViewTitle": {
+      "message": "Aktív"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "Folytatni"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "Egyszerre akár 3 böngészőben is élvezheti a Night Eye-t, amíg a \u003Cbr> ingyenes próbaidőszak le nem jár 1 dollárral"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "Egyszerre akár 1 dolláros böngészőben is élvezheti a Night Eye-t."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "Sikeresen aktiválta a bővítményt."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "Egyszerre akár 3 böngészőben is élvezheti a Night Eye-t."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "Az aktív böngészőket az Ügyfélterületen kezelheti."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "Ahhoz, hogy hozzáférjen, lépjen a címre"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "Sikeres aktiválás"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "Megszünteti"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "Reméljük, hogy a Night Eye az elmúlt hónapokban bizonyította hasznosságát!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "Ha továbbra is használni szeretné, tekintse meg árainkat és az ezzel járó előnyöket."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "A Night Eye az Ön e-mailjéhez van társítva. \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> használja, ha úgy dönt, hogy fizet."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "Árazás"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "Pro verzió"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "Reméljük, hogy a Night Eye bebizonyította hasznosságát az elmúlt hónapokban."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "Az ingyenes Lite verziót örökre használhatja, vagy használhatja a Pro-t. Tekintse meg árainkat és az ezzel járó előnyöket."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "Lite verzió"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "Sötét mód akár 5 webhelyen"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "Pro verzió"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "Határok nélkül"
+   },
+   "trialExpiredViewTitle": {
+      "message": "Az ingyenes próbaidőszak lejárt."
+   },
+   "trialLiteViewCancel": {
+      "message": "Megszünteti"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (törölje a korlátokat)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "A Sötét mód legfeljebb \u003Cbr> 5 webhelyen engedélyezhető. A listát bármikor kezelheti és módosíthatja."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "Lite verzió"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "Olvasson a Lite-ról"
+   },
+   "trialLiteViewSave": {
+      "message": "Megment"
+   },
+   "trialProViewActivateBtn": {
+      "message": "Aktiválja"
+   },
+   "trialProViewActivateDescr": {
+      "message": "Ha már van fiókja,\u003C/br> kérjük, aktiválja!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "Megszünteti"
+   },
+   "trialProViewDescrPart1": {
+      "message": "Reméljük, hogy a Night Eye az elmúlt hónapokban bizonyította hasznosságát!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "Ha továbbra is használni szeretné, tekintse meg árainkat és az ezzel járó előnyöket."
+   },
+   "trialProViewPricing": {
+      "message": "Árazás"
+   },
+   "trialProViewTitle": {
+      "message": "Pro verzió"
+   }
+}

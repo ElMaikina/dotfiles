@@ -1,0 +1,563 @@
+{
+   "brightnessViewDescription": {
+      "message": "താഴെയുള്ള സ്ലൈഡർ വലിച്ചുകൊണ്ട് തെളിച്ചം ക്രമീകരിക്കുക."
+   },
+   "brightnessViewTitle": {
+      "message": "തെളിച്ചം"
+   },
+   "colorViewDescription": {
+      "message": "വെബ്‌സൈറ്റിൽ നിന്ന് ഒരു നിറം തിരഞ്ഞെടുത്ത് നിങ്ങൾ ആഗ്രഹിക്കുന്നതിലേക്ക് മാറ്റുക."
+   },
+   "colorViewOriginalColor": {
+      "message": "ഒറിജിനൽ"
+   },
+   "colorViewReplacedColor": {
+      "message": "മാറ്റിസ്ഥാപിച്ചു"
+   },
+   "colorViewTitle": {
+      "message": "കളർ പിക്കർ"
+   },
+   "contrastViewDescription": {
+      "message": "ചുവടെയുള്ള സ്ലൈഡർ വലിച്ചുകൊണ്ട് ദൃശ്യതീവ്രത ക്രമീകരിക്കുക."
+   },
+   "contrastViewTitle": {
+      "message": "കോൺട്രാസ്റ്റ്"
+   },
+   "controlsPanelAllWebsites": {
+      "message": "എല്ലാ വെബ്സൈറ്റുകളും"
+   },
+   "controlsPanelButtonApply": {
+      "message": "അപേക്ഷിക്കുക"
+   },
+   "controlsPanelButtonApplyTo": {
+      "message": "എന്നതിലേക്ക് അപേക്ഷിക്കുക"
+   },
+   "controlsPanelButtonCancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "controlsPanelButtonDefault": {
+      "message": "പുനഃസജ്ജമാക്കുക"
+   },
+   "controlsPanelButtonRestoreTo": {
+      "message": "സ്വതവേയുള്ളതു് പുനഃസ്ഥാപിക്കുക"
+   },
+   "controlsPanelCurrentWebsite": {
+      "message": "നിലവിലെ വെബ്സൈറ്റ്"
+   },
+   "controlsPanelForAllWebsites": {
+      "message": "എല്ലാ വെബ്സൈറ്റുകൾക്കും"
+   },
+   "controlsPanelForCurrentWebsite": {
+      "message": "നിലവിലെ വെബ്‌സൈറ്റിനായി"
+   },
+   "dimViewDescription": {
+      "message": "വെബ്‌സൈറ്റുകളുടെ ഡിമ്മിംഗ് ലെവൽ ക്രമീകരിക്കുക."
+   },
+   "dimViewTitle": {
+      "message": "മങ്ങിയ"
+   },
+   "extDescription": {
+      "message": "ഓരോ വെബ്സൈറ്റും ആവശ്യാനുസരണം ഡാർക്ക് മോഡിലേക്ക് / ലൈറ്റ് മോഡിലേക്ക് മാറ്റുക. നൈറ്റ് ഐ ഉപയോഗിച്ച് നിങ്ങളുടെ കണ്ണുകളെ പരിപാലിക്കുക."
+   },
+   "extDisabledStatus": {
+      "message": "രാത്രി കണ്ണ് നിർത്തി"
+   },
+   "extName": {
+      "message": "ഡാർക്ക് മോഡ് - നൈറ്റ് ഐ"
+   },
+   "extToggleButton": {
+      "message": "ടാബിനായി ഇരുണ്ടതും സാധാരണവുമായ മോഡ് ടോഗിൾ ചെയ്യുക"
+   },
+   "extTurnOnButton": {
+      "message": "ഓൺ ചെയ്യുക"
+   },
+   "filterModeNameDark": {
+      "message": "ഇരുട്ട്"
+   },
+   "filterModeNameFiltered": {
+      "message": "ഫിൽട്ടർ ചെയ്തു"
+   },
+   "filterModeNameNormal": {
+      "message": "സാധാരണ"
+   },
+   "firstRunViewFeature1": {
+      "message": "പേജ് ലോഡ് ചെയ്യുന്ന വേഗതയെ ബാധിച്ചേക്കാം"
+   },
+   "firstRunViewFeature2": {
+      "message": "3 മാസത്തെ നൈറ്റ് ഐ പ്രോ സൗജന്യം (ക്രെഡിറ്റ് കാർഡ് ഇല്ല)"
+   },
+   "firstRunViewFeature3": {
+      "message": "ബ്രൗസിംഗ് വിവരങ്ങളൊന്നും ശേഖരിക്കുന്നില്ല"
+   },
+   "firstRunViewFeature4": {
+      "message": "അന്തർനിർമ്മിത ചാറ്റ് വഴി ഞങ്ങളെ ബന്ധപ്പെടുക"
+   },
+   "firstRunViewTitle": {
+      "message": "പെട്ടെന്നുള്ള തുടക്കം"
+   },
+   "helpOSIntegrationLink": {
+      "message": "കൂടുതൽ വിശദാംശങ്ങൾ"
+   },
+   "helpViewActivateNow": {
+      "message": "ഇപ്പോൾ സജീവമാക്കുക"
+   },
+   "helpViewActivated": {
+      "message": "നിങ്ങളുടെ വിപുലീകരണം നിയന്ത്രിക്കുക"
+   },
+   "helpViewByExpires": {
+      "message": "$1 പ്രകാരം \u003C/br>കാലഹരണപ്പെടുന്നു: $2"
+   },
+   "helpViewClientAreaTitle": {
+      "message": "ക്ലയന്റ് ഏരിയ"
+   },
+   "helpViewDarkScroll": {
+      "message": "ഇരുണ്ട ചുരുളുകൾ"
+   },
+   "helpViewDarkScrollDescr": {
+      "message": "രാത്രി കണ്ണ് ഏത് സ്ക്രോളും ഇരുണ്ടതാക്കട്ടെ."
+   },
+   "helpViewDefaultModeDescription": {
+      "message": "പുതിയ വെബ്സൈറ്റുകൾ തുറക്കുമ്പോൾ എക്സിക്യൂട്ട് ചെയ്യേണ്ട ഡിഫോൾട്ട് മോഡ് തിരഞ്ഞെടുക്കുക"
+   },
+   "helpViewDefaultModeTitle": {
+      "message": "ഡിഫോൾട്ട് മോഡ്"
+   },
+   "helpViewDisabled": {
+      "message": "അപ്രാപ്തമാക്കി"
+   },
+   "helpViewEnabled": {
+      "message": "പ്രവർത്തനക്ഷമമാക്കി"
+   },
+   "helpViewExpiredNever": {
+      "message": "ഒരിക്കലും"
+   },
+   "helpViewExpires": {
+      "message": "$1 കാലഹരണപ്പെടുന്നു"
+   },
+   "helpViewExportData": {
+      "message": "ഡാറ്റ കയറ്റുമതി ചെയ്യുക"
+   },
+   "helpViewGoProTitle": {
+      "message": "ഗോ പ്രോ"
+   },
+   "helpViewHelpButton": {
+      "message": "സഹായം"
+   },
+   "helpViewImportData": {
+      "message": "ഡാറ്റ ഇറക്കുമതി ചെയ്യുക"
+   },
+   "helpViewLanguage": {
+      "message": "ഭാഷ"
+   },
+   "helpViewManageDarkModeListTitle": {
+      "message": "ഡാർക്ക് മോഡ് ലിസ്റ്റ് മാനേജ് ചെയ്യുക"
+   },
+   "helpViewOSColorScheme": {
+      "message": "OS കളർ സ്കീം ഏകീകരണം"
+   },
+   "helpViewOSColorSchemeDescr": {
+      "message": "നിങ്ങളുടെ സജീവ OS കളർ സ്കീമുമായി നൈറ്റ് ഐ സമന്വയിപ്പിക്കുക."
+   },
+   "helpViewShortcutDescription": {
+      "message": "നിങ്ങളുടെ സ്വന്തം കുറുക്കുവഴി എങ്ങനെ നൽകാമെന്ന് കണ്ടെത്തുക"
+   },
+   "helpViewShortcutTitle": {
+      "message": "കുറുക്കുവഴി ഓൺ/ഓഫ്"
+   },
+   "helpViewSignInSignUp": {
+      "message": "സൈൻ ഇൻ ചെയ്യുക / സൈൻ അപ്പ് ചെയ്യുക"
+   },
+   "helpViewSignOut": {
+      "message": "സൈൻ ഔട്ട്"
+   },
+   "helpViewTimerDescr": {
+      "message": "ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു"
+   },
+   "helpViewTimerOff": {
+      "message": "ഓഫ്"
+   },
+   "helpViewTimerOn": {
+      "message": "ഓൺ"
+   },
+   "helpViewTimerTitle": {
+      "message": "പട്ടിക"
+   },
+   "helpViewUninstallDescription": {
+      "message": "വിപുലീകരണങ്ങളുടെ ലിസ്റ്റിൽ നൈറ്റ് ഐ കണ്ടെത്തി നീക്കം ക്ലിക്ക് ചെയ്യുക"
+   },
+   "helpViewUninstallTitle": {
+      "message": "അൺഇൻസ്റ്റാൾ ചെയ്യുക"
+   },
+   "helpViewWhiteListButton": {
+      "message": "വൈറ്റ്‌ലിസ്റ്റ്"
+   },
+   "imageViewDescription": {
+      "message": "നൈറ്റ് ഐ ചിത്രങ്ങളെ ഇരുണ്ടതാക്കുന്നു. ഈ സവിശേഷതയ്ക്ക് കൂടുതൽ കമ്പ്യൂട്ടേഷണൽ ഉറവിടങ്ങൾ ആവശ്യമാണ്, നിങ്ങളുടെ കമ്പ്യൂട്ടറിനെ മന്ദഗതിയിലാക്കാം."
+   },
+   "imageViewTitle": {
+      "message": "ചിത്രങ്ങൾ"
+   },
+   "labelBlueLight": {
+      "message": "നീല വെളിച്ചം"
+   },
+   "labelBrightness": {
+      "message": "തെളിച്ചം"
+   },
+   "labelBuiltInDarkTheme": {
+      "message": "അന്തർനിർമ്മിത \u003Cbr>ഡാർക്ക് തീം"
+   },
+   "labelColors": {
+      "message": "നിറങ്ങൾ"
+   },
+   "labelContinue": {
+      "message": "തുടരുക"
+   },
+   "labelContrast": {
+      "message": "വൈരുദ്ധ്യം"
+   },
+   "labelCurrent": {
+      "message": "നിലവിലുള്ളത്"
+   },
+   "labelCustomCode": {
+      "message": "ഇഷ്ടാനുസൃത കോഡ്"
+   },
+   "labelCustomUrlPath": {
+      "message": "\u003Cbr> പേജുകൾ ഇഷ്ടാനുസൃതമാക്കുക"
+   },
+   "labelDim": {
+      "message": "മങ്ങിയ"
+   },
+   "labelDisabled": {
+      "message": "അപ്രാപ്തമാക്കി"
+   },
+   "labelEnabled": {
+      "message": "പ്രവർത്തനക്ഷമമാക്കി"
+   },
+   "labelExperimentalFeature": {
+      "message": "പരീക്ഷണാത്മക സവിശേഷത"
+   },
+   "labelImageBackgroundConversion": {
+      "message": "പശ്ചാത്തല പരിവർത്തനം"
+   },
+   "labelImageHighCPU": {
+      "message": "ഉയർന്ന സിപിയു ഉപഭോഗം"
+   },
+   "labelImageIconConversion": {
+      "message": "ഐക്കണുകളുടെ പരിവർത്തനം"
+   },
+   "labelImages": {
+      "message": "ചിത്രങ്ങൾ"
+   },
+   "labelManageDarkModeListTitle": {
+      "message": "പട്ടിക കൈകാര്യം ചെയ്യുക"
+   },
+   "labelPleaseWait": {
+      "message": "കാത്തിരിക്കൂ"
+   },
+   "labelSaturation": {
+      "message": "സാച്ചുറേഷൻ"
+   },
+   "labelSubdomains": {
+      "message": "ഉപഡൊമെയ്‌നുകൾ"
+   },
+   "labelTurboCache": {
+      "message": "പ്രാദേശിക കാഷെ"
+   },
+   "labelWebsite": {
+      "message": "വെബ്സൈറ്റ്"
+   },
+   "labelWebsiteDarkModeListDescr": {
+      "message": "ഈ വെബ്സൈറ്റ് ഡാർക്ക് മോഡ് ലിസ്റ്റിൽ ചേർത്തിട്ടില്ല."
+   },
+   "labelWebsiteStatusDark": {
+      "message": "ഇരുണ്ട പതിപ്പ്"
+   },
+   "labelWebsiteStatusFiltered": {
+      "message": "ഫിൽട്ടർ ചെയ്ത പതിപ്പ്"
+   },
+   "labelWebsiteStatusNormal": {
+      "message": "സാധാരണ പതിപ്പ്"
+   },
+   "labelWebsiteStatusNotSupported": {
+      "message": "പിന്തുണയ്ക്കുന്നില്ല"
+   },
+   "messageWebsiteNotSupported": {
+      "message": "ഈ വെബ്സൈറ്റ് പിന്തുണയ്ക്കുന്നില്ല"
+   },
+   "okButton": {
+      "message": "ശരി"
+   },
+   "paymentRemiderViewCancelBtn": {
+      "message": "അടയ്ക്കുക"
+   },
+   "paymentRemiderViewDescrP1": {
+      "message": "നിങ്ങൾ ഇപ്പോൾ 30 ദിവസമായി നൈറ്റ് ഐ ഉപയോഗിക്കുന്നു."
+   },
+   "paymentRemiderViewDescrP2": {
+      "message": "നന്ദി എന്ന നിലയിൽ, ഞങ്ങൾക്ക് ഒരു പ്രത്യേക 10% കിഴിവുണ്ട്. ദയവായി കിഴിവ് കോഡ് ഉപയോഗിക്കുക \u003Cdiv class=\"DiscountCode\">-\u003C/div> ഈ ഓഫർ 48 മണിക്കൂർ സാധുതയുള്ളതാണ്."
+   },
+   "paymentRemiderViewDescrP3": {
+      "message": "നിങ്ങളുടെ PRO പതിപ്പ് ഇപ്പോൾ നേടുക"
+   },
+   "paymentRemiderViewDescrP4": {
+      "message": "നിങ്ങൾക്ക് താൽപ്പര്യമില്ലെങ്കിൽ, \u003Cbr> സൗജന്യ ട്രയലിൽ നിന്ന് \u003Cbr> നിങ്ങൾക്ക് 2 മാസം കൂടി ശേഷിക്കുന്നു. ആസ്വദിക്കൂ!"
+   },
+   "refreshButton": {
+      "message": "പുതുക്കുക"
+   },
+   "refreshViewDescription": {
+      "message": "ഏറ്റവും പുതിയ ക്രമീകരണങ്ങൾ പ്രയോഗിക്കുന്നതിന് നിങ്ങൾ നിലവിലെ പേജ് പുതുക്കേണ്ടതുണ്ട്"
+   },
+   "refreshViewTitle": {
+      "message": "പേജ് വീണ്ടും ലോഡുചെയ്യുക"
+   },
+   "saturationViewDescription": {
+      "message": "താഴെയുള്ള സ്ലൈഡർ വലിച്ചുകൊണ്ട് സാച്ചുറേഷൻ ക്രമീകരിക്കുക."
+   },
+   "saturationViewTitle": {
+      "message": "സാച്ചുറേഷൻ"
+   },
+   "settingsBuiltInDarkViewDescrP1": {
+      "message": "ഇതിനകം ഒരു ഇരുണ്ട UI നടപ്പിലാക്കിയ വെബ്‌സൈറ്റുകളുടെ അന്തർനിർമ്മിത ഇരുണ്ട തീമുകൾ നിയന്ത്രിക്കാൻ ഡീപ് ഇന്റഗ്രേഷൻ നിങ്ങളെ അനുവദിക്കുന്നു."
+   },
+   "settingsBuiltInDarkViewDescrP2": {
+      "message": "ഡീപ് ഇന്റഗ്രേഷൻ എങ്ങനെ പ്രവർത്തിക്കുന്നുവെന്ന് കാണുക"
+   },
+   "settingsBuiltInDarkViewDescrP3": {
+      "message": "ഇവിടെ"
+   },
+   "settingsBuiltInDarkViewOptionDeepIntegration": {
+      "message": "ആഴത്തിലുള്ള ഏകീകരണം"
+   },
+   "settingsBuiltInDarkViewOptionDisabled": {
+      "message": "അപ്രാപ്തമാക്കി"
+   },
+   "settingsBuiltInDarkViewOptionNightEyeDark": {
+      "message": "രാത്രി കണ്ണിൽ ഇരുട്ട്"
+   },
+   "settingsImageViewDescrP1": {
+      "message": "നിങ്ങൾക്ക് സുഗമവും സ്ഥിരവുമായ ഡാർക്ക് മോഡ് നൽകുന്നതിന് ഐക്കണുകളും പശ്ചാത്തലങ്ങളും പോലുള്ള ചിത്രങ്ങളെ നൈറ്റ് ഐ പരിവർത്തനം ചെയ്യുന്നു."
+   },
+   "settingsImageViewDescrP2": {
+      "message": "ഐക്കണുകളും പശ്ചാത്തല പരിവർത്തനവും ഉയർന്ന സിപിയു ഉപഭോഗത്തോടുകൂടിയാണ് വരുന്നത്."
+   },
+   "settingsImageViewDescrP3": {
+      "message": "മികച്ച ഡാർക്ക് മോഡ് അനുഭവത്തിനായി ഓണാക്കുക."
+   },
+   "settingsImageViewDescrP4": {
+      "message": "സിപിയു ഉപഭോഗം കുറയ്ക്കാൻ ഓഫാക്കുക."
+   },
+   "settingsSubdomainViewDescrP1": {
+      "message": "ഈ ഡൊമെയ്‌നിലെ എല്ലാ ഉപഡൊമെയ്‌നുകളും നൈറ്റ് ഐ പരിവർത്തനം ചെയ്യും"
+   },
+   "settingsSubdomainViewDescrP2": {
+      "message": "കൂടുതൽ കൂടുതൽ വാചകം"
+   },
+   "settingsSubdomainViewDescrP3": {
+      "message": "മികച്ച ഡാർക്ക് മോഡ് അനുഭവത്തിനായി ഓണാക്കുക."
+   },
+   "settingsSubdomainViewDescrP4": {
+      "message": "സിപിയു ഉപഭോഗം കുറയ്ക്കാൻ ഓഫാക്കുക."
+   },
+   "settingsTurboCacheViewDescrP1": {
+      "message": "വെബ്‌സൈറ്റ് സാധാരണയിൽ നിന്ന് ഡാർക്ക് മോഡിലേക്കുള്ള പരിവർത്തനത്തെ കാഷെ വേഗത്തിലാക്കുന്നു (പേജ് ലോഡിംഗ് വേഗതയെ ബാധിക്കില്ല). വെബ്‌സൈറ്റിനെ ആശ്രയിച്ച് ഇതിന് പ്രാരംഭ തെളിച്ചമുള്ള ഫ്ലാഷുകൾ കുറയ്ക്കാനാകും."
+   },
+   "settingsTurboCacheViewDescrP2": {
+      "message": "കാഷെ ഫീച്ചർ ഏകദേശം 80% വെബ്‌സൈറ്റുകളിലും പ്രവർത്തിക്കുന്നു, അതിനാൽ ഒരു വെബ്‌സൈറ്റ് ശരിയായി പെരുമാറുന്നില്ലെങ്കിൽ, ദയവായി അത് ഓഫാക്കുക!"
+   },
+   "settingsTurboCacheViewDescrP3": {
+      "message": "നിർദ്ദിഷ്‌ട വെബ്‌സൈറ്റിലോ നിങ്ങൾ സന്ദർശിക്കുന്ന എല്ലാറ്റിലോ പ്രയോഗിക്കാവുന്നതാണ്."
+   },
+   "subdomainViewDescription": {
+      "message": "ഈ ഡൊമെയ്‌നിലെ എല്ലാ ഉപഡൊമെയ്‌നുകളും നൈറ്റ് ഐ പരിവർത്തനം ചെയ്യും"
+   },
+   "subdomainViewTitle": {
+      "message": "ഉപഡൊമെയ്‌നുകൾ"
+   },
+   "supportViewContinueBtn": {
+      "message": "തുടരുക"
+   },
+   "supportViewInfo1": {
+      "message": "നൈറ്റ് ഐയുമായി ബന്ധപ്പെട്ട് നിങ്ങൾക്ക് എന്തെങ്കിലും ചോദ്യങ്ങളോ പ്രശ്നങ്ങളോ ഉണ്ടെങ്കിൽ സഹായിക്കാൻ ഞങ്ങൾ ഇവിടെയുണ്ട്."
+   },
+   "supportViewInfo2": {
+      "message": "ഞങ്ങളുടെ പിന്തുണാ സംവിധാനം ഉപയോഗിക്കുന്നതിന്, ശരിയായ കോൺടാക്റ്റ് വിവരങ്ങൾ നൽകുക."
+   },
+   "supportViewInfo3": {
+      "message": "ഇംഗ്ലീഷിൽ മാത്രം ഞങ്ങൾക്ക് മെസ്സേജ് ചെയ്യുക."
+   },
+   "supportViewInputEmail": {
+      "message": "ഇമെയിൽ"
+   },
+   "supportViewInputName": {
+      "message": "പേര്"
+   },
+   "supportViewPleaseWaitLbl": {
+      "message": "കാത്തിരിക്കൂ..."
+   },
+   "switchLabelOff": {
+      "message": "ഓഫ്"
+   },
+   "switchLabelOn": {
+      "message": "ഓൺ"
+   },
+   "temperatureViewDescription": {
+      "message": "താഴെയുള്ള സ്ലൈഡർ വലിച്ചുകൊണ്ട് നീല വെളിച്ചം ക്രമീകരിക്കുക."
+   },
+   "temperatureViewOption1": {
+      "message": "നീല കൊണ്ട്"
+   },
+   "temperatureViewOption2": {
+      "message": "നീല ഇല്ലാതെ"
+   },
+   "temperatureViewTitle": {
+      "message": "നീല വെളിച്ചം"
+   },
+   "tooltipDark": {
+      "message": "ഈ മോഡ് ഉപയോഗിച്ച്, തിരഞ്ഞെടുത്ത ക്രമീകരണങ്ങളെ അടിസ്ഥാനമാക്കി നൈറ്റ് ഐ നിറങ്ങൾ മാറ്റും"
+   },
+   "tooltipFiltered": {
+      "message": "ഈ മോഡ് ഉപയോഗിക്കുമ്പോൾ, വെബ്‌സൈറ്റ് ഡിഫോൾട്ടായി നിരവധി ഫിൽട്ടറുകളുടെ ഫലമായിരിക്കും - തെളിച്ചം, ദൃശ്യതീവ്രത, സാച്ചുറേഷൻ, ചൂട്/തണുപ്പ്, മങ്ങിയ"
+   },
+   "tooltipNormal": {
+      "message": "ഈ മോഡ് ഉപയോഗിച്ച്, വെബ്‌സൈറ്റ് ഡിഫോൾട്ടായിരിക്കും, നൈറ്റ് ഐ ഒരു നിറവും മാറ്റില്ല"
+   },
+   "trailActivationViewActiveteBtn": {
+      "message": "സജീവമാക്കുക"
+   },
+   "trailActivationViewCancelBtn": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "trailActivationViewClientArea": {
+      "message": "ക്ലയന്റ് ഏരിയ"
+   },
+   "trailActivationViewDescr": {
+      "message": "\u003Cbr>നൈറ്റ് ഐ പ്രോ സജീവമാക്കാൻ വാങ്ങൽ നടത്തുമ്പോൾ നിങ്ങൾ ഉപയോഗിച്ച ഇമെയിൽ ഉപയോഗിക്കുക."
+   },
+   "trailActivationViewTitle": {
+      "message": "സജീവമാക്കൽ"
+   },
+   "trailLogoutViewCancelBtn": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "trailLogoutViewControlPanel": {
+      "message": "നിയന്ത്രണ പാനൽ"
+   },
+   "trailLogoutViewDeactivateBtn": {
+      "message": "നിർജ്ജീവമാക്കുക"
+   },
+   "trailLogoutViewDescrPart1": {
+      "message": "നൈറ്റ് ഐ നിങ്ങളുടെ ഇ-മെയിലുമായി \u003Cb class=\"ActivatedEmail\">$1\u003C/b> ബന്ധപ്പെട്ടിരിക്കുന്നു"
+   },
+   "trailLogoutViewDescrPart2": {
+      "message": "കൂടുതൽ വിവരങ്ങൾക്ക്, സന്ദർശിക്കുക"
+   },
+   "trailLogoutViewDescrPart3": {
+      "message": "ഈ ബ്രൗസറിനായി നിങ്ങൾക്ക് \u003Cbr> നൈറ്റ് ഐ ശാശ്വതമായി നിർജ്ജീവമാക്കാം."
+   },
+   "trailLogoutViewTitle": {
+      "message": "സജീവമാക്കി"
+   },
+   "trailSuccessActViewContinueBtn": {
+      "message": "തുടരുക"
+   },
+   "trailSuccessActViewDescrBrowserFree": {
+      "message": "നിങ്ങളുടെ \u003Cbr> സൗജന്യ ട്രയൽ $1-ന് കാലഹരണപ്പെടുന്നതുവരെ നിങ്ങൾക്ക് ഒരേസമയം 3 ബ്രൗസറുകൾ വരെ നൈറ്റ് ഐ ആസ്വദിക്കാം"
+   },
+   "trailSuccessActViewDescrBrowserPro": {
+      "message": "നിങ്ങൾക്ക് ഒരേസമയം $1 വരെ ബ്രൗസറുകളിൽ നൈറ്റ് ഐ ആസ്വദിക്കാം."
+   },
+   "trailSuccessActViewDescrPart1": {
+      "message": "നിങ്ങൾ വിപുലീകരണം വിജയകരമായി സജീവമാക്കി."
+   },
+   "trailSuccessActViewDescrPart2": {
+      "message": "നിങ്ങൾക്ക് ഒരേസമയം 3 ബ്രൗസറുകൾ വരെ നൈറ്റ് ഐ ആസ്വദിക്കാം."
+   },
+   "trailSuccessActViewDescrPart3": {
+      "message": "ക്ലയന്റ് ഏരിയയിലെ സജീവ ബ്രൗസറുകൾ നിങ്ങൾക്ക് നിയന്ത്രിക്കാനാകും."
+   },
+   "trailSuccessActViewDescrPart4": {
+      "message": "അത് ആക്‌സസ് ചെയ്യാൻ, ദയവായി ഇതിലേക്ക് പോകുക"
+   },
+   "trailSuccessActViewTitle": {
+      "message": "വിജയകരമായ സജീവമാക്കൽ"
+   },
+   "trialAlreadyActViewCancelBtn": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "trialAlreadyActViewDescrPart1": {
+      "message": "കഴിഞ്ഞ മാസങ്ങളിൽ നൈറ്റ് ഐ അതിന്റെ ഉപയോഗക്ഷമത തെളിയിച്ചിട്ടുണ്ടെന്ന് ഞങ്ങൾ പ്രതീക്ഷിക്കുന്നു!"
+   },
+   "trialAlreadyActViewDescrPart2": {
+      "message": "നിങ്ങൾക്ക് ഇത് ഉപയോഗിക്കുന്നത് തുടരണമെങ്കിൽ, ഞങ്ങളുടെ വിലയും അതോടൊപ്പം വരുന്ന എല്ലാ ആനുകൂല്യങ്ങളും പരിശോധിക്കുക."
+   },
+   "trialAlreadyActViewEmailDescr": {
+      "message": "നൈറ്റ് ഐ നിങ്ങളുടെ ഇ-മെയിലുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു \u003Cb class=\"AccountEmail\">$1\u003C/b>\u003Cbr> നിങ്ങൾ പണമടയ്ക്കാൻ തീരുമാനിക്കുകയാണെങ്കിൽ അത് ഉപയോഗിക്കുക."
+   },
+   "trialAlreadyActViewPricing": {
+      "message": "വിലനിർണ്ണയം"
+   },
+   "trialAlreadyActViewTitle": {
+      "message": "പ്രോ പതിപ്പ്"
+   },
+   "trialExpiredViewDescrPart1": {
+      "message": "കഴിഞ്ഞ മാസങ്ങളിൽ നൈറ്റ് ഐ അതിന്റെ പ്രയോജനം തെളിയിച്ചിട്ടുണ്ടെന്ന് ഞങ്ങൾ പ്രതീക്ഷിക്കുന്നു."
+   },
+   "trialExpiredViewDescrPart2": {
+      "message": "നിങ്ങൾക്ക് എക്കാലവും സൗജന്യ ലൈറ്റ് പതിപ്പ് ഉപയോഗിക്കാം അല്ലെങ്കിൽ Pro പോകുക. ഞങ്ങളുടെ വിലനിർണ്ണയവും ഒപ്പം വരുന്ന എല്ലാ ആനുകൂല്യങ്ങളും പരിശോധിക്കുക."
+   },
+   "trialExpiredViewDescrPart3": {
+      "message": "ലൈറ്റ് പതിപ്പ്"
+   },
+   "trialExpiredViewDescrPart4": {
+      "message": "5 വെബ്‌സൈറ്റുകളിൽ വരെ ഡാർക്ക് മോഡ്"
+   },
+   "trialExpiredViewDescrPart5": {
+      "message": "പ്രോ പതിപ്പ്"
+   },
+   "trialExpiredViewDescrPart6": {
+      "message": "പരിധി ഇല്ല"
+   },
+   "trialExpiredViewTitle": {
+      "message": "നിങ്ങളുടെ സൗജന്യ ട്രയൽ കാലഹരണപ്പെട്ടു."
+   },
+   "trialLiteViewCancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "trialLiteViewGoPro": {
+      "message": "Go Pro (പരിധികൾ നീക്കം ചെയ്യുക)"
+   },
+   "trialLiteViewLiteDescr": {
+      "message": "\u003Cbr> 5 വെബ്‌സൈറ്റുകളിൽ വരെ ഡാർക്ക് മോഡ് പ്രവർത്തനക്ഷമമാക്കാം. നിങ്ങൾക്ക് ലിസ്റ്റ് മാനേജ് ചെയ്യാനും എപ്പോൾ വേണമെങ്കിലും മാറ്റാനും കഴിയും."
+   },
+   "trialLiteViewLiteTitle": {
+      "message": "ലൈറ്റ് പതിപ്പ്"
+   },
+   "trialLiteViewReadAbout": {
+      "message": "ലൈറ്റിനെക്കുറിച്ച് വായിക്കുക"
+   },
+   "trialLiteViewSave": {
+      "message": "രക്ഷിക്കും"
+   },
+   "trialProViewActivateBtn": {
+      "message": "സജീവമാക്കുക"
+   },
+   "trialProViewActivateDescr": {
+      "message": "നിങ്ങൾക്ക് ഇതിനകം ഒരു അക്കൗണ്ട് ഉണ്ടെങ്കിൽ,\u003C/br> ദയവായി അത് സജീവമാക്കുക!"
+   },
+   "trialProViewCancelBtn": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "trialProViewDescrPart1": {
+      "message": "കഴിഞ്ഞ മാസങ്ങളിൽ നൈറ്റ് ഐ അതിന്റെ ഉപയോഗക്ഷമത തെളിയിച്ചിട്ടുണ്ടെന്ന് ഞങ്ങൾ പ്രതീക്ഷിക്കുന്നു!"
+   },
+   "trialProViewDescrPart2": {
+      "message": "നിങ്ങൾക്ക് ഇത് ഉപയോഗിക്കുന്നത് തുടരണമെങ്കിൽ, ഞങ്ങളുടെ വിലയും അതോടൊപ്പം വരുന്ന എല്ലാ ആനുകൂല്യങ്ങളും പരിശോധിക്കുക."
+   },
+   "trialProViewPricing": {
+      "message": "വിലനിർണ്ണയം"
+   },
+   "trialProViewTitle": {
+      "message": "പ്രോ പതിപ്പ്"
+   }
+}

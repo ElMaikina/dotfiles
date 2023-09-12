@@ -1,0 +1,18 @@
+.RichTextArea-entinymce {
+    padding: 20px;
+    background-color: #292929;
+}
+
+#qa-ACTIONS_MODAL {
+    background-color: #292929 !important;
+}
+
+en-table td .para {
+    color: #BFBFBF !important;
+}
+
+en-table table,
+en-table tr,
+en-table td {
+    border: 1px solid #BFBFBF !important;
+}

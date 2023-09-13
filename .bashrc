@@ -27,9 +27,5 @@ alias mupdf='mupdf -I'
 # Black bakground image for feh
 alias feh='feh --image-bg black'
 
-# Enable hardware acceleration
-export LIBVA_DRIVER_NAME=nvidia
-export VDPAU_DRIVER=nvidia
-
 # Terminal output upon start
 PS1='󰣇 \W '

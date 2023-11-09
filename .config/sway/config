@@ -5,47 +5,58 @@
 # this file and re-run i3-config-wizard(1).
 #
 
-# i3 config file (v4)
+# use super as the mod key
 set $mod Mod4
 
-# font pango:Space Mono 9
-font pango:Space Mono 7
+# pretty geometric font for productivity
+font pango:Objectivity Regular 9
 
 # no window title bars, instead a 2 pixel border
-for_window [class="^.*"] border pixel 2
+#for_window [class="^.*"] border pixel 2
+#for_window [app_id=".*"] border normal 
 
-# Simple gaps
-# gaps inner 4
-# gaps outer 8
+# slim titlebar for compactness
+exec_always swaymsg titlebar_padding 1 1
+
+# optional gaps
+#gaps inner 4
+#gaps outer 8
 
 # keyboard layout and settings
 input * {
-    xkb_layout "us"
+xkb_layout "latam"
+xkb_options caps:hyper
 }
+
+input "type:touchpad" {
+tap enabled
+}
+
 input * repeat_delay 180
 input * repeat_rate 40
 
 # set default monitor and a pretty wallpaper
 output DP-1 mode 1920x1080@120Hz
-output DP-1 bg /home/elmaikina/wall/csm3.jpg fill
+#output * bg /home/elmaikina/wall/csm2.jpg fill
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec foot
+bindsym $mod+Return exec kitty
+bindsym $mod+t exec kitty
 
 # application launcher
-bindsym $mod+d bemenu-run
+bindsym $mod+d exec wofi --show=drun
 
 # kill focused window
 bindsym $mod+q kill
 
-# my favourite web browser
+# my favourite web browser, pretty and fast. although without any good vim extensions
 bindsym $mod+b exec firefox
 
 # lightweight File Manager
-bindsym $mod+n exec thunar
+bindsym $mod+n exec pcmanfm-qt
 
 # change focus
 bindsym $mod+Left focus left
@@ -53,11 +64,21 @@ bindsym $mod+Down focus down
 bindsym $mod+Up focus up
 bindsym $mod+Right focus right
 
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
+
 # alternatively, you can use the cursor keys:
 bindsym $mod+Shift+Left move left
 bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
+
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+bindsym $mod+Shift+l move right
 
 # split in horizontal orientation
 bindsym $mod+v split h
@@ -175,4 +196,5 @@ bindsym $mod+y mode "move-to-layer"
 # finds out, if available)
 bar {
         status_command i3status
+		height 18
 }

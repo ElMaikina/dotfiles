@@ -24,7 +24,7 @@ __GL_ALLOW_UNOFFICIAL_PROTOCOL=1
 
 # Wlroots variables
 #WLR_NO_HARDWARE_CURSORS=1
-#WLR_RENDERER=vulkan
+WLR_RENDERER=vulkan
 #XWAYLAND_NO_GLAMOR=1 
 
 # Flags for Steam and Wine optimizations

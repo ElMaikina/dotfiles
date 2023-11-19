@@ -2,21 +2,28 @@
 # ~/.bashrc
 #
 
+# install requirements: sudo pacman -Syu exa feh bat grep mupdf mpv ripgrep
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
 # Set bash to VI mode
-set -o vi
+# set -o vi
 
 # Changing ls to exa
 alias ls='exa --icons --color=never --group-directories-first'
 alias ll='exa -alF --icons --color=never --group-directories-first'
 alias la='exa -a --icons --color=never --group-directories-first'
 alias l='exa -F --icons --color=never --group-directories-first'
-alias l.='exa -a | egrep "^\."'
 
-# Adjust grep to use colors
-alias grep='grep --color=auto'
+# Changin tree view to rxa
+alias tree='exa -aT --icons --color=never --group-directories-first'
+
+# List directories after moving to another one
+alias cd='cd "$@" && exa -a --icons --color=never --group-directories-first'
+
+# Better, faster and newer grep
+alias grep='rg -H -n --color=always'
 
 # Change cat to bat
 alias cat='bat'

@@ -6,10 +6,11 @@
 # Optimize AUR compile time
 MAKEFLAGS="-j8"
 
-# Variables for GPU decoding
+# Variables for GPU decoding on NVIDIA GPU
+#EGL_PLATFORM=wayland
 LIBVA_DRIVER_NAME=nvidia
-EGL_PLATFORM=wayland
 VDPAU_DRIVER=nvidia
+NVD_BACKEND=direct
 
 # Wayland values for NVIDIA GPU
 #GBM_BACKEND=nvidia-drm
@@ -22,9 +23,9 @@ __GL_SHADER_DISK_CACHE=1
 __GL_DXVK_OPTIMIZATIONS=1
 __GL_ALLOW_UNOFFICIAL_PROTOCOL=1
 
-# Wlroots variables
+# Flags for Wlroots based Compositors
 #WLR_NO_HARDWARE_CURSORS=1
-WLR_RENDERER=vulkan
+#WLR_RENDERER=vulkan
 #XWAYLAND_NO_GLAMOR=1 
 
 # Flags for Steam and Wine optimizations
@@ -50,8 +51,7 @@ MOZ_X11_EGL=1
 GDK_BACKEND=wayland
 
 # QT Settings
-QT_WAYLAND_DISABLE_WINDOWDECORATION=1
-QT_AUTO_SCREEN_SCALE_FACTOR=1 
+QT_AUTO_SCREEN_SCALE_FACTOR=1
 QT_QPA_PLATFORMTHEME=qt5ct
 QT_QPA_PLATFORM=wayland
 
@@ -65,8 +65,8 @@ _JAVA_AWT_WM_NONREPARENTING=1
 CLUTTER_BACKEND=wayland
 
 # Force Mutter/ Kwin to use EGLStreams
-MUTTER_DEBUG_FORCE_EGL_STREAM=1
-KWIN_OPENGL_INTERFACE=egl
+#MUTTER_DEBUG_FORCE_EGL_STREAM=1
+#KWIN_OPENGL_INTERFACE=egl
 
 # Font rendering options for consistency
 FREETYPE_PROPERTIES="cff:no-stem-darkening=0"

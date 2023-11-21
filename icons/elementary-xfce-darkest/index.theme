@@ -1,0 +1,9 @@
+[Icon Theme]
+Name=elementary Xfce darkest
+Comment=Deprecated, please use elementary Xfce
+Inherits=elementary-xfce
+
+Example=directory-x-normal
+
+#Directory list
+Directories=

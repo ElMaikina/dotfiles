@@ -2,7 +2,7 @@
 # ~/.bashrc
 #
 
-# install requirements: sudo pacman -Syu exa feh bat grep mupdf mpv ripgrep
+# install requirements: sudo pacman -Syu exa feh bat grep mupdf mpv ripgrep gh taskranger
 
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return

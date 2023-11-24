@@ -1,8 +1,0 @@
-body {
-    background-color: transparent !important;
-}
-
-.kg-view,
-#top-menu-bar {
-    filter: invert(100%) hue-rotate(180deg) contrast(90%);
-}

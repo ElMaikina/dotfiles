@@ -1,8 +1,0 @@
-#jam-body {
-    filter: none !important;
-}
-
-.jam-icon,
-.docs-icon {
-    filter: invert(1);
-}

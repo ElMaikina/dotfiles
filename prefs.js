@@ -7,7 +7,6 @@ user_pref("media.ffvpx.enabled", false);
 user_pref("media.av1.enabled", false);
 user_pref("widget.dmabuf.force-enabled", true);
 user_pref("media.hardware-video-decoding.force-enabled", true);
-// Customization options
 user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true);
 user_pref("browser.compactmode.show", true);
 user_pref("browser.tabs.inTitlebar", 0);

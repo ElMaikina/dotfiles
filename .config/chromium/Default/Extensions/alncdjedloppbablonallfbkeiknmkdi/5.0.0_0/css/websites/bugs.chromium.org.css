@@ -1,8 +1,0 @@
-mr-header,
-mr-issue-header {
-    filter: invert(90%) hue-rotate(180deg) contrast(90%);
-}
-
-.results tr td {
-    border-bottom: 1px solid #cecece;
-}

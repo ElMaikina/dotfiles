@@ -1,7 +1,0 @@
-canvas {
-    filter: invert(0.9) hue-rotate(180deg) contrast(90%);
-}
-
-.ui-widget-content {
-    background-blend-mode: color;
-}

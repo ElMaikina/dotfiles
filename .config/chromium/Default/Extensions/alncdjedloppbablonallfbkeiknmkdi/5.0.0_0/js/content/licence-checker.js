@@ -1,1 +1,0 @@
-"use strict";window.safari.self.addEventListener("message",(function(e){if("licence"===e.name){var n=function(e){var n=localStorage.getItem("nighteye-ins");return null===n?(localStorage.setItem("nighteye-ins",e),"-"):n}(e.message.data.deviceId);window.safari.extension.dispatchMessage("licence",{nighteyeins:n})}}));

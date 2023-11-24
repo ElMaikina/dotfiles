@@ -1,0 +1,31 @@
+.tab-background {
+  border-radius: 0px !important;
+  margin-block: 0px 0 !important;
+}
+
+.tabbrowser-tab[first-visible-tab] {
+  padding-inline-start: 0px !important;
+}
+
+#nav-bar toolbarbutton { 
+  padding-left: 1px !important;  
+  padding-right: 1px !important;
+  margin-left: 1px !important; 
+  margin-right: 1px !important;  
+}
+
+:root {
+  --toolbarbutton-inner-padding:  2px !important;
+  --tab-toolbar-navbar-overlap:   0px !important;
+  --tab-min-height:               28px !important;
+  --tab-height:                   28px !important;
+  --tab-min-width:                28px !important;
+  --url-height:                   28px !important;
+}
+
+#tabbrowser-tabs,
+#tabbrowser-tabs > #tabbrowser-arrowscrollbox,
+.tabbrowser-tabs .tabbrowser-tab {
+  min-height: var(--tab-min-height) !important;
+  max-height: var(--tab-min-height) !important;
+}

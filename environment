@@ -6,12 +6,9 @@
 # Optimize AUR compile time
 MAKEFLAGS="-j8"
 
-# Variables for GPU decoding on NVIDIA GPU
-LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
-VDPAU_DRIVER=nvidia         # Use NVIDIA VAAPI Driver
-NVD_BACKEND=direct          # Direct Back-End
+# NVIDIA Settings
 
-# Wayland values for NVIDIA GPU
+# Driver specific
 __GL_SYNC_TO_VBLANK=0                   # Disables VSYNC
 __GL_GSYNC_ALLOWED=1                    # Enables GSYNC
 __GL_VRR_ALLOWED=1                      # Enables VRR
@@ -19,16 +16,23 @@ __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1   # Stores shaders
 __GL_SHADER_DISK_CACHE=1                # Reads shaders
 __GL_DXVK_OPTIMIZATIONS=1               # NVIDIA optimizations
 __GL_ALLOW_UNOFFICIAL_PROTOCOL=1        # Unstable optimizations
-
-# Flags for Steam and Wine optimizations
+# Hardware acceleration
+LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
+VDPAU_DRIVER=nvidia         # Use NVIDIA VAAPI Driver
+NVD_BACKEND=direct          # Direct Back-End
+# Steam & Proton
 DXVK_ENABLE_NVAPI=1                 # Enable DLSS and NIS
 DXVK_STATE_CACHE=1                  # Faster Cache reading
-DXVK_ASYNC=1                        # Asynchronous Shaders
 PROTON_ENABLE_NVAPI=1               # Faster Cache reading
 PROTON_HIDE_NVIDIA_GPU=0            # Enable DLSS and NIS
-WINE_FULLSCREEN_FSR=1               # FSR for all games
-WINE_FULLSCREEN_FSR_STRENGTH=5      # FSR Quality
+
+
+# Flags for Steam and Wine optimizations
 WINE_VULKAN_NEGATIVE_MIP_BIAS=45    # Improve Sharpness
+WINE_FULLSCREEN_FSR_STRENGTH=5      # FSR Quality
+WINE_FULLSCREEN_FSR=1               # FSR for all games
+DXVK_ASYNC=1                        # Asynchronous Shaders
+
 
 # Firefox value for GPU acceleration
 MOZ_DISABLE_RDD_SANDBOX=1   # Enable WebGPU / Bypass Sandbox
@@ -37,8 +41,10 @@ MOZ_USE_XINPUT2=1           # Enable Finger Gesturess
 MOZ_WEBRENDER=1             # Enable WebRender
 MOZ_X11_EGL=1               # Enable EGL
 
+
 # QT Settings
 QT_QPA_PLATFORMTHEME=qt5ct
+
 
 # Font rendering options for aesthetics and consistency
 FREETYPE_PROPERTIES="cff:no-stem-darkening=0"

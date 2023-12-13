@@ -37,6 +37,8 @@ Plug 'fladson/vim-kitty'
 Plug 'Lokaltog/powerline'
 Plug 'preservim/NERDTree'
 Plug 'ryanoasis/vim-devicons'
+Plug 'https://github.com/ap/vim-css-color'
+Plug 'https://github.com/vim-airline/vim-airline'
 call plug#end()
 
 " External packages
@@ -49,14 +51,6 @@ autocmd FileType json syntax match Comment +\/\/.\+$+
 nnoremap <C-s> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
 
-" " Vundle installation
-" set rtp+=~/.vim/bundle/Vundle.vim
-" 
-" " Vundle packages
-" call vundle#begin()
-" Plugin 'VundleVim/Vundle.vim'
-" Plugin 'MarcWeber/vim-addon-mw-utils'
-" Plugin 'tomtom/tlib_vim'
-" Plugin 'honza/vim-snippets'
-" call vundle#end()
-" filetype plugin indent on 
+" Use Airline style tabs
+let g:airline#extensions#tabline#enabled = 1
+let g:airline_powerline_fonts = 1

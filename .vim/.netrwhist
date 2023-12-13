@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =6
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/elmaikina/code/dotfiles'
 let g:netrw_dirhist_6='/home/elmaikina/utfsm/utfsm-so/tarea-1'
 let g:netrw_dirhist_5='/home/elmaikina/utfsm/utfsm-so'
 let g:netrw_dirhist_4='/home/elmaikina/utfsm/utfsm-so/tarea-3'

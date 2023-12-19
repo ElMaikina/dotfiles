@@ -17,6 +17,11 @@ filetype off
 syntax enable
 colorscheme monokai-black
 
+" To move between buffers more easily
+map gn :bnext<cr>
+map gp :bprevious<cr>
+map gd :bdelete<cr>  
+
 " Script for pasting from clipboard 
 " without losing indentation
 let &t_SI .= "\<Esc>[?2004h"
@@ -52,5 +57,5 @@ nnoremap <C-s> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
 
 " Use Airline style tabs
-let g:airline#extensions#tabline#enabled = 1
-let g:airline_powerline_fonts = 1
+" let g:airline#extensions#tabline#enabled = 1
+" let g:airline_powerline_fonts = 1

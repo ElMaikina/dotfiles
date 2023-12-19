@@ -8,19 +8,26 @@
 # use super as the mod key
 set $mod Mod4
 
+# enables X11 compatibility
+xwayland enable
+
+# Startup applications
+exec_always nm-applet
+#exec_always cbatticon
+#exec_always pasystray
+
 # pretty geometric font for productivity
-font pango:Objectivity Regular 9
+font pango:Century Gothic 7
 
 # no window title bars, instead a 2 pixel border
-#for_window [class="^.*"] border pixel 2
-#for_window [app_id=".*"] border normal 
+for_window [class="^.*"] border pixel 2
 
 # slim titlebar for compactness
 exec_always swaymsg titlebar_padding 1 1
 
 # optional gaps
-#gaps inner 4
-#gaps outer 8
+gaps inner 4
+gaps outer 8
 
 # keyboard layout and settings
 input * {
@@ -32,19 +39,19 @@ input "type:touchpad" {
 tap enabled
 }
 
-input * repeat_delay 180
-input * repeat_rate 40
+input * repeat_delay 120
+input * repeat_rate 50
 
 # set default monitor and a pretty wallpaper
-output DP-1 mode 1920x1080@120Hz
-#output * bg /home/elmaikina/wall/csm2.jpg fill
+output eDP mode 1920x1080@60Hz
+output * bg ~/pics/maretu.png fill
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec kitty
-bindsym $mod+t exec kitty
+bindsym $mod+Return exec xfce4-terminal
+bindsym $mod+t exec xfce4-terminal
 
 # application launcher
 bindsym $mod+d exec wofi --show=drun
@@ -56,7 +63,10 @@ bindsym $mod+q kill
 bindsym $mod+b exec firefox
 
 # lightweight File Manager
-bindsym $mod+n exec pcmanfm-qt
+bindsym $mod+n exec thunar
+
+# starts steam in gamepadui mode
+bindsym $mod+Shift+g exec steam -gamepadui
 
 # change focus
 bindsym $mod+Left focus left
@@ -148,16 +158,16 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit the i3 Window Manager?'
 mode "resize" {
 
         # These bindings trigger as soon as you enter the resize mode
-        bindsym h resize shrink width 192 px
-        bindsym j resize grow height 192 px
-        bindsym k resize shrink height 192 px
-        bindsym l resize grow width 192 px
+        bindsym h resize shrink width 96 px
+        bindsym j resize grow height 96 px
+        bindsym k resize shrink height 96 px
+        bindsym l resize grow width 96 px
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 192 px
-        bindsym Down resize grow height 192 px
-        bindsym Up resize shrink height 192 px
-        bindsym Right resize grow width 192 px
+        bindsym Left resize shrink width 96 px
+        bindsym Down resize grow height 96 px
+        bindsym Up resize shrink height 96 px
+        bindsym Right resize grow width 96 px
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"

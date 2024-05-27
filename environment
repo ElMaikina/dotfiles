@@ -6,6 +6,7 @@
 # Optimize AUR compile time
 MAKEFLAGS="-j8"
 
+
 # NVIDIA Settings
 
 # Driver specific
@@ -16,10 +17,14 @@ __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1   # Stores shaders
 __GL_SHADER_DISK_CACHE=1                # Reads shaders
 __GL_DXVK_OPTIMIZATIONS=1               # NVIDIA optimizations
 __GL_ALLOW_UNOFFICIAL_PROTOCOL=1        # Unstable optimizations
+
+
 # Hardware acceleration
 LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
 VDPAU_DRIVER=nvidia         # Use NVIDIA VAAPI Driver
 NVD_BACKEND=direct          # Direct Back-End
+
+
 # Steam & Proton
 DXVK_ENABLE_NVAPI=1                 # Enable DLSS and NIS
 DXVK_STATE_CACHE=1                  # Faster Cache reading
@@ -36,6 +41,7 @@ DXVK_ASYNC=1                        # Asynchronous Shaders
 
 # Firefox value for GPU acceleration
 MOZ_DISABLE_RDD_SANDBOX=1   # Enable WebGPU / Bypass Sandbox
+MOZ_ENABLE_WAYLAND=1	    # Enable Wayland mode by default
 MOZ_ACCELERATED=1           # Enable Hardware Acceleration
 MOZ_USE_XINPUT2=1           # Enable Finger Gesturess
 MOZ_WEBRENDER=1             # Enable WebRender
@@ -43,7 +49,16 @@ MOZ_X11_EGL=1               # Enable EGL
 
 
 # QT Settings
+QT_QPA_PLATFORM="wayland;xcb"
 QT_QPA_PLATFORMTHEME=qt5ct
+
+
+# Clutter Settings
+CLUTTER_BACKEND=wayland
+
+
+# SDL Settings
+SDL_VIDEODRIVER="wayland,x11"
 
 
 # Font rendering options for aesthetics and consistency

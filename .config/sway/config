@@ -14,10 +14,11 @@ xwayland enable
 # Startup applications
 exec_always nm-applet
 #exec_always cbatticon
-#exec_always pasystray
+exec_always pasystray
+exec_always blueman-applet
 
 # pretty geometric font for productivity
-font pango:Century Gothic 7
+font pango:URW Gothic L 7.5
 
 # no window title bars, instead a 2 pixel border
 for_window [class="^.*"] border pixel 2
@@ -26,25 +27,26 @@ for_window [class="^.*"] border pixel 2
 exec_always swaymsg titlebar_padding 1 1
 
 # optional gaps
-gaps inner 4
-gaps outer 8
+# gaps inner 0
+# gaps outer 0
 
 # keyboard layout and settings
 input * {
-xkb_layout "latam"
-xkb_options caps:hyper
+xkb_layout "us"
+# xkb_options caps:hyper
 }
 
 input "type:touchpad" {
 tap enabled
 }
 
-input * repeat_delay 120
-input * repeat_rate 50
+input * repeat_delay 140
+input * repeat_rate 40
 
 # set default monitor and a pretty wallpaper
-output eDP mode 1920x1080@60Hz
-output * bg ~/pics/maretu.png fill
+output "HDMI-A-1" mode 1920x1080@144Hz
+output "eDP-1" mode 1920x1080@60Hz
+output * background ~/pics/maretu.png fill
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod

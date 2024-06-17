@@ -9,6 +9,12 @@ MAKEFLAGS="-j8"
 
 # NVIDIA Settings
 
+
+# Wlroots setting
+WLR_NO_HARDWARE_CURSORS=1
+WLR_RENDERER=vulkan
+
+
 # Driver specific
 __GL_SYNC_TO_VBLANK=0                   # Disables VSYNC
 __GL_GSYNC_ALLOWED=1                    # Enables GSYNC
@@ -62,4 +68,4 @@ SDL_VIDEODRIVER="wayland,x11"
 
 
 # Font rendering options for aesthetics and consistency
-FREETYPE_PROPERTIES="cff:no-stem-darkening=0"
+# FREETYPE_PROPERTIES="cff:no-stem-darkening=0"

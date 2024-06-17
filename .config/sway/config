@@ -18,7 +18,7 @@ exec_always pasystray
 exec_always blueman-applet
 
 # pretty geometric font for productivity
-font pango:URW Gothic L 7.5
+font pango:URW Gothic L 8
 
 # no window title bars, instead a 2 pixel border
 for_window [class="^.*"] border pixel 2
@@ -44,19 +44,17 @@ input * repeat_delay 140
 input * repeat_rate 40
 
 # set default monitor and a pretty wallpaper
-output "HDMI-A-1" mode 1920x1080@144Hz
-output "eDP-1" mode 1920x1080@60Hz
-output * background ~/pics/maretu.png fill
+output * mode 1920x1080@120Hz
+output * background "/home/elmaikina/Pictures/wallpapers/maretu.png" fill
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec xfce4-terminal
-bindsym $mod+t exec xfce4-terminal
+bindsym $mod+Return exec foot
 
 # application launcher
-bindsym $mod+d exec wofi --show=drun
+bindsym $mod+d exec wofi --show=drun --allow-images
 
 # kill focused window
 bindsym $mod+q kill
@@ -65,10 +63,10 @@ bindsym $mod+q kill
 bindsym $mod+b exec firefox
 
 # lightweight File Manager
-bindsym $mod+n exec thunar
+bindsym $mod+n exec pcmanfm-qt
 
 # starts steam in gamepadui mode
-bindsym $mod+Shift+g exec steam -gamepadui
+bindsym $mod+Shift+g exec steam 
 
 # change focus
 bindsym $mod+Left focus left

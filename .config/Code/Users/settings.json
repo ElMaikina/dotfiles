@@ -1,0 +1,10 @@
+{
+    "editor.cursorSurroundingLines": 500,
+    "workbench.colorTheme": "Best Themes - Monokai Black",
+    "editor.fontFamily": "'Space Mono for Powerline', 'monospace', monospace",
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "icons",
+    "terminal.integrated.fontFamily": "'Space Mono for Powerline'",
+    "window.zoomLevel": -1,
+    "editor.lineHeight": 16
+}

@@ -9,8 +9,7 @@ MAKEFLAGS="-j8"
 
 # NVIDIA Settings
 
-
-# Wlroots setting
+# WLRoots settings
 WLR_NO_HARDWARE_CURSORS=1
 WLR_RENDERER=vulkan
 
@@ -30,6 +29,9 @@ LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
 VDPAU_DRIVER=nvidia         # Use NVIDIA VAAPI Driver
 NVD_BACKEND=direct          # Direct Back-End
 
+# Includes library for Hardware Decoding
+__EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_nvidia.json
+
 
 # Steam & Proton
 DXVK_ENABLE_NVAPI=1                 # Enable DLSS and NIS
@@ -47,7 +49,7 @@ DXVK_ASYNC=1                        # Asynchronous Shaders
 
 # Firefox value for GPU acceleration
 MOZ_DISABLE_RDD_SANDBOX=1   # Enable WebGPU / Bypass Sandbox
-MOZ_ENABLE_WAYLAND=1	    # Enable Wayland mode by default
+#MOZ_ENABLE_WAYLAND=1	    # Enable Wayland mode by default
 MOZ_ACCELERATED=1           # Enable Hardware Acceleration
 MOZ_USE_XINPUT2=1           # Enable Finger Gesturess
 MOZ_WEBRENDER=1             # Enable WebRender
@@ -55,17 +57,17 @@ MOZ_X11_EGL=1               # Enable EGL
 
 
 # QT Settings
-QT_QPA_PLATFORM="wayland;xcb"
+#QT_QPA_PLATFORM="wayland;xcb"
 QT_QPA_PLATFORMTHEME=qt5ct
 
 
 # Clutter Settings
-CLUTTER_BACKEND=wayland
+#CLUTTER_BACKEND=wayland
 
 
 # SDL Settings
-SDL_VIDEODRIVER="wayland,x11"
+#SDL_VIDEODRIVER="wayland,x11"
 
 
 # Font rendering options for aesthetics and consistency
-# FREETYPE_PROPERTIES="cff:no-stem-darkening=0"
+#FREETYPE_PROPERTIES="cff:no-stem-darkening=0"

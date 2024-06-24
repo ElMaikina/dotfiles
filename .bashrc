@@ -15,7 +15,7 @@ alias neofetch='fastfetch --color-keys blue'
 alias nf='fastfetch --color-keys blue'
 
 # Use this command to open Sway upon login
-alias top='htop'
+alias ht='htop'
 
 # Changing ls to exa
 alias ls='exa --icons --color=never --group-directories-first'
@@ -27,7 +27,7 @@ alias l='exa -F --icons --color=never --group-directories-first'
 alias tree='exa -aT --icons --color=never --group-directories-first'
 
 # List directories after moving to another one
-#alias cd='cd "$@" && exa -a --icons --color=never --group-directories-first'
+# alias cd='cd "$@" && exa -a --icons --color=never --group-directories-first'
 
 # Better, faster and newer grep
 alias grep='rg -H -n --color=always'
@@ -36,10 +36,10 @@ alias grep='rg -H -n --color=always'
 alias cat='bat'
 
 # Make it so MuPDF doesn't burn your eyes
-alias mupdf='mupdf -I'
+# alias mupdf='mupdf -I'
 
 # Black bakground image for feh
-alias feh='feh --image-bg black'
+# alias feh='feh --image-bg black'
 
 # Terminal output upon start
 #PS1='󰣇 \W '

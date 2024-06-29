@@ -27,10 +27,10 @@ for_window [class="^.*"] border pixel 2
 exec_always swaymsg titlebar_padding 1 1
 
 # Turn off display after two minutes
-exec swayidle -w \
-	timeout 160 'swaylock -f' \
-	timeout 120 'swaymsg "output * power off"' \
-	resume 'swaymsg "output * power on"'
+#exec swayidle -w \
+#	timeout 160 'swaylock -f' \
+#	timeout 120 'swaymsg "output * power off"' \
+#	resume 'swaymsg "output * power on"'
 
 # Mo borders when there is only one window
 # smart_borders on
@@ -73,7 +73,13 @@ bindsym $mod+b exec firefox
 # lightweight File Manager
 bindsym $mod+n exec pcmanfm-qt
 
-# starts steam in gamepadui mode
+# opens flatpak version of spotify
+bindsym $mod+Shift+s exec flatpak run com.spotify.Client
+
+# opens flatpak version of discord
+bindsym $mod+Shift+d exec flatpak run com.discordapp.Discord
+
+# open runtime version of steam
 bindsym $mod+Shift+g exec steam 
 
 # change focus

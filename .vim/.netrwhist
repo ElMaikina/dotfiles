@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/home/elmaikina/code/dotfiles'
-let g:netrw_dirhist_6='/home/elmaikina/utfsm/utfsm-so/tarea-1'
-let g:netrw_dirhist_5='/home/elmaikina/utfsm/utfsm-so'
-let g:netrw_dirhist_4='/home/elmaikina/utfsm/utfsm-so/tarea-3'
-let g:netrw_dirhist_3='/home/elmaikina/utfsm/utfsm-so'
-let g:netrw_dirhist_2='/home/elmaikina/utfsm/utfsm-so/tarea-4'
-let g:netrw_dirhist_1='/home/elmaikina/utfsm/utfsm-so'

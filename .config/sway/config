@@ -12,10 +12,10 @@ set $mod Mod4
 xwayland enable
 
 # Startup applications
-exec_always nm-applet
-#exec_always cbatticon
-exec_always pasystray
-exec_always blueman-applet
+# exec_always nm-applet
+# exec_always cbatticon
+# exec_always pasystray
+# exec_always blueman-applet
 
 # pretty geometric font for productivity
 font pango:URW Gothic L 8
@@ -26,14 +26,22 @@ for_window [class="^.*"] border pixel 2
 # slim titlebar for compactness
 exec_always swaymsg titlebar_padding 1 1
 
+# Turn off display after two minutes
+exec swayidle -w \
+	timeout 160 'swaylock -f' \
+	timeout 120 'swaymsg "output * power off"' \
+	resume 'swaymsg "output * power on"'
+
+# Mo borders when there is only one window
+# smart_borders on
+
 # optional gaps
-# gaps inner 0
-# gaps outer 0
+# gaps inner 8
+# gaps outer 16
 
 # keyboard layout and settings
 input * {
 xkb_layout "us"
-# xkb_options caps:hyper
 }
 
 input "type:touchpad" {
@@ -45,7 +53,7 @@ input * repeat_rate 40
 
 # set default monitor and a pretty wallpaper
 output * mode 1920x1080@120Hz
-output * background "/home/elmaikina/Pictures/wallpapers/maretu.png" fill
+output * background "/home/elmaikina/Pictures/wallpapers/maretu2.jpg" center
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -177,23 +185,22 @@ mode "resize" {
 
 # this mode lets you change a windows workspace ergonomically
 mode "move-to-layer" {
+    # These bindings trigger as soon as you enter the resize mode
+    bindsym 1 move container to workspace number $ws1
+    bindsym 2 move container to workspace number $ws2
+    bindsym 3 move container to workspace number $ws3
+    bindsym 4 move container to workspace number $ws4
+    bindsym 5 move container to workspace number $ws5
+    bindsym 6 move container to workspace number $ws6
+    bindsym 7 move container to workspace number $ws7
+    bindsym 8 move container to workspace number $ws8
+    bindsym 9 move container to workspace number $ws9
+    bindsym 0 move container to workspace number $ws10
 
-        # These bindings trigger as soon as you enter the resize mode
-		bindsym 1 move container to workspace number $ws1
-		bindsym 2 move container to workspace number $ws2
-		bindsym 3 move container to workspace number $ws3
-		bindsym 4 move container to workspace number $ws4
-		bindsym 5 move container to workspace number $ws5
-		bindsym 6 move container to workspace number $ws6
-		bindsym 7 move container to workspace number $ws7
-		bindsym 8 move container to workspace number $ws8
-		bindsym 9 move container to workspace number $ws9
-		bindsym 0 move container to workspace number $ws10
-
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-        bindsym $mod+y mode "default"
+    # back to normal: Enter or Escape or $mod+r
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+    bindsym $mod+y mode "default"
 }
 
 # Mode for resizing windows

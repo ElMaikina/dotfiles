@@ -34,6 +34,5 @@ para GPUs NVIDIA.
 
 # Fuentes
 Las fuentes las elegi porque son bonitas y porque se distinguen en DPIs bajos, lo cual brinda mejor
-uso de la pantalla independiente de la resolucion de la pantalla. Sumado a esto, hay un archivo
-_fonts.conf_ que mejora el renderizado de todas las fuentes del sistema, ayudando la legibilidad
-y estetica.
+uso del espacio independiente de la resolucion de la pantalla. Sumado a esto, hay un archivo _fonts.conf_ 
+que mejora el renderizado de todas las fuentes del sistema, ayudando la legibilidad y estetica.

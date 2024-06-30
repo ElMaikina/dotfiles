@@ -74,10 +74,12 @@ bindsym $mod+b exec firefox
 bindsym $mod+n exec pcmanfm-qt
 
 # opens flatpak version of spotify
-bindsym $mod+Shift+s exec flatpak run com.spotify.Client
+#bindsym $mod+Shift+s exec flatpak run com.spotify.Client
+bindsym $mod+Shift+s exec spotify
 
 # opens flatpak version of discord
-bindsym $mod+Shift+d exec flatpak run com.discordapp.Discord
+#bindsym $mod+Shift+d exec flatpak run com.discordapp.Discord
+bindsym $mod+Shift+d exec discord
 
 # open runtime version of steam
 bindsym $mod+Shift+g exec steam 

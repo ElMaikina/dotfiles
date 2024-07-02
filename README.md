@@ -15,7 +15,7 @@ Se usan en ambientes graficos
 - Sway: Gestor de ventanas
 - Foot: Terminal
 - Code: IDE
-- IMV: Imagenes
+- SwayImg: Imagenes
 - MPV: Videos
 - Zathura: PDFs
 
@@ -25,7 +25,8 @@ Se usan en la TTY o desde un Emulador de Terminal
 - TMUX: Multiplexor
 - Vim: Editor
 - Task: Tareas
-- HTOP: Procesos
+- Bottom: Procesos
+- WF-Recorder: Grabar
 
 # Ambiente
 El archivo _enviroment_ contiene algunas variables destinadas a dar alto rendimiento y compatibilidad

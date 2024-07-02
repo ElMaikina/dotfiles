@@ -7,9 +7,6 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-# Set bash to VI mode
-# set -o vi
-
 # Force Enviroment Variables
 export MAKEFLAGS="-j8"
 export WLR_NO_HARDWARE_CURSORS=1
@@ -39,8 +36,13 @@ export MOZ_ACCELERATED=1           # Enable Hardware Acceleration
 export MOZ_USE_XINPUT2=1           # Enable Finger Gesturess
 export MOZ_WEBRENDER=1             # Enable WebRender
 export MOZ_X11_EGL=1               # Enable EGL
-#export OBS_VKCAPTURE=1
-#export OBS_VKCAPTURE_QUIET=1
+export ELECTRON_DISABLE_SITE_ISOLATION_TRIALS=1
+export ELECTRON_ENABLE_GPU_RASTERIZATION=1
+export ELECTRON_FORCE_HIGH_PERFORMANCE_GPU=1
+export ELECTRON_ENABLE_HW_ACCELERATION=1
+export ELECTRON_WEBGL_FORCE_ENABLED=1
+export ELECTRON_DISABLE_SANDBOX=1
+export ELECTRON_USE_GL=desktop
 export QT_QPA_PLATFORM="wayland;xcb"
 export QT_QPA_PLATFORMTHEME=qt5ct
 export CLUTTER_BACKEND=wayland
@@ -51,12 +53,20 @@ export TERM=foot
 # Use this command to open Sway upon login
 alias wm='dbus-run-session sway --unsupported-gpu'
 
-# Use this command to open Sway upon login
-alias neofetch='fastfetch --color-keys cyan'
+# FastFetch, a NeoFetch replacement
 alias nf='fastfetch --color-keys cyan'
 
-# Use this command to open Sway upon login
-alias ht='htop'
+# Bottom, an HTOP replacement
+alias ht='btm'
+
+# Zathura, a lightweight, fast, PDF Reader
+alias zt='zathura'
+
+# Records screen using FFMPeg and NVENC
+alias rec='wf-recorder --codec h264_nvenc -b -f recording.mp4'
+
+# Sway Image, lightweight, fast, image viewer
+alias im='swayimg'
 
 # Changing ls to exa
 alias ls='exa --icons --color=never --group-directories-first'
@@ -67,20 +77,8 @@ alias l='exa -F --icons --color=never --group-directories-first'
 # Changin tree view to rxa
 alias tree='exa -aT --icons --color=never --group-directories-first'
 
-# List directories after moving to another one
-# alias cd='cd "$@" && exa -a --icons --color=never --group-directories-first'
-
 # Better, faster and newer grep
 alias grep='rg -H -n --color=always'
 
 # Change cat to bat
 alias cat='bat'
-
-# Make it so MuPDF doesn't burn your eyes
-# alias mupdf='mupdf -I'
-
-# Black bakground image for feh
-# alias feh='feh --image-bg black'
-
-# Terminal output upon start
-#PS1='󰣇 \W '

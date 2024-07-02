@@ -53,7 +53,7 @@ input * repeat_rate 40
 
 # set default monitor and a pretty wallpaper
 output * mode 1920x1080@120Hz
-output * background "/home/elmaikina/Pictures/wallpapers/maretu2.jpg" center
+output * background "/home/elmaikina/pics/wallpapers/maretu2.jpg" center
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -73,16 +73,17 @@ bindsym $mod+b exec firefox
 # lightweight File Manager
 bindsym $mod+n exec pcmanfm-qt
 
-# opens flatpak version of spotify
-#bindsym $mod+Shift+s exec flatpak run com.spotify.Client
+# opens native version of visual studio code
+bindsym $mod+c exec code
+
+# opens native version of spotify
 bindsym $mod+Shift+s exec spotify
 
-# opens flatpak version of discord
-#bindsym $mod+Shift+d exec flatpak run com.discordapp.Discord
-bindsym $mod+Shift+d exec discord
+# opens native version of discord
+bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --enable-features=VaapiIgnoreDriverChecks --enable-features=VaapiVideoDecoder --enable-features=UseOzonePlatform --force-device-scale-factor=1.0 --ozone-platform-hint=auto --ozone-platform=wayland --use-gl=egl --disable-smooth-scrolling --enable-gpu-rasterization --ignore-gpu-blocklist --enable-zero-copy 
 
 # open runtime version of steam
-bindsym $mod+Shift+g exec steam 
+bindsym $mod+Shift+g exec gamemoderun steam-native
 
 # change focus
 bindsym $mod+Left focus left

@@ -71,7 +71,8 @@ bindsym $mod+q kill
 bindsym $mod+b exec firefox
 
 # lightweight File Manager
-bindsym $mod+n exec pcmanfm-qt
+#bindsym $mod+n exec pcmanfm-qt
+bindsym $mod+n exec thunar
 
 # opens native version of visual studio code
 bindsym $mod+c exec code
@@ -84,6 +85,9 @@ bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --e
 
 # open runtime version of steam
 bindsym $mod+Shift+g exec gamemoderun steam-native
+
+# screenshots entire screen and saves it to pictures folder
+bindsym Print exec grim
 
 # change focus
 bindsym $mod+Left focus left

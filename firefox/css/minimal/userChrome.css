@@ -1,0 +1,91 @@
+.tab-background {
+  border-radius: 0px !important;
+  margin-block: 0px 0 !important;
+}
+
+.tabbrowser-tab[first-visible-tab] {
+  padding-inline-start: 0px !important;
+}
+
+#nav-bar toolbarbutton { 
+  padding-left: 1px !important;  
+  padding-right: 1px !important;
+  margin-left: 1px !important; 
+  margin-right: 1px !important;  
+}
+
+:root {
+  --toolbarbutton-inner-padding:  2px !important;
+  --tab-toolbar-navbar-overlap:   0px !important;
+  --tab-min-height:               28px !important;
+  --tab-height:                   28px !important;
+  --tab-min-width:                28px !important;
+  --url-height:                   28px !important;
+
+  /*Change the background color of just the toolbar*/
+  --toolbar-bgcolor: #000000 !important;
+
+  /*change the default blue accent color in many different elements.*/
+  --lwt-accent-color: #000000 !important;
+
+  /*Color the tabstrip background*/
+  --chrome-background-color: #000000 !important;
+
+  /*Color the background of the selected tab*/
+  --tab-selection-background-color: #000000 !important;
+
+  /*Color the background of a hovered tab. not sure if this still works.*/
+  --tab-hover-background-color: #000000 !important;
+
+  /*Background color of the toolbar and urlbar wrapper*/
+  --chrome-secondary-background-color: #000000 !important;
+  --url-and-searchbar-background-color: #000000 !important;
+
+   /*color of highlighted text in the urlbar, searchbar, and other UI elements*/
+   --chrome-selection-background-color: #ffffff !important;
+
+   /*color of the urlbar border*/
+   --chrome-nav-bar-controls-border-color: #000000 !important;
+
+   /*urlbar border*/
+   /*color of the "tab-burst" effect you see when a tab finishes loading*/
+   --tab-loading-fill: #000000 !important;
+
+   /*urlbar background color*/
+   --toolbar-bgcolor: #000000 !important;
+}
+
+#TabsToolbar{
+   background-color: #000000 !important
+}
+
+.tab-background {
+   background-color: #000000 !important;
+}
+
+.tabbrowser-tab[selected="true"] .tab-background {
+   background: #000000 none !important;
+}
+
+.tabbrowser-tab[selected="false"] .tab-background {
+   background: #000000 none !important;
+}
+
+.tabbrowser-tab:not([selected]) .tab-content{
+   color: #666666 !important;
+}
+
+#urlbar {
+  background-color: #000000 !important;
+}
+
+#urlbar-background, #searchbar {
+  --toolbar-field-background-color: #000000 !important;
+}
+
+#tabbrowser-tabs,
+#tabbrowser-tabs > #tabbrowser-arrowscrollbox,
+.tabbrowser-tabs .tabbrowser-tab {
+  min-height: var(--tab-min-height) !important;
+  max-height: var(--tab-min-height) !important;
+}

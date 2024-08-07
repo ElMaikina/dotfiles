@@ -1,31 +1,34 @@
-# Use the super/windows key as the shortcut modifier
+# use the super/windows key as the shortcut modifier
 set $mod Mod4
 
-# Autostart LXSession
+# autostart apps
+exec_always nm-applet
+exec_always cbatticon
+exec_always pasystray
+exec_always blueman-applet
+
+# set resolution, keyboard rate and wallpaper
 exec --no-startup-id xrandr --auto
 exec --no-startup-id xrandr --output DP-0 --mode 1920x1080 --rate 120.00 --dpi 91
-exec --no-startup-id lxsession
-exec --no-startup-id xset r rate 180 40
 exec --no-startup-id feh --bg-fill /home/elmaikina/wall/csm3.jpg
+exec --no-startup-id xset r rate 180 40
 
-# Pretty and readable font
-font pango:Droid Sans 9
+# pretty geometric font for productivity
+font pango:URW Gothic L 8
 
-# Use Mouse+$mod to drag floating windows to their wanted position
+# drag windows freely
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec st
-bindsym $mod+t exec st
+bindsym $mod+Return exec xterm -fg white -bg black -fa 'Monaco' -fs 8
 
 # kill focused window
 bindsym $mod+q kill
-bindsym $mod+x kill
 
-# Currently the browser that has the most support for hardware acceleration
-bindsym $mod+g exec firefox
+# the best browser ever
+bindsym $mod+b exec firefox
 
-# Show applications launcher in rofi
+# applications launcher
 bindsym $mod+d exec dmenu_run
 
 # change focus
@@ -53,18 +56,18 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
-bindsym $mod+v split v
+bindsym $mod+v split h
 
 # split in vertical orientation
-bindsym $mod+b split h
+bindsym $mod+s split v
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
-bindsym $mod+u layout toggle split
-bindsym $mod+i layout tabbed
-bindsym $mod+o layout stacking
+bindsym $mod+i layout toggle split
+bindsym $mod+o layout tabbed
+bindsym $mod+p layout stacked
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -78,8 +81,7 @@ bindsym $mod+Prior focus parent
 # focus the child container
 bindsym $mod+Next focus child
 
-# Define names for default workspaces for which we configure key bindings later on.
-# We use variables to avoid repeating the names in multiple places.
+# workspace names
 set $ws1 "1"
 set $ws2 "2"
 set $ws3 "3"
@@ -124,7 +126,6 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit the i3 Window Manager?'
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
         bindsym h resize shrink width 192 px
         bindsym j resize grow height 192 px
         bindsym k resize shrink height 192 px
@@ -144,7 +145,6 @@ mode "resize" {
 
 # this mode lets you change a windows workspace ergonomically
 mode "move-to" {
-	# These bindings trigger as soon as you enter the resize mode
 	bindsym 1 move container to workspace number $ws1
 	bindsym 2 move container to workspace number $ws2
 	bindsym 3 move container to workspace number $ws3
@@ -161,14 +161,14 @@ mode "move-to" {
 	bindsym $mod+y mode "default"
 }
 
-# Mode for resizing windows
+# resize mode
 bindsym $mod+r mode "resize"
 
-# Mode for changing the windows
+# move window mode
 bindsym $mod+y mode "move-to"
 
-# Start i3bar to display a workspace bar (plus the system information i3status
-# finds out, if available)
+# status bar
 bar {
         status_command i3status
+        height 18
 }

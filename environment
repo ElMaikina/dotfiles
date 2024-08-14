@@ -29,12 +29,16 @@ __GL_ALLOW_UNOFFICIAL_PROTOCOL=1        # Unstable optimizations
 
 # NVIDIA Hardware Acceleration
 LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
-#VDPAU_DRIVER=nvidia         # Use NVIDIA VAAPI Driver
+#VDPAU_DRIVER=nvidia        # Use NVIDIA VAAPI Driver
 NVD_BACKEND=direct          # Direct Back-End
 
 
 # Includes library for Hardware Decoding
 # __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_nvidia.json
+
+
+# Apply MangoHud for all games, not only Steam
+MANGOHUD=1
 
 
 # Steam & Proton
@@ -94,7 +98,7 @@ CLUTTER_BACKEND=wayland
 FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
 
 
-# Defaault Programs and Shell
+# Default Programs and Shell
 EDITOR=/bin/vim
 SHELL=/bin/bash
 TERM=foot

@@ -1,23 +1,8 @@
-#
-# This file is parsed by pam_env module
-#
-# Syntax: simple "KEY=VAL" pairs on separate lines
-
-# Optimize AUR compile time
 MAKEFLAGS="-j8"
-
-
-# NVIDIA WLROOTS Settings
 WLR_NO_HARDWARE_CURSORS=1
 WLR_RENDERER=vulkan
-
-
-# NVIDIA Wayland Settings
 GBM_BACKEND=nvidia-drm
 __GLX_VENDOR_LIBRARY_NAME=nvidia
-
-
-# NVIDIA Driver Specific
 __GL_SYNC_TO_VBLANK=0                   # Disables VSYNC
 __GL_GSYNC_ALLOWED=1                    # Enables GSYNC
 __GL_VRR_ALLOWED=1                      # Enables VRR
@@ -25,51 +10,23 @@ __GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1   # Stores shaders
 __GL_SHADER_DISK_CACHE=1                # Reads shaders
 __GL_DXVK_OPTIMIZATIONS=1               # NVIDIA optimizations
 __GL_ALLOW_UNOFFICIAL_PROTOCOL=1        # Unstable optimizations
-
-
-# NVIDIA Hardware Acceleration
 LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
-#VDPAU_DRIVER=nvidia        # Use NVIDIA VAAPI Driver
 NVD_BACKEND=direct          # Direct Back-End
-
-
-# Includes library for Hardware Decoding
-# __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_nvidia.json
-
-
-# Apply MangoHud for all games, not only Steam
 MANGOHUD=1
-
-
-# Steam & Proton
 DXVK_ENABLE_NVAPI=1                 # Enable DLSS and NIS
 DXVK_STATE_CACHE=1                  # Faster Cache reading
 PROTON_ENABLE_NVAPI=1               # Faster Cache reading
 PROTON_HIDE_NVIDIA_GPU=0            # Enable DLSS and NIS
-
-
-# Flags for Steam and Wine optimizations
 WINE_VULKAN_NEGATIVE_MIP_BIAS=45    # Improve Sharpness
 WINE_FULLSCREEN_FSR_STRENGTH=5      # FSR Quality
 WINE_FULLSCREEN_FSR=1               # FSR for all games
 DXVK_ASYNC=1                        # Asynchronous Shaders
-
-
-# Firefox value for GPU acceleration
 MOZ_DISABLE_RDD_SANDBOX=1   # Enable WebGPU / Bypass Sandbox
 MOZ_ENABLE_WAYLAND=1	    # Enable Wayland mode by default
 MOZ_ACCELERATED=1           # Enable Hardware Acceleration
 MOZ_USE_XINPUT2=1           # Enable Finger Gesturess
 MOZ_WEBRENDER=1             # Enable WebRender
 MOZ_X11_EGL=1               # Enable EGL
-
-
-# NVIDIA Video Capture for OBS
-# OBS_VKCAPTURE=1
-# OBS_VKCAPTURE_QUIET=1
-
-
-# Electron Settings
 ELECTRON_DISABLE_SITE_ISOLATION_TRIALS=1
 ELECTRON_ENABLE_GPU_RASTERIZATION=1
 ELECTRON_FORCE_HIGH_PERFORMANCE_GPU=1
@@ -77,28 +34,11 @@ ELECTRON_ENABLE_HW_ACCELERATION=1
 ELECTRON_WEBGL_FORCE_ENABLED=1
 ELECTRON_DISABLE_SANDBOX=1
 ELECTRON_USE_GL=desktop
-
-
-# QT Settings
-QT_QPA_PLATFORM="wayland;xcb"
+QT_QPA_PLATFORM=wayland
 QT_QPA_PLATFORMTHEME=qt5ct
-#QT_STYLE_OVERRIDE=Fusion
-
-
-# Clutter Settings
 CLUTTER_BACKEND=wayland
-
-
-# SDL Settings
-#SDL_VIDEODRIVER="wayland,x11"
-
-
-# Font rendering options for aesthetics and consistency
-#FREETYPE_PROPERTIES="cff:no-stem-darkening=0"
+SDL_VIDEODRIVER=wayland
 FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
-
-
-# Default Programs and Shell
 EDITOR=/bin/vim
 SHELL=/bin/bash
 TERM=foot

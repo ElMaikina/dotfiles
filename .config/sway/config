@@ -18,21 +18,26 @@ xwayland enable
 # exec_always blueman-applet
 
 # pretty geometric font for productivity
-font pango:URW Gothic L 8
+#font pango:URW Gothic L 8
+
+# remove title bars even in tabbed mode
+font pango:monospace 0
+titlebar_border_thickness 0                                                     
+titlebar_padding 0
 
 # no window title bars, instead a 2 pixel border
 for_window [class="^.*"] border pixel 2
 
 # slim titlebar for compactness
-exec_always swaymsg titlebar_padding 1 1
+#exec_always swaymsg titlebar_padding 1 1
 
-# Turn off display after two minutes
+# turn off display after two minutes
 #exec swayidle -w \
 #	timeout 160 'swaylock -f' \
 #	timeout 120 'swaymsg "output * power off"' \
 #	resume 'swaymsg "output * power on"'
 
-# Mo borders when there is only one window
+# no borders when there is only one window
 # smart_borders on
 
 # optional gaps
@@ -76,6 +81,9 @@ bindsym $mod+n exec thunar
 
 # opens native version of visual studio code
 bindsym $mod+c exec code
+
+# opens volume control application
+bindsym $mod+Shift+v exec pavucontrol-qt
 
 # opens native version of spotify
 bindsym $mod+Shift+s exec spotify

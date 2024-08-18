@@ -4,13 +4,15 @@
 
 # install requirements: sudo pacman -Syu exa feh bat grep mupdf mpv ripgrep gh taskranger
 
-# If not running interactively, don't do anything
+# if not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-# Force Enviroment Variables
+# force enviroment variables
 export MAKEFLAGS="-j8"
 export WLR_NO_HARDWARE_CURSORS=1
 export WLR_RENDERER=vulkan
+export GBM_BACKEND=nvidia-drm
+export __GLX_VENDOR_LIBRARY_NAME=nvidia
 export __GL_SYNC_TO_VBLANK=0                   # Disables VSYNC
 export __GL_GSYNC_ALLOWED=1                    # Enables GSYNC
 export __GL_VRR_ALLOWED=1                      # Enables VRR
@@ -19,9 +21,8 @@ export __GL_SHADER_DISK_CACHE=1                # Reads shaders
 export __GL_DXVK_OPTIMIZATIONS=1               # NVIDIA optimizations
 export __GL_ALLOW_UNOFFICIAL_PROTOCOL=1        # Unstable optimizations
 export LIBVA_DRIVER_NAME=nvidia    # Use NVIDIA VAAPI Driver
-export VDPAU_DRIVER=nvidia         # Use NVIDIA VAAPI Driver
 export NVD_BACKEND=direct          # Direct Back-End
-export __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/10_nvidia.json
+export MANGOHUD=1
 export DXVK_ENABLE_NVAPI=1                 # Enable DLSS and NIS
 export DXVK_STATE_CACHE=1                  # Faster Cache reading
 export PROTON_ENABLE_NVAPI=1               # Faster Cache reading
@@ -43,42 +44,26 @@ export ELECTRON_ENABLE_HW_ACCELERATION=1
 export ELECTRON_WEBGL_FORCE_ENABLED=1
 export ELECTRON_DISABLE_SANDBOX=1
 export ELECTRON_USE_GL=desktop
-export QT_QPA_PLATFORM="wayland;xcb"
+export QT_QPA_PLATFORM=wayland
 export QT_QPA_PLATFORMTHEME=qt5ct
 export CLUTTER_BACKEND=wayland
+export SDL_VIDEODRIVER=wayland
+export FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
 export EDITOR=/bin/vim
 export SHELL=/bin/bash
 export TERM=foot
 
-# Use this command to open Sway upon login
+# aliases to access common commands faster
 alias wm='dbus-run-session sway --unsupported-gpu'
-
-# FastFetch, a NeoFetch replacement
 alias nf='fastfetch --color-keys cyan'
-
-# Bottom, an HTOP replacement
-alias ht='btm'
-
-# Zathura, a lightweight, fast, PDF Reader
+alias ht='htop'
 alias zt='zathura'
-
-# Records screen using FFMPeg and NVENC
 alias rec='wf-recorder --codec h264_nvenc -b -f recording.mp4'
-
-# Sway Image, lightweight, fast, image viewer
 alias im='swayimg'
-
-# Changing ls to exa
 alias ls='exa --icons --color=never --group-directories-first'
 alias ll='exa -alF --icons --color=never --group-directories-first'
 alias la='exa -a --icons --color=never --group-directories-first'
 alias l='exa -F --icons --color=never --group-directories-first'
-
-# Changin tree view to rxa
 alias tree='exa -aT --icons --color=never --group-directories-first'
-
-# Better, faster and newer grep
 alias grep='rg -H -n --color=always'
-
-# Change cat to bat
 alias cat='bat'

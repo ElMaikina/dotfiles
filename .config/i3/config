@@ -20,16 +20,37 @@ font pango:URW Gothic L 8
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec xterm -fg white -bg black -fa 'Monaco' -fs 8
+bindsym $mod+Return exec xterm -fg white -bg black -fa 'Space Mono for Powerline' -fs 8
+
+# application launcher
+bindsym $mod+d exec rofi --show=drun
 
 # kill focused window
 bindsym $mod+q kill
 
-# the best browser ever
+# my favourite web browser, pretty and fast. although without any good vim extensions
 bindsym $mod+b exec firefox
 
-# applications launcher
-bindsym $mod+d exec dmenu_run
+# lightweight File Manager
+bindsym $mod+n exec thunar
+
+# opens native version of visual studio code
+bindsym $mod+c exec code
+
+# opens volume control application
+bindsym $mod+Shift+v exec pavucontrol-qt
+
+# opens native version of spotify
+bindsym $mod+Shift+s exec spotify
+
+# opens native version of discord
+bindsym $mod+Shift+d exec discord
+
+# open runtime version of steam
+bindsym $mod+Shift+g exec gamemoderun steam-native
+
+# screenshots entire screen and saves it to pictures folder
+bindsym Print exec xfce4-screenshooter
 
 # change focus
 bindsym $mod+h focus left
@@ -126,16 +147,16 @@ bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit the i3 Window Manager?'
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
-        bindsym h resize shrink width 192 px
-        bindsym j resize grow height 192 px
-        bindsym k resize shrink height 192 px
-        bindsym l resize grow width 192 px
+        bindsym h resize shrink width 96 px
+        bindsym j resize grow height 96 px
+        bindsym k resize shrink height 96 px
+        bindsym l resize grow width 96 px
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 192 px
-        bindsym Down resize grow height 192 px
-        bindsym Up resize shrink height 192 px
-        bindsym Right resize grow width 192 px
+        bindsym Left resize shrink width 96 px
+        bindsym Down resize grow height 96 px
+        bindsym Up resize shrink height 96 px
+        bindsym Right resize grow width 96 px
 
         # back to normal: Enter or Escape or $mod+r
         bindsym Return mode "default"

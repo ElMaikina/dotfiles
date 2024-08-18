@@ -234,5 +234,6 @@ bindsym $mod+y mode "move-to-layer"
 # finds out, if available)
 bar {
         status_command i3status
+        font pango:URW Gothic L 8
 		height 18
 }

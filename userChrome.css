@@ -6,8 +6,8 @@
 	--urlbar-focused-bg-color: #41404c;
 	--urlbar-not-focused-bg-color: #1c1b22;
 	--toolbar-bgcolor: #2b2a33 !important;
-	--tab-font: 'URW Gothic';
-	--urlbar-font: 'URW Gothic';
+	--tab-font: 'URW Gothic L';
+	--urlbar-font: 'URW Gothic L';
 
 	/* try increasing if you encounter problems */
 	--urlbar-height-setting: 24px;
@@ -270,6 +270,6 @@ tab {
 }
 
 * {
-   font-family: "URW Gothic" !important;
+   font-family: "URW Gothic L" !important;
    font-size: 9pt !important; 
 }

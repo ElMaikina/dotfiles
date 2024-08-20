@@ -56,8 +56,19 @@ tap enabled
 input * repeat_delay 140
 input * repeat_rate 40
 
+# configure monitors
+output DP-1 pos 0 0 mode 1920x1080@120Hz # center
+output HDMI-0 pos -1366 256 mode 1366x768@60Hz # left
+output DP-2 pos 1920 0 transform 90 mode 1366x768@60Hz # right
+
+# single monitor
+# output * mode 1920x1080@120Hz
+
+# fix workspaces to monitors
+workspace 9 output HDMI-1
+workspace 0 output DP-2
+
 # set default monitor and a pretty wallpaper
-output * mode 1920x1080@120Hz
 output * background "/home/elmaikina/pics/wallpapers/maretu2.jpg" center
 
 # use Mouse+$mod to drag floating windows to their wanted position

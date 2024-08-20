@@ -37,7 +37,7 @@ ELECTRON_USE_GL=desktop
 QT_QPA_PLATFORM=wayland
 QT_QPA_PLATFORMTHEME=qt5ct
 CLUTTER_BACKEND=wayland
-SDL_VIDEODRIVER=wayland
+SDL_VIDEODRIVER="wayland,x11"
 FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
 EDITOR=/bin/vim
 SHELL=/bin/bash

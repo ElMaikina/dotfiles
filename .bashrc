@@ -47,7 +47,7 @@ export ELECTRON_USE_GL=desktop
 export QT_QPA_PLATFORM=wayland
 export QT_QPA_PLATFORMTHEME=qt5ct
 export CLUTTER_BACKEND=wayland
-export SDL_VIDEODRIVER=wayland
+export SDL_VIDEODRIVER="wayland,x11"
 export FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
 export EDITOR=/bin/vim
 export SHELL=/bin/bash

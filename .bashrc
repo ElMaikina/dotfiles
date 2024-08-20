@@ -56,7 +56,7 @@ export TERM=foot
 # aliases to access common commands faster
 alias wm='dbus-run-session sway --unsupported-gpu'
 alias nf='fastfetch --color-keys cyan'
-alias ht='htop'
+alias ht='btm'
 alias zt='zathura'
 alias rec='wf-recorder --codec h264_nvenc -b -f recording.mp4'
 alias im='swayimg'

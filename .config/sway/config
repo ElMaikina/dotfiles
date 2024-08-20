@@ -18,7 +18,7 @@ xwayland enable
 # exec_always blueman-applet
 
 # pretty geometric font for productivity
-#font pango:URW Gothic L 8
+# font pango:URW Gothic L 8
 
 # remove title bars even in tabbed mode
 font pango:monospace 0
@@ -26,13 +26,13 @@ titlebar_border_thickness 0
 titlebar_padding 0
 
 # no window title bars, instead a 2 pixel border
-for_window [class="^.*"] border pixel 2
+for_window [class="^.*"] border pixel 1
 
 # slim titlebar for compactness
-#exec_always swaymsg titlebar_padding 1 1
+# exec_always swaymsg titlebar_padding 1 1
 
 # turn off display after two minutes
-#exec swayidle -w \
+# exec swayidle -w \
 #	timeout 160 'swaylock -f' \
 #	timeout 120 'swaymsg "output * power off"' \
 #	resume 'swaymsg "output * power on"'

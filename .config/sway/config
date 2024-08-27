@@ -10,7 +10,6 @@ xwayland enable
 #exec --no-startup-id cbatticon
 #exec --no-startup-id pasystray
 #exec --no-startup-id blueman-applet
-#exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper2.jpg 
 
 # autotiling enabled for the first three workspaces
 exec_always autotiling -w 1 2 3 --limit 2
@@ -18,9 +17,15 @@ exec_always autotiling -w 1 2 3 --limit 2
 # pretty geometric font for productivity
 font pango:URW Gothic L 8
 
-# no window title bars, instead a 2 pixel border
-for_window [class="^.*"] border pixel 1
+# window border styling
+#for_window [class="^.*"] border pixel 1
 for_window [all] title_window_icon on
+exec_always swaymsg titlebar_padding 1 1
+
+# set floating window rules
+for_window [app_id="thunar"] floating enable
+for_window [app_id="mpv"] floating enable
+for_window [app_id="pavucontrol-qt"] floating enable
 
 # window titlebar colors
 # class                 border  backgr. text    indicator child_border
@@ -30,14 +35,11 @@ client.unfocused        #111111 #000000 #666666 #292d2e   #111111
 client.urgent           #111111 #900000 #ffffff #900000   #111111
 client.placeholder      #111111 #000000 #ffffff #000000   #111111
 
-# slim titlebar for compactness
-# exec_always swaymsg titlebar_padding 1 1
-
 # turn off display after two minutes
-# exec swayidle -w \
-#	timeout 160 'swaylock -f' \
-#	timeout 120 'swaymsg "output * power off"' \
-#	resume 'swaymsg "output * power on"'
+exec swayidle -w \
+timeout 160 'swaylock -f' \
+timeout 120 'swaymsg "output * power off"' \
+resume 'swaymsg "output * power on"'
 
 # no borders when there is only one window
 # smart_borders on
@@ -247,7 +249,7 @@ bindsym $mod+y mode "move-to-layer"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
-        font pango:URW Gothic L 7
-	height 18
+    status_command i3status
+    font pango:Space Mono for Powerline 6
+	height 16
 }

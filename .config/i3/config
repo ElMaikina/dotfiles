@@ -2,28 +2,47 @@
 set $mod Mod4
 
 # autostart apps
-exec_always nm-applet
-exec_always cbatticon
-exec_always pasystray
-exec_always blueman-applet
+exec --no-startup-id xfce4-panel --disable-wm-check
+exec --no-startup-id nm-applet
+exec --no-startup-id cbatticon
+exec --no-startup-id pasystray
+#exec --no-startup-id blueman-applet
+exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper2.jpg 
 
-# set resolution, keyboard rate and wallpaper
-exec --no-startup-id xrandr --auto
-exec --no-startup-id xrandr --output DP-0 --mode 1920x1080 --rate 120.00 --dpi 91
-exec --no-startup-id feh --bg-fill /home/elmaikina/wall/csm3.jpg
-exec --no-startup-id xset r rate 180 40
+#set resolution, keyboard rate and wallpaper
+exec_always --no-startup-id xrandr --auto
+exec_always --no-startup-id xset r rate 180 40
+exec_always --no-startup-id xinput set-prop "ETPS/2 Elantech Touchpad" "libinput Tapping Enabled" 1
 
 # pretty geometric font for productivity
 font pango:URW Gothic L 8
 
+# hide titlebars for all windows
+for_window [class=".*"] border pixel 1 
+for_window [all] title_window_icon on
+
+# window titlebar colors
+# class                 border  backgr. text    indicator child_border
+client.focused          #111111 #000000 #ffffff #2e9ef4   #222222
+client.focused_inactive #111111 #000000 #ffffff #484e50   #111111
+client.unfocused        #111111 #000000 #666666 #292d2e   #111111
+client.urgent           #111111 #900000 #ffffff #900000   #111111
+client.placeholder      #111111 #000000 #ffffff #000000   #111111
+
 # drag windows freely
 floating_modifier $mod
 
+### Autostart
+exec_always autotiling -w 1 2 3 --limit 2
+
 # start a terminal
-bindsym $mod+Return exec xterm -fg white -bg black -fa 'Space Mono for Powerline' -fs 8
+#bindsym $mod+Return exec xterm -fg white -bg black -fa 'Space Mono for Powerline' -fs 8
+#bindsym $mod+Return exec xfce4-terminal
+bindsym $mod+Return exec st
 
 # application launcher
-bindsym $mod+d exec rofi --show=drun
+# bindsym $mod+d exec rofi -show drun
+bindsym $mod+d exec xfce4-appfinder
 
 # kill focused window
 bindsym $mod+q kill
@@ -189,7 +208,7 @@ bindsym $mod+r mode "resize"
 bindsym $mod+y mode "move-to"
 
 # status bar
-bar {
-        status_command i3status
-        height 18
-}
+# bar {
+#         status_command i3status
+#         height 18
+# }

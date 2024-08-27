@@ -2,23 +2,23 @@
 set $mod Mod4
 
 # autostart apps
-exec --no-startup-id xfce4-panel --disable-wm-check
-exec --no-startup-id nm-applet
-exec --no-startup-id cbatticon
-exec --no-startup-id pasystray
+#exec --no-startup-id xfce4-panel --disable-wm-check
+#exec --no-startup-id nm-applet
+#exec --no-startup-id cbatticon
+#exec --no-startup-id pasystray
 #exec --no-startup-id blueman-applet
 exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper2.jpg 
 
 #set resolution, keyboard rate and wallpaper
 exec_always --no-startup-id xrandr --auto
 exec_always --no-startup-id xset r rate 180 40
-exec_always --no-startup-id xinput set-prop "ETPS/2 Elantech Touchpad" "libinput Tapping Enabled" 1
+#exec_always --no-startup-id xinput set-prop "ETPS/2 Elantech Touchpad" "libinput Tapping Enabled" 1
 
 # pretty geometric font for productivity
 font pango:URW Gothic L 8
 
 # hide titlebars for all windows
-for_window [class=".*"] border pixel 1 
+#for_window [class=".*"] border pixel 1 
 for_window [all] title_window_icon on
 
 # window titlebar colors
@@ -208,7 +208,8 @@ bindsym $mod+r mode "resize"
 bindsym $mod+y mode "move-to"
 
 # status bar
-# bar {
-#         status_command i3status
-#         height 18
-# }
+bar {
+    status_command i3status
+    font pango:URW Gothic L 6
+	height 18
+}

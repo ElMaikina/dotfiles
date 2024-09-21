@@ -72,7 +72,7 @@ output * pos 0 0 mode 1366x768@60hz
 # workspace 10 output DP-2
 
 # set default monitor and a pretty wallpaper
-output * background "/home/maiki/Pictures/wallpaper2.jpg" fill
+output * background "/home/maiki/Pictures/wallpaper.jpg" fill
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -250,6 +250,6 @@ bindsym $mod+y mode "move-to-layer"
 # finds out, if available)
 bar {
     status_command i3status
-    font pango:URW Gothic L 6
-	height 18
+    font pango:URW Gothic L 7
+	height 16
 }

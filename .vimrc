@@ -21,12 +21,12 @@ map gn :bnext<cr>
 map gp :bprevious<cr>
 map gd :bdelete<cr>  
 
-" vimplug packages
-call plug#begin()
-	Plug 'preservim/NERDTree'
-	Plug 'ryanoasis/vim-devicons'
-call plug#end()
-
-" nerdtree toggle key
-nnoremap <C-s> :NERDTreeToggle<CR>
-let NERDTreeShowHidden=1
+"" vimplug packages
+"call plug#begin()
+"	Plug 'preservim/NERDTree'
+"	Plug 'ryanoasis/vim-devicons'
+"call plug#end()
+"
+"" nerdtree toggle key
+"nnoremap <C-s> :NERDTreeToggle<CR>
+"let NERDTreeShowHidden=1

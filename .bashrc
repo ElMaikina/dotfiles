@@ -73,22 +73,22 @@ export CLUTTER_BACKEND=wayland
 export FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
 
 # default apps
-#export EDITOR=/bin/vim
-#export SHELL=/bin/bash
-#export TERM=foot
+export EDITOR=/bin/vim
+export SHELL=/bin/bash
+export TERM=foot
 
 # aliases to access common commands faster
 # removed temporarily because of scripts interference
-#alias wm='dbus-run-session sway --unsupported-gpu'
-#alias nf='fastfetch --color-keys cyan'
-#alias ht='btm'
-#alias zt='zathura'
-#alias rec='wf-recorder --codec h264_nvenc -b -f recording.mp4'
-#alias im='swayimg'
-#alias ls='exa --icons --color=never --group-directories-first'
-#alias ll='exa -alF --icons --color=never --group-directories-first'
-#alias la='exa -a --icons --color=never --group-directories-first'
-#alias l='exa -F --icons --color=never --group-directories-first'
-#alias tree='exa -aT --icons --color=never --group-directories-first'
-#alias grep='rg -H -n --color=always'
-#alias cat='bat'
+alias wm='dbus-run-session sway --unsupported-gpu'
+alias nf='fastfetch --color-keys cyan'
+alias ht='btm'
+alias zt='zathura'
+alias rec='wf-recorder --codec h264_nvenc -b -f recording.mp4'
+alias im='swayimg'
+alias ls='exa --icons --color=never --group-directories-first'
+alias ll='exa -alF --icons --color=never --group-directories-first'
+alias la='exa -a --icons --color=never --group-directories-first'
+alias l='exa -F --icons --color=never --group-directories-first'
+alias tree='exa -aT --icons --color=never --group-directories-first'
+alias grep='rg -H -n --color=always'
+alias cat='bat'

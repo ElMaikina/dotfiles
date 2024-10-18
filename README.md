@@ -15,7 +15,7 @@ utilizo _bash_, aunque prontamente intentare probar _zsh_ (mentira).
 Se usan en ambientes graficos
 
 - firefox: navegador web
-- sway: gestor de ventanas
+- dwl: gestor de ventanas
 - foot: terminal
 - sway-img: visualizador de imagenes
 - mpv: reproductor de videos
@@ -46,4 +46,5 @@ y eficiencia.
 
 # Screenshot
 Foto de como se ve el ambiente completo en accion.
-![](rice.png)
+![](rice1.png)
+![](rice2.png)

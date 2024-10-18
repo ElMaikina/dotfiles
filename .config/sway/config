@@ -36,10 +36,7 @@ client.urgent           #111111 #900000 #ffffff #900000   #111111
 client.placeholder      #111111 #000000 #ffffff #000000   #111111
 
 # turn off display after two minutes
-exec swayidle -w \
-timeout 160 'swaylock -f' \
-timeout 120 'swaymsg "output * power off"' \
-resume 'swaymsg "output * power on"'
+exec swayidle -w timeout 160 'swaylock -f' timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
 
 # no borders when there is only one window
 # smart_borders on

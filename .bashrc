@@ -30,7 +30,7 @@ export LIBVA_DRIVER_NAME=nvidia
 export NVD_BACKEND=direct          
 
 # mangohud for every fullscreeen game
-export MANGOHUD=1
+#export MANGOHUD=1
 
 # dxvk tweaks
 export DXVK_ENABLE_NVAPI=1
@@ -79,11 +79,16 @@ export TERM=foot
 
 # aliases to access common commands faster
 # removed temporarily because of scripts interference
-alias wm='dbus-run-session sway --unsupported-gpu'
+#alias wm='dbus-run-session sway --unsupported-gpu'
+#alias wm='dbus-run-session dwl -s somebar'
+alias wm='dbus-run-session dwl -s somebar'
 alias nf='fastfetch --color-keys cyan'
-alias ht='btm'
+alias vim='nvim'
+alias vi='vim'
+#alias ht='btm'
+alias ht='htop'
 alias zt='zathura'
-alias rec='wf-recorder --codec h264_nvenc -b -f recording.mp4'
+alias rec='wf-recorder --codec h264_nvenc -b -f ~/Videos/recording.mp4'
 alias im='swayimg'
 alias ls='exa --icons --color=never --group-directories-first'
 alias ll='exa -alF --icons --color=never --group-directories-first'
@@ -92,3 +97,32 @@ alias l='exa -F --icons --color=never --group-directories-first'
 alias tree='exa -aT --icons --color=never --group-directories-first'
 alias grep='rg -H -n --color=always'
 alias cat='bat'
+alias df='df -h'
+
+# scripts turned into aliases because I'm to lazy to create separate files
+
+# turn on all the monitors
+alias workmon='wlr-randr \
+--output DP-1 --mode 1920x1080@120 --on --pos 1366,0 \
+--output HDMI-A-1 --on --mode 1366x768 --pos 0,598 \
+--output DP-2 --on --mode 1366x768 --pos 3286,0 --transform 270 \
+&
+xrandr \
+--output DP-1 --primary --mode 1920x1080 --rate 120 --pos 1366x0 
+--output HDMI-A-1 --mode 1366x768 --pos 0x598 \
+--output DP-2 --mode 1366x768 --pos 3286x0 --rotate right'
+# enable only the gaming monitor
+alias gamemon='wlr-randr \
+--output DP-1 --mode 1920x1080@120 --on --pos 1366,0 \
+--output HDMI-A-1 --off \
+--output DP-2 --off \
+&
+xrandr \
+--output DP-1 --primary --mode 1920x1080 --rate 120 --pos 1366x0 \
+--output HDMI-A-1 --off \
+--output DP-2 --off'
+
+# autostart dwl
+if [ -z "$WAYLAND_DISPLAY" ] && [ -n "$XDG_VTNR" ] && [ "$XDG_VTNR" -eq 1 ] ; then
+	exec dbus-run-session dwl -s somebar
+fi

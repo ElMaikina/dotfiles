@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<dirinfo>
+<files>
+	<item key='media20240410174801' />
+	<item key='settings20240410174801' />
+	<item key='sources20240410174801' />
+	<item key='alert.svg20240406005150' />
+	<item key='checkbox_checked_disabled.svg20221005195540' />
+	<item key='checkbox_checked_focus copy.svg20241014110120' />
+	<item key='checkbox_checked.svg20221005193557' />
+	<item key='checkbox_unchecked_disabled.svg20221005195610' />
+	<item key='checkbox_unchecked_focus.svg20221005195416' />
+	<item key='checkbox_unchecked.svg20221005195610' />
+	<item key='close.svg20240406005150' />
+	<item key='cogs.svg20240406005150' />
+	<item key='collapse.svg20240406005150' />
+	<item key='dots-vert.svg20240406005150' />
+	<item key='dots.svg20240406005150' />
+	<item key='down.svg20240406005150' />
+	<item key='entry-clear.svg20240406005150' />
+	<item key='expand.svg20240406005150' />
+	<item key='filter.svg20240406005150' />
+	<item key='interact.svg20240406005150' />
+	<item key='left.svg20240406005150' />
+	<item key='locked.svg20240406005150' />
+	<item key='media-pause.svg20240406005150' />
+	<item key='minus.svg20240406005150' />
+	<item key='mute.svg20240406005150' />
+	<item key='network-disconnected.svg20240406005150' />
+	<item key='network-inactive.svg20240406005150' />
+	<item key='no_sources.svg20240406005150' />
+	<item key='plus.svg20240406005150' />
+	<item key='popout.svg20240406005150' />
+	<item key='recording-inactive.svg20240406005150' />
+	<item key='recording-pause-inactive.svg20240406005150' />
+	<item key='refresh.svg20240406005150' />
+	<item key='revert.svg20240406005150' />
+	<item key='right.svg20240406005150' />
+	<item key='save.svg20240406005150' />
+	<item key='streaming-inactive.svg20240406005150' />
+	<item key='trash.svg20240406005150' />
+	<item key='unassigned.svg20240406005150' />
+	<item key='up.svg20240406005150' />
+	<item key='updown.svg20240406005150' />
+	<item key='visible.svg20240406005150' />
+	<item key='invisible.svg20241014115836' />
+</files>
+</dirinfo>

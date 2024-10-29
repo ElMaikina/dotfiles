@@ -5,27 +5,41 @@ set $mod Mod4
 xwayland enable
 
 # autostart apps
-#exec --no-startup-id xfce4-panel --disable-wm-check
-#exec --no-startup-id nm-applet
-#exec --no-startup-id cbatticon
-#exec --no-startup-id pasystray
-#exec --no-startup-id blueman-applet
+# exec --no-startup-id xfce4-panel --disable-wm-check
+# exec --no-startup-id nm-applet
+# exec --no-startup-id cbatticon
+# exec --no-startup-id pasystray
+# exec --no-startup-id blueman-applet
+
+# exec --no-startup-id wlr-randr -output DP-1 --mode 1920x1080@120 --on --pos 1366,0
+# exec --no-startup-id wlr-randr -output HDMI-A-1 --on --mode 1366x768 --pos 0,598
+# exec --no-startup-id wlr-randr -output DP-2 --on --mode 1366x768 --pos 3286,0 --transform 270
+# exec --no-startup-id xrandr -output DP-1 --primary --mode 1920x1080 --rate 120 --pos 1366x0 
+# exec --no-startup-id xrandr -output HDMI-A-1 --mode 1366x768 --pos 0x598
+# exec --no-startup-id xrandr -output DP-2 --mode 1366x768 --pos 3286x0 --rotate right
+
+# enviroment settings for portals
+exec --no-startup-id systemctl --user import-enviroment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
+exec --no-startup-id dbus-update-activation-enviroment --systemd WAYLAND_DISPLAY XDG_DESKTOP=sway
+exec --no-startup-id /usr/lib/xdg-desktop-portal-wlr
 
 # autotiling enabled for the first three workspaces
 exec_always autotiling -w 1 2 3 --limit 2
 
 # pretty geometric font for productivity
-font pango:URW Gothic L 8
+font pango:URW Gothic L 9
 
 # window border styling
-#for_window [class="^.*"] border pixel 1
+for_window [class="^.*"] border pixel 1
 for_window [all] title_window_icon on
-exec_always swaymsg titlebar_padding 1 1
+#exec_always swaymsg titlebar_padding 1 1
 
 # set floating window rules
 for_window [app_id="thunar"] floating enable
 for_window [app_id="mpv"] floating enable
-for_window [app_id="pavucontrol-qt"] floating enable
+for_window [app_id="pavucontrol"] floating enable
+for_window [app_id="wdisplays"] floating enable
+for_window [app_id="qbittorrent"] floating enable
 
 # window titlebar colors
 # class                 border  backgr. text    indicator child_border
@@ -36,7 +50,7 @@ client.urgent           #111111 #900000 #ffffff #900000   #111111
 client.placeholder      #111111 #000000 #ffffff #000000   #111111
 
 # turn off display after two minutes
-exec swayidle -w timeout 160 'swaylock -f' timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
+# exec swayidle -w timeout 160 'swaylock -f' timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
 
 # no borders when there is only one window
 # smart_borders on
@@ -47,7 +61,7 @@ exec swayidle -w timeout 160 'swaylock -f' timeout 120 'swaymsg "output * power 
 
 # keyboard layout and settings
 input * {
-xkb_layout "latam"
+xkb_layout "us"
 }
 
 input "type:touchpad" {
@@ -57,19 +71,23 @@ tap enabled
 input * repeat_delay 140
 input * repeat_rate 40
 
-# configure monitors
-#output dp-1 pos 0 0 mode 1920x1080@120hz # center
-#output HDMI-0 pos -1366 256 mode 1366x768@60Hz # left
-#output DP-2 pos 1920 0 transform 90 mode 1366x768@60Hz # right
+# volume controls
+bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +5%
+bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -5%
 
-output * pos 0 0 mode 1366x768@60hz
-	
+# configure monitors
+output DP-1 pos 0 0 mode 1920x1080@120hz
+#output HDMI-0 pos -1366 256 mode 1366x768@60Hz
+#output DP-2 pos 1920 0 transform 90 mode 1366x768@60Hz
+
+# output * pos 0 0 mode 1366x768@60hz
+
 # fix workspaces to monitors
 # workspace 9 output HDMI-1
 # workspace 10 output DP-2
 
 # set default monitor and a pretty wallpaper
-output * background "/home/maiki/Pictures/wallpaper.jpg" fill
+output * background "/home/elmaikina/Pictures/maretu2.jpg" fill
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -83,7 +101,7 @@ bindsym $mod+d exec wofi --show=drun --allow-images
 # kill focused window
 bindsym $mod+q kill
 
-# my favourite web browser, pretty and fast. although without any good vim extensions
+# my favourite web browser, pretty and fast
 bindsym $mod+b exec firefox
 
 # lightweight File Manager
@@ -93,16 +111,21 @@ bindsym $mod+n exec thunar
 bindsym $mod+c exec code
 
 # opens volume control application
-bindsym $mod+Shift+v exec pavucontrol-qt
+bindsym $mod+Shift+v exec pavucontrol
 
 # opens native version of spotify
-bindsym $mod+Shift+s exec spotify
+# bindsym $mod+Shift+s exec spotify
+bindsym $mod+Shift+s exec firefox --kiosk --new-window https://open.spotify.com/
 
 # opens native version of discord
-bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --enable-features=VaapiIgnoreDriverChecks --enable-features=VaapiVideoDecoder --enable-features=UseOzonePlatform --force-device-scale-factor=1.0 --ozone-platform-hint=auto --ozone-platform=wayland --use-gl=egl --disable-smooth-scrolling --enable-gpu-rasterization --ignore-gpu-blocklist --enable-zero-copy 
+#bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --enable-features=VaapiIgnoreDriverChecks --enable-features=VaapiVideoDecoder --enable-features=UseOzonePlatform --force-device-scale-factor=1.0 --ozone-platform-hint=auto --ozone-platform=wayland --use-gl=egl --disable-smooth-scrolling --enable-gpu-rasterization --ignore-gpu-blocklist --enable-zero-copy --enable-features=WebRTCPipeWireCapturer
+bindsym $mod+Shift+d exec firefox --kiosk --new-window https://discord.com/channels/@me
 
 # open runtime version of steam
 bindsym $mod+Shift+g exec gamemoderun steam-native
+
+# opens native version of spotify
+bindsym $mod+Shift+o exec obs
 
 # screenshots entire screen and saves it to pictures folder
 bindsym Print exec grim
@@ -247,6 +270,6 @@ bindsym $mod+y mode "move-to-layer"
 # finds out, if available)
 bar {
     status_command i3status
-    font pango:URW Gothic L 7
-	height 16
+    font pango:URW Gothic L 8
+	height 18
 }

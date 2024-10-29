@@ -1,0 +1,78 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+# force enviroment variables
+MAKEFLAGS="-j8"
+
+# wlroots settings for nvidia
+WLR_NO_HARDWARE_CURSORS=1
+#WLR_RENDERER=vulkan
+GBM_BACKEND=nvidia-drm
+
+# nvidia specific tweaks for performance
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+__GL_SYNC_TO_VBLANK=0                   
+__GL_GSYNC_ALLOWED=1                    
+__GL_VRR_ALLOWED=1                      
+__GL_SHADER_DISK_CACHE_SKIP_CLEANUP=1   
+__GL_SHADER_DISK_CACHE=1                
+__GL_DXVK_OPTIMIZATIONS=1               
+__GL_ALLOW_UNOFFICIAL_PROTOCOL=1        
+
+# hardware viddeo decoding using vaapi-nvidia-driver
+LIBVA_DRIVER_NAME=nvidia    
+NVD_BACKEND=direct          
+
+# mangohud for every fullscreeen game
+#MANGOHUD=1
+
+# dxvk tweaks
+DXVK_ENABLE_NVAPI=1
+DXVK_STATE_CACHE=1
+DXVK_ASYNC=1
+
+# proton tweaks
+PROTON_ENABLE_NVAPI=1
+PROTON_HIDE_NVIDIA_GPU=0
+
+# wine tweaks
+WINE_VULKAN_NEGATIVE_MIP_BIAS=45
+WINE_FULLSCREEN_FSR_STRENGTH=5
+WINE_FULLSCREEN_FSR=1
+
+# firefox tweaks
+MOZ_DISABLE_RDD_SANDBOX=1
+MOZ_ENABLE_WAYLAND=1
+MOZ_ACCELERATED=1
+MOZ_USE_XINPUT2=1
+MOZ_WEBRENDER=1
+MOZ_X11_EGL=1
+
+# electron tweaks
+ELECTRON_DISABLE_SITE_ISOLATION_TRIALS=1
+ELECTRON_ENABLE_GPU_RASTERIZATION=1
+ELECTRON_FORCE_HIGH_PERFORMANCE_GPU=1
+ELECTRON_ENABLE_HW_ACCELERATION=1
+ELECTRON_WEBGL_FORCE_ENABLED=1
+ELECTRON_DISABLE_SANDBOX=1
+ELECTRON_USE_GL=desktop
+
+# qt, gtk and clutter tweaks
+QT_QPA_PLATFORM=wayland
+QT_QPA_PLATFORMTHEME="qt5ct"
+CLUTTER_BACKEND=wayland
+#SDL_VIDEODRIVER="wayland,x11"
+
+# pretty font settings
+FREETYPE_PROPERTIES="cff:no-stem-darkening=0 autofitter:no-stem-darkening=0"
+
+# default apps
+EDITOR=/bin/vim
+SHELL=/bin/bash
+TERM=foot
+
+# to enable desktop portals
+XDG_CURRENT_DESKTOP=sway
+XDG_SESSION_DESKTOP=sway

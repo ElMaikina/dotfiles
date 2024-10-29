@@ -1,0 +1,10 @@
+[Added Associations]
+text/css=vim.desktop;
+application/x-theme=vim.desktop;
+application/x-desktop=vim.desktop;
+
+[Default Applications]
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+x-scheme-handler/fcade=fcade-quark.desktop
+x-scheme-handler/discord-424004941485572097=discord-424004941485572097.desktop
+x-scheme-handler/discord-712465656758665259=discord-712465656758665259.desktop

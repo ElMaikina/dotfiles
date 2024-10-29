@@ -1,0 +1,148 @@
+12:45:04.833: Platform: Wayland
+12:45:04.833: CPU Name: AMD Ryzen 7 3700X 8-Core Processor
+12:45:04.833: CPU Speed: 3401.760MHz
+12:45:04.834: Physical Cores: 8, Logical Cores: 16
+12:45:04.834: Physical Memory: 15914MB Total, 374MB Free
+12:45:04.834: Kernel Version: Linux 6.11.5-arch1-1
+12:45:04.834: Distribution: "Arch Linux" Unknown
+12:45:04.834: Desktop Environment: sway (sway)
+12:45:04.834: Session Type: wayland
+12:45:04.835: Qt Version: 6.8.0 (runtime), 6.7.2 (compiled)
+12:45:04.835: Portable mode: false
+12:45:04.896: OBS 30.2.1-1 (linux)
+12:45:04.896: ---------------------------------
+12:45:04.896: ---------------------------------
+12:45:04.896: audio settings reset:
+12:45:04.896: 	samples per sec: 48000
+12:45:04.896: 	speakers:        2
+12:45:04.896: 	max buffering:   960 milliseconds
+12:45:04.896: 	buffering type:  dynamically increasing
+12:45:04.901: ---------------------------------
+12:45:04.901: Initializing OpenGL...
+12:45:04.901: Using EGL/Wayland
+12:45:04.943: Initialized EGL 1.5
+12:45:04.996: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+12:45:04.996: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+12:45:05.018: ---------------------------------
+12:45:05.019: video settings reset:
+12:45:05.019: 	base resolution:   1920x1080
+12:45:05.019: 	output resolution: 1920x1080
+12:45:05.019: 	downscale filter:  Bicubic
+12:45:05.019: 	fps:               60/1
+12:45:05.019: 	format:            NV12
+12:45:05.019: 	YUV mode:          Rec. 709/Partial
+12:45:05.019: NV12 texture support enabled
+12:45:05.019: P010 texture support not available
+12:45:05.019: Audio monitoring device:
+12:45:05.019: 	name: Default
+12:45:05.019: 	id: default
+12:45:05.019: ---------------------------------
+12:45:05.028: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:45:05.036: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+12:45:05.044: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:45:05.044: Failed to initialize module 'decklink.so'
+12:45:05.203: [pipewire] Available capture sources:
+12:45:05.203: [pipewire]     - Monitor source
+12:45:05.300: NVENC supported
+12:45:05.300: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+12:45:05.300: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+12:45:05.300: FFmpeg VAAPI H264 encoding not supported
+12:45:05.301: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+12:45:05.301: FFmpeg VAAPI AV1 encoding not supported
+12:45:05.301: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+12:45:05.301: FFmpeg VAAPI HEVC encoding not supported
+12:45:05.421: ---------------------------------
+12:45:05.421:   Loaded Modules:
+12:45:05.421:     text-freetype2.so
+12:45:05.421:     rtmp-services.so
+12:45:05.421:     obs-x264.so
+12:45:05.421:     obs-webrtc.so
+12:45:05.421:     obs-vst.so
+12:45:05.421:     obs-transitions.so
+12:45:05.421:     obs-qsv11.so
+12:45:05.421:     obs-outputs.so
+12:45:05.421:     obs-libfdk.so
+12:45:05.421:     obs-filters.so
+12:45:05.421:     obs-ffmpeg.so
+12:45:05.421:     linux-v4l2.so
+12:45:05.421:     linux-pulseaudio.so
+12:45:05.421:     linux-pipewire.so
+12:45:05.421:     linux-jack.so
+12:45:05.421:     linux-capture.so
+12:45:05.421:     linux-alsa.so
+12:45:05.421:     image-source.so
+12:45:05.421:     frontend-tools.so
+12:45:05.421:     decklink-output-ui.so
+12:45:05.421:     decklink-captions.so
+12:45:05.421: ---------------------------------
+12:45:05.421: ---------------------------------
+12:45:05.421: Available Encoders:
+12:45:05.421:   Video Encoders:
+12:45:05.421: 	- ffmpeg_svt_av1 (SVT-AV1)
+12:45:05.421: 	- ffmpeg_aom_av1 (AOM AV1)
+12:45:05.421: 	- jim_nvenc (NVIDIA NVENC H.264)
+12:45:05.421: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+12:45:05.421: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+12:45:05.421: 	- obs_x264 (x264)
+12:45:05.421:   Audio Encoders:
+12:45:05.421: 	- ffmpeg_aac (FFmpeg AAC)
+12:45:05.421: 	- ffmpeg_opus (FFmpeg Opus)
+12:45:05.421: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+12:45:05.421: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+12:45:05.421: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+12:45:05.421: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+12:45:05.421: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+12:45:05.421: 	- libfdk_aac (libfdk AAC)
+12:45:05.421: ==== Startup complete ===============================================
+12:45:05.453: All scene data cleared
+12:45:05.453: ------------------------------------------------
+12:45:05.457: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.6) 15.0.0'
+12:45:05.457: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:45:05.457: pulse-input: Started recording from 'alsa_output.pci-0000_09_00.4.analog-stereo.monitor'
+12:45:05.457: [Loaded global audio device]: 'Desktop Audio'
+12:45:05.457: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.6) 15.0.0'
+12:45:05.457: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+12:45:05.457: pulse-input: Started recording from 'alsa_input.pci-0000_09_00.4.analog-stereo'
+12:45:05.457: [Loaded global audio device]: 'Mic/Aux'
+12:45:05.457: PipeWire initialized
+12:45:05.458: Switched to scene 'Scene'
+12:45:05.458: ------------------------------------------------
+12:45:05.458: Loaded scenes:
+12:45:05.458: - scene 'Scene':
+12:45:05.458:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+12:45:05.458: ------------------------------------------------
+12:45:05.487: [pipewire] Screencast session created
+12:45:05.551: [pipewire] Asking for monitor and window
+12:45:05.591: [pipewire] source selected, setting up screencast
+12:45:05.597: [pipewire] Server version: 1.2.6
+12:45:05.597: [pipewire] Library version: 1.2.6
+12:45:05.597: [pipewire] Header version: 1.2.1
+12:45:05.599: [pipewire] Created stream 0x63d036b4bc80
+12:45:05.599: [pipewire] Stream 0x63d036b4bc80 state: "connecting" (error: none)
+12:45:05.599: [pipewire] Playing stream 0x63d036b4bc80
+12:45:05.600: [pipewire] Stream 0x63d036b4bc80 state: "paused" (error: none)
+12:45:05.607: [pipewire] Negotiated format:
+12:45:05.607: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:45:05.607: [pipewire]     Modifier: 0x0
+12:45:05.607: [pipewire]     Size: 1920x1080
+12:45:05.607: [pipewire]     Framerate: 0/1
+12:45:05.607: [pipewire] Negotiated format:
+12:45:05.607: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+12:45:05.607: [pipewire]     Modifier: 0x300000000606015
+12:45:05.607: [pipewire]     Size: 1920x1080
+12:45:05.607: [pipewire]     Framerate: 0/1
+12:45:05.609: [pipewire] Stream 0x63d036b4bc80 state: "streaming" (error: none)
+12:45:06.048: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+12:45:06.048: 
+12:45:11.160: Get on org.freedesktop.portal.Settings returned an invalid reply
+12:45:11.160: Get on org.freedesktop.portal.Settings returned an invalid reply
+12:45:11.240:   OpenType support missing for "Open Sans", script 11
+12:45:11.247:   OpenType support missing for "Arial", script 11
+12:45:11.257:   OpenType support missing for "Open Sans", script 12
+12:45:11.266:   OpenType support missing for "Arial", script 12
+12:45:11.275:   OpenType support missing for "Open Sans", script 16
+12:45:11.283:   OpenType support missing for "Arial", script 16
+12:45:11.293:   OpenType support missing for "Open Sans", script 20
+12:45:11.301:   OpenType support missing for "Arial", script 20
+12:45:17.349: Get on org.freedesktop.portal.Settings returned an invalid reply
+12:49:57.660: [pipewire] Stream 0x63d036b4bc80 state: "paused" (error: none)

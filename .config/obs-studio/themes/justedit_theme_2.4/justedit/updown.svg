@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 8 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+        stroke: #fefefe;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Layer_1">
+      <polyline class="cls-1" points=".6 11.5 4 14.5 7.4 11.5"/>
+      <polyline class="cls-1" points="7.4 4.5 4 1.5 .6 4.5"/>
+    </g>
+  </g>
+</svg>

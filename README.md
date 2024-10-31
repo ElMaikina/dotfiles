@@ -44,6 +44,15 @@ Previamente usaba mi propio CSS para firefox, ahora mismo estoy usando basado en
 https://github.com/Dook97/firefox-qutebrowser-userchrome/tree/master por temas de minimalismo 
 y eficiencia.
 
+# Como instalar paquetes
+Para instalar los paquetes en _pkglist.txt_ hay que ejecutar el siguiente comando:
+
+```
+pacman -S --needed - < pkglist.txt
+```
+
+_(Sacado directo de la ArchWiki)_
+
 # Screenshot
 Foto de como se ve el ambiente completo en accion.
 ![](rice1.png)

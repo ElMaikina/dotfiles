@@ -32,13 +32,13 @@ font pango:URW Gothic L 9
 # window border styling
 for_window [class="^.*"] border pixel 1
 for_window [all] title_window_icon on
-#exec_always swaymsg titlebar_padding 1 1
+exec_always swaymsg titlebar_padding 1 1
 
 # set floating window rules
 for_window [app_id="thunar"] floating enable
 for_window [app_id="mpv"] floating enable
-for_window [app_id="pavucontrol"] floating enable
 for_window [app_id="wdisplays"] floating enable
+for_window [app_id="pavucontrol"] floating enable
 for_window [app_id="qbittorrent"] floating enable
 
 # window titlebar colors
@@ -51,6 +51,7 @@ client.placeholder      #111111 #000000 #ffffff #000000   #111111
 
 # turn off display after two minutes
 # exec swayidle -w timeout 160 'swaylock -f' timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
+exec swayidle -w timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
 
 # no borders when there is only one window
 # smart_borders on
@@ -61,11 +62,11 @@ client.placeholder      #111111 #000000 #ffffff #000000   #111111
 
 # keyboard layout and settings
 input * {
-xkb_layout "us"
+    xkb_layout "us"
 }
 
 input "type:touchpad" {
-tap enabled
+    tap enabled
 }
 
 input * repeat_delay 140
@@ -77,17 +78,22 @@ bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -5%
 
 # configure monitors
 output DP-1 pos 0 0 mode 1920x1080@120hz
-#output HDMI-0 pos -1366 256 mode 1366x768@60Hz
-#output DP-2 pos 1920 0 transform 90 mode 1366x768@60Hz
 
-# output * pos 0 0 mode 1366x768@60hz
+# triple monitor setup
+#output DP-1    pos 1366 286    mode 1920x1080@120hz
+#output HDMI-0  pos 0 0         mode 1366x768@60Hz
+#output DP-2    pos 3286 0      mode 1366x768@60Hz  transform 90
 
 # fix workspaces to monitors
 # workspace 9 output HDMI-1
 # workspace 10 output DP-2
 
 # set default monitor and a pretty wallpaper
-output * background "/home/elmaikina/Pictures/maretu2.jpg" fill
+output * {
+    background "/home/elmaikina/Pictures/maretu2.jpg" fill
+    subpixel rgb
+    scale 1
+}
 
 # use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -111,18 +117,19 @@ bindsym $mod+n exec thunar
 bindsym $mod+c exec code
 
 # opens volume control application
+bindsym $mod+w exec wdisplays
+
+# opens volume control application
 bindsym $mod+Shift+v exec pavucontrol
 
 # opens native version of spotify
-# bindsym $mod+Shift+s exec spotify
-bindsym $mod+Shift+s exec firefox --kiosk --new-window https://open.spotify.com/
+bindsym $mod+Shift+s exec spotify
 
 # opens native version of discord
-#bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --enable-features=VaapiIgnoreDriverChecks --enable-features=VaapiVideoDecoder --enable-features=UseOzonePlatform --force-device-scale-factor=1.0 --ozone-platform-hint=auto --ozone-platform=wayland --use-gl=egl --disable-smooth-scrolling --enable-gpu-rasterization --ignore-gpu-blocklist --enable-zero-copy --enable-features=WebRTCPipeWireCapturer
-bindsym $mod+Shift+d exec firefox --kiosk --new-window https://discord.com/channels/@me
+bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --enable-features=VaapiIgnoreDriverChecks --enable-features=VaapiVideoDecoder --enable-features=UseOzonePlatform --force-device-scale-factor=1.0 --ozone-platform-hint=auto --ozone-platform=wayland --use-gl=egl --disable-smooth-scrolling --enable-gpu-rasterization --ignore-gpu-blocklist --enable-zero-copy --enable-features=WebRTCPipeWireCapturer
 
 # open runtime version of steam
-bindsym $mod+Shift+g exec gamemoderun steam-native
+bindsym $mod+Shift+g exec gamemoderun steam
 
 # opens native version of spotify
 bindsym $mod+Shift+o exec obs
@@ -217,27 +224,24 @@ bindsym $mod+Shift+r restart
 
 # exit i3 (logs you out of your X session)
 # bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Exit the i3 Window Manager?' -B 'Yes' 'i3-msg exit'"
-bindsym $mod+Shift+e exec swaynag -m 'confirm exit?' -b 'exit' 'swaymsg exit'
+bindsym $mod+Shift+e exec swaynag -m 'Exit out of Sway?' -f "URW Gothic L 9" -b 'Exit' 'swaymsg exit' 
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
-
-        # These bindings trigger as soon as you enter the resize mode
-        bindsym h resize shrink width 96 px
-        bindsym j resize grow height 96 px
-        bindsym k resize shrink height 96 px
-        bindsym l resize grow width 96 px
-
-        # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 96 px
-        bindsym Down resize grow height 96 px
-        bindsym Up resize shrink height 96 px
-        bindsym Right resize grow width 96 px
-
-        # back to normal: Enter or Escape or $mod+r
-        bindsym Return mode "default"
-        bindsym Escape mode "default"
-        bindsym $mod+r mode "default"
+    # These bindings trigger as soon as you enter the resize mode
+    bindsym h resize shrink width 96 px
+    bindsym j resize grow height 96 px
+    bindsym k resize shrink height 96 px
+    bindsym l resize grow width 96 px
+    # same bindings, but for the arrow keys
+    bindsym Left resize shrink width 96 px
+    bindsym Down resize grow height 96 px
+    bindsym Up resize shrink height 96 px
+    bindsym Right resize grow width 96 px
+    # back to normal: Enter or Escape or $mod+r
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
+    bindsym $mod+r mode "default"
 }
 
 # this mode lets you change a windows workspace ergonomically
@@ -253,7 +257,6 @@ mode "move-to-layer" {
     bindsym 8 move container to workspace number $ws8
     bindsym 9 move container to workspace number $ws9
     bindsym 0 move container to workspace number $ws10
-
     # back to normal: Enter or Escape or $mod+r
     bindsym Return mode "default"
     bindsym Escape mode "default"

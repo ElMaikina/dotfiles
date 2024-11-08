@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/elmaikina'
+let g:netrw_dirhist_4='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2/src/components'
+let g:netrw_dirhist_3='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2/src'
+let g:netrw_dirhist_2='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2'
+let g:netrw_dirhist_1='/home/elmaikina/UTFSM/interfaz/utfsm-diu'
+let g:netrw_dirhist_0='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2/src/components'
+let g:netrw_dirhist_9='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2/src'
+let g:netrw_dirhist_8='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2'
+let g:netrw_dirhist_7='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2/public'
+let g:netrw_dirhist_6='/home/elmaikina/UTFSM/interfaz/utfsm-diu/tarea-2'

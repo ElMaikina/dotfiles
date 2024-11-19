@@ -1,31 +1,28 @@
 # Overview
 Dotfiles optimizados para mi flujo de trabajo. El enfoque es el uso de un Tiling Window Manager y
 de Terminal, a veces incluso usando la _tty_ pura. Esta metodologia permite trabajar usando casi
-puramente el teclado. Tambien hay algunas optimizaciones para _nvidia_, _steam_, _wayland_ y aceleracion
-por GPU.
+puramente el teclado. Tambien hay algunas optimizaciones para _nvidia_, _steam_, _wayland_ y aceleracion por GPU.
 
 # Herramientas
 Herramientas que uso para agilizar mi trabajo, las elegi ya que en su mayoria son sencillas, rapidas
 y Open Source, por ende tienen amplio soporte y documentacion.
 
-De momento intento integrar todo usando _wayland_ y _pipewire_ como Back-Ends. En terminos de _shell_, aun
-utilizo _bash_, aunque prontamente intentare probar _zsh_ (mentira).
-
 ## Graficas
 Se usan en ambientes graficos
 
 - firefox: navegador web
-- dwl: gestor de ventanas
+- sway: gestor de ventanas
 - foot: terminal
 - sway-img: visualizador de imagenes
 - mpv: reproductor de videos
 - zathura: lector de pdf's
+- vscode: editor de texto y IDE
 
 ## Terminal
 Se usan desde el terminal
 
+- vim: editor de texto
 - tmux: multiplexor de terminales
-- nvchad: editor de texto
 - taskranger: gestor de tareas
 - wf-recorder: grabar pantalla
 
@@ -53,7 +50,10 @@ pacman -S --needed - < pkglist.txt
 
 _(Sacado directo de la ArchWiki)_
 
-# Screenshot
-Foto de como se ve el ambiente completo en accion.
-![](rice1.png)
-![](rice2.png)
+# Screenshots
+![](rice-1.png)
+![](rice-2.png)
+![](rice-3.png)
+![](rice-4.png)
+![](rice-5.png)
+![](rice-6.png)

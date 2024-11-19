@@ -8,6 +8,10 @@
 	--toolbar-bgcolor: #000000 !important;
 	--tab-font: 'URW Gothic L';
 	--urlbar-font: 'URW Gothic L';
+	
+	/* makes every website more compact */
+	--padding: 			0px !important;
+	--margin: 			0px !important;
 
 	/* try increasing if you encounter problems */
 	--urlbar-height-setting: 24px;

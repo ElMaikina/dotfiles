@@ -34,7 +34,6 @@ cozette-otb
 cpio
 crypto++
 cryptsetup
-cuda
 dbus-glib
 ddrescue
 device-mapper

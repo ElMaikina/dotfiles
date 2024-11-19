@@ -18,6 +18,9 @@ xwayland enable
 # exec --no-startup-id xrandr -output HDMI-A-1 --mode 1366x768 --pos 0x598
 # exec --no-startup-id xrandr -output DP-2 --mode 1366x768 --pos 3286x0 --rotate right
 
+# disable laptop screen if docked
+exec --no-startup-id wlr-randr --output HDMI-A-1 --mode 1920x1080@120 --output eDP-1 --off
+
 # enviroment settings for portals
 exec --no-startup-id systemctl --user import-enviroment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
 exec --no-startup-id dbus-update-activation-enviroment --systemd WAYLAND_DISPLAY XDG_DESKTOP=sway
@@ -50,7 +53,6 @@ client.urgent           #111111 #900000 #ffffff #900000   #111111
 client.placeholder      #111111 #000000 #ffffff #000000   #111111
 
 # turn off display after two minutes
-# exec swayidle -w timeout 160 'swaylock -f' timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
 exec swayidle -w timeout 120 'swaymsg "output * power off"' resume 'swaymsg "output * power on"'
 
 # no borders when there is only one window
@@ -61,8 +63,12 @@ exec swayidle -w timeout 120 'swaymsg "output * power off"' resume 'swaymsg "out
 # gaps outer 16
 
 # keyboard layout and settings
-input * {
-    xkb_layout "us"
+input "0:0:Acer_WMI_hotkeys" {
+    xkb_layout "latam"
+}
+
+input "1:1:AT_Translated_Set_2_keyboard" {
+    xkb_layout "latam"
 }
 
 input "type:touchpad" {
@@ -72,12 +78,16 @@ input "type:touchpad" {
 input * repeat_delay 140
 input * repeat_rate 40
 
+# brightness controls
+bindsym XF86MonBrightnessDown exec brightnessctl set 5%-
+bindsym XF86MonBrightnessUp exec brightnessctl set 5%+
+
 # volume controls
 bindsym XF86AudioRaiseVolume exec pactl set-sink-volume @DEFAULT_SINK@ +5%
 bindsym XF86AudioLowerVolume exec pactl set-sink-volume @DEFAULT_SINK@ -5%
 
 # configure monitors
-output DP-1 pos 0 0 mode 1920x1080@120hz
+output HDMI-A-1 pos 0 0 mode 1920x1080@120hz
 
 # triple monitor setup
 #output DP-1    pos 1366 286    mode 1920x1080@120hz
@@ -90,7 +100,7 @@ output DP-1 pos 0 0 mode 1920x1080@120hz
 
 # set default monitor and a pretty wallpaper
 output * {
-    background "/home/elmaikina/Pictures/maretu2.jpg" fill
+    background "/home/elmaikina/Pictures/fridge.jpg" fill
     subpixel rgb
     scale 1
 }
@@ -99,6 +109,7 @@ output * {
 floating_modifier $mod
 
 # start a terminal
+# bindsym $mod+Return exec xfce4-terminal
 bindsym $mod+Return exec foot
 
 # application launcher
@@ -123,7 +134,7 @@ bindsym $mod+w exec wdisplays
 bindsym $mod+Shift+v exec pavucontrol
 
 # opens native version of spotify
-bindsym $mod+Shift+s exec spotify
+bindsym $mod+Shift+s exec flatpak run com.spotify.Client
 
 # opens native version of discord
 bindsym $mod+Shift+d exec discord --enable-features=WaylandWindowDecorations --enable-features=VaapiIgnoreDriverChecks --enable-features=VaapiVideoDecoder --enable-features=UseOzonePlatform --force-device-scale-factor=1.0 --ozone-platform-hint=auto --ozone-platform=wayland --use-gl=egl --disable-smooth-scrolling --enable-gpu-rasterization --ignore-gpu-blocklist --enable-zero-copy --enable-features=WebRTCPipeWireCapturer

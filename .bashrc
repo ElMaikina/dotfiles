@@ -11,26 +11,23 @@
 #
 # terminal commmands
 alias nf='fastfetch --color-keys cyan'
-alias ht='htop'
-alias l='ls -X --group-directories-first'
-alias la='ls -haX --group-directories-first'
-alias ll='ls -lhaX --group-directories-first'
-alias el='exa --icons --color=never --group-directories-first'
-alias ell='exa -alF --icons --color=never --group-directories-first'
-alias ela='exa -a --icons --color=never --group-directories-first'
+alias ht='ytop'
+alias l='exa --icons --color=never --group-directories-first'
+alias ll='exa -alF --icons --color=never --group-directories-first'
+alias la='exa -a --icons --color=never --group-directories-first'
 alias gr='grep'
 alias rg='rg -H -n --color=always'
-alias df='df -h'
+alias dsk='df -h'
 alias cl='clear'
 alias uz='unzip'
 alias unrar='unrar e'
-alias untargz='tar -xvf '
+alias untargz='tar -xvf'
 
 # graphical commands
-alias wm='dbus-run-session dwl -s somebar'
+# alias wm='dbus-run-session dwl -s somebar'
 alias zt='zathura'
-alias im='imv -f'
-alias rec='wf-recorder --codec h264_vaapi -f recording.mp4 -r 60 -b -y'
+# alias im='imv -f'
+# alias rec='wf-recorder --codec h264_vaapi -f recording.mp4 -r 60 -b -y'
 
 # nodejs utilities
 alias nodi='npm install'
@@ -41,11 +38,11 @@ alias nodl='npm list'
 # python utilities
 alias jupy='jupyter notebook'
 alias pipi='pip install -U --break-system-packages'
-alias nb2py='jupyter nbconvert --to python'
+# alias nb2py='jupyter nbconvert --to python'
 
 # autostart dwl if in tty1 and no wayland session running
-if [ -z "$WAYLAND_DISPLAY" ] && [ -n "$XDG_VTNR" ] && [ "$XDG_VTNR" -eq 1 ] ; then
-	# run dwl by default 
-	# exec dbus-run-session dwl -s somebar
-	exec sway
-fi
+# if [ -z "$WAYLAND_DISPLAY" ] && [ -n "$XDG_VTNR" ] && [ "$XDG_VTNR" -eq 1 ] ; then
+#	run dwl by default 
+#	exec dbus-run-session dwl -s somebar
+#	exec sway
+# fi

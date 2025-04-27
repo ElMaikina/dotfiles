@@ -1,6 +1,8 @@
 // Force-enable Hardware Acceleration
 user_pref("gfx.webrender.all", true);
 user_pref("gfx.x11-egl.force-enabled", true);
+user_pref("gfx.webrender.quality.force-disable-sacrificing-subpixel-aa", true);
+user_pref("gfx.webrender.quality.force-subpixel-aa-where-possible", true);
 user_pref("media.rdd-ffmpeg.enabled", true);
 user_pref("media.ffmpeg.vaapi.enabled", true);
 user_pref("media.ffvpx.enabled", false);

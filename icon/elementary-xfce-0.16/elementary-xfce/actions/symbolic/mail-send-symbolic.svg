@@ -1,6 +1,8 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-393 -177)'>
-        <path d='M409 179.828l-16 3.344 3 2.344v4.656l3.5-2-1-1.094 4.032 2.906zm-1.437.969l-8.844 5.625-.875 1.312-.844.532v-2.344z' fill='#666'/>
-        
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 1,1 V 7 L 10,8 1,9 V 15 L 15,8 Z"/>
 </svg>

@@ -7,7 +7,7 @@ set autoindent
 set noexpandtab
 set tabstop=4
 set shiftwidth=4
-set laststatus=2
+" set laststatus=2
 set nocompatible
 set fillchars+=vert:\ 
 set nowrap

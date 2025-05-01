@@ -11,7 +11,10 @@
 #
 # terminal commmands
 alias nf='fastfetch --color-keys cyan'
-alias ht='ytop'
+alias ht='btm'
+alias mcr='micro'
+alias hst='history'
+alias fnd='find .'
 alias l='exa --icons --color=never --group-directories-first'
 alias ll='exa -alF --icons --color=never --group-directories-first'
 alias la='exa -a --icons --color=never --group-directories-first'
@@ -20,8 +23,9 @@ alias rg='rg -H -n --color=always'
 alias dsk='df -h'
 alias cl='clear'
 alias uz='unzip'
-alias unrar='unrar e'
-alias untargz='tar -xvf'
+alias ur='unrar e'
+alias xzf='tar -xzf'
+alias czf='tar -czf'
 
 # graphical commands
 # alias wm='dbus-run-session dwl -s somebar'

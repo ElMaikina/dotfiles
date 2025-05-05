@@ -9,10 +9,7 @@
     "editor.lineHeight": 16,
     "debug.toolBarLocation": "hidden",
     "editor.experimentalInlineEdit.showToolbar": "never",
+    "window.menuBarVisibility": "toggle",
     "editor.fontSize": 13,
-    "security.workspace.trust.untrustedFiles": "open",
-    "vscode_custom_css.imports": [
-        "file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"
-    ],
-    "markdown.preview.fontFamily": "URW Gothic L"
+    "security.workspace.trust.untrustedFiles": "open"
 }

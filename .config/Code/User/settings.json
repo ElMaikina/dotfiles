@@ -12,7 +12,10 @@
     "editor.fontSize": 13,
     "security.workspace.trust.untrustedFiles": "open",
     "vscode_custom_css.imports": [
+        // Windows path of the custom stylesheet
         "file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"
+        // Linux path of the custom stylesheet
+        // "file://home/elmaikina/.config/Code/User/style.css"
     ],
     "markdown.preview.fontFamily": "URW Gothic L"
 }

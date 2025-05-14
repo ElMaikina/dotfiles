@@ -1,7 +1,0 @@
-make --dry-run --keep-going --print-directory
-make: Entering directory '/home/elmaikina/Code/stupid'
- 
-Makefile:19: *** target pattern contains no '%'.  Stop.
-
-make: Leaving directory '/home/elmaikina/Code/stupid'
- 

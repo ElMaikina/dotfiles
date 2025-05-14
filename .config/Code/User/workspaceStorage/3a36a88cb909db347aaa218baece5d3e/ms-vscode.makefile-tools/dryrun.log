@@ -1,5 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/elmaikina/Code/arc-kde'
-make: Nothing to be done for 'all'.
-make: Leaving directory '/home/elmaikina/Code/arc-kde'
- 

@@ -1,0 +1,11 @@
+[user]
+forceIconSize=true
+indicatorStyle=2
+inactiveIndicatorStyle=2
+indicatorColorFromTheme=true
+indicatorOrientation=1
+onlyDisplayVisible=true
+showPreviews=true
+showWindowCount=false
+keyComboActive=true
+pinned=google-chrome;firefox;thunar;xfce-settings-manager;xfce4-terminal;code;spotify;

@@ -19,7 +19,8 @@ xwayland enable
 # exec --no-startup-id xrandr -output DP-2 --mode 1366x768 --pos 3286x0 --rotate right
 
 # disable laptop screen if docked
-exec --no-startup-id wlr-randr --output HDMI-A-1 --mode 1920x1080@120 --output eDP-1 --off
+# exec --no-startup-id wlr-randr --output HDMI-A-1 --mode 1920x1080@120 --output eDP-1 --off
+exec --no-startup-id wlr-randr --output Virtual-1 --mode 1920x1080
 
 # enviroment settings for portals
 exec --no-startup-id systemctl --user import-enviroment WAYLAND_DISPLAY XDG_CURRENT_DESKTOP
@@ -33,7 +34,7 @@ exec_always autotiling -w 1 2 3 --limit 2
 font pango:URW Gothic L 9
 
 # window border styling
-for_window [class="^.*"] border pixel 1
+# for_window [class="^.*"] border pixel 1
 for_window [all] title_window_icon on
 exec_always swaymsg titlebar_padding 1 1
 
@@ -63,19 +64,20 @@ exec swayidle -w timeout 120 'swaymsg "output * power off"' resume 'swaymsg "out
 # gaps outer 16
 
 # keyboard layout and settings
-input "0:0:Acer_WMI_hotkeys" {
-    xkb_layout "latam"
+# input "0:0:Acer_WMI_hotkeys" {
+input * {
+    xkb_layout "us"
 }
 
-input "1:1:AT_Translated_Set_2_keyboard" {
-    xkb_layout "latam"
-}
+#input "1:1:AT_Translated_Set_2_keyboard" {
+#    xkb_layout "latam"
+#}
 
 input "type:touchpad" {
     tap enabled
 }
 
-input * repeat_delay 140
+input * repeat_delay 180
 input * repeat_rate 40
 
 # brightness controls
@@ -93,6 +95,7 @@ output HDMI-A-1 pos 0 0 mode 1920x1080@120hz
 #output DP-1    pos 1366 286    mode 1920x1080@120hz
 #output HDMI-0  pos 0 0         mode 1366x768@60Hz
 #output DP-2    pos 3286 0      mode 1366x768@60Hz  transform 90
+output Virtual-1 mode 1920x1080
 
 # fix workspaces to monitors
 # workspace 9 output HDMI-1
@@ -100,7 +103,7 @@ output HDMI-A-1 pos 0 0 mode 1920x1080@120hz
 
 # set default monitor and a pretty wallpaper
 output * {
-    background "/home/elmaikina/Pictures/fridge.jpg" fill
+    # background "/home/elmaikina/Pictures/fridge.jpg" fill
     subpixel rgb
     scale 1
 }

@@ -1,0 +1,6 @@
+[Common]
+ShadowSize=ShadowSmall
+
+[Windeco]
+ButtonSize=ButtonSmall
+DrawBorderOnMaximizedWindows=true

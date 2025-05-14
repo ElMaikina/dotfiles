@@ -1,0 +1,149 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=112,111,110
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=0
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=true
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=170,170,170
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:Complementary]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+
+[Colors:Selection]
+BackgroundAlternate=17,24,16
+BackgroundNormal=17,24,16
+DecorationFocus=170,170,170
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:Tooltip]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=170,170,170
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=225,225,225
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:View]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=221,221,221
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=102,102,102
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[Colors:Window]
+BackgroundAlternate=0,0,0
+BackgroundNormal=0,0,0
+DecorationFocus=170,170,170
+DecorationHover=150,150,150
+ForegroundActive=255,128,224
+ForegroundInactive=160,160,160
+ForegroundLink=46,184,230
+ForegroundNegative=240,1,1
+ForegroundNeutral=255,221,0
+ForegroundNormal=255,255,255
+ForegroundPositive=128,255,128
+ForegroundVisited=255,102,102
+
+[DirSelect Dialog]
+DirSelectDialog Size=817,568
+History Items[$e]=file:$HOME/.config/kvantum
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x89\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+ColorScheme=KvArcBlack
+ColorSchemeHash=45bbace8888b75fa7b8b2a80cd87b7bf59afea87
+XftAntialias=true
+XftHintStyle=hintslight
+XftSubPixel=rgb
+fixed=Space Mono for Powerline,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+font=URW Gothic L,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+menuFont=URW Gothic L,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+smallestReadableFont=URW Gothic L,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+toolBarFont=URW Gothic L,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[Icons]
+Theme=elementary-xfce-dark
+
+[KDE]
+AnimationDurationFactor=0
+LookAndFeelPackage=org.kde.breezedark.desktop
+widgetStyle=qt5ct-style
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=137
+View Style=DetailTree
+
+[WM]
+activeBackground=0,0,0
+activeBlend=0,0,0
+activeFont=URW Gothic L,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+activeForeground=255,255,255
+inactiveBackground=0,0,0
+inactiveBlend=0,0,0
+inactiveForeground=102,102,102

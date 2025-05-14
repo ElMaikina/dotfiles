@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<labwc_config>
+  <core>
+  </core>
+  <theme>
+    <cornerRadius>0</cornerRadius>
+    <name>Arc-Black-Clone</name>
+    <dropShadows>yes</dropShadows>
+  </theme>
+  <placement>
+    <policy>Center</policy>
+  </placement>
+  <libinput>
+    <device>
+      <naturalScroll>no</naturalScroll>
+    </device>
+  </libinput>
+</labwc_config>

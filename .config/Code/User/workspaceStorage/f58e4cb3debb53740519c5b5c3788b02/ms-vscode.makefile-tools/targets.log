@@ -1,0 +1,440 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.4.1
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2023 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Thu May  8 01:27:07 2025
+
+# Variables
+
+# makefile (from 'Makefile', line 8)
+OBJ = $(SRC:.c=.o)
+# environment
+MEMORY_PRESSURE_WRITE = c29tZSAyMDAwMDAgMjAwMDAwMAA=
+# environment
+GDK_BACKEND = x11
+# default
+ARFLAGS := -rv
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# makefile (from 'Makefile', line 7)
+SRC = st.c x.c boxdraw.c
+# environment
+GTK_RC_FILES = /etc/gtk/gtkrc:/home/elmaikina/.gtkrc:/home/elmaikina/.config/gtkrc
+# default
+FFLAGS := -O1
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# environment
+VSCODE_CWD = /home/elmaikina
+# environment
+WINDOWPATH = 1
+# makefile (from 'config.mk', line 19)
+LIBS = -L$(X11LIB) -lm -lrt -lX11 -lutil -lXft  `$(PKG_CONFIG) --libs fontconfig`  `$(PKG_CONFIG) --libs freetype2`
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# makefile (from 'config.mk', line 25)
+STCFLAGS = $(INCS) $(STCPPFLAGS) $(CPPFLAGS) $(CFLAGS)
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/elmaikina/Code/stupid
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+MAIL = /var/spool/mail/elmaikina
+# makefile (from 'config.mk', line 13)
+PKG_CONFIG = pkg-config
+# environment
+XDG_DATA_DIRS = /home/elmaikina/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/elmaikina/.config/Code/CachedData/17baf841131aa23349f217ca7c570c76ee87b957
+# environment
+LANG = C
+# environment
+XAUTHORITY = /home/elmaikina/.Xauthority
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS := /usr/local/include /usr/include
+# environment
+MEMORY_PRESSURE_WATCH = /sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/plasma-plasmashell.service/memory.pressure
+# makefile
+MAKEFLAGS = pqrR -j8 --jobserver-auth=fifo:/tmp/GMfifo6031
+# makefile
+CURDIR := /home/elmaikina/Code/stupid
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+ICEAUTHORITY = /run/user/1000/iceauth_rEeQZD
+# makefile (from 'config.mk', line 2)
+VERSION = 0.9.2
+# environment
+MFLAGS = -pqrR -j8 --jobserver-auth=fifo:/tmp/GMfifo6031
+# default
+.SHELLFLAGS := -ec
+# environment
+XDG_CONFIG_DIRS = /home/elmaikina/.config/kdedefaults:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'config.mk', line 1)
+MAKEFILE_LIST := Makefile config.mk
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 5806
+# environment
+XDG_SESSION_TYPE = tty
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+FREETYPE_PROPERTIES = cff:no-stem-darkening=0 autofitter:no-stem-darkening=0 truetype:interpreter-version=35
+# environment
+SESSION_MANAGER = local/archlinux:@/tmp/.ICE-unix/616,unix/archlinux:/tmp/.ICE-unix/616
+# automatic
+*F = $(notdir $*)
+# environment
+QT_QPA_PLATFORMTHEME = qt6ct:qt5ct
+# environment
+CHROME_DESKTOP = code.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 1
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# default
+FC := fort77
+# environment
+PATH = /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+# default
+MAKEFILES := 
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# makefile (from 'config.mk', line 7)
+PREFIX = /usr/local
+# environment
+INVOCATION_ID = 718a898e1d554f639ae76e57d5908441
+# makefile (from 'config.mk', line 16)
+INCS = -I$(X11INC)  `$(PKG_CONFIG) --cflags fontconfig`  `$(PKG_CONFIG) --cflags freetype2`
+# automatic
+?F = $(notdir $?)
+# environment
+KDE_APPLICATIONS_AS_SCOPE = 1
+# environment
+XDG_SEAT = seat0
+# environment
+XDG_CURRENT_DESKTOP = KDE
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = KDE
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = elmaikina
+# makefile (from 'config.mk', line 10)
+X11INC = /usr/X11R6/include
+# environment
+XDG_VTNR = 1
+# makefile
+.DEFAULT_GOAL := all
+# environment
+SYSTEMD_EXEC_PID = 647
+# environment
+DISPLAY = :0
+# environment
+USER = elmaikina
+# default
+MAKE_VERSION := 4.4.1
+# environment
+KDE_SESSION_UID = 1000
+# environment
+MANAGERPID = 465
+# default
+SCCSGETFLAGS := -s
+# environment
+DEBUGINFOD_URLS = https://debuginfod.archlinux.org 
+# environment
+_ = /usr/bin/make
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# default
+CFLAGS := -O1
+# makefile (from 'config.mk', line 24)
+STCPPFLAGS = -DVERSION=\"$(VERSION)\" -D_XOPEN_SOURCE=600
+# environment
+JOURNAL_STREAM = 9:7845
+# environment
+XDG_SESSION_CLASS = user
+# environment
+GTK2_RC_FILES = /etc/gtk-2.0/gtkrc:/home/elmaikina/.gtkrc-2.0:/home/elmaikina/.config/gtkrc-2.0
+# environment
+HOME = /home/elmaikina
+# makefile (from 'config.mk', line 8)
+MANPREFIX = $(PREFIX)/share/man
+# makefile (from 'config.mk', line 26)
+STLDFLAGS = $(LIBS) $(LDFLAGS)
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-de942f24-1.99-main.sock
+# environment
+TERM = linux
+# environment
+XDG_SESSION_ID = 1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# makefile (from 'config.mk', line 11)
+X11LIB = /usr/X11R6/lib
+# environment
+QT_AUTO_SCREEN_SCALE_FACTOR = 0
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+KDE_SESSION_VERSION = 6
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver jobserver-fifo output-sync check-symlink guile load
+# default
+CC := c99
+# environment
+KDE_FULL_SESSION = true
+# environment
+XDG_MENU_PREFIX = plasma-
+# environment
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+QT_WAYLAND_RECONNECT = 1
+# variable set hash-table stats:
+# Load=114/1024=11%, Rehash=0, Collisions=13/151=9%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 43, inode 165453): 28 files, no impossibilities.
+
+# 28 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+dist: clean
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 31):
+	mkdir -p st-$(VERSION)
+	cp -R FAQ LEGACY TODO LICENSE Makefile README config.mk\
+		config.def.h st.info st.1 arg.h st.h win.h $(SRC)\
+		st-$(VERSION)
+	tar -cf - st-$(VERSION) | gzip > st-$(VERSION).tar.gz
+	rm -rf st-$(VERSION)
+
+.c.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 16):
+	$(CC) $(STCFLAGS) -c $<
+
+# Not a target:
+arg.h:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+ 
+#  Last modified 2025-05-01 17:28:37.793525445
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+st.h:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:06:10.633400031
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:06:14.366808129
+#  File has been updated.
+#  Successfully updated.
+
+st.o: config.h st.h win.h config.h config.mk
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:21:01.777401025
+#  File has been updated.
+#  Successfully updated.
+
+x.o: arg.h config.h st.h win.h config.h config.mk
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:21:01.72585494
+#  File has been updated.
+#  Successfully updated.
+
+uninstall:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 49):
+	rm -f $(DESTDIR)$(PREFIX)/bin/st
+	rm -f $(DESTDIR)$(MANPREFIX)/man1/st.1
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 28):
+	rm -f st $(OBJ) st-$(VERSION).tar.gz
+
+# Not a target:
+boxdraw_data.h:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:06:13.656056397
+#  File has been updated.
+#  Successfully updated.
+
+boxdraw.o: config.h st.h boxdraw_data.h config.h config.mk
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:21:01.433841777
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: st
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+config.mk:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 17:28:37.793525445
+#  File has been updated.
+#  Successfully updated.
+
+st: st.o x.o boxdraw.o
+#  Implicit rule search has not been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:21:01.832142718
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 25):
+	$(CC) -o $@ $(OBJ) $(STLDFLAGS)
+
+config.h:
+#  Implicit rule search has not been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 23:20:56.684207739
+#  File has been updated.
+#  Successfully updated.
+#  recipe to execute (from 'Makefile', line 13):
+	cp config.def.h config.h
+
+.POSIX:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+install: st
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 39):
+	mkdir -p $(DESTDIR)$(PREFIX)/bin
+	cp -f st $(DESTDIR)$(PREFIX)/bin
+	chmod 755 $(DESTDIR)$(PREFIX)/bin/st
+	mkdir -p $(DESTDIR)$(MANPREFIX)/man1
+	sed "s/VERSION/$(VERSION)/g" < st.1 > $(DESTDIR)$(MANPREFIX)/man1/st.1
+	chmod 644 $(DESTDIR)$(MANPREFIX)/man1/st.1
+	tic -sx st.info
+	@echo Please see the README file regarding the terminfo entry of st.
+
+# Not a target:
+win.h:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-01 17:28:37.795792825
+#  File has been updated.
+#  Successfully updated.
+
+.PHONY: all clean dist install uninstall
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=21/1024=2%, Rehash=0, Collisions=0/61=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 41 / storage = 332 B / avg = 8 B
+# current buf: size = 8162 B / used = 332 B / count = 41 / avg = 8 B
+
+# strcache performance: lookups = 94 / hit rate = 56%
+# hash-table stats:
+# Load=41/8192=1%, Rehash=0, Collisions=0/94=0%
+# Finished Make data base on Thu May  8 01:27:07 2025
+
+ 

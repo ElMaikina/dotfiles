@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="xfce4-terminal" version="1.0">
-  <property name="font-allow-bold" type="bool" value="true"/>
+  <property name="font-allow-bold" type="bool" value="false"/>
   <property name="font-name" type="string" value="Space Mono for Powerline 9"/>
   <property name="cell-width-scale" type="double" value="1"/>
   <property name="misc-toolbar-default" type="bool" value="false"/>
@@ -18,8 +18,14 @@
   <property name="color-selection-use-default" type="bool" value="true"/>
   <property name="color-bold" type="string" value=""/>
   <property name="color-bold-use-default" type="bool" value="true"/>
-  <property name="color-palette" type="string" value="#000000;#cd0000;#00cd00;#cdcd00;#0000cd;#cd00cd;#00cdcd;#e5e5e5;#7f7f7f;#ff0000;#00ff00;#ffff00;#5c5cff;#ff00ff;#00ffff;#ffffff"/>
+  <property name="color-palette" type="string" value="rgb(0,0,0);rgb(156,0,123);rgb(16,150,100);rgb(4,240,165);rgb(7,89,100);rgb(232,65,119);rgb(21,191,255);rgb(229,229,229);rgb(143,142,140);rgb(194,0,0);rgb(3,254,3);rgb(254,253,2);rgb(26,80,251);rgb(253,82,214);rgb(84,255,249);rgb(255,255,255)"/>
   <property name="color-bold-is-bright" type="bool" value="true"/>
   <property name="color-use-theme" type="bool" value="false"/>
   <property name="tab-activity-color" type="string" value="#aa0000"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="misc-slim-tabs" type="bool" value="true"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="misc-middle-click-opens-uri" type="bool" value="true"/>
+  <property name="misc-show-unsafe-paste-dialog" type="bool" value="false"/>
 </channel>

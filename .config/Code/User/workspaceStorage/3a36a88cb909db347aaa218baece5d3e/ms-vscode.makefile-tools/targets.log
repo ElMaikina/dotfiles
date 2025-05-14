@@ -1,0 +1,361 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.4.1
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2023 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Mon May 12 21:18:04 2025
+
+# Variables
+
+# environment
+MEMORY_PRESSURE_WRITE = c29tZSAyMDAwMDAgMjAwMDAwMAA=
+# environment
+GDK_BACKEND = wayland
+# environment
+LC_ALL = C
+# environment
+NO_AT_BRIDGE = 1
+# environment
+GTK_RC_FILES = /etc/gtk/gtkrc:/home/elmaikina/.gtkrc:/home/elmaikina/.config/gtkrc
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# environment
+VSCODE_CWD = /home/elmaikina
+# makefile (from 'Makefile', line 5)
+IGNORE = 
+# default
+MAKE_COMMAND := make
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/elmaikina/Code/arc-kde
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+MAIL = /var/spool/mail/elmaikina
+# environment
+XDG_DATA_DIRS = /home/elmaikina/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/elmaikina/.config/Code/CachedData/19e0f9e681ecb8e5c09d8784acaa601316ca4571
+# environment
+LANG = C
+# environment
+XAUTHORITY = /run/user/1000/xauth_lmVrNH
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS := /usr/local/include /usr/include
+# environment
+MEMORY_PRESSURE_WATCH = /sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/plasma-plasmashell.service/memory.pressure
+# makefile
+MAKEFLAGS = pqrR -j8 --jobserver-auth=fifo:/tmp/GMfifo14180
+# makefile
+CURDIR := /home/elmaikina/Code/arc-kde
+# environment
+VSCODE_L10N_BUNDLE_LOCATION = 
+# environment
+ICEAUTHORITY = /run/user/1000/iceauth_PBQqel
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR -j8 --jobserver-auth=fifo:/tmp/GMfifo14180
+# default
+.SHELLFLAGS := -c
+# environment
+WAYLAND_DISPLAY = wayland-0
+# environment
+XDG_CONFIG_DIRS = /home/elmaikina/.config/kdedefaults:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 13881
+# environment
+XDG_SESSION_TYPE = wayland
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+FREETYPE_PROPERTIES = cff:no-stem-darkening=0 autofitter:no-stem-darkening=0 truetype:interpreter-version=35
+# environment
+SESSION_MANAGER = local/archlinux:@/tmp/.ICE-unix/670,unix/archlinux:/tmp/.ICE-unix/670
+# automatic
+*F = $(notdir $*)
+# environment
+XKB_DEFAULT_MODEL = pc105+inet
+# environment
+QT_QPA_PLATFORMTHEME = qt6ct:qt5ct
+# environment
+CHROME_DESKTOP = code.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"userLocale":"en-us","osLocale":"en-us","resolvedLanguage":"en","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","locale":"en-us","availableLanguages":{}}
+# environment
+XKB_DEFAULT_OPTIONS = terminate:ctrl_alt_bksp
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# makefile
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 1
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+# default
+MAKEFILES := 
+# environment
+MOTD_SHOWN = pam
+# automatic
+^F = $(notdir $^)
+# makefile (from 'Makefile', line 4)
+PREFIX = /usr
+# environment
+INVOCATION_ID = 83bea387fefa4c19bdb0a14383817562
+# automatic
+?F = $(notdir $?)
+# environment
+KDE_APPLICATIONS_AS_SCOPE = 1
+# makefile (from 'Makefile', line 9)
+THEMES := aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake
+# environment
+XDG_SEAT = seat0
+# environment
+XDG_CURRENT_DESKTOP = KDE
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = KDE
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+LOGNAME = elmaikina
+# environment
+XDG_VTNR = 1
+# makefile
+.DEFAULT_GOAL := all
+# environment
+SYSTEMD_EXEC_PID = 12808
+# environment
+DISPLAY = :0
+# environment
+USER = elmaikina
+# default
+MAKE_VERSION := 4.4.1
+# environment
+KDE_SESSION_UID = 1000
+# environment
+MANAGERPID = 492
+# environment
+DEBUGINFOD_URLS = https://debuginfod.archlinux.org 
+# environment
+XKB_DEFAULT_LAYOUT = us
+# environment
+_ = /usr/bin/make
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+JOURNAL_STREAM = 9:63817
+# environment
+XDG_SESSION_CLASS = user
+# environment
+GTK2_RC_FILES = /etc/gtk-2.0/gtkrc:/home/elmaikina/.gtkrc-2.0:/home/elmaikina/.config/gtkrc-2.0
+# environment
+HOME = /home/elmaikina
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-de942f24-1.10-main.sock
+# environment
+TERM = linux
+# environment
+XDG_SESSION_ID = 1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+QT_AUTO_SCREEN_SCALE_FACTOR = 0
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+KDE_SESSION_VERSION = 6
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs notintermediate shell-export archives jobserver jobserver-fifo output-sync check-symlink guile load
+# environment
+KDE_FULL_SESSION = true
+# environment
+XDG_MENU_PREFIX = plasma-
+# environment
+VSCODE_ESM_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+QT_WAYLAND_RECONNECT = 1
+# variable set hash-table stats:
+# Load=102/1024=10%, Rehash=0, Collisions=5/138=4%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 43, inode 423490): 17 files, no impossibilities.
+
+# 17 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+dist: _get_version
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 45):
+	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
+
+undo_release: _get_version
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 53):
+	-git tag -d $(VERSION)
+	-git push --delete origin $(VERSION)
+
+_get_version:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 41):
+	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
+	@echo $(VERSION)
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  File is secondary (prerequisite of .SECONDARY).
+#  Last modified 2025-05-12 15:39:45.297692284
+#  File has been updated.
+#  Successfully updated.
+
+uninstall:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 18):
+	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc
+	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc-Dark
+	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/Arc.colors
+	-rm -r  $(DESTDIR)$(PREFIX)/share/color-schemes/ArcDark.colors
+	-rm -r  $(DESTDIR)$(PREFIX)/share/konsole/Arc.colorscheme
+	-rm -r  $(DESTDIR)$(PREFIX)/share/konsole/ArcDark.colorscheme
+ 
+	-rm -rf $(DESTDIR)$(PREFIX)/share/konversation/themes/papirus
+	-rm -rf $(DESTDIR)$(PREFIX)/share/konversation/themes/papirus-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/Arc
+	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/ArcDark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/ArcDarker
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Arc-Color
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Arc-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc-darker
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc-Mountains
+	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/arc
+	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/arc-dark
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all:
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Successfully updated.
+
+install:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 14):
+	mkdir -p $(DESTDIR)$(PREFIX)/share
+	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
+
+.BEGIN:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 61):
+	@head -3 Makefile
+	@false
+
+release: _get_version
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 48):
+	git tag -f $(VERSION)
+	git push origin
+	git push origin --tags
+
+.PHONY: all install uninstall _get_version dist release undo_release
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=12/1024=1%, Rehash=0, Collisions=0/34=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 31 / storage = 277 B / avg = 8 B
+# current buf: size = 8162 B / used = 277 B / count = 31 / avg = 8 B
+
+# strcache performance: lookups = 54 / hit rate = 42%
+# hash-table stats:
+# Load=31/8192=0%, Rehash=0, Collisions=0/54=0%
+# Finished Make data base on Mon May 12 21:18:04 2025
+
+ 

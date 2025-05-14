@@ -1,0 +1,16 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10145dbd1dd000174709970500000006700005
+clientId2=10145dbd1dd000174668196100000006160022
+count=2
+discardCommand2[$e]=rm,-f,$HOME/.cache/sessions/Thunar-10145dbd1dd000174668196100000006160022
+program1=firefox
+program2=Thunar
+restartCommand1=/usr/lib/firefox/firefox,--sm-client-id,10145dbd1dd000174709970500000006700005
+restartCommand2=Thunar,--sm-client-id,10145dbd1dd000174668196100000006160022,--daemon
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=elmaikina
+userId2=elmaikina

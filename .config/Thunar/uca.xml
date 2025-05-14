@@ -12,4 +12,15 @@
 	<startup-notify/>
 	<directories/>
 </action>
+<action>
+	<icon>visual-studio-code</icon>
+	<name>Open with Code</name>
+	<submenu></submenu>
+	<unique-id>1747110219185564-1</unique-id>
+	<command>code %d</command>
+	<description>Open directory with Visual Studio Code</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
 </actions>

@@ -1,10 +1,12 @@
 [Added Associations]
-text/css=vim.desktop;
-application/x-theme=vim.desktop;
-application/x-desktop=vim.desktop;
+inode/directory=code.desktop;
+text/plain=org.x.editor.desktop;libreoffice-writer.desktop;code.desktop;
+application/x-theme=org.x.editor.desktop;
+text/css=org.x.editor.desktop;
+image/png=gimp.desktop;org.gnome.eog.desktop;
+image/jpeg=org.gnome.eog.desktop;
+text/x-makefile=org.x.editor.desktop;
+application/octet-stream=org.x.editor.desktop;
 
 [Default Applications]
-x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
-x-scheme-handler/fcade=fcade-quark.desktop
-x-scheme-handler/discord-424004941485572097=discord-424004941485572097.desktop
-x-scheme-handler/discord-712465656758665259=discord-712465656758665259.desktop
+application/octet-stream=org.x.editor.desktop

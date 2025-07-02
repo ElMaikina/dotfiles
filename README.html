@@ -1,0 +1,55 @@
+<h1 id="overview">Overview</h1>
+<p>Dotfiles optimizados para mi flujo de trabajo. El enfoque es el uso
+de un Tiling Window Manager y de Terminal, a veces incluso usando la
+<em>tty</em> pura. Esta metodologia permite trabajar usando casi
+puramente el teclado. Tambien hay algunas optimizaciones para
+<em>nvidia</em>, <em>steam</em>, <em>wayland</em> y aceleracion por
+GPU.</p>
+<h1 id="herramientas">Herramientas</h1>
+<p>Herramientas que uso para agilizar mi trabajo, las elegi ya que en su
+mayoria son sencillas, rapidas y Open Source, por ende tienen amplio
+soporte y documentacion.</p>
+<h2 id="graficas">Graficas</h2>
+<p>Se usan en ambientes graficos</p>
+<ul>
+<li>firefox: navegador web</li>
+<li>sway: gestor de ventanas</li>
+<li>foot: terminal</li>
+<li>sway-img: visualizador de imagenes</li>
+<li>mpv: reproductor de videos</li>
+<li>zathura: lector de pdf’s</li>
+<li>vscode: editor de texto y IDE</li>
+</ul>
+<h2 id="terminal">Terminal</h2>
+<p>Se usan desde el terminal</p>
+<ul>
+<li>vim: editor de texto</li>
+<li>tmux: multiplexor de terminales</li>
+<li>taskranger: gestor de tareas</li>
+<li>wf-recorder: grabar pantalla</li>
+</ul>
+<h1 id="variables-de-entorno">Variables de Entorno</h1>
+<p>El archivo <em>enviroment</em> contiene algunas variables destinadas
+a dar alto rendimiento y compatibilidad con <em>wayland</em>, haciendo
+uso de aceleracion por hardware. Otras variables tambien ofrecen
+optimizaciones para tarjetas graficas <em>nvidia</em>.</p>
+<h1 id="fuentes">Fuentes</h1>
+<p>Las fuentes las elegi porque son bonitas y porque se distinguen en
+DPIs bajos, lo cual brinda mejor uso del espacio independiente de la
+resolucion de la pantalla. Sumado a esto, hay un archivo
+<em>fonts.conf</em> que mejora el renderizado de todas las fuentes del
+sistema, ayudando la legibilidad y estetica.</p>
+<h1 id="firefox-css">Firefox CSS</h1>
+<p>Previamente usaba mi propio CSS para firefox, ahora mismo estoy
+usando basado en este:
+https://github.com/Dook97/firefox-qutebrowser-userchrome/tree/master por
+temas de minimalismo y eficiencia.</p>
+<h1 id="como-instalar-paquetes">Como instalar paquetes</h1>
+<p>Para instalar los paquetes en <em>pkglist.txt</em> hay que ejecutar
+el siguiente comando:</p>
+<pre><code>pacman -S --needed - &lt; pkglist.txt</code></pre>
+<p><em>(Sacado directo de la ArchWiki)</em></p>
+<h1 id="screenshots">Screenshots</h1>
+<p><img src="rice-1.png" /> <img src="rice-2.png" /> <img
+src="rice-3.png" /> <img src="rice-4.png" /> <img src="rice-5.png" />
+<img src="rice-6.png" /></p>

@@ -42,7 +42,12 @@ alias nodl='npm list'
 # python utilities
 alias jupy='jupyter notebook'
 alias pipi='pip install -U --break-system-packages'
-# alias nb2py='jupyter nbconvert --to python'
+
+# file conversion tools
+alias tex2pdf='pdflatex'
+alias md2pdf='pandoc --pdf-engine=xelatex -V mainfont="URW Gothic L"'
+alias md2html='pandoc -f markdown -V mainfont="URW Gothic L"'
+alias nb2py='jupyter nbconvert --to python'
 
 # autostart dwl if in tty1 and no wayland session running
 # if [ -z "$WAYLAND_DISPLAY" ] && [ -n "$XDG_VTNR" ] && [ "$XDG_VTNR" -eq 1 ] ; then

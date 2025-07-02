@@ -8,24 +8,27 @@
 }
 
 #nav-bar toolbarbutton { 
-  padding-left: 2px !important;  
-  padding-right: 2px !important;
-  padding-top: 0px !important;  
-  padding-bottom: 0px !important;
-
-  margin-left: 2px !important; 
-  margin-right: 2px !important;  
-  margin-top: 0px !important; 
-  margin-bottom: 0px !important;  
+  padding-left: 1px !important;  
+  padding-right: 1px !important;
+  margin-left: 1px !important; 
+  margin-right: 1px !important;  
 }
 
 :root {
   --toolbarbutton-inner-padding:  2px !important;
   --tab-toolbar-navbar-overlap:   0px !important;
-  --tab-min-height:               24px !important;
-  --tab-height:                   24px !important;
-  --tab-min-width:                24px !important;
-  --url-height:                   22px !important;
+  --tab-min-height:               28px !important;
+  --tab-height:                   28px !important;
+  --tab-min-width:                28px !important;
+  --url-height:                   28px !important;	--tab-active-bg-color: #000000;
+  --tab-inactive-bg-color: #000000;
+  --tab-active-fg-fallback-color: #ffffff;		/* color of text in an active tab without a container */
+  --tab-inactive-fg-fallback-color: #666666;		/* color of text in an inactive tab without a container */
+  --urlbar-focused-bg-color: #000000;
+  --urlbar-not-focused-bg-color: #000000;
+  --toolbar-bgcolor: #000000 !important;
+  --tab-font: 'URW Gothic L';
+  --urlbar-font: 'URW Gothic L';
 
   /*Change the background color of just the toolbar*/
   --toolbar-bgcolor: #000000 !important;
@@ -93,4 +96,9 @@
 .tabbrowser-tabs .tabbrowser-tab {
   min-height: var(--tab-min-height) !important;
   max-height: var(--tab-min-height) !important;
+}
+
+* {
+   font-family: "URW Gothic L" !important;
+   font-size: 9pt !important; 
 }

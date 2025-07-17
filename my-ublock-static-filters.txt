@@ -84,3 +84,10 @@ m.youtube.com##ytm-reel-shelf-renderer:has(.reel-shelf-title-wrapper .yt-core-at
 
 ! Hide shorts category on homepage
 m.youtube.com##ytm-chip-cloud-chip-renderer:has(.yt-core-attributed-string:has-text(/^Shorts$/i))
+
+! Google related block list
+! Remove "AI overview"
+www.google.com###Odp5De
+! Remove "People also ask"
+google.com##[id$="tab-overview"] > div:has(.related-question-pair)
+google.*##.MjjYud > div:has(.related-question-pair)

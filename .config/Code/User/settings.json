@@ -11,9 +11,15 @@
     "editor.experimentalInlineEdit.showToolbar": "never",
     "editor.fontSize": 13,
     "security.workspace.trust.untrustedFiles": "open",
-    "vscode_custom_css.imports": [
-        "file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"
-    ],
     "markdown.preview.fontFamily": "URW Gothic L",
-    "makefile.configureOnOpen": true
+    "makefile.configureOnOpen": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "window.confirmSaveUntitledWorkspace": false,
+    "explorer.expandSingleFolderWorkspaces": false,
+    "C_Cpp.copilotHover": "disabled",
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "vscode_custom_css.imports": ["file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"]
 }

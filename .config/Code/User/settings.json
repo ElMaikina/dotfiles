@@ -21,5 +21,15 @@
     "C_Cpp.copilotHover": "disabled",
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "vscode_custom_css.imports": ["file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"]
+    "vscode_custom_css.imports": [
+        "file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"
+    ],
+    "java.gradle.buildServer.enabled": "off",
+    "java.debug.settings.jdwp.async": "off",
+    "java.dependency.syncWithFolderExplorer": false,
+    "java.dependency.autoRefresh": false,
+    "workbench.startupEditor": "none",
+    "java.project.importOnFirstTimeStartup": "disabled",
+    "telemetry.feedback.enabled": false,
+    "telemetry.telemetryLevel": "off"
 }

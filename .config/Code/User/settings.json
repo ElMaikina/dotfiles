@@ -11,6 +11,9 @@
     "editor.experimentalInlineEdit.showToolbar": "never",
     "editor.fontSize": 13,
     "security.workspace.trust.untrustedFiles": "open",
-    "window.customTitleBarVisibility": "never",
+    "vscode_custom_css.imports": [
+        "file://C:/Users/ElMaikina/AppData/Roaming/Code/User/style.css"
+    ],
+    "markdown.preview.fontFamily": "URW Gothic L",
     "makefile.configureOnOpen": true
 }
